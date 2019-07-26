@@ -1,0 +1,1031 @@
+[
+  {
+    "model": "ds.tag",
+    "pk": 1,
+    "fields": {
+      "tag": ""
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 2,
+    "fields": {
+      "tag": "college completions"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 3,
+    "fields": {
+      "tag": "DC"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 4,
+    "fields": {
+      "tag": "vital statistics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 5,
+    "fields": {
+      "tag": "classification"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 6,
+    "fields": {
+      "tag": "entry type"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 7,
+    "fields": {
+      "tag": "minimum wage"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 8,
+    "fields": {
+      "tag": "employer counts"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 9,
+    "fields": {
+      "tag": "Geography"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 10,
+    "fields": {
+      "tag": "homeless shelter"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 11,
+    "fields": {
+      "tag": "forclosures"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 12,
+    "fields": {
+      "tag": "economy"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 13,
+    "fields": {
+      "tag": "business"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 14,
+    "fields": {
+      "tag": "economics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 15,
+    "fields": {
+      "tag": "seniors"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 16,
+    "fields": {
+      "tag": "family and support"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 17,
+    "fields": {
+      "tag": "education"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 18,
+    "fields": {
+      "tag": "sample"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 19,
+    "fields": {
+      "tag": "registration"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 20,
+    "fields": {
+      "tag": "households"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 21,
+    "fields": {
+      "tag": "health"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 22,
+    "fields": {
+      "tag": "police"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 23,
+    "fields": {
+      "tag": "tif"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 24,
+    "fields": {
+      "tag": "park"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 25,
+    "fields": {
+      "tag": "training programs"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 26,
+    "fields": {
+      "tag": "youth"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 27,
+    "fields": {
+      "tag": "labor"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 28,
+    "fields": {
+      "tag": "charity"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 29,
+    "fields": {
+      "tag": "crosswalk"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 30,
+    "fields": {
+      "tag": "small business"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 31,
+    "fields": {
+      "tag": "county"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 32,
+    "fields": {
+      "tag": "mental health"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 33,
+    "fields": {
+      "tag": "children"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 34,
+    "fields": {
+      "tag": "finance"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 35,
+    "fields": {
+      "tag": "socioeconomics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 36,
+    "fields": {
+      "tag": "exits"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 37,
+    "fields": {
+      "tag": "enrollment"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 38,
+    "fields": {
+      "tag": "school"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 39,
+    "fields": {
+      "tag": "neighborhood characteristics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 40,
+    "fields": {
+      "tag": "facilities"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 41,
+    "fields": {
+      "tag": "Tracts"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 42,
+    "fields": {
+      "tag": "state"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 43,
+    "fields": {
+      "tag": "higher education"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 44,
+    "fields": {
+      "tag": "land use"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 45,
+    "fields": {
+      "tag": "shelter"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 46,
+    "fields": {
+      "tag": "health clinic"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 47,
+    "fields": {
+      "tag": "Census"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 48,
+    "fields": {
+      "tag": "microlenders"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 49,
+    "fields": {
+      "tag": "individuals"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 50,
+    "fields": {
+      "tag": "criminal justice system"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 51,
+    "fields": {
+      "tag": "organizations"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 52,
+    "fields": {
+      "tag": "recorder"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 53,
+    "fields": {
+      "tag": "community center"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 54,
+    "fields": {
+      "tag": "business loans"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 55,
+    "fields": {
+      "tag": "services"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 56,
+    "fields": {
+      "tag": "violence"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 57,
+    "fields": {
+      "tag": "job loss"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 58,
+    "fields": {
+      "tag": "crime"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 59,
+    "fields": {
+      "tag": "office locations"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 60,
+    "fields": {
+      "tag": "occupation"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 61,
+    "fields": {
+      "tag": "employers"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 62,
+    "fields": {
+      "tag": "health indicators"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 63,
+    "fields": {
+      "tag": "zip codes"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 64,
+    "fields": {
+      "tag": "crime data"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 65,
+    "fields": {
+      "tag": "poverty"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 66,
+    "fields": {
+      "tag": "jail"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 67,
+    "fields": {
+      "tag": "head start"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 68,
+    "fields": {
+      "tag": "census"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 69,
+    "fields": {
+      "tag": "report cards"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 70,
+    "fields": {
+      "tag": "special needs"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 71,
+    "fields": {
+      "tag": "human services"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 72,
+    "fields": {
+      "tag": "housing"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 73,
+    "fields": {
+      "tag": "inmates"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 74,
+    "fields": {
+      "tag": "zoning"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 75,
+    "fields": {
+      "tag": "loans"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 76,
+    "fields": {
+      "tag": "wages"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 77,
+    "fields": {
+      "tag": "correctional facilities"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 78,
+    "fields": {
+      "tag": "police use of deadly force"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 79,
+    "fields": {
+      "tag": "public service"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 80,
+    "fields": {
+      "tag": "program"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 81,
+    "fields": {
+      "tag": "library"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 82,
+    "fields": {
+      "tag": "lunch program"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 83,
+    "fields": {
+      "tag": "geospatial"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 84,
+    "fields": {
+      "tag": "mortgages"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 85,
+    "fields": {
+      "tag": "deeds"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 86,
+    "fields": {
+      "tag": "police data"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 87,
+    "fields": {
+      "tag": "workforce"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 88,
+    "fields": {
+      "tag": "foster care"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 89,
+    "fields": {
+      "tag": "city planning"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 90,
+    "fields": {
+      "tag": "offenses"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 91,
+    "fields": {
+      "tag": "welfare"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 92,
+    "fields": {
+      "tag": "closings"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 93,
+    "fields": {
+      "tag": "neighborhood tabulation area"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 94,
+    "fields": {
+      "tag": "affordable housing"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 95,
+    "fields": {
+      "tag": "property"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 96,
+    "fields": {
+      "tag": "homelessness"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 97,
+    "fields": {
+      "tag": "substance abuse"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 98,
+    "fields": {
+      "tag": "community"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 99,
+    "fields": {
+      "tag": "check casher"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 100,
+    "fields": {
+      "tag": "Troost"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 101,
+    "fields": {
+      "tag": "family and support services"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 102,
+    "fields": {
+      "tag": "cross-walk"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 103,
+    "fields": {
+      "tag": "drugs"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 104,
+    "fields": {
+      "tag": "price index"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 105,
+    "fields": {
+      "tag": "licenses"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 106,
+    "fields": {
+      "tag": "employment"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 107,
+    "fields": {
+      "tag": "income"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 108,
+    "fields": {
+      "tag": "standards"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 109,
+    "fields": {
+      "tag": "facility"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 110,
+    "fields": {
+      "tag": "sustainability"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 111,
+    "fields": {
+      "tag": "business statistics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 112,
+    "fields": {
+      "tag": "society"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 113,
+    "fields": {
+      "tag": "capital access centers"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 114,
+    "fields": {
+      "tag": "degrees"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 115,
+    "fields": {
+      "tag": "alcohol"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 116,
+    "fields": {
+      "tag": "arrests"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 117,
+    "fields": {
+      "tag": "layoffs"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 118,
+    "fields": {
+      "tag": "metrics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 119,
+    "fields": {
+      "tag": "government facility"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 120,
+    "fields": {
+      "tag": "social"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 121,
+    "fields": {
+      "tag": "police shootings"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 122,
+    "fields": {
+      "tag": "domestic violence"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 123,
+    "fields": {
+      "tag": "census tracts"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 124,
+    "fields": {
+      "tag": "projection"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 125,
+    "fields": {
+      "tag": "financial"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 126,
+    "fields": {
+      "tag": "insurance"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 127,
+    "fields": {
+      "tag": "banking"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 128,
+    "fields": {
+      "tag": "neighborhoods"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 129,
+    "fields": {
+      "tag": "residency"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 130,
+    "fields": {
+      "tag": "consumers"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 131,
+    "fields": {
+      "tag": "community facility"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 132,
+    "fields": {
+      "tag": "family"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 133,
+    "fields": {
+      "tag": "college enrollment"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 134,
+    "fields": {
+      "tag": "economic"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 135,
+    "fields": {
+      "tag": "geography"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 136,
+    "fields": {
+      "tag": "region of employer"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 137,
+    "fields": {
+      "tag": "industry naics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 138,
+    "fields": {
+      "tag": "county of employer"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 139,
+    "fields": {
+      "tag": "goods and services"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 140,
+    "fields": {
+      "tag": "population"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 141,
+    "fields": {
+      "tag": "microloans"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 142,
+    "fields": {
+      "tag": "demographics"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 143,
+    "fields": {
+      "tag": "senior center"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 144,
+    "fields": {
+      "tag": "attendance"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 145,
+    "fields": {
+      "tag": "re-entry"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 146,
+    "fields": {
+      "tag": "schools"
+    }
+  },
+  {
+    "model": "ds.tag",
+    "pk": 147,
+    "fields": {
+      "tag": "day care"
+    }
+  }
+]

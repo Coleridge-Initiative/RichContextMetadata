@@ -1,0 +1,66 @@
+[
+    {
+        "model": "ds.publication",
+        "pk": 1,
+        "fields": {
+            "methods": [
+                "regression model"
+            ],
+            "topics": [
+                "ex-offenders",
+                "labor markets",
+                "education"
+            ],
+            "results": [
+                "(0) Employment",
+                "(0) Earnings",
+                "prisoners with higher level of education"
+            ],
+            "outcomes": [
+                "Higher Education",
+                "Labor"
+            ],
+            "geographical_coverage": [
+                "Florida"
+            ],
+            "policy_instrument": [
+                "Incarceration"
+            ],
+            "keywords": [
+                "ex-offenders",
+                "GED-program",
+                "reentrance"
+            ],
+            "intervention": [
+                "RCT"
+            ],
+            "metadata_version_date": 1492451449,
+            "title": "Prison-based Education and Re-entry into the Mainstream Labor Market",
+            "abstract": "We estimate the post-release economic effects of participation in prison-based General Educational Development (GED) programs using a panel of earnings records and a rich set of individual information from administrative data in the state of Florida. Fixed effects estimates of the impact of participating in the GED education program show post-release quarterly earnings gains of about 15 percent for program participants relative to observationally similar non-participants. We also show, however, that these earnings gains accrue only to racial/ethnic minority offenders and any GED-related earnings gains for this group seem to fade in the third year after release from prison.  Estimates comparing offenders who obtained a GED to those who participated in GED-related prison education programs but left prison without a GED show no systematic evidence of an independent impact of the credential itself on post-release quarterly earnings.",
+            "files": [
+                "rc-000003.pdf"
+            ],
+            "source_url": "http://www.nber.org/papers/w12114.pdf",
+            "article_id": "rc-000003",
+            "doi": "",
+            "intervention_type": [
+                "GED-educational based"
+            ],
+            "notes": "A primary vehicle used to help prepare offenders for re-entrance into society and the mainstream labor market has been the corrections-based GED program.",
+            "temporal_coverage": [
+                "1994-2002"
+            ],
+            "reference_url": "http://www.nber.org/papers/w12114",
+            "article_classification": "Public",
+            "related_datasets": [
+                54,
+                115
+            ],
+            "authors": [
+                1,
+                2
+            ],
+            "article_citation": "Tyler, John H., and Jeffrey R. Kling. Prison-based education and re-entry into the mainstream labor market. No. w12114. National Bureau of Economic Research, 2006."
+        }
+    }
+]
