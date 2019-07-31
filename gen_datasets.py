@@ -1,7 +1,6 @@
 import os
 import json
 from os import listdir
-# import gen_datasets
 import pandas as pd
 import dateutil.parser
 import metadata_funs
@@ -10,17 +9,8 @@ import datetime
 from os.path import isfile, join
 import ntpath
 import uuid
-import hashlib
+import helper
 
-
-
-def get_hash (row):
-    m = hashlib.blake2b(digest_size=10)
-    
-    for elem in row:
-        m.update(elem.encode("utf-8").lower().strip())
-
-    return m.hexdigest()
 
 
 def read_data_dictionary():
@@ -37,8 +27,6 @@ def read_data_dictionary():
     
 
 
-# In[61]:
-
 
 def gen_data_dictionary(lim_excel_df_sheets):
     common_fields = list(set(lim_excel_df_sheets[6].columns.values) & set(lim_excel_df_sheets[5].columns.values))
@@ -48,25 +36,16 @@ def gen_data_dictionary(lim_excel_df_sheets):
         new_df_list.append(a)
     df = pd.concat(new_df_list).drop_duplicates()
     df = df.reset_index()
-    df['dataset_id'] = ["dataset-{}".format(get_hash(df['title'][_])) for _ in range(len(df.index))]
+    df['dataset_id'] = ["dataset-{}".format(metadata_funs.get_hash(df['title'][_])) for _ in range(len(df.index))]
 #     df['uuid'] = [str(uuid.uuid4()) for _ in range(len(df.title))]
     return df
-
-
-# In[62]:
 
 
 lim_excel_df_sheets  = read_data_dictionary()
 dd_df = gen_data_dictionary(lim_excel_df_sheets)
 
 
-# In[5]:
-
-
 dd_dict = dd_df.to_dict('records')
-
-
-# In[9]:
 
 
 for i in dd_dict:
@@ -76,14 +55,4 @@ for i in dd_dict:
         i['temporal_coverage_start'] = str(dateutil.parser.parse(str(i['temporal_coverage_start'])).date())
 
 
-# In[10]:
-
-
 json.dump(dd_dict, open('./datasets.json', 'w'), indent=2)
-
-
-# In[ ]:
-
-
-
-

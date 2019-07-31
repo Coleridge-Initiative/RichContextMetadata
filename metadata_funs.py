@@ -1,5 +1,14 @@
 import dimensions_search_api_client as dscli
 import time
+import hashlib
+
+def get_hash (row):
+    m = hashlib.blake2b(digest_size=10)
+    
+    for elem in row:
+        m.update(elem.encode("utf-8").lower().strip())
+
+    return m.hexdigest()
 
 def connect_ds_api(username,password):
     api_client = dscli.DimensionsSearchAPIClient()
