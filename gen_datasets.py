@@ -1,6 +1,7 @@
 import os
 import json
 from os import listdir
+import gen_datasets
 import pandas as pd
 import dateutil.parser
 import metadata_funs
@@ -9,6 +10,7 @@ import datetime
 from os.path import isfile, join
 import ntpath
 import uuid
+
 
 def read_data_dictionary():
     ex_data_path = os.path.join(os.getcwd(),'dataset_metadata/ADRF Dataset Metadata.xlsx')
@@ -31,8 +33,11 @@ def gen_data_dictionary(lim_excel_df_sheets):
         a = lim_excel_df_sheets[i][common_fields]
         new_df_list.append(a)
     df = pd.concat(new_df_list).drop_duplicates()
-    df['uuid'] = [str(uuid.uuid4()) for _ in range(len(df.title))]
+    df = df.reset_index()
+    df['dataset_id'] = ["dataset-{}".format(gen_datasets.get_hash(df['title'][_])) for _ in range(len(df.index))]
+#     df['uuid'] = [str(uuid.uuid4()) for _ in range(len(df.title))]
     return df
+
 
 lim_excel_df_sheets  = read_data_dictionary()
 dd_df = gen_data_dictionary(lim_excel_df_sheets)
