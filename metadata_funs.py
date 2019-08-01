@@ -1,6 +1,8 @@
 import dimensions_search_api_client as dscli
 import time
 import hashlib
+import os
+import json
 
 def get_hash (row):
     m = hashlib.blake2b(digest_size=10)
@@ -33,8 +35,10 @@ def run_exact_string_search(string,api_client):
 def run_doi_search(doi_id,api_client):
     doi_search_string = 'search publications where doi = "{}" return publications[all] limit 1'.format(doi_id)
     doi_response = api_client.execute_query( query_string_IN=doi_search_string )
-    publication_metadata = doi_response['publications'][0]
-    return publication_metadata
+    publication_metadata_full = doi_response['publications']
+    if publication_metadata_full:
+        publication_metadata = publication_metadata_full[0]
+        return publication_metadata
 
 
 def run_pub_id_search(dimensions_id,api_client):
@@ -58,7 +62,7 @@ def return_string_search_dyads(exact_match: bool, dataset_string: str, api_clien
                 doi_id = id_metadata['doi']
             except:
                 doi_id = None
-            id_metadata.update({'dataset_name':dataset_string})
+#             id_metadata.update({'dataset_name':dataset_string})
             pub_metadata.append(id_metadata)
         except Exception as e:               
             print("Could not fetch metadata for publication: {}".format(doi_id))
@@ -74,3 +78,12 @@ def run_author_search(author_dimensions_id, api_client):
     author_return = api_client.execute_query( query_string_IN=auth_query )
     author_metadata = author_return['researchers']
     return author_metadata
+
+
+def read_datasets():
+    dataset_json_path = os.path.join(os.getcwd(),'datasets.json')
+
+    with open(dataset_json_path) as json_file:
+        dataset_json = json.load(json_file)
+    dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_json]
+    return dataset_names
