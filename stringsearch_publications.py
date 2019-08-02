@@ -32,13 +32,10 @@ def gen_stringsearch_pub_metadata(api_client,dataset_names_listing):
     pub_dataset_list_final = metadata_funs.flatten(pub_dataset_list)
     return pub_dataset_list_final
 
-def main():                   
+def main(api_client):                   
     dataset_names_list = metadata_funs.read_datasets()
     a_dataset_names_listing = [d for d in dataset_names_list if d['dataset_id'] in ['dataset-f442e418ac191ac60f7f','dataset-01bf466ee1063265fc2c']]
-    user = input()
-    password = getpass.getpass()
-    my_api_client = metadata_funs.connect_ds_api(username=user,password=password)
-    stringsearch_pubs = gen_stringsearch_pub_metadata(api_client = my_api_client, dataset_names_listing=a_dataset_names_listing)
+    stringsearch_pubs = gen_stringsearch_pub_metadata(api_client = api_client, dataset_names_listing=a_dataset_names_listing)
     json.dump(stringsearch_pubs, open('./stringsearch_pubs.json', 'w'), indent=2)
     return stringsearch_pubs
 
