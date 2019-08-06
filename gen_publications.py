@@ -13,3 +13,5 @@ api_client = metadata_funs.connect_ds_api(username=user,password=password)
 b = manually_curated_publications.main(api_client = api_client)
 
 a = stringsearch_publications.main(api_client = api_client)
+
+

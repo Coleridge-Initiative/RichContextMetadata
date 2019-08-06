@@ -1,13 +1,267 @@
 [
   {
-    "doi": "10.1002/hec.3883",
+    "references": [
+      "pub.1006131469",
+      "pub.1069869134",
+      "pub.1007062148",
+      "pub.1005477919",
+      "pub.1061933576",
+      "pub.1009314263",
+      "pub.1049813254",
+      "pub.1032218834",
+      "pub.1001047543",
+      "pub.1016706697",
+      "pub.1032735004",
+      "pub.1043851490",
+      "pub.1064530166",
+      "pub.1000696039",
+      "pub.1064528029",
+      "pub.1026858214",
+      "pub.1069649988",
+      "pub.1071225215",
+      "pub.1007367038",
+      "pub.1064526217",
+      "pub.1059379715",
+      "pub.1061832889",
+      "pub.1071753795",
+      "pub.1064532160",
+      "pub.1100382261",
+      "pub.1069868881",
+      "pub.1022637569",
+      "pub.1064532091",
+      "pub.1069640157"
+    ],
+    "reference_ids": [
+      "pub.1006131469",
+      "pub.1069869134",
+      "pub.1007062148",
+      "pub.1005477919",
+      "pub.1061933576",
+      "pub.1009314263",
+      "pub.1049813254",
+      "pub.1032218834",
+      "pub.1001047543",
+      "pub.1016706697",
+      "pub.1032735004",
+      "pub.1043851490",
+      "pub.1064530166",
+      "pub.1000696039",
+      "pub.1064528029",
+      "pub.1026858214",
+      "pub.1069649988",
+      "pub.1071225215",
+      "pub.1007367038",
+      "pub.1064526217",
+      "pub.1059379715",
+      "pub.1061832889",
+      "pub.1071753795",
+      "pub.1064532160",
+      "pub.1100382261",
+      "pub.1069868881",
+      "pub.1022637569",
+      "pub.1064532091",
+      "pub.1069640157"
+    ],
+    "date": "2019-06-06",
+    "issn": [
+      "1057-9230",
+      "1099-1050"
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "times_cited": 0,
+    "research_org_state_names": [
+      "District of Columbia",
+      "North Carolina",
+      "Georgia"
+    ],
+    "terms": [
+      "systematic differences",
+      "policy",
+      "higher income households",
+      "health policy research",
+      "research",
+      "beverage tax",
+      "consumer demand systems",
+      "outcomes",
+      "level playing field",
+      "income households",
+      "population",
+      "Consumer Expenditure Survey",
+      "more price",
+      "household scanner data",
+      "budget shares",
+      "survey",
+      "explanatory variables",
+      "positive association",
+      "Expenditure Survey",
+      "effect",
+      "panel",
+      "demand system",
+      "policy research",
+      "price elasticity",
+      "degree",
+      "households",
+      "levels",
+      "simulation outcomes",
+      "model",
+      "food groups",
+      "num\u00e9raire",
+      "elasticity",
+      "playing field",
+      "policy simulations",
+      "important differences",
+      "share",
+      "consumer networks",
+      "expenditure",
+      "variables",
+      "demand model",
+      "network expenditures",
+      "demand elasticity",
+      "tax",
+      "findings",
+      "article",
+      "dataset",
+      "food budget share",
+      "health policy",
+      "underreporting",
+      "data",
+      "price",
+      "scanner panel",
+      "income elasticity",
+      "scanner data",
+      "income"
+    ],
+    "concepts": [
+      "systematic differences",
+      "policy",
+      "higher income households",
+      "health policy research",
+      "research",
+      "beverage tax",
+      "consumer demand systems",
+      "outcomes",
+      "level playing field",
+      "income households",
+      "population",
+      "Consumer Expenditure Survey",
+      "more price",
+      "household scanner data",
+      "budget shares",
+      "survey",
+      "explanatory variables",
+      "positive association",
+      "Expenditure Survey",
+      "effect",
+      "panel",
+      "demand system",
+      "policy research",
+      "price elasticity",
+      "degree",
+      "households",
+      "levels",
+      "simulation outcomes",
+      "model",
+      "food groups",
+      "num\u00e9raire",
+      "elasticity",
+      "playing field",
+      "policy simulations",
+      "important differences",
+      "share",
+      "consumer networks",
+      "expenditure",
+      "variables",
+      "demand model",
+      "network expenditures",
+      "demand elasticity",
+      "tax",
+      "findings",
+      "article",
+      "dataset",
+      "food budget share",
+      "health policy",
+      "underreporting",
+      "data",
+      "price",
+      "scanner panel",
+      "income elasticity",
+      "scanner data",
+      "income"
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "altmetric_id": 60904543,
+    "funders": [
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "volume": "28",
+    "research_orgs": [
+      {
+        "id": "grid.213876.9",
+        "acronym": "UGA",
+        "name": "University of Georgia",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.62562.35",
+        "name": "RTI International",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.463419.d",
+        "acronym": "ARS",
+        "name": "Agricultural Research Service",
+        "country_name": "United States"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina"
+      },
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      },
+      {
+        "id": "US-GA",
+        "name": "Georgia"
+      }
+    ],
+    "year": 2019,
     "journal_lists": [
       "Norwegian register level 2",
       "ERA 2015",
       "VABB-SHW",
       "PubMed"
     ],
-    "recent_citations": 0,
+    "journal": {
+      "id": "jour.1103841",
+      "title": "Health Economics"
+    },
+    "pages": "782-800",
+    "research_org_country_names": [
+      "United States"
+    ],
+    "id": "pub.1115024809",
     "author_affiliations": [
       [
         {
@@ -126,135 +380,38 @@
         }
       ]
     ],
-    "funders": [
+    "type": "article",
+    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
+    "date_inserted": "2019-05-23",
+    "FOR": [
       {
-        "id": "grid.417548.b",
-        "acronym": "USDA",
-        "name": "United States Department of Agriculture",
-        "country_name": "United States"
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
       }
     ],
-    "issue": "6",
+    "pmid": "31116502",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "altmetric": 2,
+    "doi": "10.1002/hec.3883",
+    "recent_citations": 0,
     "publisher": "Wiley",
-    "concepts": [
-      "systematic differences",
-      "policy",
-      "higher income households",
-      "health policy research",
-      "research",
-      "beverage tax",
-      "consumer demand systems",
-      "outcomes",
-      "level playing field",
-      "income households",
-      "population",
-      "Consumer Expenditure Survey",
-      "more price",
-      "household scanner data",
-      "budget shares",
-      "survey",
-      "explanatory variables",
-      "positive association",
-      "Expenditure Survey",
-      "effect",
-      "panel",
-      "demand system",
-      "policy research",
-      "price elasticity",
-      "degree",
-      "households",
-      "levels",
-      "simulation outcomes",
-      "model",
-      "food groups",
-      "num\u00e9raire",
-      "elasticity",
-      "playing field",
-      "policy simulations",
-      "important differences",
-      "share",
-      "consumer networks",
-      "expenditure",
-      "variables",
-      "demand model",
-      "network expenditures",
-      "demand elasticity",
-      "tax",
-      "findings",
-      "article",
-      "dataset",
-      "food budget share",
-      "health policy",
-      "underreporting",
-      "data",
-      "price",
-      "scanner panel",
-      "income elasticity",
-      "scanner data",
-      "income"
+    "issue": "6",
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
     ],
-    "terms": [
-      "systematic differences",
-      "policy",
-      "higher income households",
-      "health policy research",
-      "research",
-      "beverage tax",
-      "consumer demand systems",
-      "outcomes",
-      "level playing field",
-      "income households",
-      "population",
-      "Consumer Expenditure Survey",
-      "more price",
-      "household scanner data",
-      "budget shares",
-      "survey",
-      "explanatory variables",
-      "positive association",
-      "Expenditure Survey",
-      "effect",
-      "panel",
-      "demand system",
-      "policy research",
-      "price elasticity",
-      "degree",
-      "households",
-      "levels",
-      "simulation outcomes",
-      "model",
-      "food groups",
-      "num\u00e9raire",
-      "elasticity",
-      "playing field",
-      "policy simulations",
-      "important differences",
-      "share",
-      "consumer networks",
-      "expenditure",
-      "variables",
-      "demand model",
-      "network expenditures",
-      "demand elasticity",
-      "tax",
-      "findings",
-      "article",
-      "dataset",
-      "food budget share",
-      "health policy",
-      "underreporting",
-      "data",
-      "price",
-      "scanner panel",
-      "income elasticity",
-      "scanner data",
-      "income"
-    ],
-    "research_org_country_names": [
-      "United States"
-    ],
-    "id": "pub.1115024809",
-    "times_cited": 0,
     "research_org_cities": [
       {
         "id": 4464368,
@@ -269,163 +426,6 @@
         "name": "Washington, D.C."
       }
     ],
-    "FOR": [
-      {
-        "id": "3292",
-        "name": "1402 Applied Economics"
-      },
-      {
-        "id": "3313",
-        "name": "1403 Econometrics"
-      }
-    ],
-    "pmid": "31116502",
-    "research_org_state_names": [
-      "District of Columbia",
-      "North Carolina",
-      "Georgia"
-    ],
-    "type": "article",
-    "open_access_categories": [
-      {
-        "id": "closed",
-        "name": "Closed",
-        "description": "No freely available copy has been identified"
-      }
-    ],
-    "issn": [
-      "1057-9230",
-      "1099-1050"
-    ],
-    "reference_ids": [
-      "pub.1006131469",
-      "pub.1069869134",
-      "pub.1007062148",
-      "pub.1005477919",
-      "pub.1061933576",
-      "pub.1009314263",
-      "pub.1049813254",
-      "pub.1032218834",
-      "pub.1001047543",
-      "pub.1016706697",
-      "pub.1032735004",
-      "pub.1043851490",
-      "pub.1064530166",
-      "pub.1000696039",
-      "pub.1064528029",
-      "pub.1026858214",
-      "pub.1069649988",
-      "pub.1071225215",
-      "pub.1007367038",
-      "pub.1064526217",
-      "pub.1059379715",
-      "pub.1061832889",
-      "pub.1071753795",
-      "pub.1064532160",
-      "pub.1100382261",
-      "pub.1069868881",
-      "pub.1022637569",
-      "pub.1064532091",
-      "pub.1069640157"
-    ],
-    "references": [
-      "pub.1006131469",
-      "pub.1069869134",
-      "pub.1007062148",
-      "pub.1005477919",
-      "pub.1061933576",
-      "pub.1009314263",
-      "pub.1049813254",
-      "pub.1032218834",
-      "pub.1001047543",
-      "pub.1016706697",
-      "pub.1032735004",
-      "pub.1043851490",
-      "pub.1064530166",
-      "pub.1000696039",
-      "pub.1064528029",
-      "pub.1026858214",
-      "pub.1069649988",
-      "pub.1071225215",
-      "pub.1007367038",
-      "pub.1064526217",
-      "pub.1059379715",
-      "pub.1061832889",
-      "pub.1071753795",
-      "pub.1064532160",
-      "pub.1100382261",
-      "pub.1069868881",
-      "pub.1022637569",
-      "pub.1064532091",
-      "pub.1069640157"
-    ],
-    "date_inserted": "2019-05-23",
-    "pages": "782-800",
-    "date": "2019-06-02",
-    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
-    "research_org_countries": [
-      {
-        "id": "US",
-        "name": "United States"
-      }
-    ],
-    "research_org_state_codes": [
-      {
-        "id": "US-NC",
-        "name": "North Carolina"
-      },
-      {
-        "id": "US-DC",
-        "name": "District of Columbia"
-      },
-      {
-        "id": "US-GA",
-        "name": "Georgia"
-      }
-    ],
-    "altmetric": 2,
-    "funder_countries": [
-      {
-        "id": "US",
-        "name": "United States"
-      }
-    ],
-    "research_orgs": [
-      {
-        "id": "grid.213876.9",
-        "acronym": "UGA",
-        "name": "University of Georgia",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.62562.35",
-        "name": "RTI International",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.463419.d",
-        "acronym": "ARS",
-        "name": "Agricultural Research Service",
-        "country_name": "United States"
-      }
-    ],
-    "journal": {
-      "id": "jour.1103841",
-      "title": "Health Economics"
-    },
-    "altmetric_id": 60904543,
-    "FOR_first": [
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      },
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      }
-    ],
-    "year": 2019,
-    "volume": "28",
     "related_dataset": "dataset-f442e418ac191ac60f7f"
   },
   {
@@ -1086,7 +1086,7 @@
     ],
     "date_inserted": "2018-03-01",
     "pages": "3234-3251",
-    "date": "2018-11-02",
+    "date": "2018-11-06",
     "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
     "research_org_countries": [
       {
@@ -1153,71 +1153,78 @@
     "related_dataset": "dataset-f442e418ac191ac60f7f"
   },
   {
-    "references": [
-      "pub.1058573650",
-      "pub.1014100507",
-      "pub.1059570502",
-      "pub.1046728733",
-      "pub.1024358701",
-      "pub.1017671072",
-      "pub.1058528634",
-      "pub.1061936448",
-      "pub.1058253152",
-      "pub.1012130037",
-      "pub.1069659934",
-      "pub.1007717734",
-      "pub.1024061540",
-      "pub.1049490338",
-      "pub.1005313628",
-      "pub.1001932304",
-      "pub.1054921852",
-      "pub.1002235091",
-      "pub.1045621764",
-      "pub.1008872430"
+    "pages": "1-21",
+    "research_org_state_names": [
+      "North Carolina",
+      "District of Columbia"
     ],
-    "reference_ids": [
-      "pub.1058573650",
-      "pub.1014100507",
-      "pub.1059570502",
-      "pub.1046728733",
-      "pub.1024358701",
-      "pub.1017671072",
-      "pub.1058528634",
-      "pub.1061936448",
-      "pub.1058253152",
-      "pub.1012130037",
-      "pub.1069659934",
-      "pub.1007717734",
-      "pub.1024061540",
-      "pub.1049490338",
-      "pub.1005313628",
-      "pub.1001932304",
-      "pub.1054921852",
-      "pub.1002235091",
-      "pub.1045621764",
-      "pub.1008872430"
-    ],
-    "date": "2018-10-03",
-    "issn": [
-      "1045-4446",
-      "1540-4102"
-    ],
-    "RCDC": [
+    "researchers": [
       {
-        "id": "388",
-        "name": "Nutrition"
+        "id": "ur.013165016127.50",
+        "last_name": "Giombi",
+        "research_orgs": [
+          "grid.62562.35"
+        ],
+        "first_name": "Kristen C"
+      },
+      {
+        "id": "ur.0617027742.93",
+        "last_name": "Muth",
+        "orcid_id": [
+          "0000-0001-7879-0469"
+        ],
+        "research_orgs": [
+          "grid.62562.35"
+        ],
+        "first_name": "Mary Katherine"
       }
     ],
+    "recent_citations": 1,
+    "research_orgs": [
+      {
+        "id": "grid.62562.35",
+        "name": "RTI International",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.482913.5",
+        "acronym": "ERS",
+        "name": "Economic Research Service",
+        "country_name": "United States"
+      }
+    ],
+    "year": 2018,
+    "research_org_state_codes": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina"
+      },
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2018-10-03",
+    "id": "pub.1100622570",
+    "volume": "24",
     "research_org_countries": [
       {
         "id": "US",
         "name": "United States"
       }
     ],
-    "times_cited": 1,
-    "research_org_state_names": [
-      "North Carolina",
-      "District of Columbia"
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
     ],
     "terms": [
       "price",
@@ -1289,80 +1296,6 @@
       "data",
       "availability"
     ],
-    "FOR_first": [
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      }
-    ],
-    "funders": [
-      {
-        "id": "grid.417548.b",
-        "acronym": "USDA",
-        "name": "United States Department of Agriculture",
-        "country_name": "United States"
-      }
-    ],
-    "volume": "24",
-    "research_orgs": [
-      {
-        "id": "grid.62562.35",
-        "name": "RTI International",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.482913.5",
-        "acronym": "ERS",
-        "name": "Economic Research Service",
-        "country_name": "United States"
-      }
-    ],
-    "research_org_state_codes": [
-      {
-        "id": "US-NC",
-        "name": "North Carolina"
-      },
-      {
-        "id": "US-DC",
-        "name": "District of Columbia"
-      }
-    ],
-    "year": 2018,
-    "journal_lists": [
-      "Norwegian register level 1",
-      "ERA 2015",
-      "VABB-SHW"
-    ],
-    "journal": {
-      "id": "jour.1129227",
-      "title": "Journal of Food Products Marketing"
-    },
-    "pages": "1-21",
-    "research_org_country_names": [
-      "United States"
-    ],
-    "researchers": [
-      {
-        "id": "ur.013165016127.50",
-        "last_name": "Giombi",
-        "research_orgs": [
-          "grid.62562.35"
-        ],
-        "first_name": "Kristen C"
-      },
-      {
-        "id": "ur.0617027742.93",
-        "last_name": "Muth",
-        "orcid_id": [
-          "0000-0001-7879-0469"
-        ],
-        "research_orgs": [
-          "grid.62562.35"
-        ],
-        "first_name": "Mary Katherine"
-      }
-    ],
-    "id": "pub.1100622570",
     "author_affiliations": [
       [
         {
@@ -1424,31 +1357,57 @@
         }
       ]
     ],
-    "type": "article",
-    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
-    "date_inserted": "2018-01-26",
-    "FOR": [
-      {
-        "id": "3292",
-        "name": "1402 Applied Economics"
-      }
-    ],
-    "open_access_categories": [
-      {
-        "id": "closed",
-        "name": "Closed",
-        "description": "No freely available copy has been identified"
-      }
-    ],
     "doi": "10.1080/10454446.2018.1428259",
-    "recent_citations": 1,
-    "publisher": "Taylor & Francis",
-    "issue": "7",
-    "funder_countries": [
+    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
+    "FOR_first": [
       {
-        "id": "US",
-        "name": "United States"
+        "id": "2214",
+        "name": "14 Economics"
       }
+    ],
+    "reference_ids": [
+      "pub.1058573650",
+      "pub.1014100507",
+      "pub.1059570502",
+      "pub.1046728733",
+      "pub.1024358701",
+      "pub.1017671072",
+      "pub.1058528634",
+      "pub.1061936448",
+      "pub.1058253152",
+      "pub.1012130037",
+      "pub.1069659934",
+      "pub.1007717734",
+      "pub.1024061540",
+      "pub.1049490338",
+      "pub.1005313628",
+      "pub.1001932304",
+      "pub.1054921852",
+      "pub.1002235091",
+      "pub.1045621764",
+      "pub.1008872430"
+    ],
+    "references": [
+      "pub.1058573650",
+      "pub.1014100507",
+      "pub.1059570502",
+      "pub.1046728733",
+      "pub.1024358701",
+      "pub.1017671072",
+      "pub.1058528634",
+      "pub.1061936448",
+      "pub.1058253152",
+      "pub.1012130037",
+      "pub.1069659934",
+      "pub.1007717734",
+      "pub.1024061540",
+      "pub.1049490338",
+      "pub.1005313628",
+      "pub.1001932304",
+      "pub.1054921852",
+      "pub.1002235091",
+      "pub.1045621764",
+      "pub.1008872430"
     ],
     "research_org_cities": [
       {
@@ -1460,10 +1419,325 @@
         "name": "Washington, D.C."
       }
     ],
+    "times_cited": 1,
+    "issue": "7",
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "date_inserted": "2018-01-26",
+    "journal": {
+      "id": "jour.1129227",
+      "title": "Journal of Food Products Marketing"
+    },
+    "funders": [
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "388",
+        "name": "Nutrition"
+      }
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "1045-4446",
+      "1540-4102"
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "type": "article",
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
     "related_dataset": "dataset-f442e418ac191ac60f7f"
   },
   {
-    "doi": "10.1016/j.appet.2017.07.006",
+    "references": [
+      "pub.1020213814",
+      "pub.1018980181",
+      "pub.1041872571",
+      "pub.1030727858",
+      "pub.1013697600",
+      "pub.1059945455",
+      "pub.1064713409",
+      "pub.1052615227",
+      "pub.1076614725",
+      "pub.1077077233",
+      "pub.1102575516",
+      "pub.1028478158",
+      "pub.1064713464",
+      "pub.1009799970",
+      "pub.1005360537",
+      "pub.1058673326",
+      "pub.1027744076",
+      "pub.1051450832",
+      "pub.1059379961",
+      "pub.1069410735",
+      "pub.1048874026",
+      "pub.1068844352",
+      "pub.1013520087",
+      "pub.1036742650",
+      "pub.1028539139",
+      "pub.1016572813",
+      "pub.1068843214",
+      "pub.1010576080",
+      "pub.1001179936",
+      "pub.1064713513",
+      "pub.1073476662",
+      "pub.1053016122",
+      "pub.1028998218",
+      "pub.1019045693",
+      "pub.1025932104",
+      "pub.1028966662",
+      "pub.1020269875",
+      "pub.1002807824",
+      "pub.1013762102",
+      "pub.1033428939",
+      "pub.1017163836",
+      "pub.1005876833",
+      "pub.1037257385",
+      "pub.1070214314",
+      "pub.1070862305"
+    ],
+    "reference_ids": [
+      "pub.1020213814",
+      "pub.1018980181",
+      "pub.1041872571",
+      "pub.1030727858",
+      "pub.1013697600",
+      "pub.1059945455",
+      "pub.1064713409",
+      "pub.1052615227",
+      "pub.1076614725",
+      "pub.1077077233",
+      "pub.1102575516",
+      "pub.1028478158",
+      "pub.1064713464",
+      "pub.1009799970",
+      "pub.1005360537",
+      "pub.1058673326",
+      "pub.1027744076",
+      "pub.1051450832",
+      "pub.1059379961",
+      "pub.1069410735",
+      "pub.1048874026",
+      "pub.1068844352",
+      "pub.1013520087",
+      "pub.1036742650",
+      "pub.1028539139",
+      "pub.1016572813",
+      "pub.1068843214",
+      "pub.1010576080",
+      "pub.1001179936",
+      "pub.1064713513",
+      "pub.1073476662",
+      "pub.1053016122",
+      "pub.1028998218",
+      "pub.1019045693",
+      "pub.1025932104",
+      "pub.1028966662",
+      "pub.1020269875",
+      "pub.1002807824",
+      "pub.1013762102",
+      "pub.1033428939",
+      "pub.1017163836",
+      "pub.1005876833",
+      "pub.1037257385",
+      "pub.1070214314",
+      "pub.1070862305"
+    ],
+    "date": "2017-10-06",
+    "issn": [
+      "0195-6663",
+      "1095-8304"
+    ],
+    "RCDC": [
+      {
+        "id": "388",
+        "name": "Nutrition"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "times_cited": 2,
+    "research_org_state_names": [
+      "North Carolina",
+      "California"
+    ],
+    "terms": [
+      "food",
+      "households",
+      "purchase",
+      "promotion",
+      "whites",
+      "Asian households",
+      "total price",
+      "low-income households",
+      "dataset",
+      "beverage purchases",
+      "OBJECTIVE",
+      "trend",
+      "price",
+      "US households",
+      "income",
+      "household purchases",
+      "Hispanic whites",
+      "high-income households",
+      "price promotions",
+      "quality",
+      "proportion",
+      "ethnicity",
+      "non-Hispanic whites",
+      "race/ethnicity",
+      "income households",
+      "food purchases"
+    ],
+    "concepts": [
+      "food",
+      "households",
+      "purchase",
+      "promotion",
+      "whites",
+      "Asian households",
+      "total price",
+      "low-income households",
+      "dataset",
+      "beverage purchases",
+      "OBJECTIVE",
+      "trend",
+      "price",
+      "US households",
+      "income",
+      "household purchases",
+      "Hispanic whites",
+      "high-income households",
+      "price promotions",
+      "quality",
+      "proportion",
+      "ethnicity",
+      "non-Hispanic whites",
+      "race/ethnicity",
+      "income households",
+      "food purchases"
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - accepted"
+    ],
+    "relative_citation_ratio": 0.3,
+    "altmetric_id": 21815325,
+    "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5574185",
+    "funders": [
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.420089.7",
+        "acronym": "NICHD",
+        "name": "National Institute of Child Health and Human Development",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.419213.c",
+        "acronym": "RWJF",
+        "name": "Robert Wood Johnson Foundation",
+        "country_name": "United States"
+      }
+    ],
+    "volume": "117",
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Beverages",
+      "Child",
+      "Consumer Behavior",
+      "Cross-Sectional Studies",
+      "Family Characteristics",
+      "Fast Foods",
+      "Food Preferences",
+      "Food Supply",
+      "Food, Preserved",
+      "Health Status Disparities",
+      "Healthy Diet",
+      "Humans",
+      "Motivation",
+      "Nutrition Surveys",
+      "Nutritive Value",
+      "Patient Compliance",
+      "Socioeconomic Factors",
+      "United States"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10698.36",
+        "acronym": "UNC",
+        "name": "University of North Carolina at Chapel Hill",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.26009.3d",
+        "name": "Duke University",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.266093.8",
+        "acronym": "UCI",
+        "name": "University of California, Irvine",
+        "country_name": "United States"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-CA",
+        "name": "California"
+      },
+      {
+        "id": "US-NC",
+        "name": "North Carolina"
+      }
+    ],
+    "year": 2017,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW",
+      "PubMed"
+    ],
+    "pmcid": "PMC5574185",
+    "journal": {
+      "id": "jour.1091386",
+      "title": "Appetite"
+    },
+    "field_citation_ratio": 1.45,
+    "pages": "365-372",
+    "research_org_country_names": [
+      "United States"
+    ],
     "researchers": [
       {
         "id": "ur.0607777173.18",
@@ -1507,13 +1781,7 @@
         "first_name": "Matthew"
       }
     ],
-    "journal_lists": [
-      "Norwegian register level 1",
-      "ERA 2015",
-      "VABB-SHW",
-      "PubMed"
-    ],
-    "recent_citations": 2,
+    "id": "pub.1090572109",
     "author_affiliations": [
       [
         {
@@ -1594,90 +1862,42 @@
         }
       ]
     ],
-    "funders": [
+    "type": "article",
+    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
+    "date_inserted": "2017-08-31",
+    "FOR": [
       {
-        "id": "grid.417548.b",
-        "acronym": "USDA",
-        "name": "United States Department of Agriculture",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.420089.7",
-        "acronym": "NICHD",
-        "name": "National Institute of Child Health and Human Development",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.419213.c",
-        "acronym": "RWJF",
-        "name": "Robert Wood Johnson Foundation",
-        "country_name": "United States"
+        "id": "3292",
+        "name": "1402 Applied Economics"
       }
     ],
-    "issue": "Journal of Marketing 65 1 2001",
+    "pmid": "28705473",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_acc",
+        "name": "Green, Accepted",
+        "description": "Free copy of accepted version in an OA repository"
+      }
+    ],
+    "altmetric": 1,
+    "doi": "10.1016/j.appet.2017.07.006",
+    "supporting_grant_ids": [
+      "grant.4455762"
+    ],
+    "recent_citations": 2,
     "publisher": "Elsevier",
-    "field_citation_ratio": 1.45,
-    "concepts": [
-      "food",
-      "households",
-      "purchase",
-      "promotion",
-      "whites",
-      "Asian households",
-      "total price",
-      "low-income households",
-      "dataset",
-      "beverage purchases",
-      "OBJECTIVE",
-      "trend",
-      "price",
-      "US households",
-      "income",
-      "household purchases",
-      "Hispanic whites",
-      "high-income households",
-      "price promotions",
-      "quality",
-      "proportion",
-      "ethnicity",
-      "non-Hispanic whites",
-      "race/ethnicity",
-      "income households",
-      "food purchases"
+    "issue": "Journal of Marketing 65 1 2001",
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
     ],
-    "terms": [
-      "food",
-      "households",
-      "purchase",
-      "promotion",
-      "whites",
-      "Asian households",
-      "total price",
-      "low-income households",
-      "dataset",
-      "beverage purchases",
-      "OBJECTIVE",
-      "trend",
-      "price",
-      "US households",
-      "income",
-      "household purchases",
-      "Hispanic whites",
-      "high-income households",
-      "price promotions",
-      "quality",
-      "proportion",
-      "ethnicity",
-      "non-Hispanic whites",
-      "race/ethnicity",
-      "income households",
-      "food purchases"
-    ],
-    "research_org_country_names": [
-      "United States"
-    ],
-    "id": "pub.1090572109",
-    "times_cited": 2,
     "research_org_cities": [
       {
         "id": 4464368,
@@ -1692,226 +1912,6 @@
         "name": "Chapel Hill"
       }
     ],
-    "FOR": [
-      {
-        "id": "3292",
-        "name": "1402 Applied Economics"
-      }
-    ],
-    "pmid": "28705473",
-    "research_org_state_names": [
-      "North Carolina",
-      "California"
-    ],
-    "type": "article",
-    "relative_citation_ratio": 0.3,
-    "RCDC": [
-      {
-        "id": "388",
-        "name": "Nutrition"
-      }
-    ],
-    "mesh_terms": [
-      "Adolescent",
-      "Adult",
-      "Beverages",
-      "Child",
-      "Consumer Behavior",
-      "Cross-Sectional Studies",
-      "Family Characteristics",
-      "Fast Foods",
-      "Food Preferences",
-      "Food Supply",
-      "Food, Preserved",
-      "Health Status Disparities",
-      "Healthy Diet",
-      "Humans",
-      "Motivation",
-      "Nutrition Surveys",
-      "Nutritive Value",
-      "Patient Compliance",
-      "Socioeconomic Factors",
-      "United States"
-    ],
-    "open_access_categories": [
-      {
-        "id": "oa_all",
-        "name": "All OA",
-        "description": "Article is freely available"
-      },
-      {
-        "id": "green_acc",
-        "name": "Green, Accepted",
-        "description": "Free copy of accepted version in an OA repository"
-      }
-    ],
-    "issn": [
-      "0195-6663",
-      "1095-8304"
-    ],
-    "reference_ids": [
-      "pub.1020213814",
-      "pub.1018980181",
-      "pub.1041872571",
-      "pub.1030727858",
-      "pub.1013697600",
-      "pub.1059945455",
-      "pub.1064713409",
-      "pub.1052615227",
-      "pub.1076614725",
-      "pub.1077077233",
-      "pub.1102575516",
-      "pub.1028478158",
-      "pub.1064713464",
-      "pub.1009799970",
-      "pub.1005360537",
-      "pub.1058673326",
-      "pub.1027744076",
-      "pub.1051450832",
-      "pub.1059379961",
-      "pub.1069410735",
-      "pub.1048874026",
-      "pub.1068844352",
-      "pub.1013520087",
-      "pub.1036742650",
-      "pub.1028539139",
-      "pub.1016572813",
-      "pub.1068843214",
-      "pub.1010576080",
-      "pub.1001179936",
-      "pub.1064713513",
-      "pub.1073476662",
-      "pub.1053016122",
-      "pub.1028998218",
-      "pub.1019045693",
-      "pub.1025932104",
-      "pub.1028966662",
-      "pub.1020269875",
-      "pub.1002807824",
-      "pub.1013762102",
-      "pub.1033428939",
-      "pub.1017163836",
-      "pub.1005876833",
-      "pub.1037257385",
-      "pub.1070214314",
-      "pub.1070862305"
-    ],
-    "references": [
-      "pub.1020213814",
-      "pub.1018980181",
-      "pub.1041872571",
-      "pub.1030727858",
-      "pub.1013697600",
-      "pub.1059945455",
-      "pub.1064713409",
-      "pub.1052615227",
-      "pub.1076614725",
-      "pub.1077077233",
-      "pub.1102575516",
-      "pub.1028478158",
-      "pub.1064713464",
-      "pub.1009799970",
-      "pub.1005360537",
-      "pub.1058673326",
-      "pub.1027744076",
-      "pub.1051450832",
-      "pub.1059379961",
-      "pub.1069410735",
-      "pub.1048874026",
-      "pub.1068844352",
-      "pub.1013520087",
-      "pub.1036742650",
-      "pub.1028539139",
-      "pub.1016572813",
-      "pub.1068843214",
-      "pub.1010576080",
-      "pub.1001179936",
-      "pub.1064713513",
-      "pub.1073476662",
-      "pub.1053016122",
-      "pub.1028998218",
-      "pub.1019045693",
-      "pub.1025932104",
-      "pub.1028966662",
-      "pub.1020269875",
-      "pub.1002807824",
-      "pub.1013762102",
-      "pub.1033428939",
-      "pub.1017163836",
-      "pub.1005876833",
-      "pub.1037257385",
-      "pub.1070214314",
-      "pub.1070862305"
-    ],
-    "date_inserted": "2017-08-31",
-    "pages": "365-372",
-    "date": "2017-10-02",
-    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
-    "research_org_countries": [
-      {
-        "id": "US",
-        "name": "United States"
-      }
-    ],
-    "research_org_state_codes": [
-      {
-        "id": "US-CA",
-        "name": "California"
-      },
-      {
-        "id": "US-NC",
-        "name": "North Carolina"
-      }
-    ],
-    "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5574185",
-    "altmetric": 1,
-    "funder_countries": [
-      {
-        "id": "US",
-        "name": "United States"
-      }
-    ],
-    "supporting_grant_ids": [
-      "grant.4455762"
-    ],
-    "research_orgs": [
-      {
-        "id": "grid.10698.36",
-        "acronym": "UNC",
-        "name": "University of North Carolina at Chapel Hill",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.26009.3d",
-        "name": "Duke University",
-        "country_name": "United States"
-      },
-      {
-        "id": "grid.266093.8",
-        "acronym": "UCI",
-        "name": "University of California, Irvine",
-        "country_name": "United States"
-      }
-    ],
-    "open_access": [
-      "Open Access - all",
-      "Open Access - repository",
-      "Open Access - accepted"
-    ],
-    "journal": {
-      "id": "jour.1091386",
-      "title": "Appetite"
-    },
-    "pmcid": "PMC5574185",
-    "altmetric_id": 21815325,
-    "FOR_first": [
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      }
-    ],
-    "year": 2017,
-    "volume": "117",
     "related_dataset": "dataset-f442e418ac191ac60f7f"
   },
   {
@@ -1963,7 +1963,7 @@
       "pub.1048928508",
       "pub.1049127802"
     ],
-    "date": "2017-09-02",
+    "date": "2017-09-06",
     "issn": [
       "2212-2672",
       "2212-2680"
@@ -2147,7 +2147,7 @@
       "id": "jour.1297467",
       "title": "Journal of the Academy of Nutrition and Dietetics"
     },
-    "field_citation_ratio": 4.46,
+    "field_citation_ratio": 4.42,
     "pages": "1366-1374.e6",
     "HRCS_RAC": [
       {
@@ -2349,7 +2349,7 @@
       "pub.1061934105",
       "pub.1046305280"
     ],
-    "date": "2011-07-02",
+    "date": "2011-07-06",
     "issn": [
       "0950-3293",
       "1873-6343"
@@ -2554,73 +2554,30 @@
     "related_dataset": "dataset-f442e418ac191ac60f7f"
   },
   {
-    "references": [
-      "pub.1059948625"
+    "doi": "10.1787/jbcma-v2004-art20-en",
+    "researchers": [
+      {
+        "id": "ur.014734024051.84",
+        "last_name": "Hempell",
+        "first_name": "Hannah Sabine"
+      }
     ],
-    "reference_ids": [
-      "pub.1059948625"
+    "recent_citations": 0,
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Hannah Sabine",
+          "last_name": "Hempell",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014734024051.84",
+          "affiliations": []
+        }
+      ]
     ],
-    "date": "2005-01-24",
-    "issn": [
-      "1729-3618",
-      "1729-3626"
-    ],
-    "times_cited": 0,
-    "terms": [
-      "lending business",
-      "standard",
-      "Euro area",
-      "micro data level",
-      "supply-side determinants",
-      "statistics",
-      "survey rounds",
-      "power",
-      "margin",
-      "Germany",
-      "significant information",
-      "main tendencies",
-      "determinants",
-      "special interest",
-      "growth",
-      "development",
-      "factors",
-      "demand",
-      "analysis",
-      "part",
-      "monetary financial institutions",
-      "rounds",
-      "area",
-      "framework",
-      "contributing factors",
-      "rate statistics",
-      "Eurosystem",
-      "margin changes",
-      "institutions",
-      "survey results",
-      "information",
-      "financial institutions",
-      "credit standards",
-      "detailed analysis",
-      "changes",
-      "relationship",
-      "loan growth",
-      "data level",
-      "paper",
-      "tendency",
-      "demand-side determinants",
-      "business",
-      "explanatory power",
-      "regular surveys",
-      "interest",
-      "banks",
-      "institutional framework",
-      "aggregate level",
-      "loans",
-      "levels",
-      "data",
-      "survey",
-      "survey data"
-    ],
+    "issue": "3",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "field_citation_ratio": 0.0,
     "concepts": [
       "lending business",
       "standard",
@@ -2676,51 +2633,63 @@
       "survey",
       "survey data"
     ],
-    "FOR_first": [
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      },
-      {
-        "id": "2201",
-        "name": "01 Mathematical Sciences"
-      },
-      {
-        "id": "2214",
-        "name": "14 Economics"
-      }
-    ],
-    "volume": "2004",
-    "year": 2005,
-    "journal": {
-      "id": "jour.1150628",
-      "title": "Journal of Business Cycle Measurement and Analysis"
-    },
-    "field_citation_ratio": 0.0,
-    "pages": "387-407",
-    "researchers": [
-      {
-        "id": "ur.014734024051.84",
-        "last_name": "Hempell",
-        "first_name": "Hannah Sabine"
-      }
+    "terms": [
+      "lending business",
+      "standard",
+      "Euro area",
+      "micro data level",
+      "supply-side determinants",
+      "statistics",
+      "survey rounds",
+      "power",
+      "margin",
+      "Germany",
+      "significant information",
+      "main tendencies",
+      "determinants",
+      "special interest",
+      "growth",
+      "development",
+      "factors",
+      "demand",
+      "analysis",
+      "part",
+      "monetary financial institutions",
+      "rounds",
+      "area",
+      "framework",
+      "contributing factors",
+      "rate statistics",
+      "Eurosystem",
+      "margin changes",
+      "institutions",
+      "survey results",
+      "information",
+      "financial institutions",
+      "credit standards",
+      "detailed analysis",
+      "changes",
+      "relationship",
+      "loan growth",
+      "data level",
+      "paper",
+      "tendency",
+      "demand-side determinants",
+      "business",
+      "explanatory power",
+      "regular surveys",
+      "interest",
+      "banks",
+      "institutional framework",
+      "aggregate level",
+      "loans",
+      "levels",
+      "data",
+      "survey",
+      "survey data"
     ],
     "id": "pub.1008795506",
-    "author_affiliations": [
-      [
-        {
-          "first_name": "Hannah Sabine",
-          "last_name": "Hempell",
-          "orcid": "",
-          "current_organization_id": "",
-          "researcher_id": "ur.014734024051.84",
-          "affiliations": []
-        }
-      ]
-    ],
-    "type": "article",
-    "title": "New Bank Lending Survey of the Eurosystem",
-    "date_inserted": "2017-08-31",
+    "times_cited": 0,
     "FOR": [
       {
         "id": "3292",
@@ -2735,6 +2704,7 @@
         "name": "1403 Econometrics"
       }
     ],
+    "type": "article",
     "open_access_categories": [
       {
         "id": "closed",
@@ -2742,63 +2712,111 @@
         "description": "No freely available copy has been identified"
       }
     ],
-    "doi": "10.1787/jbcma-v2004-art20-en",
-    "recent_citations": 0,
-    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
-    "issue": "3",
+    "issn": [
+      "1729-3618",
+      "1729-3626"
+    ],
+    "reference_ids": [
+      "pub.1059948625"
+    ],
+    "references": [
+      "pub.1059948625"
+    ],
+    "date_inserted": "2017-08-31",
+    "pages": "387-407",
+    "date": "2005-01-24",
+    "title": "New Bank Lending Survey of the Eurosystem",
+    "journal": {
+      "id": "jour.1150628",
+      "title": "Journal of Business Cycle Measurement and Analysis"
+    },
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2201",
+        "name": "01 Mathematical Sciences"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "year": 2005,
+    "volume": "2004",
     "related_dataset": "dataset-01bf466ee1063265fc2c"
   },
   {
-    "pages": "179-198",
-    "researchers": [
-      {
-        "id": "ur.013572645201.46",
-        "last_name": "Worms",
-        "research_orgs": [
-          "grid.478692.6"
-        ],
-        "first_name": "Andreas"
-      }
+    "references": [
+      "pub.1007284784",
+      "pub.1029480138",
+      "pub.1000496705",
+      "pub.1038264081",
+      "pub.1011361187",
+      "pub.1070020846",
+      "pub.1069639557",
+      "pub.1004375526",
+      "pub.1024237634",
+      "pub.1063349105",
+      "pub.1050909302",
+      "pub.1088871507",
+      "pub.1069979645",
+      "pub.1035393285",
+      "pub.1064531332",
+      "pub.1064529756",
+      "pub.1004902196",
+      "pub.1048768996",
+      "pub.1069688367",
+      "pub.1049159011",
+      "pub.1069869282",
+      "pub.1070466443",
+      "pub.1064527092",
+      "pub.1003552959",
+      "pub.1006922655",
+      "pub.1036078041"
     ],
-    "recent_citations": 0,
-    "research_orgs": [
-      {
-        "id": "grid.478692.6",
-        "name": "German Federal Bank",
-        "country_name": "Germany"
-      }
+    "reference_ids": [
+      "pub.1007284784",
+      "pub.1029480138",
+      "pub.1000496705",
+      "pub.1038264081",
+      "pub.1011361187",
+      "pub.1070020846",
+      "pub.1069639557",
+      "pub.1004375526",
+      "pub.1024237634",
+      "pub.1063349105",
+      "pub.1050909302",
+      "pub.1088871507",
+      "pub.1069979645",
+      "pub.1035393285",
+      "pub.1064531332",
+      "pub.1064529756",
+      "pub.1004902196",
+      "pub.1048768996",
+      "pub.1069688367",
+      "pub.1049159011",
+      "pub.1069869282",
+      "pub.1070466443",
+      "pub.1064527092",
+      "pub.1003552959",
+      "pub.1006922655",
+      "pub.1036078041"
     ],
-    "year": 2003,
-    "open_access_categories": [
-      {
-        "id": "closed",
-        "name": "Closed",
-        "description": "No freely available copy has been identified"
-      }
+    "date": "2003-06-06",
+    "issn": [
+      "0340-8744",
+      "1573-6911"
     ],
-    "date": "2003-06-02",
-    "id": "pub.1020312311",
-    "volume": "30",
     "research_org_countries": [
       {
         "id": "DE",
         "name": "Germany"
       }
     ],
-    "FOR": [
-      {
-        "id": "3292",
-        "name": "1402 Applied Economics"
-      },
-      {
-        "id": "3313",
-        "name": "1403 Econometrics"
-      },
-      {
-        "id": "3286",
-        "name": "1401 Economic Theory"
-      }
-    ],
+    "times_cited": 1,
     "terms": [
       "crucial condition",
       "measures",
@@ -2861,6 +2879,54 @@
       "estimation",
       "network structure"
     ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "volume": "30",
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "year": 2003,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "journal": {
+      "id": "jour.1136664",
+      "title": "Empirica"
+    },
+    "field_citation_ratio": 0.16,
+    "pages": "179-198",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "researchers": [
+      {
+        "id": "ur.013572645201.46",
+        "last_name": "Worms",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Andreas"
+      }
+    ],
+    "id": "pub.1020312311",
     "author_affiliations": [
       [
         {
@@ -2884,110 +2950,44 @@
         }
       ]
     ],
-    "doi": "10.1023/a:1024173416117",
+    "type": "article",
     "title": "Interbank Relationships and the Credit Channel in Germany",
-    "FOR_first": [
+    "date_inserted": "2017-08-31",
+    "FOR": [
       {
-        "id": "2214",
-        "name": "14 Economics"
+        "id": "3292",
+        "name": "1402 Applied Economics"
       },
       {
-        "id": "2214",
-        "name": "14 Economics"
+        "id": "3313",
+        "name": "1403 Econometrics"
       },
       {
-        "id": "2214",
-        "name": "14 Economics"
+        "id": "3286",
+        "name": "1401 Economic Theory"
       }
     ],
-    "reference_ids": [
-      "pub.1007284784",
-      "pub.1029480138",
-      "pub.1000496705",
-      "pub.1038264081",
-      "pub.1011361187",
-      "pub.1070020846",
-      "pub.1069639557",
-      "pub.1004375526",
-      "pub.1024237634",
-      "pub.1063349105",
-      "pub.1050909302",
-      "pub.1088871507",
-      "pub.1069979645",
-      "pub.1035393285",
-      "pub.1064531332",
-      "pub.1064529756",
-      "pub.1004902196",
-      "pub.1048768996",
-      "pub.1069688367",
-      "pub.1049159011",
-      "pub.1069869282",
-      "pub.1070466443",
-      "pub.1064527092",
-      "pub.1003552959",
-      "pub.1006922655",
-      "pub.1036078041"
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
     ],
-    "references": [
-      "pub.1007284784",
-      "pub.1029480138",
-      "pub.1000496705",
-      "pub.1038264081",
-      "pub.1011361187",
-      "pub.1070020846",
-      "pub.1069639557",
-      "pub.1004375526",
-      "pub.1024237634",
-      "pub.1063349105",
-      "pub.1050909302",
-      "pub.1088871507",
-      "pub.1069979645",
-      "pub.1035393285",
-      "pub.1064531332",
-      "pub.1064529756",
-      "pub.1004902196",
-      "pub.1048768996",
-      "pub.1069688367",
-      "pub.1049159011",
-      "pub.1069869282",
-      "pub.1070466443",
-      "pub.1064527092",
-      "pub.1003552959",
-      "pub.1006922655",
-      "pub.1036078041"
-    ],
+    "doi": "10.1023/a:1024173416117",
+    "recent_citations": 0,
+    "publisher": "Springer Nature",
+    "issue": "2",
     "research_org_cities": [
       {
         "id": 2925533,
         "name": "Frankfurt am Main"
       }
     ],
-    "field_citation_ratio": 0.16,
-    "times_cited": 1,
-    "issue": "2",
-    "journal_lists": [
-      "Norwegian register level 1",
-      "ERA 2015",
-      "VABB-SHW"
-    ],
-    "date_inserted": "2017-08-31",
-    "journal": {
-      "id": "jour.1136664",
-      "title": "Empirica"
-    },
-    "publisher": "Springer Nature",
-    "issn": [
-      "0340-8744",
-      "1573-6911"
-    ],
-    "research_org_country_names": [
-      "Germany"
-    ],
-    "type": "article",
     "related_dataset": "dataset-01bf466ee1063265fc2c"
   },
   {
-    "date": "2003-08-02",
+    "date": "2003-08-06",
     "times_cited": 10,
     "terms": [
       "role",

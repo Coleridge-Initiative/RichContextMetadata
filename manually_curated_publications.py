@@ -40,7 +40,8 @@ def fetch_curated_metadata(manual_df_doi_dict,dataset_names,api_client):
 
 
 def main(api_client):
-    dataset_names = metadata_funs.read_datasets()
+    dataset_names_list = metadata_funs.read_datasets()
+    dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_names_list]
     manual_df_doi_dict =  read_curated_linkages()
     manual_pub_dataset_list = fetch_curated_metadata(manual_df_doi_dict,dataset_names,api_client)
     json.dump(manual_pub_dataset_list, open('./manually_curated_pubs.json', 'w'), indent=2)
