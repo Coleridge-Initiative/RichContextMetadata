@@ -19,7 +19,6 @@ def read_curated_linkages():
     return manual_df_doi_dict
 
 
-
 def fetch_curated_metadata(manual_df_doi_dict,dataset_names,api_client):
     manual_pub_dataset_list = []
     for i in manual_df_doi_dict:

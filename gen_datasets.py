@@ -1,3 +1,5 @@
+import unicodedata
+import datetime
 import os
 import json
 from os import listdir
@@ -9,6 +11,7 @@ import datetime
 from os.path import isfile, join
 import ntpath
 import uuid
+import re
 
 
 
@@ -47,8 +50,10 @@ dd_df = gen_data_dictionary(lim_excel_df_sheets)
 
 dd_dict = dd_df.to_dict('records')
 
-
+pattern = re.compile('([^\sa-zA-Z]|_)+')
 for i in dd_dict:
+    i['title'] = pattern.sub('',i['title']).strip()
+    i['title'] = unicodedata.normalize('NFC',i['title'])
     if isinstance(i['temporal_coverage_end'], datetime.date):
         i['temporal_coverage_end'] = str(dateutil.parser.parse(str(i['temporal_coverage_end'])).date())
     if isinstance(i['temporal_coverage_start'], datetime.date):

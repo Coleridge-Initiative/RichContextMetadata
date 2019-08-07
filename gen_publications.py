@@ -8,7 +8,7 @@ user = input()
 print('enter your dimensions api password')
 password = getpass.getpass()
 
-api_client = metadata_funs.connect_ds_api(username=user,password=password)
+api_client = metadata_funs.connect_ds_api(username = user, password = password)
 
 b = manually_curated_publications.main(api_client = api_client)
 
