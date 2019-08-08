@@ -14,10 +14,8 @@ import uuid
 import re
 
 
-
-
 def read_data_dictionary():
-    ex_data_path = os.path.join(os.getcwd(),'dataset_metadata/ADRF Dataset Metadata.xlsx')
+    ex_data_path = os.path.join(os.getcwd(),'metadata/manually_curated_metadata/ADRF Dataset Metadata.xlsx')
     xls = pd.ExcelFile(ex_data_path)
     sheet_to_df_map = pd.read_excel(ex_data_path, sheet_name=None)
     uniform_sheets = ['course1-datasets','course2-datasets' ,'kcmo-datasets', 'in_data_2019-datasets'
@@ -28,8 +26,6 @@ def read_data_dictionary():
             lim_excel_df_sheets.append(sheet_to_df_map[v])
     return lim_excel_df_sheets      
     
-
-
 
 def gen_data_dictionary(lim_excel_df_sheets):
     common_fields = list(set(lim_excel_df_sheets[6].columns.values) & set(lim_excel_df_sheets[5].columns.values))

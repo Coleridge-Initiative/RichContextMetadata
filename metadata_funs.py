@@ -1,5 +1,6 @@
 import dimensions_search_api_client as dscli
 import time
+import getpass
 import hashlib
 import os
 import json
@@ -11,6 +12,14 @@ def get_hash (row):
         m.update(elem.encode("utf-8").lower().strip())
 
     return m.hexdigest()
+
+def create_api_client():
+    print('enter your dimensions api username')
+    user = input()
+    print('enter your dimensions api password')
+    pw = getpass.getpass()
+    api_client = connect_ds_api(username = user, password = pw)
+    return api_client
 
 def connect_ds_api(username,password):
     api_client = dscli.DimensionsSearchAPIClient()
@@ -79,9 +88,8 @@ def run_author_search(author_dimensions_id, api_client):
     author_metadata = author_return['researchers']
     return author_metadata
 
-
 def read_datasets():
-    dataset_json_path = os.path.join(os.getcwd(),'datasets.json')
+    dataset_json_path = os.path.join(os.getcwd(),'metadata/datasets.json')
 
     with open(dataset_json_path) as json_file:
         dataset_json = json.load(json_file)
