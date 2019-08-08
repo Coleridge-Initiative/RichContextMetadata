@@ -1,5 +1,68 @@
 [
   {
+    "pubs": "pub-f5326e721633faa7439d",
+    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1002/hec.3883",
+    "journal": "Health Economics"
+  },
+  {
+    "pubs": "pub-9558600121658a8612ce",
+    "title": "How Much Can Product Reformulation Improve Diet Quality in Households with Children and Adolescents?",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.3390/nu11030618",
+    "journal": "Nutrients"
+  },
+  {
+    "pubs": "pub-448832753326f51957bc",
+    "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1177/0042098017740285",
+    "journal": "Urban Studies"
+  },
+  {
+    "pubs": "pub-df7967a07109c5482434",
+    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1080/10454446.2018.1428259",
+    "journal": "Journal of Food Products Marketing"
+  },
+  {
+    "pubs": "pub-fafa0e81b6bae9395ebe",
+    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1016/j.appet.2017.07.006",
+    "journal": "Appetite"
+  },
+  {
+    "pubs": "pub-5daf260399119f86014f",
+    "title": "No Fat, No Sugar, No Salt . . . No Problem? Prevalence of \u201cLow-Content\u201d Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the\u00a0United States",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1016/j.jand.2017.01.011",
+    "journal": "Journal of the Academy of Nutrition and Dietetics"
+  },
+  {
+    "pubs": "pub-3400717c3058d7363867",
+    "title": "External validity of the food values scale",
+    "related_dataset": "dataset-f442e418ac191ac60f7f",
+    "doi": "10.1016/j.foodqual.2011.02.009",
+    "journal": "Food Quality and Preference"
+  },
+  {
+    "pubs": "pub-c600b76bac4b1611632a",
+    "title": "New Bank Lending Survey of the Eurosystem",
+    "related_dataset": "dataset-01bf466ee1063265fc2c",
+    "doi": "10.1787/jbcma-v2004-art20-en",
+    "journal": "Journal of Business Cycle Measurement and Analysis"
+  },
+  {
+    "pubs": "pub-30009c2a3767ede0836d",
+    "title": "Interbank Relationships and the Credit Channel in Germany",
+    "related_dataset": "dataset-01bf466ee1063265fc2c",
+    "doi": "10.1023/a:1024173416117",
+    "journal": "Empirica"
+  },
+  {
     "pubs": "pub-448832753326f51957bc",
     "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
     "related_dataset": "dataset-f442e418ac191ac60f7f",
@@ -385,66 +448,87 @@
     "journal": "International Journal of Industrial Organization"
   },
   {
-    "pubs": "pub-f5326e721633faa7439d",
-    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1002/hec.3883",
-    "journal": "Health Economics"
+    "pubs": "pub-d4df9083010934c975f5",
+    "title": "Moving to Opportunity in Boston: Early Results of a Randomized Mobility Experiment",
+    "related_dataset": "dataset-70f4f8e984fee6dc2fee",
+    "doi": "10.1162/00335530151144113",
+    "journal": "The Quarterly Journal of Economics"
   },
   {
-    "pubs": "pub-9558600121658a8612ce",
-    "title": "How Much Can Product Reformulation Improve Diet Quality in Households with Children and Adolescents?",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.3390/nu11030618",
-    "journal": "Nutrients"
+    "pubs": "pub-9f5ba243d13c44bd7187",
+    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
+    "related_dataset": "dataset-f5705a632a30d970e9df",
+    "doi": "10.1177/0307920107073250",
+    "journal": "SAGE Race Relations Abstracts"
   },
   {
-    "pubs": "pub-448832753326f51957bc",
-    "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1177/0042098017740285",
-    "journal": "Urban Studies"
+    "pubs": "pub-9f5ba243d13c44bd7187",
+    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
+    "related_dataset": "dataset-7cf4e4a404cd76f34787",
+    "doi": "10.1177/0307920107073250",
+    "journal": "SAGE Race Relations Abstracts"
   },
   {
-    "pubs": "pub-df7967a07109c5482434",
-    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1080/10454446.2018.1428259",
-    "journal": "Journal of Food Products Marketing"
+    "pubs": "pub-9f5ba243d13c44bd7187",
+    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
+    "related_dataset": "dataset-b5ed7d0930d447640100",
+    "doi": "10.1177/0307920107073250",
+    "journal": "SAGE Race Relations Abstracts"
   },
   {
-    "pubs": "pub-fafa0e81b6bae9395ebe",
-    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.appet.2017.07.006",
-    "journal": "Appetite"
+    "pubs": "pub-9f5ba243d13c44bd7187",
+    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
+    "related_dataset": "dataset-0a082a15c7fef233f003",
+    "doi": "10.1177/0307920107073250",
+    "journal": "SAGE Race Relations Abstracts"
   },
   {
-    "pubs": "pub-5daf260399119f86014f",
-    "title": "No Fat, No Sugar, No Salt . . . No Problem? Prevalence of \u201cLow-Content\u201d Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the\u00a0United States",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.jand.2017.01.011",
-    "journal": "Journal of the Academy of Nutrition and Dietetics"
+    "pubs": "pub-fbc4be69b4ac036a0159",
+    "title": "Neighborhood Effects on Crime for Female and Male Youth: Evidence from a Randomized Housing Voucher Experiment",
+    "related_dataset": "dataset-7ec116b476030b5fe477",
+    "doi": "10.1162/0033553053327470",
+    "journal": "The Quarterly Journal of Economics"
   },
   {
-    "pubs": "pub-3400717c3058d7363867",
-    "title": "External validity of the food values scale",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.foodqual.2011.02.009",
-    "journal": "Food Quality and Preference"
+    "pubs": "pub-fbc4be69b4ac036a0159",
+    "title": "Neighborhood Effects on Crime for Female and Male Youth: Evidence from a Randomized Housing Voucher Experiment",
+    "related_dataset": "dataset-4fc45ac559f22b6bd5a7",
+    "doi": "10.1162/0033553053327470",
+    "journal": "The Quarterly Journal of Economics"
   },
   {
-    "pubs": "pub-c600b76bac4b1611632a",
-    "title": "New Bank Lending Survey of the Eurosystem",
-    "related_dataset": "dataset-01bf466ee1063265fc2c",
-    "doi": "10.1787/jbcma-v2004-art20-en",
-    "journal": "Journal of Business Cycle Measurement and Analysis"
+    "pubs": "pub-66727e7b580bf0372ef2",
+    "title": "Urban Poverty and Juvenile Crime: Evidence from a Randomized Housing-Mobility Experiment",
+    "related_dataset": "dataset-7ec116b476030b5fe477",
+    "doi": "10.1162/00335530151144122",
+    "journal": "The Quarterly Journal of Economics"
   },
   {
-    "pubs": "pub-30009c2a3767ede0836d",
-    "title": "Interbank Relationships and the Credit Channel in Germany",
-    "related_dataset": "dataset-01bf466ee1063265fc2c",
-    "doi": "10.1023/a:1024173416117",
-    "journal": "Empirica"
+    "pubs": "pub-66727e7b580bf0372ef2",
+    "title": "Urban Poverty and Juvenile Crime: Evidence from a Randomized Housing-Mobility Experiment",
+    "related_dataset": "dataset-4fc45ac559f22b6bd5a7",
+    "doi": "10.1162/00335530151144122",
+    "journal": "The Quarterly Journal of Economics"
+  },
+  {
+    "pubs": "pub-086d214cb564d05afca7",
+    "title": "Escaping Low Earnings: The Role of Employer Characteristics and Changes",
+    "related_dataset": "dataset-ede13585b470dddf2a61",
+    "doi": "10.2307/4126683",
+    "journal": "ILR Review"
+  },
+  {
+    "pubs": "pub-b48f06bd57380c643d46",
+    "title": "National estimates of gross employment and job flows from the Quarterly Workforce Indicators with demographic and industry detail",
+    "related_dataset": "dataset-ede13585b470dddf2a61",
+    "doi": "10.1016/j.jeconom.2010.09.008",
+    "journal": "Journal of Econometrics"
+  },
+  {
+    "pubs": "pub-b48f06bd57380c643d46",
+    "title": "National estimates of gross employment and job flows from the Quarterly Workforce Indicators with demographic and industry detail",
+    "related_dataset": "dataset-70f4f8e984fee6dc2fee",
+    "doi": "10.1016/j.jeconom.2010.09.008",
+    "journal": "Journal of Econometrics"
   }
 ]
