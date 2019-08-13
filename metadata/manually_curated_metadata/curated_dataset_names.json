@@ -221,4 +221,18 @@
 ,{'dataset_name':'NJ TANF data', 'geography':'NJ'}
 ,{'dataset_name':'Family Program Development data', 'geography':'NJ'}
 ,{'dataset_name':'Family Program Development', 'geography':'NJ'}
+,{'dataset_name':'Alabama Progress and Services Report', 'geography':'AL'}
+,{'dataset_name':'California County TANF', 'geography':'CA'}
+,{'dataset_name':'CalWORKS recipients earning report', 'geography':'CA'}
+,{'dataset_name':'Georgia DFCS', 'geography':'GA'}
+,{'dataset_name':'Georgia Department of Family and Child Services', 'geography':'GA'}
+,{'dataset_name':'Michigan Department of Health and Human Services', 'geography':'MI'}
+,{'dataset_name':'Michigan DHS', 'geography':'MI'}
+,{'dataset_name':'Michigan TANF', 'geography':'MI'}
+,{'dataset_name':'SSRC', 'geography':'CO'}
+,{'dataset_name':'Self-Sufficiency Research Clearinghouse', 'geography':'CO'}
+,{'dataset_name':'Minnesota Family Investment Program', 'geography':'MN'}
+,{'dataset_name':'MFIP', 'geography':'MN'}
+,{'dataset_name':'Virginia TANF', 'geography':'VA'}
+,{'dataset_name':'VA TANF', 'geography':'VA'}
 ]
