@@ -1,7 +1,12 @@
 [
     {
-      "id": "dataset-d865089d22169b492a2a",
+      "id": "dataset-a58edecf666ec74fdbaf",
       "publisher": "IRI",
-      "title": "IRI Infoscan data"
+      "title": "IRI Consumer Network"
+    },
+    {
+      "id": "dataset-11a95bfc951f7d23206a",
+      "publisher": "IRI",
+      "title": "IRI Infoscan"
     }
 ]
