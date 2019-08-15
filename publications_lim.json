@@ -63,13 +63,6 @@
     "journal": "Empirica"
   },
   {
-    "pubs": "pub-448832753326f51957bc",
-    "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1177/0042098017740285",
-    "journal": "Urban Studies"
-  },
-  {
     "pubs": "pub-d63078f43bd5c1025365",
     "title": "The healthfulness of food and beverage purchases after the federal food package revisions: The case of two New England states",
     "related_dataset": "dataset-f442e418ac191ac60f7f",
@@ -82,13 +75,6 @@
     "related_dataset": "dataset-f442e418ac191ac60f7f",
     "doi": "10.1371/journal.pone.0124351",
     "journal": "PLoS ONE"
-  },
-  {
-    "pubs": "pub-df7967a07109c5482434",
-    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
-    "related_dataset": "dataset-114d72893306f1c4e103",
-    "doi": "10.1080/10454446.2018.1428259",
-    "journal": "Journal of Food Products Marketing"
   },
   {
     "pubs": "pub-5ca49ce455e78bd7e1e4",
@@ -110,13 +96,6 @@
     "related_dataset": "dataset-114d72893306f1c4e103",
     "doi": "10.3168/jds.2015-10410",
     "journal": "Journal of Dairy Science"
-  },
-  {
-    "pubs": "pub-5daf260399119f86014f",
-    "title": "No Fat, No Sugar, No Salt . . . No Problem? Prevalence of \u201cLow-Content\u201d Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the\u00a0United States",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.jand.2017.01.011",
-    "journal": "Journal of the Academy of Nutrition and Dietetics"
   },
   {
     "pubs": "pub-1bc3aadcf10607672ab3",
@@ -175,13 +154,6 @@
     "journal": "Agricultural Economics"
   },
   {
-    "pubs": "pub-f5326e721633faa7439d",
-    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
-    "related_dataset": "dataset-114d72893306f1c4e103",
-    "doi": "10.1002/hec.3883",
-    "journal": "Health Economics"
-  },
-  {
     "pubs": "pub-50879c866e4df5631ada",
     "title": "Market power and farm\u2010retail price transmission: The case of US fluid milk markets",
     "related_dataset": "dataset-114d72893306f1c4e103",
@@ -208,13 +180,6 @@
     "related_dataset": "dataset-114d72893306f1c4e103",
     "doi": "10.1002/jsfa.8633",
     "journal": "Journal of the Science of Food and Agriculture"
-  },
-  {
-    "pubs": "pub-a35ba82eab2f5bc613b0",
-    "title": "The effects of retail concentration on retail dairy product prices in the United States",
-    "related_dataset": "dataset-114d72893306f1c4e103",
-    "doi": "10.3168/jds.2015-10410",
-    "journal": "Journal of Dairy Science"
   },
   {
     "pubs": "pub-cfaf449eb05e0161f3c2",
@@ -315,13 +280,6 @@
     "journal": "Food Policy"
   },
   {
-    "pubs": "pub-df7967a07109c5482434",
-    "title": "A comparative analysis of hedonic models of nutrition information and health claims on food products: An application to soup products",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1080/10454446.2018.1428259",
-    "journal": "Journal of Food Products Marketing"
-  },
-  {
     "pubs": "pub-182e32f3e52721c647d0",
     "title": "Understanding Differences in Self\u2010Reported Expenditures between Household Scanner Data and Diary Survey Data: A Comparison of Homescan and Consumer Expenditure Survey",
     "related_dataset": "dataset-f442e418ac191ac60f7f",
@@ -406,34 +364,6 @@
     "journal": "Lipids"
   },
   {
-    "pubs": "pub-fafa0e81b6bae9395ebe",
-    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.appet.2017.07.006",
-    "journal": "Appetite"
-  },
-  {
-    "pubs": "pub-5daf260399119f86014f",
-    "title": "No Fat, No Sugar, No Salt . . . No Problem? Prevalence of \u201cLow-Content\u201d Nutrient Claims and Their Associations with the Nutritional Profile of Food and Beverage Purchases in the\u00a0United States",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.jand.2017.01.011",
-    "journal": "Journal of the Academy of Nutrition and Dietetics"
-  },
-  {
-    "pubs": "pub-3400717c3058d7363867",
-    "title": "External validity of the food values scale",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1016/j.foodqual.2011.02.009",
-    "journal": "Food Quality and Preference"
-  },
-  {
-    "pubs": "pub-844cf3925cb51a93b350",
-    "title": "Chronic Disease, Prescription Medications, and Food Purchases",
-    "related_dataset": "dataset-f442e418ac191ac60f7f",
-    "doi": "10.1177/0890117117740935",
-    "journal": "American Journal of Health Promotion"
-  },
-  {
     "pubs": "pub-89d2809337e17b5701ce",
     "title": "Competition, business cycles, and price flexibility in grocery stores",
     "related_dataset": "dataset-114d72893306f1c4e103",
@@ -462,55 +392,6 @@
     "journal": "SAGE Race Relations Abstracts"
   },
   {
-    "pubs": "pub-9f5ba243d13c44bd7187",
-    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
-    "related_dataset": "dataset-7cf4e4a404cd76f34787",
-    "doi": "10.1177/0307920107073250",
-    "journal": "SAGE Race Relations Abstracts"
-  },
-  {
-    "pubs": "pub-9f5ba243d13c44bd7187",
-    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
-    "related_dataset": "dataset-b5ed7d0930d447640100",
-    "doi": "10.1177/0307920107073250",
-    "journal": "SAGE Race Relations Abstracts"
-  },
-  {
-    "pubs": "pub-9f5ba243d13c44bd7187",
-    "title": "Neighborhoods, Race, and Recidivism: The Community-Reoffending Nexus and its Implications for African Americans",
-    "related_dataset": "dataset-0a082a15c7fef233f003",
-    "doi": "10.1177/0307920107073250",
-    "journal": "SAGE Race Relations Abstracts"
-  },
-  {
-    "pubs": "pub-fbc4be69b4ac036a0159",
-    "title": "Neighborhood Effects on Crime for Female and Male Youth: Evidence from a Randomized Housing Voucher Experiment",
-    "related_dataset": "dataset-7ec116b476030b5fe477",
-    "doi": "10.1162/0033553053327470",
-    "journal": "The Quarterly Journal of Economics"
-  },
-  {
-    "pubs": "pub-fbc4be69b4ac036a0159",
-    "title": "Neighborhood Effects on Crime for Female and Male Youth: Evidence from a Randomized Housing Voucher Experiment",
-    "related_dataset": "dataset-4fc45ac559f22b6bd5a7",
-    "doi": "10.1162/0033553053327470",
-    "journal": "The Quarterly Journal of Economics"
-  },
-  {
-    "pubs": "pub-66727e7b580bf0372ef2",
-    "title": "Urban Poverty and Juvenile Crime: Evidence from a Randomized Housing-Mobility Experiment",
-    "related_dataset": "dataset-7ec116b476030b5fe477",
-    "doi": "10.1162/00335530151144122",
-    "journal": "The Quarterly Journal of Economics"
-  },
-  {
-    "pubs": "pub-66727e7b580bf0372ef2",
-    "title": "Urban Poverty and Juvenile Crime: Evidence from a Randomized Housing-Mobility Experiment",
-    "related_dataset": "dataset-4fc45ac559f22b6bd5a7",
-    "doi": "10.1162/00335530151144122",
-    "journal": "The Quarterly Journal of Economics"
-  },
-  {
     "pubs": "pub-086d214cb564d05afca7",
     "title": "Escaping Low Earnings: The Role of Employer Characteristics and Changes",
     "related_dataset": "dataset-ede13585b470dddf2a61",
@@ -525,10 +406,17 @@
     "journal": "Journal of Econometrics"
   },
   {
-    "pubs": "pub-b48f06bd57380c643d46",
-    "title": "National estimates of gross employment and job flows from the Quarterly Workforce Indicators with demographic and industry detail",
-    "related_dataset": "dataset-70f4f8e984fee6dc2fee",
-    "doi": "10.1016/j.jeconom.2010.09.008",
-    "journal": "Journal of Econometrics"
+    "pubs": "pub-fbc4be69b4ac036a0159",
+    "title": "Neighborhood Effects on Crime for Female and Male Youth: Evidence from a Randomized Housing Voucher Experiment",
+    "related_dataset": "dataset-7ec116b476030b5fe477",
+    "doi": "10.1162/0033553053327470",
+    "journal": "The Quarterly Journal of Economics"
+  },
+  {
+    "pubs": "pub-66727e7b580bf0372ef2",
+    "title": "Urban Poverty and Juvenile Crime: Evidence from a Randomized Housing-Mobility Experiment",
+    "related_dataset": "dataset-7ec116b476030b5fe477",
+    "doi": "10.1162/00335530151144122",
+    "journal": "The Quarterly Journal of Economics"
   }
 ]

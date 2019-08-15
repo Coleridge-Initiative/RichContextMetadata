@@ -50,24 +50,12 @@ def gen_stringsearch_pub_metadata(api_client,dataset_names_list):
             pass
     return pub_dataset_list
 
-def main():
-    print('enter your dimensions api username')
-    user = input()
-    print('enter your dimensions api password')
-    pw = getpass.getpass()
-    api_client = metadata_funs.connect_ds_api(username = user, password = pw)
+def main(api_client):
     dataset_names = metadata_funs.read_datasets()
     dataset_names_list =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_names]
-    dataset_names_list = [d for d in dataset_names_list if d['dataset_id'] in ['dataset-f442e418ac191ac60f7f','dataset-01bf466ee1063265fc2c']]
+#     dataset_names_list = [d for d in dataset_names_list if d['dataset_id'] in ['dataset-f442e418ac191ac60f7f','dataset-01bf466ee1063265fc2c']]
     stringsearch_pubs_path = os.path.join(os.getcwd(),'metadata/{}stringsearch_pubs.json'.format(metadata_funs.get_hash(str(datetime.datetime.now()))))
     stringsearch_pubs = gen_stringsearch_pub_metadata(api_client = api_client, dataset_names_list=dataset_names_list)
     pub_dataset_list_final = metadata_funs.flatten(stringsearch_pubs)
     json.dump(pub_dataset_list_final, open(stringsearch_pubs_path, 'w'), indent=2)
     return pub_dataset_list_final
-
-
-
-# main(api_client)
-
-# if __name__ == "__main__":
-#     main()

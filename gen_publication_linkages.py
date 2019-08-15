@@ -4,7 +4,6 @@ import metadata_funs
 
 search_path = '/Users/sophierand/RichContextMetadata/metadata/'
 pub_paths = [search_path+f for f in os.listdir(search_path) if f.endswith("pubs.json")]
-# pub_paths = [os.path.join(os.getcwd(),p) for p in ['manually_curated_pubs.json','stringsearch_pubs.json']]
 
 def collate_pubs(pub_paths):
     pub_list = []
@@ -26,6 +25,17 @@ def add_pub_ids(pub_list_flat):
             pass
     return pub_list_final
 
+
+def dedup_pub_list(pub_list_final):
+    seen = set()
+    dedup_pub_list = []
+    for d in pub_list_final:
+        t = d['pub_id']
+        if t not in seen:
+            seen.add(t)
+            dedup_pub_list.append(d)
+    return dedup_pub_list
+
 def gen_publist_lim(pub_list_final):
     pub_list_lim = [{'pubs':p['pub_id'],'title':p['title'],'related_dataset':p['related_dataset'],'doi':p['doi'],'journal':p['journal']['title']} for p in pub_list_final]
     return pub_list_lim
@@ -35,6 +45,7 @@ def main():
     pub_paths = [search_path+f for f in os.listdir(search_path) if f.endswith("pubs.json")]
     pub_list_flat = collate_pubs(pub_paths)
     pub_list_final = add_pub_ids(pub_list_flat)
-    pub_list_lim = gen_publist_lim(pub_list_final)
-    json.dump(pub_list_lim, open(search_path + 'publications_lim.json', 'w'), indent=2)    
-    json.dump(pub_list_flat, open(search_path + '/publications.json', 'w'), indent=2)
+    pub_list_final_dedup = dedup_pub_list(pub_list_final)
+    pub_list_lim = gen_publist_lim(pub_list_final_dedup)
+    json.dump(pub_list_lim, open('/Users/sophierand/RichContextMetadata/publications_lim.json', 'w'), indent=2)    
+    json.dump(pub_list_final_dedup, open('/Users/sophierand/RichContextMetadata/publications.json', 'w'), indent=2)

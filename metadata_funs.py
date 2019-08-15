@@ -90,7 +90,6 @@ def run_author_search(author_dimensions_id, api_client):
 
 def read_datasets():
     dataset_json_path = os.path.join(os.getcwd(),'metadata/datasets.json')
-
     with open(dataset_json_path) as json_file:
         dataset_json = json.load(json_file)
 #     dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_json]
@@ -102,5 +101,4 @@ def read_pubs():
 
     with open(publication_json_path) as json_file:
         publications_json = json.load(json_file)
-#     dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_json]
     return publications_json

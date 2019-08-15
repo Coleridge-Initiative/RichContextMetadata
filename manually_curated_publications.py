@@ -11,8 +11,6 @@ importlib.reload(metadata_funs)
 import datetime
 
 
-
-
 def read_curated_linkages():
     manual_linkages = os.path.join(os.getcwd(),'metadata/manually_curated_metadata/curated_linkages.csv')
     manual_df = pd.read_csv(manual_linkages)
@@ -40,12 +38,12 @@ def fetch_curated_metadata(manual_df_doi_dict,dataset_names,api_client):
     return manual_pub_dataset_list
 
 
-def main():
-    print('enter your dimensions api username')
-    user = input()
-    print('enter your dimensions api password')
-    pw = getpass.getpass()
-    api_client = metadata_funs.connect_ds_api(username = user, password = pw)
+def main(api_client):
+#     print('enter your dimensions api username')
+#     user = input()
+#     print('enter your dimensions api password')
+#     pw = getpass.getpass()
+#     api_client = metadata_funs.connect_ds_api(username = user, password = pw)
 #     now = datetime.datetime.now()
     dataset_names_list = metadata_funs.read_datasets()
     dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_names_list]

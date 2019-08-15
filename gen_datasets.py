@@ -95,5 +95,5 @@ for i in dd_dict:
         i['temporal_coverage_start'] = str(dateutil.parser.parse(str(i['temporal_coverage_start'])).date())
 
 
-json.dump(dd_dict, open('metadata/datasets.json', 'w'), indent=2)
+json.dump(dd_dict, open('datasets.json', 'w'), indent=2)
 
