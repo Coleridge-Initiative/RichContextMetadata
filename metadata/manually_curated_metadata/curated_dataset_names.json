@@ -1,238 +1,239 @@
-[{'dataset_name':'TANF'}
-,{'dataset_name':'Temporary Assistance for Needy Families'}
-,{'dataset_name':'TANF data'}
-,{'dataset_name':'Washington child welfare and TANF administrative data', 'geography': 'WA'}
-,{'dataset_name':'NY administrative data', 'geography':'NY'}
-,{'dataset_name':'Current population survey data','geography':'NY'}
-,{'dataset_name':'CPS data' ,'geography':'NY'}
-,{'dataset_name':'Oregon Medicaid', 'geography':'OR'}
-,{'dataset_name':'TANF', 'geography':'OR'}
-,{'dataset_name':'Oregon Medicaid', 'geography':'OR'}
-,{'dataset_name':'Program model information from Philadelphia', 'geography':'PA'}
-,{'dataset_name':'Program model information from NYC', 'geography':'NY'}
-,{'dataset_name':'Program model information from New York City', 'geography':'NY'}
-,{'dataset_name':'Program model information from Philadelphia', 'geography':'PA'}
-,{'dataset_name':'Program model information from Hennepin County', 'geography':'MN'}
-,{'dataset_name':'Program model information from Minneapolis', 'geography':'MN'}
-,{'dataset_name':'Program model information from Twin Cities', 'geography':'MN'}
-,{'dataset_name':'Program model information from Nebraska', 'geography':'NE'}
-,{'dataset_name':'Program model information from New Jersey', 'geography':'NJ'}
-,{'dataset_name':'Program model information from Rhode Island', 'geography':'RI'}
-,{'dataset_name':'Philadelphia TANF data', 'geography':'PA'}
-,{'dataset_name':'TWC', 'geography':'PA'}
-,{'dataset_name':'Transitional Work Corporation', 'geography':'PA'}
-,{'dataset_name':'STEP', 'geography':'PA'}
-,{'dataset_name':'Success Through Employment Preparation', 'geography':'PA'}
-,{'dataset_name':'Philadelphia TANF', 'geography':'PA'}
-,{'dataset_name':'Pennsylvania's Department of Public Welfare', 'geography':'PA'}
-,{'dataset_name':'Pennsylvania's DPW', 'geography':'PA'}
-,{'dataset_name':'National Directory of New Hires', 'geography':'PA'}
-,{'dataset_name':'NDNH', 'geography':'PA'}
-,{'dataset_name':'Work First program data', 'geography':'MI'}
-,{'dataset_name':'UI wage records', 'geography':'MI'}
-,{'dataset_name':'State of Michigan', 'geography':'MI'}
-,{'dataset_name':'Maryland TANF', 'geography':'MD'}
-,{'dataset_name':'Maryland TANF data', 'geography':'MD'}
-,{'dataset_name':'NDNH', 'geography':'PA'}
-,{'dataset_name':'Work First program data', 'geography':'MI'}
-,{'dataset_name':'UI wage records', 'geography':'MI'}
-,{'dataset_name':'State of Michigan', 'geography':'MI'}
-,{'dataset_name':'Administrative and evaluation data of Florida's Family Transition Program for welfare recipients', 'geography':'FL'}
-,{'dataset_name':'State of Ohio TANF data', 'geography':'OH'}
-,{'dataset_name':'State of Ohio TANF', 'geography':'OH'}
-,{'dataset_name':'Exit survey information', 'geography':'OH'}
-,{'dataset_name':'State of Michigan', 'geography':'MI'}
-,{'dataset_name':'TANF', 'geography':'MI'}
-,{'dataset_name':'Food Stamp Data'}
-,{'dataset_name':'Women's Employment Study'}
-,{'dataset_name':'WES'}
-,{'dataset_name':'Wisconsin TANF', 'geography':'WI'}
-,{'dataset_name':'Wisconsin TANF data', 'geography':'WI'}
-,{'dataset_name':'WI data', 'geography':'WI'}
-,{'dataset_name':'WI TANF data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin TANF', 'geography':'WI'}
-,{'dataset_name':'Wisconsin W-2 data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin child support data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin child support', 'geography':'WI'}
-,{'dataset_name':'KY TANF', 'geography':'KY'}
-,{'dataset_name':'KY TANF data', 'geography':'KY'}
-,{'dataset_name':'Kentucky TANF', 'geography':'KY'}
-,{'dataset_name':'Kentucky TANF data', 'geography':'KY'}
-,{'dataset_name':'Relocation Assistance Program', 'geography':'KY'}
-,{'dataset_name':'RAP', 'geography':'KY'}
-,{'dataset_name':'UI administrative Data', 'geography':'KY'}
-,{'dataset_name':'TANF', 'geography':'WA'}
-,{'dataset_name':'Child Care subsidy administrative data from Washington State', 'geography':'WA'}
-,{'dataset_name':'Milwaukee County, WI longitudinal data of TANF applicants in 1999', 'geography':'WI'}
-,{'dataset_name':'Milwaukee TANF data', 'geography':'WI'}
-,{'dataset_name':'Milwaukee TANF', 'geography':'WI'}
-,{'dataset_name':'Child welfare data', 'geography':'WI'}
-,{'dataset_name':'Child welfare', 'geography':'WI'}
-,{'dataset_name':'Wisconsin W-2 data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin W-2', 'geography':'WI'}
-,{'dataset_name':'WI W-2 data', 'geography':'WI'}
-,{'dataset_name':'WI W-2', 'geography':'WI'}
-,{'dataset_name':'Child support data', 'geography':'WI'}
-,{'dataset_name':'Child support', 'geography':'WI'}
-,{'dataset_name':'Milwaukee TANF data', 'geography':'WI'}
-,{'dataset_name':'Milwaukee TANF', 'geography':'WI'}
-,{'dataset_name':'Child welfare data', 'geography':'WI'}
-,{'dataset_name':'TANF applicant data', 'geography':'WI'}
-,{'dataset_name':'Child welfare', 'geography':'WI'}
-,{'dataset_name':'TANF data', 'geography':'WI'}
-,{'dataset_name':'Child welfare data', 'geography':'WI'}
-,{'dataset_name':'Child welfare', 'geography':'WI'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in CO from 2002', 'geography':'CO'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in Colorado from 2002', 'geography':'CO'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in DC from 2002', 'geography':'DC'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002', 'geography':'DC'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in IL from 2002', 'geography':'IL'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in Illinois from 2002', 'geography':'IL'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in MD from 2002', 'geography':'MD'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in Maryland from 2002', 'geography':'MD'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in MO from 2002', 'geography':'MO'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in Montana from 2002', 'geography':'MO'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in SC from 2002', 'geography':'SC'}
-,{'dataset_name':'Statewide surveys of single-parent TANF recipients in South Carolina from 2002', 'geography':'SC'}
-,{'dataset_name':'Devolution and Urban Change', 'geography':'FL'}
-,{'dataset_name':'Cuyahoga TANF data', 'geography':'FL'}
-,{'dataset_name':'Cuyahoga TANF', 'geography':'FL'}
-,{'dataset_name':'Los Angeles TANF data', 'geography':'FL'}
-,{'dataset_name':'Los Angeles TANF', 'geography':'FL'}
-,{'dataset_name':'Miami-Dade TANF data', 'geography':'FL'}
-,{'dataset_name':'Miami-Dade TANF', 'geography':'FL'}
-,{'dataset_name':'Philadelphia TANF data', 'geography':'FL'}
-,{'dataset_name':'Philadelphia TANF', 'geography':'FL'}
-,{'dataset_name':'Cuyahoga TANF data', 'geography':'FL'}
-,{'dataset_name':'Cuyahoga TANF', 'geography':'FL'}
-,{'dataset_name':'Cuyahoga TANF data', 'geography':'FL'}
-,{'dataset_name':'Wisconsin W-2 data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin W-2', 'geography':'WI'}
-,{'dataset_name':'Maryland TANF data', 'geography':'MD'}
-,{'dataset_name':'Maryland TANF', 'geography':'MD'}
-,{'dataset_name':'MD TANF data', 'geography':'MD'}
-,{'dataset_name':'MD TANF', 'geography':'MD'}
-,{'dataset_name':'Wisconsin state data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin state', 'geography':'WI'}
-,{'dataset_name':'Florida State TANF data', 'geography':'FL'}
-,{'dataset_name':'Florida State TANF', 'geography':'FL'}
-,{'dataset_name':'Florida TANF data', 'geography':'FL'}
-,{'dataset_name':'Florida TANF', 'geography':'FL'}
-,{'dataset_name':'Substance abuse testing data', 'geography':'FL'}
-,{'dataset_name':'Substance abuse testing', 'geography':'FL'}
-,{'dataset_name':'Medicaid data', 'geography':'FL'}
-,{'dataset_name':'SNAP data', 'geography':'FL'}
-,{'dataset_name':'Supplemental Nutrition Assistance Program data', 'geography':'FL'}
-,{'dataset_name':'UI data', 'geography':'FL'}
-,{'dataset_name':'Medicaid', 'geography':'FL'}
-,{'dataset_name':'SNAP', 'geography':'FL'}
-,{'dataset_name':'Supplemental Nutrition Assistance Program', 'geography':'FL'}
-,{'dataset_name':'UI', 'geography':'FL'}
-,{'dataset_name':'TANF', 'geography':'OR'}
-,{'dataset_name':'TANF data', 'geography':'OR'}
-,{'dataset_name':'TANF', 'geography':'WI'}
-,{'dataset_name':'TANF data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin State earnings data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin State employment data', 'geography':'WI'}
-,{'dataset_name':'Wisconsin State earnings', 'geography':'WI'}
-,{'dataset_name':'Wisconsin State employment', 'geography':'WI'}
-,{'dataset_name':'Wisconsin State administrative data', 'geography':'WI'}
-,{'dataset_name':'Georgia TANF data', 'geography':'GA'}
-,{'dataset_name':'Georgia TANF', 'geography':'GA'}
-,{'dataset_name':'GA TANF data', 'geography':'GA'}
-,{'dataset_name':'GA TANF', 'geography':'GA'}
-,{'dataset_name':'DC TANF data', 'geography':'DC'}
-,{'dataset_name':'DC TANF', 'geography':'DC'}
-,{'dataset_name':'Missouri TANF data', 'geography':'MO'}
-,{'dataset_name':'Missouri TANF', 'geography':'MO'}
-,{'dataset_name':'MO TANF data', 'geography':'MO'}
-,{'dataset_name':'MO TANF', 'geography':'MO'}
-,{'dataset_name':'South Carolina TANF data', 'geography':'SC'}
-,{'dataset_name':'South Carolina TANF', 'geography':'SC'}
-,{'dataset_name':'SC TANF data', 'geography':'SC'}
-,{'dataset_name':'SC TANF', 'geography':'SC'}
-,{'dataset_name':'Iowa TANF data', 'geography':'IA'}
-,{'dataset_name':'Iowa TANF', 'geography':'IA'}
-,{'dataset_name':'IA TANF data', 'geography':'IA'}
-,{'dataset_name':'IA TANF', 'geography':'IA'}
-,{'dataset_name':'Ohio TANF data', 'geography':'OH'}
-,{'dataset_name':'Ohio TANF', 'geography':'OH'}
-,{'dataset_name':'OH TANF data', 'geography':'OH'}
-,{'dataset_name':'OH TANF', 'geography':'OH'}
-,{'dataset_name':'Maryland TANF data', 'geography':'MD'}
-,{'dataset_name':'Maryland TANF', 'geography':'MD'}
-,{'dataset_name':'MD TANF data', 'geography':'MD'}
-,{'dataset_name':'MD TANF', 'geography':'MD'}
-,{'dataset_name':'Salt Lake County State of Utah data', 'geography':'UT'}
-,{'dataset_name':'Salt Lake County State of UT', 'geography':'UT'}
-,{'dataset_name':'Cuyahoga County State of Ohio data', 'geography':'OH'}
-,{'dataset_name':'Cuyahoga County State of Ohio', 'geography':'OH'}
-,{'dataset_name':'Cleveland State of Ohio data', 'geography':'OH'}
-,{'dataset_name':'Cleveland State of Ohio', 'geography':'OH'}
-,{'dataset_name':'Florida TANF data', 'geography':'FL'}
-,{'dataset_name':'Florida TANF', 'geography':'FL'}
-,{'dataset_name':'Florida WAGES data', 'geography':'FL'}
-,{'dataset_name':'Florida WAGES', 'geography':'FL'}
-,{'dataset_name':'Florida UI data', 'geography':'FL'}
-,{'dataset_name':'Florida UI', 'geography':'FL'}
-,{'dataset_name':'Florida TANF data', 'geography':'FL'}
-,{'dataset_name':'Florida TANF', 'geography':'FL'}
-,{'dataset_name':'Illinois TANF data', 'geography':'IL'}
-,{'dataset_name':'Illinois TANF', 'geography':'IL'}
-,{'dataset_name':'Cuyahoga County State of Ohio data TANF', 'geography':'OH'}
-,{'dataset_name':'Cuyahoga County State of Ohio TANF data', 'geography':'OH'}
-,{'dataset_name':'Cleveland State of Ohio TANF data', 'geography':'OH'}
-,{'dataset_name':'Cleveland State of Ohio TANF', 'geography':'OH'}
-,{'dataset_name':'California TANF data', 'geography':'CA'}
-,{'dataset_name':'California TANF', 'geography':'CA'}
-,{'dataset_name':'CA TANF data', 'geography':'CA'}
-,{'dataset_name':'CA TANF', 'geography':'CA'}
-,{'dataset_name':'Massachusetts TANF', 'geography':'MA'}
-,{'dataset_name':'MA TANF', 'geography':'MA'}
-,{'dataset_name':'Massachusetts TANF data', 'geography':'MA'}
-,{'dataset_name':'MA TANF data', 'geography':'MA'}
-,{'dataset_name':'California TANF data', 'geography':'CA'}
-,{'dataset_name':'California TANF', 'geography':'CA'}
-,{'dataset_name':'CA TANF data', 'geography':'CA'}
-,{'dataset_name':'CA TANF', 'geography':'CA'}
-,{'dataset_name':'Washington TANF data', 'geography':'WA'}
-,{'dataset_name':'WA TANF', 'geography':'WA'}
-,{'dataset_name':'Washington TANF', 'geography':'WA'}
-,{'dataset_name':'WA state TANF', 'geography':'WA'}
-,{'dataset_name':'Arizona TANF data', 'geography':'AZ'}
-,{'dataset_name':'AZ TANF', 'geography':'AZ'}
-,{'dataset_name':'Arizona TANF', 'geography':'AZ'}
-,{'dataset_name':'AZ TANF data', 'geography':'AZ'}
-,{'dataset_name':'Maryland TANF data', 'geography':'MD'}
-,{'dataset_name':'Maryland TANF', 'geography':'MD'}
-,{'dataset_name':'MD TANF data', 'geography':'MD'}
-,{'dataset_name':'MD TANF', 'geography':'MD'}
-,{'dataset_name':'New York TANF data', 'geography':'NY'}
-,{'dataset_name':'New York TANF', 'geography':'NY'}
-,{'dataset_name':'NY TANF data', 'geography':'NY'}
-,{'dataset_name':'NY TANF', 'geography':'NY'}
-,{'dataset_name':'Wisconsin TANF', 'geography':'WI'}
-,{'dataset_name':'Wisconsin TANF data', 'geography':'WI'}
-,{'dataset_name':'WI data', 'geography':'WI'}
-,{'dataset_name':'WI TANF data', 'geography':'WI'}
-,{'dataset_name':'New Jersey TANF', 'geography':'NJ'}
-,{'dataset_name':'New Jersey TANF data', 'geography':'NJ'}
-,{'dataset_name':'NJ TANF', 'geography':'NJ'}
-,{'dataset_name':'NJ TANF data', 'geography':'NJ'}
-,{'dataset_name':'Family Program Development data', 'geography':'NJ'}
-,{'dataset_name':'Family Program Development', 'geography':'NJ'}
-,{'dataset_name':'Alabama Progress and Services Report', 'geography':'AL'}
-,{'dataset_name':'California County TANF', 'geography':'CA'}
-,{'dataset_name':'CalWORKS recipients earning report', 'geography':'CA'}
-,{'dataset_name':'Georgia DFCS', 'geography':'GA'}
-,{'dataset_name':'Georgia Department of Family and Child Services', 'geography':'GA'}
-,{'dataset_name':'Michigan Department of Health and Human Services', 'geography':'MI'}
-,{'dataset_name':'Michigan DHS', 'geography':'MI'}
-,{'dataset_name':'Michigan TANF', 'geography':'MI'}
-,{'dataset_name':'SSRC', 'geography':'CO'}
-,{'dataset_name':'Self-Sufficiency Research Clearinghouse', 'geography':'CO'}
-,{'dataset_name':'Minnesota Family Investment Program', 'geography':'MN'}
-,{'dataset_name':'MFIP', 'geography':'MN'}
-,{'dataset_name':'Virginia TANF', 'geography':'VA'}
-,{'dataset_name':'VA TANF', 'geography':'VA'}
+[{"dataset_name":"TANF"}
+,{"dataset_name":"Temporary Assistance for Needy Families"}
+,{"dataset_name":"TANF data"}
+,{"dataset_name":"Washington child welfare and TANF administrative data", "geography": "WA"}
+,{"dataset_name":"NY administrative data", "geography":"NY"}
+,{"dataset_name":"Current population survey data","geography":"NY"}
+,{"dataset_name":"CPS data" ,"geography":"NY"}
+,{"dataset_name":"Oregon Medicaid", "geography":"OR"}
+,{"dataset_name":"TANF", "geography":"OR"}
+,{"dataset_name":"Oregon Medicaid", "geography":"OR"}
+,{"dataset_name":"Program model information from Philadelphia", "geography":"PA"}
+,{"dataset_name":"Program model information from NYC", "geography":"NY"}
+,{"dataset_name":"Program model information from New York City", "geography":"NY"}
+,{"dataset_name":"Program model information from Philadelphia", "geography":"PA"}
+,{"dataset_name":"Program model information from Hennepin County", "geography":"MN"}
+,{"dataset_name":"Program model information from Minneapolis", "geography":"MN"}
+,{"dataset_name":"Program model information from Twin Cities", "geography":"MN"}
+,{"dataset_name":"Program model information from Nebraska", "geography":"NE"}
+,{"dataset_name":"Program model information from New Jersey", "geography":"NJ"}
+,{"dataset_name":"Program model information from Rhode Island", "geography":"RI"}
+,{"dataset_name":"Philadelphia TANF data", "geography":"PA"}
+,{"dataset_name":"TWC", "geography":"PA"}
+,{"dataset_name":"Transitional Work Corporation", "geography":"PA"}
+,{"dataset_name":"STEP", "geography":"PA"}
+,{"dataset_name":"Success Through Employment Preparation", "geography":"PA"}
+,{"dataset_name":"Philadelphia TANF", "geography":"PA"}
+,{"dataset_name":"Pennsylvania's Department of Public Welfare", "geography":"PA"}
+,{"dataset_name":"Pennsylvania's DPW", "geography":"PA"}
+,{"dataset_name":"National Directory of New Hires", "geography":"PA"}
+,{"dataset_name":"NDNH", "geography":"PA"}
+,{"dataset_name":"Work First program data", "geography":"MI"}
+,{"dataset_name":"UI wage records", "geography":"MI"}
+,{"dataset_name":"State of Michigan", "geography":"MI"}
+,{"dataset_name":"Maryland TANF", "geography":"MD"}
+,{"dataset_name":"Maryland TANF data", "geography":"MD"}
+,{"dataset_name":"NDNH", "geography":"PA"}
+,{"dataset_name":"Work First program data", "geography":"MI"}
+,{"dataset_name":"UI wage records", "geography":"MI"}
+,{"dataset_name":"State of Michigan", "geography":"MI"}
+,{"dataset_name":"Administrative and evaluation data of Florida's Family Transition Program for welfare recipients", "geography":"FL"}
+,{"dataset_name":"State of Ohio TANF data", "geography":"OH"}
+,{"dataset_name":"State of Ohio TANF", "geography":"OH"}
+,{"dataset_name":"Exit survey information", "geography":"OH"}
+,{"dataset_name":"State of Michigan", "geography":"MI"}
+,{"dataset_name":"TANF", "geography":"MI"}
+,{"dataset_name":"Food Stamp Data"}
+,{"dataset_name":"Women's Employment Study"}
+,{"dataset_name":"WES"}
+,{"dataset_name":"Wisconsin TANF", "geography":"WI"}
+,{"dataset_name":"Wisconsin TANF data", "geography":"WI"}
+,{"dataset_name":"WI data", "geography":"WI"}
+,{"dataset_name":"WI TANF data", "geography":"WI"}
+,{"dataset_name":"Wisconsin TANF", "geography":"WI"}
+,{"dataset_name":"Wisconsin W-2 data", "geography":"WI"}
+,{"dataset_name":"Wisconsin child support data", "geography":"WI"}
+,{"dataset_name":"Wisconsin child support", "geography":"WI"}
+,{"dataset_name":"KY TANF", "geography":"KY"}
+,{"dataset_name":"KY TANF data", "geography":"KY"}
+,{"dataset_name":"Kentucky TANF", "geography":"KY"}
+,{"dataset_name":"Kentucky TANF data", "geography":"KY"}
+,{"dataset_name":"Relocation Assistance Program", "geography":"KY"}
+,{"dataset_name":"RAP", "geography":"KY"}
+,{"dataset_name":"UI administrative Data", "geography":"KY"}
+,{"dataset_name":"TANF", "geography":"WA"}
+,{"dataset_name":"Child Care subsidy administrative data from Washington State", "geography":"WA"}
+,{"dataset_name":"Milwaukee County, WI longitudinal data of TANF applicants in 1999", "geography":"WI"}
+,{"dataset_name":"Milwaukee TANF data", "geography":"WI"}
+,{"dataset_name":"Milwaukee TANF", "geography":"WI"}
+,{"dataset_name":"Child welfare data", "geography":"WI"}
+,{"dataset_name":"Wisconsin W-2 data", "geography":"WI"}
+,{"dataset_name":"Wisconsin W-2", "geography":"WI"}
+,{"dataset_name":"WI W-2 data", "geography":"WI"}
+,{"dataset_name":"WI W-2", "geography":"WI"}
+,{"dataset_name":"Child support data", "geography":"WI"}
+,{"dataset_name":"Child support", "geography":"WI"}
+,{"dataset_name":"Milwaukee TANF data", "geography":"WI"}
+,{"dataset_name":"Milwaukee TANF", "geography":"WI"}
+,{"dataset_name":"Child welfare data", "geography":"WI"}
+,{"dataset_name":"TANF applicant data", "geography":"WI"}
+,{"dataset_name":"TANF data", "geography":"WI"}
+,{"dataset_name":"Child welfare data", "geography":"WI"}
+,{"dataset_name":"Child welfare", "geography":"WI"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in CO from 2002", "geography":"CO"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in Colorado from 2002", "geography":"CO"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in DC from 2002", "geography":"DC"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002", "geography":"DC"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in IL from 2002", "geography":"IL"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in Illinois from 2002", "geography":"IL"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in MD from 2002", "geography":"MD"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in Maryland from 2002", "geography":"MD"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in MO from 2002", "geography":"MO"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in Montana from 2002", "geography":"MO"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in SC from 2002", "geography":"SC"}
+,{"dataset_name":"Statewide surveys of single-parent TANF recipients in South Carolina from 2002", "geography":"SC"}
+,{"dataset_name":"Devolution and Urban Change", "geography":"FL"}
+,{"dataset_name":"Cuyahoga TANF data", "geography":"FL"}
+,{"dataset_name":"Cuyahoga TANF", "geography":"FL"}
+,{"dataset_name":"Los Angeles TANF data", "geography":"FL"}
+,{"dataset_name":"Los Angeles TANF", "geography":"FL"}
+,{"dataset_name":"Miami-Dade TANF data", "geography":"FL"}
+,{"dataset_name":"Miami-Dade TANF", "geography":"FL"}
+,{"dataset_name":"Philadelphia TANF data", "geography":"FL"}
+,{"dataset_name":"Philadelphia TANF", "geography":"FL"}
+,{"dataset_name":"Cuyahoga TANF data", "geography":"FL"}
+,{"dataset_name":"Cuyahoga TANF", "geography":"FL"}
+,{"dataset_name":"Cuyahoga TANF data", "geography":"FL"}
+,{"dataset_name":"Wisconsin W-2 data", "geography":"WI"}
+,{"dataset_name":"Wisconsin W-2", "geography":"WI"}
+,{"dataset_name":"Maryland TANF data", "geography":"MD"}
+,{"dataset_name":"Maryland TANF", "geography":"MD"}
+,{"dataset_name":"MD TANF data", "geography":"MD"}
+,{"dataset_name":"MD TANF", "geography":"MD"}
+,{"dataset_name":"Wisconsin state data", "geography":"WI"}
+,{"dataset_name":"Florida State TANF data", "geography":"FL"}
+,{"dataset_name":"Florida State TANF", "geography":"FL"}
+,{"dataset_name":"Florida TANF data", "geography":"FL"}
+,{"dataset_name":"Florida TANF", "geography":"FL"}
+,{"dataset_name":"Substance abuse testing data", "geography":"FL"}
+,{"dataset_name":"Substance abuse testing", "geography":"FL"}
+,{"dataset_name":"Medicaid data", "geography":"FL"}
+,{"dataset_name":"SNAP data", "geography":"FL"}
+,{"dataset_name":"Supplemental Nutrition Assistance Program data", "geography":"FL"}
+,{"dataset_name":"UI data", "geography":"FL"}
+,{"dataset_name":"Medicaid", "geography":"FL"}
+,{"dataset_name":"SNAP", "geography":"FL"}
+,{"dataset_name":"Supplemental Nutrition Assistance Program", "geography":"FL"}
+,{"dataset_name":"UI", "geography":"FL"}
+,{"dataset_name":"TANF", "geography":"OR"}
+,{"dataset_name":"TANF data", "geography":"OR"}
+,{"dataset_name":"TANF", "geography":"WI"}
+,{"dataset_name":"TANF data", "geography":"WI"}
+,{"dataset_name":"Wisconsin State earnings data", "geography":"WI"}
+,{"dataset_name":"Wisconsin State employment data", "geography":"WI"}
+,{"dataset_name":"Wisconsin State earnings", "geography":"WI"}
+,{"dataset_name":"Wisconsin State employment", "geography":"WI"}
+,{"dataset_name":"Wisconsin State administrative data", "geography":"WI"}
+,{"dataset_name":"Georgia TANF data", "geography":"GA"}
+,{"dataset_name":"Georgia TANF", "geography":"GA"}
+,{"dataset_name":"GA TANF data", "geography":"GA"}
+,{"dataset_name":"GA TANF", "geography":"GA"}
+,{"dataset_name":"DC TANF data", "geography":"DC"}
+,{"dataset_name":"DC TANF", "geography":"DC"}
+,{"dataset_name":"Missouri TANF data", "geography":"MO"}
+,{"dataset_name":"Missouri TANF", "geography":"MO"}
+,{"dataset_name":"MO TANF data", "geography":"MO"}
+,{"dataset_name":"MO TANF", "geography":"MO"}
+,{"dataset_name":"South Carolina TANF data", "geography":"SC"}
+,{"dataset_name":"South Carolina TANF", "geography":"SC"}
+,{"dataset_name":"SC TANF data", "geography":"SC"}
+,{"dataset_name":"SC TANF", "geography":"SC"}
+,{"dataset_name":"Iowa TANF data", "geography":"IA"}
+,{"dataset_name":"Iowa TANF", "geography":"IA"}
+,{"dataset_name":"IA TANF data", "geography":"IA"}
+,{"dataset_name":"IA TANF", "geography":"IA"}
+,{"dataset_name":"Ohio TANF data", "geography":"OH"}
+,{"dataset_name":"Ohio TANF", "geography":"OH"}
+,{"dataset_name":"OH TANF data", "geography":"OH"}
+,{"dataset_name":"OH TANF", "geography":"OH"}
+,{"dataset_name":"Maryland TANF data", "geography":"MD"}
+,{"dataset_name":"Maryland TANF", "geography":"MD"}
+,{"dataset_name":"MD TANF data", "geography":"MD"}
+,{"dataset_name":"MD TANF", "geography":"MD"}
+,{"dataset_name":"Salt Lake County State of Utah data", "geography":"UT"}
+,{"dataset_name":"Salt Lake County State of UT", "geography":"UT"}
+,{"dataset_name":"Cuyahoga County State of Ohio data", "geography":"OH"}
+,{"dataset_name":"Cuyahoga County State of Ohio", "geography":"OH"}
+,{"dataset_name":"Cleveland State of Ohio data", "geography":"OH"}
+,{"dataset_name":"Cleveland State of Ohio", "geography":"OH"}
+,{"dataset_name":"Florida TANF data", "geography":"FL"}
+,{"dataset_name":"Florida TANF", "geography":"FL"}
+,{"dataset_name":"Florida WAGES data", "geography":"FL"}
+,{"dataset_name":"Florida WAGES", "geography":"FL"}
+,{"dataset_name":"Florida UI data", "geography":"FL"}
+,{"dataset_name":"Florida UI", "geography":"FL"}
+,{"dataset_name":"Florida TANF data", "geography":"FL"}
+,{"dataset_name":"Florida TANF", "geography":"FL"}
+,{"dataset_name":"Illinois TANF data", "geography":"IL"}
+,{"dataset_name":"Illinois TANF", "geography":"IL"}
+,{"dataset_name":"Cuyahoga County State of Ohio data TANF", "geography":"OH"}
+,{"dataset_name":"Cuyahoga County State of Ohio TANF data", "geography":"OH"}
+,{"dataset_name":"Cleveland State of Ohio TANF data", "geography":"OH"}
+,{"dataset_name":"Cleveland State of Ohio TANF", "geography":"OH"}
+,{"dataset_name":"California TANF data", "geography":"CA"}
+,{"dataset_name":"California TANF", "geography":"CA"}
+,{"dataset_name":"CA TANF data", "geography":"CA"}
+,{"dataset_name":"CA TANF", "geography":"CA"}
+,{"dataset_name":"Massachusetts TANF", "geography":"MA"}
+,{"dataset_name":"MA TANF", "geography":"MA"}
+,{"dataset_name":"Massachusetts TANF data", "geography":"MA"}
+,{"dataset_name":"MA TANF data", "geography":"MA"}
+,{"dataset_name":"California TANF data", "geography":"CA"}
+,{"dataset_name":"California TANF", "geography":"CA"}
+,{"dataset_name":"CA TANF data", "geography":"CA"}
+,{"dataset_name":"CA TANF", "geography":"CA"}
+,{"dataset_name":"Washington TANF data", "geography":"WA"}
+,{"dataset_name":"WA TANF", "geography":"WA"}
+,{"dataset_name":"Washington TANF", "geography":"WA"}
+,{"dataset_name":"WA state TANF", "geography":"WA"}
+,{"dataset_name":"Arizona TANF data", "geography":"AZ"}
+,{"dataset_name":"AZ TANF", "geography":"AZ"}
+,{"dataset_name":"Arizona TANF", "geography":"AZ"}
+,{"dataset_name":"AZ TANF data", "geography":"AZ"}
+,{"dataset_name":"Maryland TANF data", "geography":"MD"}
+,{"dataset_name":"Maryland TANF", "geography":"MD"}
+,{"dataset_name":"MD TANF data", "geography":"MD"}
+,{"dataset_name":"MD TANF", "geography":"MD"}
+,{"dataset_name":"New York TANF data", "geography":"NY"}
+,{"dataset_name":"New York TANF", "geography":"NY"}
+,{"dataset_name":"NY TANF data", "geography":"NY"}
+,{"dataset_name":"NY TANF", "geography":"NY"}
+,{"dataset_name":"Wisconsin TANF", "geography":"WI"}
+,{"dataset_name":"Wisconsin TANF data", "geography":"WI"}
+,{"dataset_name":"WI data", "geography":"WI"}
+,{"dataset_name":"WI TANF data", "geography":"WI"}
+,{"dataset_name":"New Jersey TANF", "geography":"NJ"}
+,{"dataset_name":"New Jersey TANF data", "geography":"NJ"}
+,{"dataset_name":"NJ TANF", "geography":"NJ"}
+,{"dataset_name":"NJ TANF data", "geography":"NJ"}
+,{"dataset_name":"Family Program Development data", "geography":"NJ"}
+,{"dataset_name":"Family Program Development", "geography":"NJ"}
+,{"dataset_name":"Alabama Progress and Services Report", "geography":"AL"}
+,{"dataset_name":"California County TANF", "geography":"CA"}
+,{"dataset_name":"CalWORKS recipients earning report", "geography":"CA"}
+,{"dataset_name":"Georgia DFCS", "geography":"GA"}
+,{"dataset_name":"Georgia Department of Family and Child Services", "geography":"GA"}
+,{"dataset_name":"Michigan Department of Health and Human Services", "geography":"MI"}
+,{"dataset_name":"Michigan DHS", "geography":"MI"}
+,{"dataset_name":"Michigan TANF", "geography":"MI"}
+,{"dataset_name":"SSRC", "geography":"CO"}
+,{"dataset_name":"Self-Sufficiency Research Clearinghouse", "geography":"CO"}
+,{"dataset_name":"Minnesota Family Investment Program", "geography":"MN"}
+,{"dataset_name":"MFIP", "geography":"MN"}
+,{"dataset_name":"Virginia TANF", "geography":"VA"}
+,{"dataset_name":"VA TANF", "geography":"VA"}
+,{"dataset_name":"VZentK"}
+,{"dataset_name":"BISTA"}
+,{"dataset_name":"USTAN"}
+,{"dataset_name":"CSDB"}
 ]
