@@ -3,6 +3,10 @@ Extracting metadata on publications, datasets and persons, and drawing relations
 
 ## Generating Metadata
 
+### Accessing the Dimensions API
+`import metadata_funs`
+`api_client = metadata_funs.create_api_client()`
+
 ### Datasets
 `gen_datasets.py` pulls dataset names from multiple sources, and outputs metadata to `datasets.json`
 
