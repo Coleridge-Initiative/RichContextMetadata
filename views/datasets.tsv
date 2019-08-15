@@ -1,0 +1,261 @@
+dataset_id	adrf_id	title
+dataset-3911ab3b8cd783638c80	adrf-000001	Illinois Department of Corrections DOC Inmate Admissions
+dataset-399eb34bf0abeaea5c05	adrf-000002	Illinois Department of Corrections DOC Inmate Exits
+dataset-4fd95d295a4c358111b9	adrf-000003	Illinois Department of Employment Security IDES Unemployment Insurance UI wage records
+dataset-18db91ec72516e0cfe22	adrf-000004	US Department of Housing and Urban Development Program Microdata Individuals Illinois
+dataset-239ae77eb4a6c5ca3cb2	adrf-000034	Illinois Department of Employment Security IDES Employer records
+dataset-d9ed397fcc996cc6a8c3	adrf-000035	Illinois Department of Employment Security IDES establishment data addendum to employer records
+dataset-4dd532f9181e38935fb6	adrf-000036	Illinois Department of Corrections DOC Parolee address data
+dataset-ae9cb479699853e7cc73	adrf-000037	US Department of Housing and Urban Development Program Microdata Households Illinois
+dataset-3541d6c8da5e5ebe7404	adrf-000055	IL Corrections Industries Training dataset
+dataset-30872c929e52707c5285	adrf-000075	Illinois Department of Corrections IDOC SPSS Holding Codes HCLASS and Education Level EDUCLVL
+dataset-bba637a470944165d789	adrf-000085	Illinois Department of Corrections Person Relation Table
+dataset-b6121d92ee2e8d2e9ceb	adrf-000061	Illinois Department of Human Services IDHS PointInTime Files Time Invariant Characteristics
+dataset-61ec00cd51f5c9a4064d	adrf-000062	Illinois Department of Human Services IDHS Head of Household Files
+dataset-138d7e9c7c6b9f0d60dd	adrf-000063	Illinois Department of Human Services IDHS Spell Files TimeVarying Characteristics
+dataset-231c4ee26033c1716db0	adrf-000064	Understanding the Transition from Cash Assistance Receipt to Employment
+dataset-9fe3f044ba1e21deeb72	adrf-000069	US Department of Housing and Urban Development Program Microdata Individuals New York
+dataset-905a158d425ba20614b6	adrf-000070	US Department of Housing and Urban Development Program Microdata Households New York
+dataset-e203958e655c7078fab1	adrf-000074	Illinois Department of Human Services IDHS Cases Cancelled Due to Earnings and Newly Employed
+dataset-a2419b9825d56429b606	adrf-000096	Missouri Unemployment Insurance UI wage
+dataset-3e1e91e46b6d6f06af8e	adrf-000097	Missouri Census LEHD Employer records
+dataset-81f8886cd3380ed9d686	adrf-000098	Kansas City Missouri Water Customer Data
+dataset-afc5e481b1e2e80d7459	adrf-000101	The Kansas City Star Full Text Business Section Articles May April
+dataset-b37988c93c45ee17f736	adrf-000102	Kansas City Missouri census tracts with flag for East or West of Troost Street
+dataset-5b1f3df3c312a1a7bbaf	adrf-000103	Kansas City Police Department Crime Data
+dataset-f564dc48944232f4561b	adrf-000119	Indiana wage records by quarter
+dataset-f9216235639898818e3a	adrf-000120	Indiana wage records by employer
+dataset-f6fd1fe87a6d62c5ae56	adrf-000121	Indiana Public Higher Education Enrollments Through
+dataset-22c4760d06de76b0837e	adrf-000122	Indiana Public Higher Education Degree Completions Through
+dataset-a2419b9825d56429b606	adrf-000096	Missouri Unemployment Insurance UI wage
+dataset-3e1e91e46b6d6f06af8e	adrf-000097	Missouri Census LEHD Employer records
+dataset-a9edbed42751793ab776	adrf-000123	Missouri Department of Higher Education DHE Term Registrations
+dataset-2a95bbc2270d465d37bb	adrf-000124	Missouri Department of Higher Education DHE Enrollments
+dataset-051b010207df0e686889	adrf-000125	Missouri Department of Higher Education DHE Completions
+dataset-f39214e45c2263ce502a	adrf-000126	Missouri Department of Corrections DOC Classes
+dataset-1b08295dfc7989b599d1	adrf-000127	Missouri Department of Corrections DOC Releases
+dataset-db3dd2371bca5a7b2426	adrf-000128	Missouri Department of Corrections DOC Hashed SSN to Hashed MO DOC ID Crosswalk
+dataset-023686240bfc438fb8df	adrf-000129	Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Claims
+dataset-caf3e5ee015fce92499a	adrf-000130	Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Payments
+dataset-f442e418ac191ac60f7f	adrf-000117	IRI Consumer Network
+dataset-114d72893306f1c4e103	adrf-000118	IRI InfoScan
+dataset-9238232b36ab07c26f10	demo-001001	FoodAPS
+dataset-b30cddc82b6232a160fc	demo-001002	WIC
+dataset-b86a78e33e05bceecbb4	demo-001003	SNAP
+dataset-c9813a4a22d78df4448c		External Position of Banks
+dataset-01bf466ee1063265fc2c		Quarterly borrower statistics
+dataset-c736c76cfab3f524143b		Corporate balance sheets USTAN
+dataset-eda26f226a5fa01ec1db		Securities Holdings Statistics Base
+dataset-1f9fd88dff048559b589		Panel on Household Finances
+dataset-6db036ef0ee9f1bb14b8		Investment Funds Statistics Base
+dataset-47eaf9ed1d2826c135dc		MFI Interest Rate Statistics
+dataset-0a4825edb87990c4647e		OECD Survey on Adult Financial Literacy in Germany
+dataset-f9c905bfb33bc3d1daf7		BAKISM
+dataset-7ea821e487a964da29a0		Monthly balance sheet statistics BISTA
+dataset-e7b9d1f1cba347c622c1		Statistics of the banks profit and loss accounts
+dataset-25898c22b57d765ac43b		Microdatabase Direct Investment
+dataset-14c852c65a9f502d1e0b		Statistics on International Trade in Services
+dataset-629f32acb2f402664dda		Zentralkartei Banken ZentK
+dataset-9e3d0690099fb6cc9263		Bank Lending Survey
+dataset-5303a5a6d3acf9fe1cae		MiMiK
+dataset-2449d2efb5e219ea0a69		Payment behaviour in Germany
+dataset-5e68c131044ca7b7b916		Centralised Securities Database CSDB
+dataset-b0bead6982659695923f		TARGET
+dataset-efe9a6261c85b0fd7bf1		Annual Distress Database of the Deutsche Bundesbank
+dataset-cabf79ada7abf806816e		Milwaukee County, WI longitudinal data of TANF applicants in 1999
+dataset-8618656f011cd750fe28		Cleveland State of Ohio
+dataset-95339a649d2955fe999c		WA TANF
+dataset-9bd32efcee4dd6716258		CA TANF data
+dataset-eb80ce49e93d36f042d4		Temporary Assistance for Needy Families
+dataset-337dd38f4834384d0b0d		Washington child welfare and TANF administrative data
+dataset-5d5efc0adf04325afa01		NY TANF
+dataset-eb49bcedca31cf2724d7		VA TANF
+dataset-edc1913a9fa2093573f2		Maryland TANF
+dataset-e181ff6c12ed3b61e7ab		New York TANF
+dataset-97463f275a1fc44e14ed		MO TANF data
+dataset-201003f85110c805b05a		Program model information from Minneapolis
+dataset-4bd078ae0b9bed5c14fd		Program model information from Hennepin County
+dataset-ded3ca3af4ed730dcc7d		Supplemental Nutrition Assistance Program data
+dataset-f35dda800772ed8fce56		IA TANF
+dataset-727e5a4db401bf77fb24		KY TANF data
+dataset-ca3030c849ab20c16c53		New York TANF data
+dataset-cc7f4dcd36ec2309be6a		Missouri TANF data
+dataset-ee6e04bac7d5a389acf7		MD TANF
+dataset-4d6dc111983f372ff8be		Wisconsin child support
+dataset-ffa1e4fd3198285a5f02		STEP
+dataset-567d6c154e99a2a05260		Alabama Progress and Services Report
+dataset-37a11cf304057b30719a		Kentucky TANF data
+dataset-4d84064af8d62e9709c8		Corporate balance sheets
+dataset-e9132e2ac1b5d127c518		Arizona TANF data
+dataset-556f1d2b77cf59679062		DC TANF
+dataset-a803b6a89fa50f334295		NY administrative data
+dataset-54538dfce0794e3fa649		Statewide surveys of single-parent TANF recipients in Maryland from 2002
+dataset-85e723325c8e3226cf8a		Current population survey data
+dataset-01c086a31edb6f606e89		National Directory of New Hires
+dataset-542544d16cb04b9e9fd2		Program model information from Twin Cities
+dataset-ac5b5202e1735e12220e		Minnesota Family Investment Program
+dataset-aa2d9e2f258a849c49a2		UI administrative Data
+dataset-0fdcd201ffd76dec5f43		Program model information from New York City
+dataset-9c34d065b25c6408e51f		Medicaid
+dataset-58b418a8a9a21598922a		California TANF
+dataset-ae013835bcac51b843ef		Maryland TANF data
+dataset-df6a617500e94eea080f		Cleveland State of Ohio data
+dataset-66a074be08bbd2adfddf		Securities Holdings Statistics - Base
+dataset-d92690e17976b0e83093		Wisconsin TANF data
+dataset-5f86a18b413dc36fcb00		WI W-2
+dataset-a36f6ad704e6e739a30b		Florida State TANF
+dataset-1c9ba8a00fb38ca4b5e5		SC TANF data
+dataset-54e21890db3202a8280a		Michigan Department of Health and Human Services
+dataset-502fcff2ac022913607e		Missouri TANF
+dataset-6f1faf50d16e25393bed		Cleveland State of Ohio TANF
+dataset-c1e1492536d4e597cde9		IA TANF data
+dataset-c4530bd6fff04cbf54ce		Statewide surveys of single-parent TANF recipients in MO from 2002
+dataset-739f30ca219caf9602de		Miami-Dade TANF
+dataset-9c2bf9eb10fcd4fe6050		Statewide surveys of single-parent TANF recipients in MD from 2002
+dataset-c50e3e312750cd9d9fd7		WI TANF data
+dataset-a02b583916ca73b9cb1c		SNAP data
+dataset-4c1967d7efa0bbb3272d		Salt Lake County State of UT
+dataset-da8b966c5e95977f2453		Florida UI data
+dataset-9081a1b4221c6e58135b		Program model information from NYC
+dataset-a34e9becdeee90c28f64		Family Program Development
+dataset-51eccd8252ca7297c2b8		South Carolina TANF
+dataset-b3fa3c6c205c10a76ee7		Ohio TANF
+dataset-b9998bbe33103173cf37		TANF data
+dataset-570e23a20f69e7b36727		Centralised Securities Database
+dataset-39222c14a9a29eeede22		Food Stamp Data
+dataset-b428d038ff60abd2a041		Wisconsin State employment data
+dataset-e395095a71d19ef06d1f		USTAN
+dataset-72895932b145e7f0fd61		Philadelphia TANF data
+dataset-a18571f0bf093b97e705		Success Through Employment Preparation
+dataset-afe5b0f977d4891b6cf6		Program model information from Nebraska
+dataset-6efc1ca108517f831674		New Jersey TANF
+dataset-136eb4c64336badd5801		Cuyahoga County State of Ohio
+dataset-d5dc0139ecec4cee520e		California TANF data
+dataset-7134d90d881b0250d180		Child welfare
+dataset-5665c02e65477b817ea9		Florida TANF data
+dataset-d8c616a5b47d7ceb1543		BISTA
+dataset-7917d3941b395a6a1d20		Milwaukee TANF
+dataset-a0927e3061968cf2b3bb		Cuyahoga County State of Ohio data
+dataset-febc5377d75a86a62af5		Supplemental Nutrition Assistance Program
+dataset-fbcead878f65285f12a4		Program model information from Philadelphia
+dataset-f74cd5ee582692fb518b		DC TANF data
+dataset-207744e538f8dac55c7e		Cuyahoga County State of Ohio TANF data
+dataset-0add90b5966563e2c92a		BAKIS-M
+dataset-60415b82b1e64f902434		Massachusetts TANF
+dataset-83691fae0fefe72a0480		RAP
+dataset-412068ba8478946e8596		Georgia TANF data
+dataset-0388b5223e368f2e66ed		Washington TANF
+dataset-86ac29a716cadc266b45		Florida TANF
+dataset-3541d6c8da5e5ebe7404		IL Corrections Industries Training  dataset
+dataset-e855f822f77d6ea77e67		Statewide surveys of single-parent TANF recipients in DC from 2002
+dataset-ac5f43a6555edce0c952		Pennsylvania's DPW
+dataset-34f226a639af1d1242f9		CalWORKS recipients earning report
+dataset-a6c3b301f37a22a89d03		Statewide surveys of single-parent TANF recipients in South Carolina from 2002
+dataset-525bb086dcd63debef61		WI data
+dataset-8e03e5b6e19856c464d1		Iowa TANF data
+dataset-37ca76099d24b0120560		Massachusetts TANF data
+dataset-47453d69195baf18a739		Zentralkartei Banken (ZentK)
+dataset-bfd9c98c1663df071914		Statewide surveys of single-parent TANF recipients in Montana from 2002
+dataset-080e5e80c3e85d1eced3		Statewide surveys of single-parent TANF recipients in IL from 2002
+dataset-104564e3450fea1269c5		Wisconsin W-2
+dataset-e4d690be63a995715af8		Kentucky TANF
+dataset-1dcd06335deffdcec1f9		State of Ohio TANF
+dataset-4ca81ecaeac664f4a97a		NY TANF data
+dataset-ef2d9c1dda008065dc37		Statistics of the banks’ profit and loss accounts
+dataset-229320a50a2f8e1ae7a2		MO TANF
+dataset-0829ec20ae5dcaf75bd3		Program model information from Rhode Island
+dataset-60c68576af72cd77c213		TWC
+dataset-ea9bf542229e17958099		UI wage records
+dataset-642f6d03e5d1d02162c2		GA TANF
+dataset-231d1717aa3f1e25a679		South Carolina TANF data
+dataset-17286d9a5305e4976687		WA state TANF
+dataset-8a057ed4bc4f4ca72b76		Wisconsin child support data
+dataset-9e2cbdd8f5eb3f381afb		Substance abuse testing
+dataset-56d6c6c8d0043a89b348		State of Ohio TANF data
+dataset-d99b2f936c0cd813648f		NJ TANF data
+dataset-f471ad68bfcc284d345d		TANF applicant data
+dataset-0c51ce18e595ae4d4624		Illinois TANF
+dataset-3af85ce7e4c0c0a7cde5		Relocation Assistance Program
+dataset-dd87b0be88ea6e05078d		State of Michigan
+dataset-09dbabb97e3b2120d79e		AZ TANF
+dataset-a455deaa67980c25e2a8		GA TANF data
+dataset-199809e472db561f949d		Salt Lake County State of Utah data
+dataset-6afcd2054836d9112e7f		Cuyahoga TANF
+dataset-edba472be5f693589b6e		Wisconsin State earnings data
+dataset-2a8063134402630c76fd		Arizona TANF
+dataset-bdb711ea4bb6ff0a6a85		Pennsylvania's Department of Public Welfare
+dataset-beb844dc80f7f9797fd2		Florida WAGES
+dataset-6d071ff8fee05d0a32f1		Substance abuse testing data
+dataset-88cd5edbdb69ba9e57e2		Wisconsin TANF
+dataset-3f80efa43245d6fe0ce5		Los Angeles TANF data
+dataset-b6b014971f6b230ad0e4		OH TANF
+dataset-127377560874d4ba76f7		Investment Funds Statistics - Base
+dataset-9803c10db9e8b4f9b84f		Medicaid data
+dataset-2f4aab9d4cbde75c9a2a		Child Care subsidy administrative data from Washington State
+dataset-646df14d8ad53b8f4bf4		AZ TANF data
+dataset-6f77ced7b0724cda4ffe		Monthly balance sheet statistics
+dataset-152423991fcc7ea2a253		Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002
+dataset-538bc6a86fc8edda3058		Child support
+dataset-8c6d4b745399248b4d06		Georgia Department of Family and Child Services
+dataset-550aeaacf160b4a1cde2		Devolution and Urban Change
+dataset-1eac5c2c6a42839a74cf		WI W-2 data
+dataset-f1618c73faf7b15af01c		Milwaukee TANF data
+dataset-1afccf65c1594490d124		Wisconsin W-2 data
+dataset-b4c130f5a5fe4b8b8f93		NDNH
+dataset-7907fea5a0cbce7d9afa		Child welfare data
+dataset-2fd3a2bcb3bc7ac3e12e		Iowa TANF
+dataset-ec4f5846be69f4f2d99d		MA TANF
+dataset-62f6a2abb4975b883878		Women's Employment Study
+dataset-5d4b4c1514a0b48bf7b1		Wisconsin State earnings
+dataset-2cc2c2fc47368f68e328		Wisconsin State administrative data
+dataset-376d3407326d526f5be8		UI data
+dataset-e57260e630256ae6401b		Michigan TANF
+dataset-4df46ccdfbdf38237494		MFIP
+dataset-9ee63da354cfcbcb66a9		Wisconsin state data
+dataset-2c72fd9ace9a17ccf60b		Florida WAGES data
+dataset-c39150acd8ae79c11233		Miami-Dade TANF data
+dataset-16cbcc46c2fc9ac66ad9		Virginia TANF
+dataset-90c11b6f13adb5e287ce		Washington TANF data
+dataset-032afb9cfb6b6e0b659b		OH TANF data
+dataset-3db62109abadbb20e739		Statewide surveys of single-parent TANF recipients in SC from 2002
+dataset-c66ff7855c68a62785f5		California County TANF
+dataset-fdb07f03a0065fb43367		Georgia TANF
+dataset-b9fcacd2425ef2c948dd		Michigan DHS
+dataset-342e4c9c9a5199c1d606		Family Program Development data
+dataset-7bb569daa35440391698		Program model information from New Jersey
+dataset-d95af3e1487d85aa0cfd		Work First program data
+dataset-7336e39d209439a8178c		Cuyahoga TANF data
+dataset-36e1030d17758a724854		UI
+dataset-8058ff8d232ae1b719a3		MA TANF data
+dataset-657ca19a60a582cdebc9		Administrative and evaluation data of Florida's Family Transition Program for welfare recipients
+dataset-7616ded993653b112089		CSDB
+dataset-f69c3400ed27f059be66		Self-Sufficiency Research Clearinghouse
+dataset-828e491ddde2831b7a79		Illinois TANF data
+dataset-e17292aa9369499ffae0		Florida State TANF data
+dataset-72a4db56acd3f512aea5		Oregon Medicaid
+dataset-42370e0b53a4bdbccb6c		CA TANF
+dataset-d9fc08e6a8fa7fa2537c		MD TANF data
+dataset-e6426d601fbc9c0a48a7		Philadelphia TANF
+dataset-6b501f9bd764aaae3a29		Statewide surveys of single-parent TANF recipients in Illinois from 2002
+dataset-38acaa76bddecfc7b459		New Jersey TANF data
+dataset-7dc7015dd2a553e18650		Cuyahoga County State of Ohio data TANF
+dataset-47826db8d9c168d03d81		Florida UI
+dataset-6c07e27c89b0cbf0fed6		Cleveland State of Ohio TANF data
+dataset-59b8eed1be2c42c7e935		TANF
+dataset-4a579437b3bd3b2f963e		NJ TANF
+dataset-aacdc02fbaf4779a2c45		CPS data
+dataset-5299e0441fea55d632d3		WES
+dataset-fb99972f24e9680deac4		Wisconsin State employment
+dataset-c62deb95e2eb7da6632d		Statewide surveys of single-parent TANF recipients in Colorado from 2002
+dataset-ace48ba3e45359075a1c		Exit survey information
+dataset-7c8b195c7ceaf45243bd		Child support data
+dataset-39c604494fced1a680fa		SC TANF
+dataset-d286825233d8b74533c6		KY TANF
+dataset-a14d8b91e78708c7730a		SSRC
+dataset-3cf6888843087b45d4cf		Statewide surveys of single-parent TANF recipients in CO from 2002
+dataset-7896b984ec566be14868		VZentK
+dataset-2cd9a3d705e6ff353ef0		Los Angeles TANF
+dataset-6675463606e98311f796		TARGET2
+dataset-6129a403fcb4bc8a5ce9		Ohio TANF data
+dataset-5b18c87325159a311fa1		Transitional Work Corporation
+dataset-78669389f29b45750c72		Georgia DFCS
