@@ -1,12 +1,127 @@
 [
     {
+      "id": "dataset-3c575fa6e18c6d130c4f",
+      "publisher": "Centers for Disease Control and Prevention",
+      "title": "National Health and Nutrition Examination Survey 1971-1974",
+      "alt_title": "NHANES I",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes1/default.aspx"
+    },
+    {
+      "id": "dataset-265b411623409ff9de3b",
+      "publisher": "Centers for Disease Control and Prevention",
+      "title": "National Health and Nutrition Examination Survey 1976-1980",
+      "alt_title": "NHANES II",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes2/default.aspx"
+    },
+    {
+      "id": "dataset-54ba00ce9ce7a8f91c75",
+      "publisher": "Centers for Disease Control and Prevention",
+      "title": "National Health and Nutrition Examination Survey 1988-1994",
+      "alt_title": "NHANES III",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes1/default.aspx"
+    },
+    {
+      "id": "dataset-3c87692e90a2461f83a5",
+      "publisher": "Harvard Dataverse",
+      "title": "Established Populations for Epidemiologic Studies of the Elderly",
+      "alt_title": "EPESE",
+      "doi": "10.7910/DVN/1ERQJX",
+      "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12726"
+    },
+    {
+      "id": "dataset-2cea7e830ce94a923473",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Credit register of loans of €1.5 million or more",
+      "alt_title": "MiMiK",
+      "url": "https://www.bundesbank.de/en/tasks/banking-supervision/individual-aspects/lending-business/credit-register-of-loans-of-1-5-million-or-more-622624"
+    },
+    {
+      "id": "dataset-515a08e38c69762ff789",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Prudential information system",
+      "alt_title": "BAKIS",
+      "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-supervision"
+    },
+    {
+      "id": "dataset-fde9bad4eebfaf01b9a2",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Interest rates and yields",
+      "url": "https://www.bundesbank.de/en/statistics/money-and-capital-markets/interest-rates-and-yields/interest-rates-and-yields-793418"
+    },
+    {
+      "id": "dataset-a755ac27b9721267c39b",
+      "publisher": "RAND Center for the Study of Aging",
+      "title": "Health and Retirement Study",
+      "alt_title": "HRS",
+      "url": "https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/dataprod.html"
+    },
+    {
+      "id": "dataset-0b739bd83bc73c8ea4e1",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Microdatabase Direct investment",
+      "alt_title": "MiDi",
+      "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/microdatabase-direct-investment-midi-mikrodatenbank-direktinvestitionen--618076"
+    },
+    {
+      "id": "dataset-564259cedfd998549ae9",
+      "publisher": "Deutsche Bundesbank",
+      "title": "External position report",
+      "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics-form-centre/external-position-report-618128"
+    },
+    {
+      "id": "dataset-ac5c4e48d877709b0d3f",
+      "publisher": "European Central Bank",
+      "title": "MFI statistical report",
+      "url": "https://www.ecb.europa.eu/stats/money/mfi/general/html/statrep.en.html"
+    },
+    {
+      "id": "dataset-3fe843e490beb7a18b26",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Banks' profit and loss accounts",
+      "url": "https://www.bundesbank.de/en/statistics/banks-and-other-financial-corporations/banks/banks-profit-and-loss-accounts/banks-profit-and-loss-accounts-793892"
+    },
+    {
+      "id": "dataset-f0cbc5bf6734ac24dde6",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Securities holdings statistics",
+      "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics/securities-holdings-statistics-620174"
+    },
+    {
+      "id": "dataset-448ac11e0b84f73e9d52",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Interest rates on deposits and loans",
+      "alt_title": "Zinsstatistik",
+      "url": "https://www.bundesbank.de/en/statistics/money-and-capital-markets/interest-rates-and-yields/interest-rates-on-deposits-and-loans"
+    },
+    {
+      "id": "dataset-1c4bd6e13d3c15e578fa",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Monthly balance sheet statistics",
+      "url": "https://www.bundesbank.de/en/service/reporting-systems/banking-statistics/monthly-balance-sheet-statistics-620110"
+    },
+    {
+      "id": "dataset-65f1bd30090f004fb1ba",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Balance of payments",
+      "url": "https://www.bundesbank.de/en/statistics/external-sector/balance-of-payments/balance-of-payments-776588"
+    },
+    {
+      "id": "dataset-2b4bcbd0e00931b60b49",
+      "publisher": "Deutsche Bundesbank",
+      "title": "Statistics on International Trade in Services",
+      "alt_title": "SITS",
+      "url": "https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data/statistics-on-international-trade-in-services-sits--618084"
+    },
+    {
       "id": "dataset-a58edecf666ec74fdbaf",
       "publisher": "IRI",
-      "title": "IRI Consumer Network"
+      "title": "IRI Consumer Network",
+      "url": "https://www.iriworldwide.com/en-US/Solutions/Media/Media-Solutions/Consumer"
     },
     {
       "id": "dataset-11a95bfc951f7d23206a",
       "publisher": "IRI",
-      "title": "IRI Infoscan"
+      "title": "IRI Infoscan",
+      "url": "https://www.iriworldwide.com/en-US/Solutions/Retail"
     }
 ]
