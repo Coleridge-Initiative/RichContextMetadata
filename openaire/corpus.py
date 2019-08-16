@@ -2,6 +2,7 @@
 # encoding: utf-8
 
 import hashlib
+import rdflib
 import unicodedata
 
 
@@ -57,3 +58,13 @@ def scrub_unicode (text):
         print("not a string?", type(x), x)
 
     return x
+
+
+if __name__ == "__main__":
+    # load the graph
+    filename = "corpus.ttl"
+    graph = rdflib.Graph().parse(filename, format="n3")
+
+    # enumerate all of the relations
+    for subj, pred, obj in graph:
+        print(subj, pred, obj)
