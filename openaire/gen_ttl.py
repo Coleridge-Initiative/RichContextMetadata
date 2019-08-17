@@ -118,7 +118,7 @@ if __name__ == "__main__":
     graph.parse(filename, format="n3")
 
     ## transform graph into JSON-LD
-    with open("vocab.json", "r") as f:
+    with open("corpus/vocab.json", "r") as f:
         context = json.load(f)
 
     with open("tmp.jsonld", "wb") as f:
