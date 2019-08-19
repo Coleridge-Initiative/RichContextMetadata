@@ -226,7 +226,7 @@
     },
     {
         "doi": "doi:10.1515/jos-2017-0021",
-        "publisher": "Journal of Official Statistics",
+        "publisher": "Journal of Statistics Sweden",
         "title": "The Influence of an Up-Front Experiment on Respondents\u2019 Recording Behaviour in Payment Diaries: Evidence from Germany",
         "url": "http://www.degruyter.com/view/j/jos.2017.33.issue-2/jos-2017-0021/jos-2017-0021.xml?format=INT",
         "pdf": "https://content.sciendo.com/downloadpdf/journals/jos/33/2/article-p427.xml",
@@ -370,11 +370,14 @@
         ]
     },
     {
+        "comment": "2019-08-17 PXN: manual edit to correct: RCC dataset ref 1287",
         "doi": "doi:10.1007/s00181-013-0708-3",
         "publisher": "Empirical Economics",
         "title": "Choosing and using payment instruments: evidence from German microdata",
         "url": "http://hdl.handle.net/10419/153578",
         "pdf": "https://www.econstor.eu/bitstream/10419/153578/1/ecbwp1144.pdf",
-        "datasets": []
+        "datasets": [
+	    "dataset-44063629e96b00629efa"
+        ]
     }
 ]

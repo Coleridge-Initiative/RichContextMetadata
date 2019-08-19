@@ -2616,7 +2616,7 @@
   "pub_id": 905,
   "doi": "doi:10.1093/geronb/54B.3.S136",
   "title": "At Risk on the Cusp of Old Age: Living Arrangements and Functional Status Among Black, White and Hispanic Adults",
-  "publisher": "J Gerontol B Psychol Sci Soc Sci.",
+  "publisher": "J Gerontol B Psychol Sci Soc Sci",
   "url": "https://europepmc.org/articles/PMC1201047/",
   "pdf": "https://europepmc.org/articles/PMC1201047?pdf=render",
   "rcc_cite": [
@@ -12838,7 +12838,7 @@
 ,
 {
   "pub_id": 2816,
-  "doi": "bbk-65",
+  "doi": "isbn:978-3-86558-856-2",
   "title": "Diversification and determinants of international credit portfolios: Evidence from German banks",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/65861",
@@ -12865,9 +12865,9 @@
 ,
 {
   "pub_id": 2821,
-  "doi": "bbk-70",
+  "doi": "doi:10.5282/ubm/epub.13340",
   "title": "FDI and Domestic Investment: An Industry-Level View",
-  "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems M\u00fcnchen",
+  "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
   "url": "http://hdl.handle.net/10419/94017",
   "pdf": "https://www.econstor.eu/bitstream/10419/94017/1/sfb-tr15-dp212.pdf",
   "rcc_cite": [
@@ -12877,11 +12877,11 @@
 ,
 {
   "pub_id": 2823,
-  "doi": "bbk-72",
+  "doi": "RePEc:zbw:bubdp1:5197",
   "title": "Industries and the bank lending effects of bank credit demand and monetary policy in Germany",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
-  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2785275",
-  "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/19677.pdf?abstractid=2785275&mirid=1&type=2",
+  "publisher": "METEOR, Maastricht University School of Business and Economics",
+  "url": "https://ideas.repec.org/p/zbw/bubdp1/5197.html",
+  "pdf": "https://www.econstor.eu/bitstream/10419/19677/1/200648dkp.pdf",
   "rcc_cite": [
     306
   ]
@@ -12913,10 +12913,11 @@
 ,
 {
   "pub_id": 2827,
-  "doi": "bbk-76",
+  "doi": "isbn:978-3-95729-037-3",
   "title": "Consumer cash usage: A cross-country comparison with payment diary survey data",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/100037",
+  "pdf": "https://www.econstor.eu/bitstream/10419/100037/1/791673510.pdf",
   "rcc_cite": [
     1287
   ]
@@ -12959,7 +12960,7 @@
 ,
 {
   "pub_id": 2836,
-  "doi": "bbk-85",
+  "doi": "isbn:978-3-95729-206-3",
   "title": "Cyclicality of SME lending and government involvement in banks",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/123697",
@@ -12972,7 +12973,7 @@
 ,
 {
   "pub_id": 2839,
-  "doi": "bbk-88",
+  "doi": "isbn:978-3-86558-537-0",
   "title": "Does lowering dividend tax rates increase dividends repatriated?: evidence of intra-firm cross-border dividend repatriation policies by German Multinational Enterprises",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/27745",
@@ -12985,7 +12986,7 @@
 ,
 {
   "pub_id": 2842,
-  "doi": "bbk-92",
+  "doi": "isbn:978-3-86558-563-9",
   "title": "Determinants for using visible reserves in German banks: an empirical study",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/28393",
@@ -12997,7 +12998,7 @@
 ,
 {
   "pub_id": 2844,
-  "doi": "bbk-94",
+  "doi": "isbn:978-3-95729-015-1",
   "title": "Earnings baths by bank CEOs during turnovers",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/93086",
@@ -13031,7 +13032,7 @@
 ,
 {
   "pub_id": 2861,
-  "doi": "bbk-111",
+  "doi": "doi:10.2139/ssrn.392681",
   "title": "Determinants of German FDI: New Evidence from Micro-Data",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19597",
@@ -13043,9 +13044,9 @@
 ,
 {
   "pub_id": 2864,
-  "doi": "bbk-114",
+  "doi": "RePEc:ces:ceswps:_1959",
   "title": "Intercompany Loans and Profit Shifting \u2013 Evidence from Company-Level Data",
-  "publisher": "Munich: Center for Economic Studies and Ifo Institute (CESifo)",
+  "publisher": "Center for Economic Studies and Ifo Institute",
   "url": "http://hdl.handle.net/10419/26004",
   "pdf": "https://www.econstor.eu/bitstream/10419/26004/1/538093242.PDF",
   "rcc_cite": [
@@ -13055,7 +13056,7 @@
 ,
 {
   "pub_id": 2866,
-  "doi": "bbk-116",
+  "doi": "isbn:978-3-95729-041-0",
   "title": "Quantifying the components of the banks' net interest margin",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/100036",
@@ -13069,9 +13070,9 @@
 ,
 {
   "pub_id": 2868,
-  "doi": "bbk-118",
+  "doi": "isbn:978-3-86558-378-9",
   "title": "The impact of thin-capitalization rules on multinationals' financing and investment decisions",
-  "publisher": "Munich: Center for Economic Studies and Ifo Institute (CESifo)",
+  "publisher": "Center for Economic Studies and Ifo Institute",
   "url": "http://hdl.handle.net/10419/19715",
   "pdf": "https://www.econstor.eu/bitstream/10419/19715/1/200803dkp.pdf",
   "rcc_cite": [
@@ -13081,10 +13082,10 @@
 ,
 {
   "pub_id": 2869,
-  "doi": "bbk-119",
+  "doi": "doi:10.1007/s10797-006-8721-5",
   "title": "Tax incentives and the location of FDI: evidence from a panel of German multinationals",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
-  "url": "http://hdl.handle.net/10419/24083",
+  "publisher": "International Tax and Public Finance",
+  "url": "https://doi.org/10.1007/s10797-006-8721-5",
   "pdf": "https://www.econstor.eu/bitstream/10419/24083/1/dp0476.pdf",
   "rcc_cite": [
     339
@@ -13108,7 +13109,7 @@
   "pub_id": 2872,
   "doi": "bbk-122",
   "title": "Historical Antisemitism, Ethnic Specialization, and Financial Development",
-  "publisher": "Munich: Center for Economic Studies and Ifo Institute (CESifo)",
+  "publisher": "Center for Economic Studies and Ifo Institute",
   "url": "http://centaur.reading.ac.uk/75714/1/paper_ethnic_conflict_new.pdf",
   "rcc_cite": [
     330
@@ -13128,9 +13129,9 @@
 ,
 {
   "pub_id": 2876,
-  "doi": "bbk-126",
+  "doi": "doi:10.2139/ssrn.1687615",
   "title": "Sector concentration in loan portfolios and economic capital",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": " National Bank of Belgium",
   "url": "http://hdl.handle.net/10419/144318",
   "pdf": "https://www.econstor.eu/bitstream/10419/144318/1/wp105.pdf",
   "rcc_cite": [
@@ -13140,7 +13141,7 @@
 ,
 {
   "pub_id": 2879,
-  "doi": "bbk-129",
+  "doi": "isbn:978-3-86558-388-8",
   "title": "Analyzing the interest rate risk of banks using time series of accounting-based data: evidence from Germany",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19778",
@@ -13152,9 +13153,9 @@
 ,
 {
   "pub_id": 2880,
-  "doi": "bbk-130",
+  "doi": "RePEc:zbw:bubdp1:7569",
   "title": "The price of liquidity: bank characteristics and market conditions",
-  "publisher": "Munich: Center for Economic Studies and Ifo Institute (CESifo)",
+  "publisher": "Center for Economic Studies and Ifo Institute",
   "url": "http://hdl.handle.net/10419/26621",
   "pdf": "https://www.econstor.eu/bitstream/10419/26621/1/595167675.PDF",
   "rcc_cite": [
@@ -13175,7 +13176,7 @@
 ,
 {
   "pub_id": 2882,
-  "doi": "bbk-132",
+  "doi": "isbn:978-3-95729-202-5",
   "title": "The credit quality channel: Modeling contagion in the interbank market",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/122192",
@@ -13199,10 +13200,10 @@
 ,
 {
   "pub_id": 2890,
-  "doi": "bbk-140",
+  "doi": "doi:10.1093/jeea/jvx054",
   "title": "The organization of knowledge in multinational firms",
-  "publisher": "ZBW - Deutsche Zentralbibliothek f\u00fcr Wirtschaftswissenschaften, Leibniz-Informationszentrum Wirtschaft Kiel und Hamburg",
-  "url": "http://hdl.handle.net/10419/121462",
+  "publisher": "Journal of the European Economic Association",
+  "url": "https://academic.oup.com/jeea/article-abstract/16/6/1929/4904295",
   "pdf": "https://www.econstor.eu/bitstream/10419/121462/1/837897491.pdf",
   "rcc_cite": [
     339
@@ -13211,9 +13212,9 @@
 ,
 {
   "pub_id": 2893,
-  "doi": "bbk-143",
+  "doi": "doi:10.1007/s10693-007-0017-0",
   "title": "Does diversification improve the performance of German banks? Evidence from individual bank loan portfolios",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Journal of Financial Services Research",
   "url": "http://hdl.handle.net/10419/19752",
   "pdf": "https://www.econstor.eu/bitstream/10419/19752/1/200605dkp_b.pdf",
   "rcc_cite": [
@@ -13224,9 +13225,9 @@
 ,
 {
   "pub_id": 2894,
-  "doi": "bbk-144",
+  "doi": "RePEc:ces:ceswps:_5414",
   "title": "At Your Service! The Role of Tax Havens in International Trade with Services",
-  "publisher": "Center for Economic Studies and Ifo Institute (CESifo) Munich",
+  "publisher": "Center for Economic Studies and Ifo Institute",
   "url": "http://hdl.handle.net/10419/113740",
   "pdf": "https://www.econstor.eu/bitstream/10419/113740/1/cesifo_wp5414.pdf",
   "rcc_cite": [
@@ -13236,7 +13237,7 @@
 ,
 {
   "pub_id": 2898,
-  "doi": "bbk-148",
+  "doi": "doi:10.2139/ssrn.493723",
   "title": "Does capital regulation matter for bank behaviour? Evidence for German savings banks",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19730",
@@ -13248,7 +13249,7 @@
 ,
 {
   "pub_id": 2900,
-  "doi": "bbk-150",
+  "doi": "RePEc:zbw:bubdp1:4235",
   "title": "Trade balances of the central and east European EU member states and the role of foreign direct investment",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19626",
@@ -13260,7 +13261,7 @@
 ,
 {
   "pub_id": 2901,
-  "doi": "bbk-151",
+  "doi": "978-3-86558-503-5",
   "title": "Why do savings banks transform sight deposits into illiquid assets less intensively than the regulation allows?",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/27688",
@@ -13272,9 +13273,9 @@
 ,
 {
   "pub_id": 2902,
-  "doi": "bbk-152",
+  "doi": "doi:10.2139/ssrn.3164103",
   "title": "Transfer pricing as tax avoidance under different legislative schemes",
-  "publisher": "ZBW - Deutsche Zentralbibliothek f\u00fcr Wirtschaftswissenschaften, Leibniz-Informationszentrum Wirtschaft Kiel und Hamburg",
+  "publisher": "Verein für Socialpolitik",
   "url": "http://hdl.handle.net/10419/145929",
   "pdf": "https://www.econstor.eu/bitstream/10419/145929/1/VfS_2016_pid_7072.pdf",
   "rcc_cite": [
@@ -13320,9 +13321,9 @@
 ,
 {
   "pub_id": 2908,
-  "doi": "bbk-158",
+  "doi": "doi:10.5282/ubm/epub.13339",
   "title": "Who is afraid of political risk? Multinational firms and their choice of capital structure",
-  "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems M\u00fcnchen",
+  "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
   "url": "http://hdl.handle.net/10419/94181",
   "pdf": "https://www.econstor.eu/bitstream/10419/94181/1/sfb-tr15-dp213.pdf",
   "rcc_cite": [
@@ -13332,9 +13333,9 @@
 ,
 {
   "pub_id": 2909,
-  "doi": "bbk-159",
+  "doi": "doi:10.1016/j.jfs.2007.04.003",
   "title": "Slippery slopes of stress: ordered failure events in German banking",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Journal of Financial Stability",
   "url": "http://hdl.handle.net/10419/19762",
   "pdf": "https://www.econstor.eu/bitstream/10419/19762/1/200703dkp_b_.pdf",
   "rcc_cite": [
@@ -13345,7 +13346,7 @@
 ,
 {
   "pub_id": 2910,
-  "doi": "bbk-160",
+  "doi": "isbn:978-3-95729-393-0",
   "title": "Do all new brooms sweep clean? Evidence for outside bank appointments",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/168589",
@@ -13357,9 +13358,9 @@
 ,
 {
   "pub_id": 2911,
-  "doi": "bbk-161",
+  "doi": "doi:10.1093/rof/rfu019",
   "title": "Bank risk taking and competition: Evidence from regional banking markets",
-  "publisher": "ZBW - Deutsche Zentralbibliothek f\u00fcr Wirtschaftswissenschaften, Leibniz-Informationszentrum Wirtschaft Kiel und Hamburg",
+  "publisher": "Review of Finance",
   "url": "http://hdl.handle.net/10419/82625",
   "pdf": "https://www.econstor.eu/bitstream/10419/82625/1/768057302.pdf",
   "rcc_cite": [
@@ -13369,9 +13370,9 @@
 ,
 {
   "pub_id": 2913,
-  "doi": "bbk-163",
+  "doi": "doi:10.1016/j.jbankfin.2006.12.009",
   "title": "Accounting for distress in bank mergers",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Journal of Banking & Finance",
   "url": "http://hdl.handle.net/10419/19742",
   "pdf": "https://www.econstor.eu/bitstream/10419/19742/1/200509dkp_b.pdf",
   "rcc_cite": [
@@ -13382,9 +13383,9 @@
 ,
 {
   "pub_id": 2914,
-  "doi": "bbk-164",
+  "doi": "doi:10.2139/ssrn.726408",
   "title": "Evaluating the German bank merger wave",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Utrecht School of Economics",
   "url": "http://hdl.handle.net/10419/19745",
   "pdf": "https://www.econstor.eu/bitstream/10419/19745/1/200512dkp_b.pdf",
   "rcc_cite": [
@@ -13395,7 +13396,7 @@
 ,
 {
   "pub_id": 2915,
-  "doi": "bbk-165",
+  "doi": "doi:10.2139/ssrn.700751",
   "title": "Measurement matters: Input price proxies and bank efficiency in Germany",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19734",
@@ -13408,7 +13409,7 @@
 ,
 {
   "pub_id": 2916,
-  "doi": "bbk-166",
+  "doi": "RePEc:zbw:bubdp2:7449",
   "title": "Real estate markets and bank distress",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/27670",
@@ -13420,7 +13421,7 @@
 ,
 {
   "pub_id": 2917,
-  "doi": "bbk-167",
+  "doi": "doi:10.2139/ssrn.958509",
   "title": "Efficient, profitable and safe banking: an oxymoron? Evidence from a panel VAR approach",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19761",
@@ -13433,10 +13434,10 @@
 ,
 {
   "pub_id": 2920,
-  "doi": "bbk-170",
+  "doi": "doi:10.1111/caje.12061",
   "title": "Export-Supporting FDI",
   "publisher": "European University Institute",
-  "url": "http://economics.ca/cgi/xms?jab=v46n4/CJEv46n4p1571.pdf",
+  "url": "http://hdl.handle.net/1814/7164",
   "pdf": "https://www.econstor.eu/bitstream/10419/27746/1/607703962.PDF",
   "rcc_cite": [
     339
@@ -13445,7 +13446,7 @@
 ,
 {
   "pub_id": 2923,
-  "doi": "bbk-173",
+  "doi": "doi:10.2139/ssrn.627842",
   "title": "How will Basel II affect bank lending to emerging markets? An analysis based on German bank level data",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19732",
@@ -13457,7 +13458,7 @@
 ,
 {
   "pub_id": 2924,
-  "doi": "bbk-174",
+  "doi": "RePEc:zbw:bubdp2:7448",
   "title": "Stress testing of real credit portfolios",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/27669",
@@ -13469,22 +13470,22 @@
 ,
 {
   "pub_id": 2926,
-  "doi": "bbk-176",
+  "doi": "doi:10.1016/j.jbankfin.2010.08.003",
   "title": "Banks' exposure to interest rate risk, their earnings from term transformation, and the dynamics of the term structure",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Journal of Banking & Finance",
   "url": "http://hdl.handle.net/10419/40693",
   "pdf": "https://www.econstor.eu/bitstream/10419/40693/1/635916479.pdf",
   "rcc_cite": [
     305,
-    306
+    "306a"
   ]
 }
 ,
 {
   "pub_id": 2927,
-  "doi": "bbk-177",
+  "doi": "doi:10.1504/IJBAAF.2008.020243",
   "title": "Which interest rate scenario is the worst one for a bank? Evidence from a tracking bank approach for German savings and cooperative banks",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "International Journal of Banking Accounting and Finance",
   "url": "http://hdl.handle.net/10419/19784",
   "pdf": "https://www.econstor.eu/bitstream/10419/19784/1/200807dkp_b_.pdf",
   "rcc_cite": [
@@ -13494,9 +13495,9 @@
 ,
 {
   "pub_id": 2928,
-  "doi": "bbk-178",
+  "doi": "doi:10.1016/j.jfi.2009.10.002",
   "title": "How do banks adjust their capital ratios? Evidence from Germany",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "Journal of Financial Intermediation",
   "url": "http://hdl.handle.net/10419/19765",
   "pdf": "https://www.econstor.eu/bitstream/10419/19765/1/200706dkp_b_.pdf",
   "rcc_cite": [
@@ -13520,9 +13521,9 @@
 ,
 {
   "pub_id": 2931,
-  "doi": "bbk-181",
+  "doi": "doi:10.1111/geer.12131",
   "title": "Banks' Interest Rate Risk and Search for Yield: A Theoretical Rationale and Some Empirical Evidence",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "German Economic Review",
   "url": "http://hdl.handle.net/10419/142700",
   "pdf": "https://www.econstor.eu/bitstream/10419/142700/1/862557410.pdf",
   "rcc_cite": [
@@ -13557,9 +13558,9 @@
 ,
 {
   "pub_id": 2936,
-  "doi": "bbk-186",
+  "doi": "doi:10.1007/s10290-005-0052-6",
   "title": "Location Choice and Employment Decisions: A Comparison of German and Swedish Multinationals",
-  "publisher": "Ifo Institute - Leibniz Institute for Economic Research at the University of Munich Munich",
+  "publisher": "Review of World Economics",
   "url": "http://hdl.handle.net/10419/19516",
   "pdf": "https://www.econstor.eu/bitstream/10419/19516/1/200508dkp.pdf",
   "rcc_cite": [
@@ -13569,7 +13570,7 @@
 ,
 {
   "pub_id": 2937,
-  "doi": "bbk-187",
+  "doi": "doi:10.2139/ssrn.791444",
   "title": "German bank lending to industrial and non-industrial countries: driven by fundamentals or different treatment?",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19741",
@@ -13581,9 +13582,9 @@
 ,
 {
   "pub_id": 2938,
-  "doi": "bbk-188",
+  "doi": "doi:10.1093/rof/rfy011",
+  "publisher": "Review of Finance",
   "title": "Do exposures to sagging real estate, subprime or conduits abroad lead to contraction and flight to quality in bank lending at home?",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/110959",
   "pdf": "https://www.econstor.eu/bitstream/10419/110959/1/827483279.pdf",
   "rcc_cite": [
@@ -13609,9 +13610,9 @@
 ,
 {
   "pub_id": 2944,
-  "doi": "bbk-194",
+  "doi": "doi:10.1007/s10290-005-0051-7",
   "title": "Taxes and the financial structure of German inward FDI",
-  "publisher": "Center for Economic Studies and Ifo Institute (CESifo) Munich",
+  "publisher": "Review of World Economics",
   "url": "http://hdl.handle.net/10419/17807",
   "pdf": "https://www.econstor.eu/bitstream/10419/17807/1/kap1252.pdf",
   "rcc_cite": [
@@ -13621,10 +13622,11 @@
 ,
 {
   "pub_id": 2946,
-  "doi": "bbk-196",
+  "doi": "doi:10.1515/jos-2017-0021",
   "title": "The influence of an up-front experiment on respondents' recording behaviour in payment diaries: Evidence from Germany",
-  "publisher": "Sciendo",
+  "publisher": "Journal of Statistics Sweden",
   "url": "http://www.degruyter.com/view/j/jos.2017.33.issue-2/jos-2017-0021/jos-2017-0021.xml?format=INT",
+  "pdf": "https://content.sciendo.com/downloadpdf/journals/jos/33/2/article-p427.xml",
   "rcc_cite": [
     1287
   ]
@@ -13654,10 +13656,10 @@
 ,
 {
   "pub_id": 2955,
-  "doi": "bbk-205",
+  "doi": "doi:10.1111/j.1540-5982.2011.01682.x",
   "title": "Foreign (in)direct investment and corporate taxation",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
-  "url": "http://economics.ca/cgi/xms?jab=v44n4/CJEv44n4p1497.pdf",
+  "publisher": "Canadian Journal of Economics/Revue Canadienne d`Economique",
+  "url": "https://ideas.repec.org/p/zbw/bubdp1/7555.html",
   "pdf": "https://www.econstor.eu/bitstream/10419/27640/1/200815dkp.pdf",
   "rcc_cite": [
     339
@@ -13666,9 +13668,9 @@
 ,
 {
   "pub_id": 2956,
-  "doi": "bbk-206",
+  "doi": "doi:10.1007/s10797-008-9068-x",
   "title": "Profit shifting in the EU: Evidence from Germany",
-  "publisher": "Munich: Center for Economic Studies and Ifo Institute (CESifo)",
+  "publisher": "International Tax and Public Finance",
   "url": "http://hdl.handle.net/10419/26088",
   "pdf": "https://www.econstor.eu/bitstream/10419/26088/1/53834122X.PDF",
   "rcc_cite": [
@@ -13678,7 +13680,7 @@
 ,
 {
   "pub_id": 2959,
-  "doi": "bbk-209",
+  "doi": "RePEc:zbw:bubdp1:1543",
   "title": "Does co-financing by multilateral development banks increase \\\"risky\\\" direct investment in emerging markets'",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19469",
@@ -13690,7 +13692,7 @@
 ,
 {
   "pub_id": 2960,
-  "doi": "bbk-210",
+  "doi": "RePEc:zbw:bubdp1:1542",
   "title": "Foreign Bank Entry into Emerging Economies: An Empirical Assessment of the Determinants and Risks Predicated on German FDI Data",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19468",
@@ -13702,7 +13704,7 @@
 ,
 {
   "pub_id": 2961,
-  "doi": "bbk-211",
+  "doi": "RePEc:zbw:bubdp1:4208",
   "title": "Determinants of German Foreign Direct Investment in Latin American and Asian Emerging Markets in the 1990s",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/19599",

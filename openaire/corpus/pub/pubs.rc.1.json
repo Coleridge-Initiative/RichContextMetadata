@@ -1,0 +1,760 @@
+[
+    {
+        "doi": "doi:10.1136/bmj.319.7208.478",
+        "publisher": "British Medical Journal",
+        "title": "Population-based study of social and productive activities as predictors of survival among elderly Americans",
+        "url": "https://europepmc.org/articles/PMC28199/",
+        "pdf": "https://europepmc.org/articles/PMC28199?pdf=render",
+        "datasets": [
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "doi:10.1136/jech.46.3.191",
+        "publisher": "J Epidemiol Community Health",
+        "title": "Gender and race differences in the correlation between body mass and education in the 1971-1975 NHANES I",
+        "url": "https://europepmc.org/articles/PMC1059548/",
+        "pdf": "https://europepmc.org/articles/PMC1059548?pdf=render",
+        "datasets": [
+            "dataset-3c575fa6e18c6d130c4f"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/59.1.S34",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "The Black/White Disability Gap: Persistent Inequality in Later Life?",
+        "url": "https://academic.oup.com/psychsocgerontology/article/59/1/S34/645395",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/59/1/S34/9908998/S34.pdf",
+        "datasets": [
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/60.3.S160",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Widow(er) Poverty and Out-of-Pocket Medical Expenditures Near the End of Life",
+        "url": "https://academic.oup.com/psychsocgerontology/article/60/3/S160/559405",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/60/3/S160/1489943/S160.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/62.4.S209",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Baseline health, socioeconomic status, and 10-year mortality among older middle-aged Americans: Findings from the Health and Retirement Study, 1992-2002",
+        "url": "https://academic.oup.com/psychsocgerontology/article/62/4/S209/516053",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/62/4/S209/1383923/S209.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geront/36.3.311",
+        "publisher": "National Bureau of Economic Research",
+        "title": "Race Differences in Labor Force Attachment and Disability Status",
+        "url": "https://academic.oup.com/gerontologist/article/36/3/311/705045",
+        "pdf": "https://academic.oup.com/gerontologist/article-pdf/36/3/311/2081257/36-3-311.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/gerona/53A.4.M251",
+        "publisher": "The Journals of Gerontology: Series A",
+        "title": "Physical activity, physical function, and the risk of breast cancer in a prospective study among elderly women",
+        "url": "https://academic.oup.com/biomedgerontology/article/53A/4/M251/592682",
+        "pdf": "https://academic.oup.com/biomedgerontology/article-pdf/53A/4/M251/1598714/53A-4-M251.pdf",
+        "datasets": [
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/51B.2.S53",
+        "publisher": "National Bureau of Economic Research",
+        "title": "Worker Adaptation and Employer Accommodation Following the Onset of a Health Impairment",
+        "url": "https://academic.oup.com/psychsocgerontology/article/51B/2/S53/546654",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/51B/2/S53/1452112/51B-2-S53.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/57.4.S199",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Who Expects to Continue Working After Age 62? The Retirement Plans of Couples",
+        "url": "https://academic.oup.com/psychsocgerontology/article/57/4/S199/593437",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/57/4/S199/1602842/000124SS.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/54B.3.S136",
+        "publisher": "J Gerontol B Psychol Sci Soc Sci",
+        "title": "At Risk on the Cusp of Old Age: Living Arrangements and Functional Status Among Black, White and Hispanic Adults",
+        "url": "https://europepmc.org/articles/PMC1201047/",
+        "pdf": "https://europepmc.org/articles/PMC1201047?pdf=render",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/58.6.S338",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Trends in Scores on Tests of Cognitive Ability in the Elderly U.S. Population, 1993-2000",
+        "url": "https://academic.oup.com/psychsocgerontology/article/58/6/S338/597438",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/58/6/S338/1621944/S338.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/58.5.S264",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "A Half Century of Longitudinal Methods in Social Gerontology: Evidence of Change in the Journal",
+        "url": "https://academic.oup.com/psychsocgerontology/article/58/5/S264/611334",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/58/5/S264/1681374/S264.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b",
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/59.4.S238",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Trajectories of Impairment, Social Support, and Depressive Symptoms in Later Life",
+        "url": "https://academic.oup.com/psychsocgerontology/article/59/4/S238/579030",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/59/4/S238/9909004/S238.pdf",
+        "datasets": [
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/59.5.P233",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Honeymoons and Joint Lunches: Effects of Retirement and Spouse's Employment on Depressive Symptoms",
+        "url": "https://academic.oup.com/psychsocgerontology/article/59/5/P233/669092",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/59/5/P233/1942550/P233.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/61.1.S24",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Crediting Care or Marriage? Reforming Social Security Family Benefits",
+        "url": "https://academic.oup.com/psychsocgerontology/article/61/1/S24/550479",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/61/1/S24/1460581/S24.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/60.5.P242",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Disparities Among Older Adults in Measures of Cognitive Function by Race or Ethnicity",
+        "url": "https://academic.oup.com/psychsocgerontology/article/60/5/P242/585462",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/60/5/P242/1573699/P242.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/60.2.S93",
+        "publisher": "J Gerontol B Psychol Sci Soc Sci",
+        "title": "The Impact of Childhood and Adult SES on Physical, Mental, and Cognitive Well-Being in Later Life",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2505177/",
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2505177/pdf/nihms47838.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/60.1.S21",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "The Significance of Nonmarital Cohabitation: Marital Status and Mental Health Benefits among Middle-Aged and Older Adults",
+        "url": "https://academic.oup.com/psychsocgerontology/article/60/1/S21/617656",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/60/1/S21/1705482/S21.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/59.1.S25",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Disability and Home Care Dynamics among Older Unmarried Americans",
+        "url": "https://academic.oup.com/psychsocgerontology/article/59/1/S25/645393",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/59/1/S25/9908997/S25.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geronb/61.5.S248",
+        "publisher": "The Journals of Gerontology: Series B",
+        "title": "Parent care and the stress process: Findings from panel data",
+        "url": "https://academic.oup.com/psychsocgerontology/article/61/5/S248/604069",
+        "pdf": "https://academic.oup.com/psychsocgerontology/article-pdf/61/5/S248/9909060/S248.pdf",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/geront/48.5.659",
+        "publisher": "Gerontologist",
+        "title": "Racial/ethnic differences in the relationship between the use of health care services and functional disability: The Health and Retirement Study (1992-2004)",
+        "url": "https://europepmc.org/articles/PMC2885453/",
+        "pdf": "https://europepmc.org/articles/PMC2885453?pdf=render",
+        "datasets": [
+            "dataset-265b411623409ff9de3b"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/aje/kwt097",
+        "publisher": "American Journal of Epidemiology",
+        "title": "Prediction of severe, persistent activity-of-daily-living disability in older adults",
+        "url": "https://europepmc.org/articles/PMC3783096/",
+        "pdf": "https://europepmc.org/articles/PMC3783096?pdf=render",
+        "datasets": [
+            "dataset-3c87692e90a2461f83a5"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-86558-856-2",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Diversification and determinants of international credit portfolios: Evidence from German banks",
+        "url": "http://hdl.handle.net/10419/65861",
+        "pdf": "https://www.econstor.eu/bitstream/10419/65861/1/729177734.pdf",
+        "datasets": [
+            "dataset-564259cedfd998549ae9"
+        ]
+    },
+    {
+        "doi": "doi:10.5282/ubm/epub.13340",
+        "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
+        "title": "FDI and Domestic Investment: An Industry-Level View",
+        "url": "http://hdl.handle.net/10419/94017",
+        "pdf": "https://www.econstor.eu/bitstream/10419/94017/1/sfb-tr15-dp212.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:5197",
+        "publisher": "METEOR, Maastricht University School of Business and Economics",
+        "title": "Industries and the bank lending effects of bank credit demand and monetary policy in Germany",
+        "url": "https://ideas.repec.org/p/zbw/bubdp1/5197.html",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19677/1/200648dkp.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-037-3",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Consumer cash usage: A cross-country comparison with payment diary survey data",
+        "url": "http://hdl.handle.net/10419/100037",
+        "pdf": "https://www.econstor.eu/bitstream/10419/100037/1/791673510.pdf",
+        "datasets": [
+            "dataset-44063629e96b00629efa"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-206-3",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Cyclicality of SME lending and government involvement in banks",
+        "url": "http://hdl.handle.net/10419/123697",
+        "pdf": "https://www.econstor.eu/bitstream/10419/123697/1/841217971.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-86558-537-0",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Does lowering dividend tax rates increase dividends repatriated?: evidence of intra-firm cross-border dividend repatriation policies by German Multinational Enterprises",
+        "url": "http://hdl.handle.net/10419/27745",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27745/1/607702656.PDF",
+        "datasets": [
+            "dataset-2b4bcbd0e00931b60b49",
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-86558-563-9",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Determinants for using visible reserves in German banks: an empirical study",
+        "url": "http://hdl.handle.net/10419/28393",
+        "pdf": "https://www.econstor.eu/bitstream/10419/28393/1/610028421.PDF",
+        "datasets": [
+            "dataset-515a08e38c69762ff789"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-015-1",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Earnings baths by bank CEOs during turnovers",
+        "url": "http://hdl.handle.net/10419/93086",
+        "pdf": "https://www.econstor.eu/bitstream/10419/93086/1/779710983.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.392681",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Determinants of German FDI: New Evidence from Micro-Data",
+        "url": "http://hdl.handle.net/10419/19597",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19597/1/200309dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "RePEc:ces:ceswps:_1959",
+        "publisher": "Center for Economic Studies and Ifo Institute",
+        "title": "Intercompany Loans and Profit Shifting \u2013 Evidence from Company-Level Data",
+        "url": "http://hdl.handle.net/10419/26004",
+        "pdf": "https://www.econstor.eu/bitstream/10419/26004/1/538093242.PDF",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-041-0",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Quantifying the components of the banks' net interest margin",
+        "url": "http://hdl.handle.net/10419/100036",
+        "pdf": "https://www.econstor.eu/bitstream/10419/100036/1/791674517.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-86558-378-9",
+        "publisher": "Center for Economic Studies and Ifo Institute",
+        "title": "The impact of thin-capitalization rules on multinationals' financing and investment decisions",
+        "url": "http://hdl.handle.net/10419/19715",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19715/1/200803dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.1007/s10797-006-8721-5",
+        "publisher": "International Tax and Public Finance",
+        "title": "Tax incentives and the location of FDI: evidence from a panel of German multinationals",
+        "url": "https://doi.org/10.1007/s10797-006-8721-5",
+        "pdf": "https://www.econstor.eu/bitstream/10419/24083/1/dp0476.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.2023843",
+        "publisher": "Journal of Banking and Finance",
+        "title": "The role of interbank relationships and liquidity needs",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2023843",
+        "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2640935_code536749.pdf?abstractid=2023843&mirid=1&type=2",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.1687615",
+        "publisher": " National Bank of Belgium",
+        "title": "Sector concentration in loan portfolios and economic capital",
+        "url": "http://hdl.handle.net/10419/144318",
+        "pdf": "https://www.econstor.eu/bitstream/10419/144318/1/wp105.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-86558-388-8",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Analyzing the interest rate risk of banks using time series of accounting-based data: evidence from Germany",
+        "url": "http://hdl.handle.net/10419/19778",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19778/1/200801dkp_b_.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:7569",
+        "publisher": "Center for Economic Studies and Ifo Institute",
+        "title": "The price of liquidity: bank characteristics and market conditions",
+        "url": "http://hdl.handle.net/10419/26621",
+        "pdf": "https://www.econstor.eu/bitstream/10419/26621/1/595167675.PDF",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-202-5",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "The credit quality channel: Modeling contagion in the interbank market",
+        "url": "http://hdl.handle.net/10419/122192",
+        "pdf": "https://www.econstor.eu/bitstream/10419/122192/1/83979701X.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/jeea/jvx054",
+        "publisher": "Journal of the European Economic Association",
+        "title": "The organization of knowledge in multinational firms",
+        "url": "https://academic.oup.com/jeea/article-abstract/16/6/1929/4904295",
+        "pdf": "https://www.econstor.eu/bitstream/10419/121462/1/837897491.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.1007/s10693-007-0017-0",
+        "publisher": "Journal of Financial Services Research",
+        "title": "Does diversification improve the performance of German banks? Evidence from individual bank loan portfolios",
+        "url": "http://hdl.handle.net/10419/19752",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19752/1/200605dkp_b.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "RePEc:ces:ceswps:_5414",
+        "publisher": "Center for Economic Studies and Ifo Institute",
+        "title": "At Your Service! The Role of Tax Havens in International Trade with Services",
+        "url": "http://hdl.handle.net/10419/113740",
+        "pdf": "https://www.econstor.eu/bitstream/10419/113740/1/cesifo_wp5414.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.493723",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Does capital regulation matter for bank behaviour? Evidence for German savings banks",
+        "url": "http://hdl.handle.net/10419/19730",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19730/1/200403dkp_b.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:4235",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Trade balances of the central and east European EU member states and the role of foreign direct investment",
+        "url": "http://hdl.handle.net/10419/19626",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19626/1/200541dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "978-3-86558-503-5",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Why do savings banks transform sight deposits into illiquid assets less intensively than the regulation allows?",
+        "url": "http://hdl.handle.net/10419/27688",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27688/1/593866134.PDF",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.3164103",
+        "publisher": "Verein f\u00fcr Socialpolitik",
+        "title": "Transfer pricing as tax avoidance under different legislative schemes",
+        "url": "http://hdl.handle.net/10419/145929",
+        "pdf": "https://www.econstor.eu/bitstream/10419/145929/1/VfS_2016_pid_7072.pdf",
+        "datasets": [
+            "dataset-2b4bcbd0e00931b60b49",
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.5282/ubm/epub.13339",
+        "publisher": "Sonderforschungsbereich/Transregio 15 Governance and the Efficiency of Economic Systems",
+        "title": "Who is afraid of political risk? Multinational firms and their choice of capital structure",
+        "url": "http://hdl.handle.net/10419/94181",
+        "pdf": "https://www.econstor.eu/bitstream/10419/94181/1/sfb-tr15-dp213.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.1016/j.jfs.2007.04.003",
+        "publisher": "Journal of Financial Stability",
+        "title": "Slippery slopes of stress: ordered failure events in German banking",
+        "url": "http://hdl.handle.net/10419/19762",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19762/1/200703dkp_b_.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "isbn:978-3-95729-393-0",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Do all new brooms sweep clean? Evidence for outside bank appointments",
+        "url": "http://hdl.handle.net/10419/168589",
+        "pdf": "https://www.econstor.eu/bitstream/10419/168589/1/898458471.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/rof/rfu019",
+        "publisher": "Review of Finance",
+        "title": "Bank risk taking and competition: Evidence from regional banking markets",
+        "url": "http://hdl.handle.net/10419/82625",
+        "pdf": "https://www.econstor.eu/bitstream/10419/82625/1/768057302.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "doi:10.1016/j.jbankfin.2006.12.009",
+        "publisher": "Journal of Banking & Finance",
+        "title": "Accounting for distress in bank mergers",
+        "url": "http://hdl.handle.net/10419/19742",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19742/1/200509dkp_b.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.726408",
+        "publisher": "Utrecht School of Economics",
+        "title": "Evaluating the German bank merger wave",
+        "url": "http://hdl.handle.net/10419/19745",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19745/1/200512dkp_b.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.700751",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Measurement matters: Input price proxies and bank efficiency in Germany",
+        "url": "http://hdl.handle.net/10419/19734",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19734/1/200501dkp_b.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp2:7449",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Real estate markets and bank distress",
+        "url": "http://hdl.handle.net/10419/27670",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27670/1/200818dkp_b_.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.958509",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Efficient, profitable and safe banking: an oxymoron? Evidence from a panel VAR approach",
+        "url": "http://hdl.handle.net/10419/19761",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19761/1/200702dkp_b_.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "doi:10.1111/caje.12061",
+        "publisher": "European University Institute",
+        "title": "Export-Supporting FDI",
+        "url": "http://hdl.handle.net/1814/7164",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27746/1/607703962.PDF",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.627842",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "How will Basel II affect bank lending to emerging markets? An analysis based on German bank level data",
+        "url": "http://hdl.handle.net/10419/19732",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19732/1/200405dkp_b.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp2:7448",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Stress testing of real credit portfolios",
+        "url": "http://hdl.handle.net/10419/27669",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27669/1/200817dkp_b_.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.1016/j.jbankfin.2010.08.003",
+        "publisher": "Journal of Banking & Finance",
+        "title": "Banks' exposure to interest rate risk, their earnings from term transformation, and the dynamics of the term structure",
+        "url": "http://hdl.handle.net/10419/40693",
+        "pdf": "https://www.econstor.eu/bitstream/10419/40693/1/635916479.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "doi:10.1504/IJBAAF.2008.020243",
+        "publisher": "International Journal of Banking Accounting and Finance",
+        "title": "Which interest rate scenario is the worst one for a bank? Evidence from a tracking bank approach for German savings and cooperative banks",
+        "url": "http://hdl.handle.net/10419/19784",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19784/1/200807dkp_b_.pdf",
+        "datasets": [
+            "dataset-1c4bd6e13d3c15e578fa"
+        ]
+    },
+    {
+        "doi": "doi:10.1016/j.jfi.2009.10.002",
+        "publisher": "Journal of Financial Intermediation",
+        "title": "How do banks adjust their capital ratios? Evidence from Germany",
+        "url": "http://hdl.handle.net/10419/19765",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19765/1/200706dkp_b_.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789"
+        ]
+    },
+    {
+        "doi": "doi:10.1111/geer.12131",
+        "publisher": "German Economic Review",
+        "title": "Banks' Interest Rate Risk and Search for Yield: A Theoretical Rationale and Some Empirical Evidence",
+        "url": "http://hdl.handle.net/10419/142700",
+        "pdf": "https://www.econstor.eu/bitstream/10419/142700/1/862557410.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-3fe843e490beb7a18b26"
+        ]
+    },
+    {
+        "doi": "doi:10.1080/00036840802360245",
+        "publisher": "Applied Economics",
+        "title": "Banks' regulatory buffers, liquidity networks and monetary policy transmission",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793911",
+        "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/3871.pdf?abstractid=2793911&mirid=1&type=2",
+        "datasets": [
+            "dataset-515a08e38c69762ff789"
+        ]
+    },
+    {
+        "doi": "doi:10.1007/s10290-005-0052-6",
+        "publisher": "Review of World Economics",
+        "title": "Location Choice and Employment Decisions: A Comparison of German and Swedish Multinationals",
+        "url": "http://hdl.handle.net/10419/19516",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19516/1/200508dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.2139/ssrn.791444",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "German bank lending to industrial and non-industrial countries: driven by fundamentals or different treatment?",
+        "url": "http://hdl.handle.net/10419/19741",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19741/1/200508dkp_b.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.1093/rof/rfy011",
+        "publisher": "Review of Finance",
+        "title": "Do exposures to sagging real estate, subprime or conduits abroad lead to contraction and flight to quality in bank lending at home?",
+        "url": "http://hdl.handle.net/10419/110959",
+        "pdf": "https://www.econstor.eu/bitstream/10419/110959/1/827483279.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-1c4bd6e13d3c15e578fa",
+            "dataset-2cea7e830ce94a923473"
+        ]
+    },
+    {
+        "doi": "doi:10.1007/s10290-005-0051-7",
+        "publisher": "Review of World Economics",
+        "title": "Taxes and the financial structure of German inward FDI",
+        "url": "http://hdl.handle.net/10419/17807",
+        "pdf": "https://www.econstor.eu/bitstream/10419/17807/1/kap1252.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.1515/jos-2017-0021",
+        "publisher": "Journal of Statistics Sweden",
+        "title": "The influence of an up-front experiment on respondents' recording behaviour in payment diaries: Evidence from Germany",
+        "url": "http://www.degruyter.com/view/j/jos.2017.33.issue-2/jos-2017-0021/jos-2017-0021.xml?format=INT",
+        "pdf": "https://content.sciendo.com/downloadpdf/journals/jos/33/2/article-p427.xml",
+        "datasets": [
+            "dataset-44063629e96b00629efa"
+        ]
+    },
+    {
+        "doi": "doi:10.1111/j.1540-5982.2011.01682.x",
+        "publisher": "Canadian Journal of Economics/Revue Canadienne d`Economique",
+        "title": "Foreign (in)direct investment and corporate taxation",
+        "url": "https://ideas.repec.org/p/zbw/bubdp1/7555.html",
+        "pdf": "https://www.econstor.eu/bitstream/10419/27640/1/200815dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "doi:10.1007/s10797-008-9068-x",
+        "publisher": "International Tax and Public Finance",
+        "title": "Profit shifting in the EU: Evidence from Germany",
+        "url": "http://hdl.handle.net/10419/26088",
+        "pdf": "https://www.econstor.eu/bitstream/10419/26088/1/53834122X.PDF",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:1543",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Does co-financing by multilateral development banks increase \\\"risky\\\" direct investment in emerging markets'",
+        "url": "http://hdl.handle.net/10419/19469",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19469/1/200402dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:1542",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Foreign Bank Entry into Emerging Economies: An Empirical Assessment of the Determinants and Risks Predicated on German FDI Data",
+        "url": "http://hdl.handle.net/10419/19468",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19468/1/200401dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:4208",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Determinants of German Foreign Direct Investment in Latin American and Asian Emerging Markets in the 1990s",
+        "url": "http://hdl.handle.net/10419/19599",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19599/1/200311dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1"
+        ]
+    }
+]

@@ -2,7 +2,9 @@
 # encoding: utf-8
 
 from rdflib.serializer import Serializer
+import corpus
 import csv
+import glob
 import json
 import rdflib
 import sys
@@ -33,26 +35,12 @@ TEMPLATE_PUBLICATION = """
   dct:publisher "{}" ;
   dct:title "{}" ;
   dct:identifier "{}" ;
+  :openAccess "{}"^^xsd:anyURI ;
 """
 
 
 if __name__ == "__main__":
     out_buf = [ PREAMBLE.lstrip() ]
-
-    ## load the links
-    filename = "corpus/links.tsv"
-    linked_pubs = set([])
-    link_map = {}
-
-    with open(filename) as f:
-        for row in csv.reader(f, delimiter="\t"):
-            dat_id, pub_id = row[:2]
-            linked_pubs.add(pub_id)
-
-            if pub_id not in link_map:
-                link_map[pub_id] = set([dat_id])
-            else:
-                link_map[pub_id].add(dat_id)
 
     ## load the datasets
     filename = "corpus/dataset.json"
@@ -60,7 +48,7 @@ if __name__ == "__main__":
 
     with open(filename) as f:
         for elem in json.load(f):
-            dat_id = elem["id"]
+            dat_id = elem["uuid"]
             known_datasets.add(dat_id)
 
             out_buf.append(
@@ -78,32 +66,29 @@ if __name__ == "__main__":
             out_buf.append(".\n")
 
     ## load the publications
-    filename = "corpus/publication.json"
+    for filename in glob.glob("corpus/pub/*.json"):
+        with open(filename) as f:
+            for elem in json.load(f):
+                link_map = elem["datasets"]
 
-    with open(filename) as f:
-        for elem in json.load(f):
-            pub_id = elem["id"]
+                if len(link_map) > 0:
+                    id_list = [elem["publisher"], elem["title"]]
+                    pub_id = corpus.get_hash(id_list, prefix="publication-")
 
-            if pub_id in linked_pubs:
-                out_buf.append(
-                    TEMPLATE_PUBLICATION.format(
-                        pub_id,
-                        elem["url"],
-                        elem["publisher"],
-                        elem["title"],
-                        elem["doi"]
-                        ).strip()
-                    )
+                    out_buf.append(
+                        TEMPLATE_PUBLICATION.format(
+                            pub_id,
+                            elem["url"],
+                            elem["publisher"],
+                            elem["title"],
+                            elem["doi"],
+                            elem["pdf"]
+                            ).strip()
+                        )
 
-                if "pdf" in elem:
-                    out_buf.append("  :openAccess \"{}\"^^xsd:anyURI ;".format(elem["pdf"]))
-
-                dat_list = [ ":{}".format(dat_id) for dat_id in link_map[pub_id] ]
-                out_buf.append("  cito:citesAsDataSource {} ;".format(", ".join(dat_list)))
-                out_buf.append(".\n")
-
-            # {'id': 'publication-ea02695293f2279e9bba', 'doi': '10.1136/jech.46.3.191', 'publisher': 'J Epidemiol Community Health', 'title': 'Gender and race differences in the correlation between body mass and education in the 1971-1975 NHANES I', 'url': 'https://europepmc.org/articles/PMC1059548/', 'pdf': 'https://europepmc.org/articles/PMC1059548?pdf=render'}
-
+                    dat_list = [ ":{}".format(dat_id) for dat_id in link_map ]
+                    out_buf.append("  cito:citesAsDataSource {} ;".format(", ".join(dat_list)))
+                    out_buf.append(".\n")
 
     ## write the TTL output
     filename = "tmp.ttl"

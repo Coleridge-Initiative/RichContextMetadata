@@ -1,11 +1,13 @@
 # Notes
 
 
-## Datasets
+## 1. Datasets
 
-The datasets are one of the "givens" in this system.
-We consider their names to be known and invariant.
-Nonetheless, there may be edits required.
+Datasets are one of the "givens" in this system: they represent
+the known _labels_ or classes in the ground truth for this corpus, 
+while the set of publications gets expanded later.
+We consider the dataset names to be known and invariant -- 
+nonetheless, edits may be required.
 The following script regenerates `uuid` values for each dataset:
 
 ```
@@ -13,7 +15,7 @@ The following script regenerates `uuid` values for each dataset:
 ```
 
 
-## RCC publications
+## 2. RCC publications
 
 The following script runs the OpenAIRE API to lookup the (likely)
 publisher name and open access URL for each publication from the RCC
@@ -23,10 +25,13 @@ training set:
 ./bin/rcc_openaire.py
 ```
 
+Do this once, commit the results as `dat/rcc_out.json` and then
+make edits on that file manually.
+
 NB: this script needs updates!!! remove counters, output dicts
 
 
-## Aligning the publisher names
+## 3. Aligning publisher names
 
 The names of publishers will be an ongoing hot mess.
 While the full name of a publishher may appear on a publication, there
@@ -38,13 +43,11 @@ The following script generates a tally of the publisher names used so
 far, and helps catch inconsistencies that lead to broken links later:
 
 ```
-./bin/tally_pubs.py corpus/publication.json
+./bin/tally_pubs.py
 ```
 
 
-## Stitch
-
-NB: needs work!!! pickup with `dat/rcc_out.json` instead of `dat/out`
+## 4. Stitch
 
 The preconditions for including a publication in the corpus are:
 
@@ -54,35 +57,34 @@ The preconditions for including a publication in the corpus are:
  - has a `url`
  - has a URL for an open access `pdf`
 
-Optionally, each publication may have a unique `doi` identifier.
 Most all of the publications have titles, at a minimum, although some
-are incorrect and must be modified.
-Earlier stages of scripts lookup `publisher` and `url`, then the `pdf`
-step is manual.
-Note that if `title` or `publisher` get modified, the generated `uuid`
-will change.
+of those are incorrect and must be modified.
+Earlier stages of scripts lookup `publisher` and `url` properties via 
+API, then the `pdf` property is added manually.
+Optionally, each publication may have a unique `doi` identifier.
 
-After all of these preconditions are met, the `stitch.py` script
-generates a JSON entity (hash) to include into the `publication.json`
-file -- only if it is not included already.
-Delete any entry in `publication.json` to cause it to be regenerated.
+This script serializes a collection of entities (dicts in JSON) to add
+as another partition in the `corpus/pub/.json` for each publication
+for which all of these preconditions have been met.
+Delete entries from `corpus/pub/*.json` to cause them to be regenerated.
 
 ```
 ./bin/stitch.py
 ```
 
 
-## Generate a corpus to publish
+## 5. Generate a corpus to publish
 
-In this final step, the `gen_ttl.py` script reads:
+This final step uses the following as input:
 
- - `corpus/publication.json`
- - `corpus/dataset.json`
  - `corpus/vocab.json`
+ - `corpus/dataset.json`
+ - `corpus/pub/*.json`
 
-Then generates both `tmp.ttl` and `tmp.jsonld` which subsequently must
-be renamed and moved into the corpus repo manually.
-This step also generates the publication `uuid` values (late binding).
+Then it generates the `uuid` values (late binding) for publications,
+and serializes the new corpus update as both `tmp.ttl` (TTL) and 
+`tmp.jsonld` (JSON-LD) formats, which must then be renamed and moved
+into the corpus repo manually:
 
 ```
 ./bin/gen_ttl.py

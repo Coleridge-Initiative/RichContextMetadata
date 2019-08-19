@@ -2,139 +2,139 @@
 # encoding: utf-8
 
 import corpus
+import csv
+import glob
 import json
 import sys
+import traceback
 
 
-def format_entry (dat_set, url, doi, publisher, title):
-    pub_id = corpus.get_hash([publisher, title], prefix="publication-")
+def format_entity (elem):
+    """
+    format one publication as JSON
+    """
+    try:
+        entity = {
+            "doi": elem["doi"],
+            "publisher": elem["publisher"],
+            "title": elem["title"],
+            "url": elem["url"],
+            "pdf": elem["pdf"],
+            "datasets": [ known_dat[d] for d in elem["rcc_cite"] ]
+            }
 
-    entry = {
-        "id": pub_id,
-        "doi": doi,
-        "publisher": publisher,
-        "title": title,
-        "url": url
-        }
+        print(json.dumps(entity, indent=2))
+    except:
+        print(traceback.format_exc())
+        print(elem)
+        sys.exit(1)
 
-    print(json.dumps(entry, indent=2), ",")
 
-    for dat_id in dat_set:
-        id = dat_dict[dat_id]["id"]
-        links.append([id, pub_id])
+def suggest_work (todo, criteria, descript):
+    """
+    suggest the next batch of manual lookups
+    """
+    suggested = []
+
+    for elem in todo:        
+        if elem["flags"] == criteria:
+            suggested.append(elem)
+
+    if len(suggested) > 0:
+        print(descript)
+
+        for elem in suggested:
+            print(elem)
+
+        sys.exit(0)
 
 
 if __name__ == "__main__":
-    dat_dict = {}
-    pub_dict = {}
-    map_dict = {}
-    doi_done = set([])
-    todo = {}
-    links = []
+    known_dat = {}
+    done_pubs = set([])
+    todo = []
+    complete = []
 
-    ## load the "already done" publications
-    filename = "corpus/publication.json"
+    MISSING_PDF = 1
+    MISSING_PUB = 2
+    MISSING_URL = 3
+    MISSING_DAT = 4
+    NO_DAT = 5
 
-    with open(filename) as f:
-        for elem in json.load(f):
-            doi = elem["doi"]
-            doi_done.add(doi)
 
-    ## load the RCC dataset list
-    filename = "dat/rcc_test_dataset.json"
-    kill_set = set(["483"])
+    ## load the datasets
+    filename = "corpus/dataset.json"
 
     with open(filename) as f:
         for elem in json.load(f):
-            dat_id = str(elem["data_set_id"])
-            pub_id = str(elem["publication_id"])
-
-            if dat_id in kill_set:
-                continue
-            elif pub_id not in map_dict:
-                map_dict[pub_id] = set([dat_id])
-            else:
-                map_dict[pub_id].add(dat_id)
-
-            if "id" in elem:
-                dat_dict[dat_id] = elem
-
-    ## load the open access publications
-    filename = "dat/out"
-
-    with open(filename) as f:
-        for elem in json.load(f):
-            _pub_id, pub_id_num, url, doi, publisher, title, count = elem
-            pub_id = str(pub_id_num)
-
-            if doi in doi_done:
-                continue
-            elif pub_id in map_dict:
-                dat_set = map_dict[pub_id]
-
-                for dat_id in dat_set:
-                    if dat_id in kill_set:
-                        pass
-                    elif dat_id in dat_dict:
-                        todo[pub_id] = [dat_set, url, doi, publisher, title]
+            for dat_id in elem["rcc_cite"]:
+                known_dat[dat_id] = elem["uuid"]
 
 
-    ## 1. simplest case: known publisher, known datasets
-    got_any = False
-
-    for pub_id, (dat_set, url, doi, publisher, title) in todo.items():
-        if publisher == "???":
-            continue
-        else:
-            all_known = True
-
-            for dat_id in dat_set:
-                if dat_id not in dat_dict:
-                    all_known = False
-
-            if all_known:
-                format_entry(dat_set, url, doi, publisher, title)
-                got_any = True
-
-    if got_any:
-        ## print the links, too
-        for dat_id, pub_id in sorted(links):
-            print("{}\t{}".format(dat_id, pub_id))
-
-        sys.exit(0)
+    ## track titles for publications already included in the corpus
+    for filename in glob.glob("corpus/pub/*.json"):
+        with open(filename) as f:
+            for elem in json.load(f):
+                _title = elem["title"].strip().lower()
+                done_pubs.add(_title)
 
 
-    ## 2. harder case: unknown publisher, all known datasets
-    got_any = False
+    ## load the RCC publications
+    filename = "dat/rcc_out.json"
 
-    for pub_id, (dat_set, url, doi, publisher, title) in todo.items():
-        all_known = True
+    try:
+        with open(filename) as f:
+            for elem in json.load(f):
+                elem["flags"] = set([])
+                _title = elem["title"].strip().lower()
 
-        for dat_id in dat_set:
-            if dat_id not in dat_dict:
-                all_known = False
+                if _title in done_pubs:
+                    # ignore publications already in the corpus
+                    continue
 
-        if all_known:
-            print(pub_id, url, title)
-            got_any = True
+                if elem["publisher"] == "???":
+                    elem["flags"].add(MISSING_PUB)
 
-    if got_any:
-        sys.exit(0)
+                if "url" not in elem:
+                    elem["flags"].add(MISSING_URL)
+
+                if "pdf" not in elem:
+                    elem["flags"].add(MISSING_PDF)
+
+                if "rcc_cite" not in elem:
+                    elem["rcc_cite"] = []
+                    elem["flags"].add(NO_DAT)
+                else:
+                    for dat_id in elem["rcc_cite"]:
+                        if dat_id not in known_dat:
+                            elem["flags"].add(MISSING_DAT)
+
+                todo.append(elem)
+
+                if len(elem["flags"]) == 0:
+                    complete.append(elem)
+    except:
+        print(traceback.format_exc())
+        print(filename)
+        sys.exit(1)
 
 
-    ## 3. harder case: unknown publisher, any known datasets
-    got_any = False
+    ## 1. output the complete cases
+    if len(complete) > 0:
+        count = 0
+        print("[")
 
-    for pub_id, (dat_set, url, doi, publisher, title) in todo.items():
-        any_known = False
+        for elem in complete:
+            if count > 0:
+                print(",")
 
-        for dat_id in dat_set:
-            if dat_id in dat_dict:
-                any_known = True
+            format_entity(elem)
+            count += 1
 
-        if any_known:
-            print(pub_id, url, title, dat_set)
-            got_any = True
+        print("]")
 
-    if got_any:
-        sys.exit(0)
+
+    ## other suggestions for what to repair manually next
+    suggest_work(todo, set([MISSING_PDF]), "only the PDF is missing")
+    suggest_work(todo, set([MISSING_URL]), "only the URL is missing")
+    suggest_work(todo, set([MISSING_PUB]), "only the publisher is unknown")
