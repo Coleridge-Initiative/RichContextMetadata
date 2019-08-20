@@ -1,0 +1,68 @@
+[
+    {
+        "doi": "RePEc:zbw:bubdp1:200917",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "The cross-section of firms over the business cycle: new facts and a DSGE exploration",
+        "url": "https://ideas.repec.org/p/zbw/bubdp1/200917.html",
+        "pdf": "http://www.cesifo-group.de/DocDL/cesifo1_wp2810.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "doi:10.3386/w16861",
+        "publisher": "National Bureau of Economic Research",
+        "title": "Investment dispersion and the business cycle",
+        "url": "https://www.nber.org/papers/w16861",
+        "pdf": "https://www.nber.org/papers/w16861.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "doi:10.1257/aer.100.5.1999",
+        "publisher": "American Economic Review",
+        "title": "Margins of multinational labor substitution",
+        "url": "http://www.escholarship.org/uc/item/6b2236xm",
+        "pdf": "https://escholarship.org/content/qt6b2236xm/qt6b2236xm.pdf?t=li5b08",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "doi:10.1111/j.1468-0475.2009.00472.x",
+        "publisher": "German Economic Review",
+        "title": "Going multinational: What are the effects on home market performance?",
+        "url": "http://hdl.handle.net/10419/19631",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19631/1/200603dkp.pdf",
+        "datasets": [
+            "dataset-0b739bd83bc73c8ea4e1",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "RePEc:ris:eibefr:2008_001",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Relationship lending: empirical evidence for Germany",
+        "url": "http://hdl.handle.net/10419/45281",
+        "pdf": "https://www.econstor.eu/bitstream/10419/45281/1/65664401X.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-2cea7e830ce94a923473",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "doi:10.1016/j.euroecorev.2012.02.001",
+        "publisher": "European Economic Review",
+        "title": "Creditor concentration: an empirical investigation",
+        "url": "http://hdl.handle.net/10419/19774",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19774/1/200715dkp_b_.pdf",
+        "datasets": [
+            "dataset-515a08e38c69762ff789",
+            "dataset-2cea7e830ce94a923473",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    }
+]

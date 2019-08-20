@@ -61,7 +61,8 @@ if __name__ == "__main__":
                 )
 
             if "alt_title" in elem:
-                out_buf.append("  dct:alternative \"{}\" ;".format(elem["alt_title"]))
+                for alt_title in elem["alt_title"]:
+                    out_buf.append("  dct:alternative \"{}\" ;".format(alt_title))
 
             out_buf.append(".\n")
 

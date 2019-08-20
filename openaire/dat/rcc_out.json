@@ -12889,10 +12889,10 @@
 ,
 {
   "pub_id": 2824,
-  "doi": "bbk-73",
+  "doi": "RePEc:zbw:bubdp1:200917",
   "title": "The cross-section of firms over the business cycle: new facts and a DSGE exploration",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
-  "url": "http://www.cesifo-group.de/DocDL/cesifo1_wp2810.pdf",
+  "url": "https://ideas.repec.org/p/zbw/bubdp1/200917.html",
   "pdf": "http://www.cesifo-group.de/DocDL/cesifo1_wp2810.pdf",
   "rcc_cite": [
     1286
@@ -12936,9 +12936,9 @@
 ,
 {
   "pub_id": 2834,
-  "doi": "bbk-83",
+  "doi": "doi:10.1257/aer.100.5.1999",
   "title": "Margins of multinational labor substitution",
-  "publisher": "UC San Diego: Department of Economics, UCSD",
+  "publisher": "American Economic Review",
   "url": "http://www.escholarship.org/uc/item/6b2236xm",
   "pdf": "https://escholarship.org/content/qt6b2236xm/qt6b2236xm.pdf?t=li5b08",
   "rcc_cite": [
@@ -13286,9 +13286,9 @@
 ,
 {
   "pub_id": 2903,
-  "doi": "bbk-153",
+  "doi": "doi:10.1111/j.1468-0475.2009.00472.x",
   "title": "Going multinational: What are the effects on home market performance?",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "German Economic Review",
   "url": "http://hdl.handle.net/10419/19631",
   "pdf": "https://www.econstor.eu/bitstream/10419/19631/1/200603dkp.pdf",
   "rcc_cite": [
@@ -13507,7 +13507,7 @@
 ,
 {
   "pub_id": 2930,
-  "doi": "bbk-180",
+  "doi": "RePEc:ris:eibefr:2008_001",
   "title": "Relationship lending: empirical evidence for Germany",
   "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
   "url": "http://hdl.handle.net/10419/45281",
@@ -13596,9 +13596,9 @@
 ,
 {
   "pub_id": 2939,
-  "doi": "bbk-189",
+  "doi": "doi:10.1016/j.euroecorev.2012.02.001",
   "title": "Creditor concentration: an empirical investigation",
-  "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+  "publisher": "European Economic Review",
   "url": "http://hdl.handle.net/10419/19774",
   "pdf": "https://www.econstor.eu/bitstream/10419/19774/1/200715dkp_b_.pdf",
   "rcc_cite": [

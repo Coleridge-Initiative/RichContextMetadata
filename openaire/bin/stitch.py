@@ -20,7 +20,7 @@ def format_entity (elem):
             "title": elem["title"],
             "url": elem["url"],
             "pdf": elem["pdf"],
-            "datasets": [ known_dat[d] for d in elem["rcc_cite"] ]
+            "datasets": [ known_dat[str(d)] for d in elem["rcc_cite"] ]
             }
 
         print(json.dumps(entity, indent=2))
@@ -66,9 +66,14 @@ if __name__ == "__main__":
     filename = "corpus/dataset.json"
 
     with open(filename) as f:
-        for elem in json.load(f):
-            for dat_id in elem["rcc_cite"]:
-                known_dat[dat_id] = elem["uuid"]
+        try:
+            for elem in json.load(f):
+                for dat_id in elem["rcc_cite"]:
+                    known_dat[str(dat_id)] = elem["uuid"]
+        except:
+            print(traceback.format_exc())
+            print(filename)
+            sys.exit(1)
 
 
     ## track titles for publications already included in the corpus
@@ -106,6 +111,8 @@ if __name__ == "__main__":
                     elem["flags"].add(NO_DAT)
                 else:
                     for dat_id in elem["rcc_cite"]:
+                        dat_id = str(dat_id)
+
                         if dat_id not in known_dat:
                             elem["flags"].add(MISSING_DAT)
 
@@ -132,9 +139,14 @@ if __name__ == "__main__":
             count += 1
 
         print("]")
+        sys.exit(0)
 
 
     ## other suggestions for what to repair manually next
     suggest_work(todo, set([MISSING_PDF]), "only the PDF is missing")
     suggest_work(todo, set([MISSING_URL]), "only the URL is missing")
     suggest_work(todo, set([MISSING_PUB]), "only the publisher is unknown")
+
+    for elem in todo:
+        if len(elem["flags"]) <= 1:
+            print(elem)

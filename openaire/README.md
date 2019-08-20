@@ -3,15 +3,16 @@
 
 ## 1. Datasets
 
-Datasets are one of the "givens" in this system: they represent
-the known _labels_ or classes in the ground truth for this corpus, 
-while the set of publications gets expanded later.
-We consider the dataset names to be known and invariant -- 
+Datasets are one of the "givens" in this system: they represent the
+known _labels_ (aka "classes") in the ground truth for this corpus.
+In contrast, the set of publications gets expanded later in our
+workflow, but the set of known datasets does not.
+We consider dataset names to be known and invariant -- 
 nonetheless, edits may be required.
 The following script regenerates `uuid` values for each dataset:
 
 ```
-./bin/gen_dat_id.py corpus/dataset.json 
+./bin/gen_dat_id.py
 ```
 
 

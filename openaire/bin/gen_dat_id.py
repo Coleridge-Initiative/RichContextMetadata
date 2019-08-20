@@ -7,7 +7,7 @@ import sys
 
 
 if __name__ == "__main__":
-    filename = sys.argv[1]
+    filename = "corpus/dataset.json"
 
     with open(filename) as f:
         for elem in json.load(f):
