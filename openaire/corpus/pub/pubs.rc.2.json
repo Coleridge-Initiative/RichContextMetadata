@@ -31,6 +31,57 @@
         ]
     },
     {
+        "doi": "RePEc:zbw:bubdp1:4188",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Dynamic Q-investment functions for Germany using panel balance sheet data and a new algorithm for the capital stock at replacement values",
+        "url": "http://hdl.handle.net/10419/19580",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19580/1/200223dkp.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:4201",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "A Vectorautoregressive Investment Model (VIM) and Monetary Policy Transmission: Panel Evidence from German Firms",
+        "url": "http://hdl.handle.net/10419/19592",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19592/1/200306dkp.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "RePEc:ces:ceswps:_2324",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Great moderation at the firm level? Unconditional versus conditional output volatility",
+        "url": "http://hdl.handle.net/10419/19724",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19724/1/200813dkp.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1080/00036840802360120",
+        "publisher": "Applied Economics",
+        "title": "The within-distribution business cycle dynamics of German firms",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00036840802360120",
+        "pdf": "https://www.econstor.eu/bitstream/10419/19658/1/200629dkp.pdf",
+        "datasets": [
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "doi:10.1111/twec.12133",
+        "publisher": "The World Economy",
+        "title": "Extra Credit: Bank Finance and Firm Export Status in Germany",
+        "url": "http://hdl.handle.net/10419/107657",
+        "pdf": "https://www.econstor.eu/bitstream/10419/107657/1/776411764.pdf",
+        "datasets": [
+            "dataset-2cea7e830ce94a923473",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
         "doi": "doi:10.1111/j.1468-0475.2009.00472.x",
         "publisher": "German Economic Review",
         "title": "Going multinational: What are the effects on home market performance?",
@@ -62,6 +113,16 @@
         "datasets": [
             "dataset-515a08e38c69762ff789",
             "dataset-2cea7e830ce94a923473",
+            "dataset-52a86e661f7fc50f82b0"
+        ]
+    },
+    {
+        "doi": "RePEc:zbw:bubdp1:199609e",
+        "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
+        "title": "Enterprises' financing structure and their response to monetary policy stimuli: An analysis based on the Deutsche Bundesbank's corporate balance sheet statistics",
+        "url": "http://hdl.handle.net/10419/107169",
+        "pdf": "https://www.econstor.eu/bitstream/10419/107169/1/816593701.pdf",
+        "datasets": [
             "dataset-52a86e661f7fc50f82b0"
         ]
     }
