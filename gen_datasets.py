@@ -77,15 +77,14 @@ def concat_dataset_dfs(dataset_names_list,dataset_df):
     return data_df_full
 
 
-
 dataset_names_list = combine_manual_data()
 dataset_df  = read_data_dictionary()
 data_df_full = concat_dataset_dfs(dataset_names_list = dataset_names_list,dataset_df = dataset_df)
-data_df_full['dataset_id'] = data_df_full.title.apply(lambda x: "dataset-{}".format(metadata_funs.get_hash(x)))
+# data_df_full['dataset_id'] = data_df_full.title.apply(lambda x: "dataset-{}".format(metadata_funs.get_hash(x)))
+data_df_full['dataset_id'] = data_df_full.title.apply(lambda x: metadata_funs.get_hash(x,prefix = 'dataset-'))
 
 data_df_full = data_df_full.drop_duplicates()
 dd_dict = data_df_full.to_dict('records')
-
 
 for i in dd_dict:
     i['title'] = unicodedata.normalize('NFC',i['title'])
@@ -94,6 +93,10 @@ for i in dd_dict:
     if isinstance(i['temporal_coverage_start'], datetime.date):
         i['temporal_coverage_start'] = str(dateutil.parser.parse(str(i['temporal_coverage_start'])).date())
 
-
 json.dump(dd_dict, open('datasets.json', 'w'), indent=2)
 
+# def main():
+    
+
+# if __name__ == "__main__":
+#     main()
