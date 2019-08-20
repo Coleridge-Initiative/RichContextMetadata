@@ -5,13 +5,31 @@ import hashlib
 import os
 import json
 
-def get_hash (row):
-    m = hashlib.blake2b(digest_size=10)
+# def get_hash (row):
+#     m = hashlib.blake2b(digest_size=10)
     
-    for elem in row:
-        m.update(elem.encode("utf-8").lower().strip())
+#     for elem in row:
+#         m.update(elem.encode("utf-8").lower().strip())
 
-    return m.hexdigest()
+#     return m.hexdigest()
+
+
+def get_hash (strings, prefix=None, digest_size=10):
+    """
+    construct a unique identifier from a collection of strings
+    """
+    m = hashlib.blake2b(digest_size=digest_size)
+    
+    for elem in sorted(map(lambda x: x.encode("utf-8").lower().strip(), strings)):
+        m.update(elem)
+
+    if prefix:
+        id = prefix + m.hexdigest()
+    else:
+        id = m.hexdigest()
+
+    return id
+
 
 def create_api_client():
     print('enter your dimensions api username')
