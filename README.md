@@ -22,10 +22,10 @@ This pulls dataset names from multiple sources, and outputs metadata to `dataset
 2.  linkages from string search data (Dimensions API) (run `gen_ss_pubs`) and outputs to `/metadata/<hash>stringsearch_pub`
 
 To generate these publication metadata, run the following:
-`import gen_publications`
-`api_client = gen_publications.gen_api_client()`
-`gen_publications.gen_manual_pubs(api_client = api_client)`
-`gen_publications.gen_ss_pubs(api_client = api_client)`
+`import gen_publications` <br/>
+`api_client = gen_publications.gen_api_client()` <br/>
+`gen_publications.gen_manual_pubs(api_client = api_client)` <br/>
+`gen_publications.gen_ss_pubs(api_client = api_client)`<br/>
 
 The combine the outputs, run
 `gen_publication_linkages.py`.
