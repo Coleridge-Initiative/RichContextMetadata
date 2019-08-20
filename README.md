@@ -21,7 +21,7 @@ This pulls dataset names from multiple sources, and outputs metadata to `dataset
 1. linkages from manually curated data (`gen_manual_pubs`) and outputs to `/metadata/<hash>manually_curated_pubs`
 2.  linkages from string search data (Dimensions API) (run `gen_ss_pubs`) and outputs to `/metadata/<hash>stringsearch_pub`
 
-To generate these publication metadata, run the following:
+To generate these publication metadata, run the following:<br/>
 `import gen_publications` <br/>
 `api_client = gen_publications.gen_api_client()` <br/>
 `gen_publications.gen_manual_pubs(api_client = api_client)` <br/>
