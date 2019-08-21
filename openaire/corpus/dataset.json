@@ -180,6 +180,19 @@
       "rcc_cite": ["261", "379"]
     },
     {
+      "uuid": "dataset-555eb8a443bf5f1d1a4a",
+      "publisher": "Centers for Disease Control and Prevention",
+      "title": "NHANES 1 Epidemiologic Follow-up Study",
+      "alt_title": [
+        "NHEFS"
+	],
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhefs/default.aspx/",
+      "doi": "doi:10.3886/ICPSR08900",
+      "date": "2006-01-18 00:00:00+00:00",
+      "description": "The National Health and Nutrition Examination Survey I Epidemiologic Followup Study (NHEFS) originated as a joint project between the National Center for Health Statistics (NCHS) and the National Institute on Aging (NIA). The design of NHEFS, which contains follow-up data on the NHANES I cohort, consisted of five steps. The first step focused on tracing and locating all subjects in the cohort or their proxies and determining their vital status. The second step involved the obtaining of death certificates for subjects who were deceased. Interviews with the participants or their proxies constituted the third phase of the follow-up. The fourth phase of the follow-up included measurements of pulse, blood pressure, and weight for interviewed respondents, and the fifth step was the acquisition of relevant hospital and nursing home records, including pathology reports and electrocardiograms. The respondent interview was designed to gather information on selected aspects of the subject's health history since the time of the NHANES I exam. This information included a history of the occurrence or recurrence of selected medical conditions, an assessment of behavioral, social, nutritional, and medical risk factors believed to be associated with these conditions, and an assessment of various aspects of functional status. Whenever possible, the questionnaire was designed to retain item comparability between NHANES I and NHEFS in order to measure change over time. However, questionnaire items were modified, added, or deleted when necessary to take advantage of recent improvements in questionnaire methodology. The Vital and Tracing Status file is a master file containing tracing, vital status, and demographic data for all NHEFS respondents. In addition, it provides users with information on the availability of different survey components for each respondent. For example, variables have been created to indicate whether a death certificate was received for a deceased subject, hospital records were received, or a follow-up interview was completed. The Health Care Facility Record file offers data on respondents who had reported an overnight stay in a health care facility after 1970. Information on the name and address of the facility, the date of the stay, and the reason for the stay was recorded. The Mortality Data file contains death certificate information for 1,935 NHEFS decedents. The death certificate information is for deaths occurring from 1971 to 1983.",
+      "rcc_cite": ["380"]
+    },
+    {
       "uuid": "dataset-265b411623409ff9de3b",
       "publisher": "Centers for Disease Control and Prevention",
       "title": "National Health and Nutrition Examination Survey 1976-1980",
