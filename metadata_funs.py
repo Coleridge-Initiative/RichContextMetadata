@@ -4,14 +4,47 @@ import getpass
 import hashlib
 import os
 import json
+import hashlib
+import json
+import rdflib
+import sys
+import unicodedata
 
-# def get_hash (row):
-#     m = hashlib.blake2b(digest_size=10)
-    
-#     for elem in row:
-#         m.update(elem.encode("utf-8").lower().strip())
+def scrub_unicode (text):
+    """
+    try to handle the unicode edge cases encountered in source text,
+    as best as possible
+    """
+    x = " ".join(map(lambda s: s.strip(), text.split("\n"))).strip()
 
-#     return m.hexdigest()
+    x = x.replace('“', '"').replace('”', '"')
+    x = x.replace("‘", "'").replace("’", "'").replace("`", "'")
+    x = x.replace("`` ", '"').replace("''", '"')
+    x = x.replace('…', '...').replace("\\u2026", "...")
+    x = x.replace("\\u00ae", "").replace("\\u2122", "")
+    x = x.replace("\\u00a0", " ").replace("\\u2022", "*").replace("\\u00b7", "*")
+    x = x.replace("\\u2018", "'").replace("\\u2019", "'").replace("\\u201a", "'")
+    x = x.replace("\\u201c", '"').replace("\\u201d", '"')
+
+    x = x.replace("\\u20ac", "€")
+    x = x.replace("\\u2212", " - ") # minus sign
+
+    x = x.replace("\\u00e9", "é")
+    x = x.replace("\\u017c", "ż").replace("\\u015b", "ś").replace("\\u0142", "ł")    
+    x = x.replace("\\u0105", "ą").replace("\\u0119", "ę").replace("\\u017a", "ź").replace("\\u00f3", "ó")
+
+    x = x.replace("\\u2014", " - ").replace('–', '-').replace('—', ' - ')
+    x = x.replace("\\u2013", " - ").replace("\\u00ad", " - ")
+
+    x = str(unicodedata.normalize("NFKD", x).encode("ascii", "ignore").decode("utf-8"))
+
+    # some content returns text in bytes rather than as a str ?
+    try:
+        assert type(x).__name__ == "str"
+    except AssertionError:
+        print("not a string?", type(x), x)
+
+    return x
 
 
 def get_hash (strings, prefix=None, digest_size=10):
@@ -74,26 +107,7 @@ def run_pub_id_search(dimensions_id,api_client):
     publication_metadata = id_response['publications'][0]
     return publication_metadata
 
-def return_string_search_dyads(exact_match: bool, dataset_string: str, api_client):
-    if exact_match == True:
-        api_return = run_exact_string_search(string = dataset_string, api_client = api_client)
-    if exact_match == False:
-        api_return = run_string_search(string = dataset_string, api_client = api_client)
-    pub_metadata = []
-    for i in api_return['publications']:
-        time.sleep( 6 )
-        try:
-            pub_id = i['id']
-            id_metadata = run_pub_id_search(dimensions_id = pub_id, api_client = api_client)
-            try:
-                doi_id = id_metadata['doi']
-            except:
-                doi_id = None
-#             id_metadata.update({'dataset_name':dataset_string})
-            pub_metadata.append(id_metadata)
-        except Exception as e:               
-            print("Could not fetch metadata for publication: {}".format(doi_id))
-    return pub_metadata
+
 
 def flatten(l):
     flat_list = [item for sublist in l for item in sublist]
@@ -113,10 +127,8 @@ def read_datasets():
 #     dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_json]
     return dataset_json
 
-
-def read_pubs():
-    publication_json_path = os.path.join(os.getcwd(),'publications_lim.json')
-
+def read_publications():
+    publication_json_path = '/Users/sophierand/RichContextMetadata/publications_lim.json'
     with open(publication_json_path) as json_file:
         publications_json = json.load(json_file)
     return publications_json

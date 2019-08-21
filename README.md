@@ -17,21 +17,17 @@ This pulls dataset names from multiple sources, and outputs metadata to `dataset
 
 
 ### Publications
-`gen_publications.py` generates publication metadata (including linkages to datasets). It generates publication metadata from
-1. linkages from manually curated data (`gen_manual_pubs`) and outputs to `/metadata/<hash>manually_curated_pubs`
-2.  linkages from string search data (Dimensions API) (run `gen_ss_pubs`) and outputs to `/metadata/<hash>stringsearch_pub`
+Publication metadata is generated from multiple sources.
+1. We take dataset names and aliases and search them through full-text documents, fetching publication ids and then retrieving the metadata associated with the publication ids, using the Dimensions API. Outputs to `/metadata/<hash>stringsearch_pub`.
 
-To generate these publication metadata, run the following:<br/>
-`import gen_publications` <br/>
-`api_client = gen_publications.gen_api_client()` <br/>
-`gen_publications.gen_manual_pubs(api_client = api_client)` <br/>
-`gen_publications.gen_ss_pubs(api_client = api_client)`<br/>
+`python stringsearch.py`
 
-The combine the outputs, run
-`gen_publication_linkages.py`.
+ 2. Using manually curated linkages between datasets and publications, we take the publication DOIs and run them through the Dimensions API. Outputs to `/metadata/<hash>manually_curated_pubs`.
 
-This code collates the publication-dataset linkages and metadata from the manually and string-searched generated metadata, and assigns
-a unique `pub_id`, which is hashed from `title` and `journal`.
+ `python manually_curated_publications.py`
+
+Publications are collected and given unique identifiers (a hash of `article title` and `journal name`) by
+`python gen_publication_linkages.py`
 
 
 ### Subfolders

@@ -30,17 +30,31 @@ def add_pub_ids(pub_list_flat):
 def dedup_pub_list(pub_list_final):
     seen = set()
     dedup_pub_list = []
-    for d in pub_list_final:
-        t = d['pub_id']
-        if t not in seen:
-            seen.add(t)
-            dedup_pub_list.append(d)
+    for p in pub_list_final:
+        id_tup = tuple((p['related_dataset'],p['pub_id']))
+        if id_tup not in seen:
+            seen.add(id_tup)
+            dedup_pub_list.append(p)
     return dedup_pub_list
 
 def gen_publist_lim(pub_list_final):
-    pub_list_lim = [{'pubs':p['pub_id'],'title':p['title'],'related_dataset':p['related_dataset'],'doi':p['doi'],'journal':p['journal']['title']} for p in pub_list_final]
-    return pub_list_lim
-  
+    pub_list_lim = []
+    for p in pub_list_final:
+        lim_dict = {'pub_id':p['pub_id'],'title':p['title'],'related_dataset':p['related_dataset']}
+        try:
+            lim_dict.update({'journal':p['journal']['title']})
+        except:
+            pass
+        try:
+            lim_dict.update({'linkage_source':p['linkage_source']})
+        except:
+            pass
+        try:
+            lim_dict.update({'doi':p['doi']})
+        except:
+            pass        
+        pub_list_lim.append(lim_dict)
+    return pub_list_lim  
 
 search_path = '/Users/sophierand/RichContextMetadata/metadata/'
 pub_paths = [search_path+f for f in os.listdir(search_path) if f.endswith("pubs.json")]
