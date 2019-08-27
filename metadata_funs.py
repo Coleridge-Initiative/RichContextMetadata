@@ -121,7 +121,7 @@ def run_author_search(author_dimensions_id, api_client):
     return author_metadata
 
 def read_datasets():
-    dataset_json_path = os.path.join(os.getcwd(),'datasets.json')
+    dataset_json_path = os.path.join(os.getcwd(),'datasets_lim.json')
     with open(dataset_json_path) as json_file:
         dataset_json = json.load(json_file)
 #     dataset_names =[{'dataset_name':d['title'],'dataset_id':d['dataset_id']} for d in dataset_json]

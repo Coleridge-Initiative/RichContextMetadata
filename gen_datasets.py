@@ -49,5 +49,8 @@ for i in dd_dict:
     except:
         pass
 
+    
+dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias']} for d in dd_dict]
 
 json.dump(dd_dict, open('datasets.json', 'w'), indent=2)
+json.dump(dd_dict_lim, open('datasets_lim.json', 'w'), indent=2)
