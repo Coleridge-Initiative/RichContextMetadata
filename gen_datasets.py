@@ -3,9 +3,17 @@ import pandas as pd
 import unicodedata
 import datetime
 import metadata_funs
+import dateutil
 import json
 
-
+def assign_id(dataset_entry,fields_to_hash):
+    hash_vals = [(v) for k,v in dataset_entry.items() if k in fields_to_hash]
+    dataset_entry['dataset_id'] = "dataset-" + metadata_funs.get_hash(hash_vals)
+    dataset_entry['dataset_id_metadata'] = {'dataset_id':dataset_entry['dataset_id']
+                                            ,'hashed_columns':fields_to_hash
+#                                             ,'date_created':datetime.datetime.now()}
+                                            ,'date_created':str(dateutil.parser.parse(str(datetime.datetime.now())).date())}
+    return dataset_entry
 
 def read_adrf_dataset_md():
     linkage_path = os.path.join(os.getcwd(),'metadata/manually_curated_metadata/adrf_metadata.csv')
@@ -38,9 +46,11 @@ final_ds_dict = adrf_dd_dict + addl_ds_names
 
 dd_dict = final_ds_dict
 
+
 for i in dd_dict:
-    i['title'] = unicodedata.normalize('NFC',i['title'])
-    i['dataset_id'] = metadata_funs.get_hash(i['title'],prefix = 'dataset-')
+#     i['title'] = unicodedata.normalize('NFC',i['title'])
+    fields_to_hash = ['title']
+    i = assign_id(dataset_entry = i,fields_to_hash = fields_to_hash)
     try:
         if isinstance(i['temporal_coverage_end'], datetime.date):
             i['temporal_coverage_end'] = str(dateutil.parser.parse(str(i['temporal_coverage_end'])).date())
@@ -52,5 +62,6 @@ for i in dd_dict:
     
 dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias']} for d in dd_dict]
 
-json.dump(dd_dict, open('datasets.json', 'w'), indent=2)
-json.dump(dd_dict_lim, open('datasets_lim.json', 'w'), indent=2)
+
+json.dump(dd_dict, open('datasets_new.json', 'w'), indent=2)
+json.dump(dd_dict_lim, open('datasets_lim_new.json', 'w'), indent=2)
