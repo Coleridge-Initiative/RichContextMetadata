@@ -34,8 +34,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-90a10f22212fad2801b2",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -72,8 +83,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c6d3be38fdfd63090190",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -110,8 +132,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-cf04231486807308f38f",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -148,8 +181,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-0a57bab977a0f3129c39",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Delivery",
@@ -186,8 +230,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-cac9f6d3b9f0613043a7",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -224,8 +279,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b5aca7531996adcccf91",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -262,8 +328,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c5d73f9780439e0eedc3",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Delivery",
@@ -300,8 +377,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ec6a3322602e9dccd48c",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -338,8 +426,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-0add90b5966563e2c92a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -376,8 +475,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9aca5bd7e72f48e4710d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -414,8 +524,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b46613f4e377fb0ae47a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -452,8 +573,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-3d52834ea816dcf4e937",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -490,8 +622,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-2491464a08a0defbb8eb",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -528,8 +671,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c9643768e8531e719643",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "OnSite",
@@ -566,8 +720,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-4559d31685c43ddefe0d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -604,8 +769,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-5303a5a6d3acf9fe1cae",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -642,8 +818,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-fc9a3fe9d21850786d47",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -680,8 +867,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-bf81d675f793987c826e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -718,8 +916,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6675463606e98311f796",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "NotAvailable",
@@ -756,8 +965,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9523f94e11a849191b71",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -794,8 +1014,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7440f7870a409011abfc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -832,8 +1063,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7d9dddbd2461c0788815",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -870,8 +1112,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ab7c268fe57ec64eaec9",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -908,8 +1161,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d4b4266e1810604fb6e3",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -946,8 +1210,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-4f5a80e013ed15adb25d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -984,8 +1259,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-fd2b7f72bbeb3fe6dd12",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1022,8 +1308,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-8a780e347d8483d2f017",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1060,8 +1357,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-5628b6bc092fc95070bf",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1098,8 +1406,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-f5c62217012bb394d12a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1136,8 +1455,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-12918531d7785ba0f1ba",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1174,8 +1504,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-0b5f16bc73717778efad",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1212,8 +1553,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c80241276a6aa41bd09d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1250,8 +1602,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d9fdfb18a2a55354764c",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1288,8 +1651,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-84ea126314cbc5a3ad14",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class and have agreed to and signed the Nondisclosure Agreement for these data.",
@@ -1326,8 +1700,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-dfca3ba57863a2579d7a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1364,8 +1749,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-31d58fcec3529cff0b66",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1402,8 +1798,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-786fa8adb68d8a5d59ee",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1440,8 +1847,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7cbe9b0018fe7c7e2160",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1478,8 +1896,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6729972211e8d8eecaaf",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1516,8 +1945,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c701cad1a6ffd7c2a25f",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1554,8 +1994,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9a3a35a925462ecfe5fa",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1592,8 +2043,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-f458a780ee099832b161",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "No access restrictions on this dataset",
@@ -1630,8 +2092,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7613b4fe96c565ebd9df",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "No access restrictions on this dataset",
@@ -1668,8 +2141,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d93f4ea7faf8426ed628",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1706,8 +2190,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-46f1d83b7622bff1f8f6",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1744,8 +2239,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-2f049cd34ff21a833093",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1782,8 +2288,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-de3b8c26ed06a897f042",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1820,8 +2337,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-87d5cda32c5d15a0e27a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1858,8 +2386,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-47b84374f3f9b9f885ab",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class to access these data.",
@@ -1896,8 +2435,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-467533c44731a349896b",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1934,8 +2484,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-0f16cac3062fcd0f9a69",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -1972,8 +2533,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-a216de61ad1eb52ddd6d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2010,8 +2582,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-80bc79bd835cc394fa6f",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2048,8 +2631,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-cbea2d9c52a8b5ceb9a0",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2086,8 +2680,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-91d266e9af5a28e8a78f",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2124,8 +2729,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-fadeeacdf354a53350fb",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2162,8 +2778,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7b4c70f8f877f245dfb8",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
@@ -2200,8 +2827,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d3c78771ad37b1a15cdf",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class or have approved project access to the ADRF to request access these data.",
@@ -2238,8 +2876,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-be23f973433ce35e91af",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class or have approved project access to the ADRF to request access these data.",
@@ -2276,8 +2925,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-0e165d23c06760861f7e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class or have approved project access to the ADRF to request access these data.",
@@ -2314,8 +2974,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9238232b36ab07c26f10",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class or have approved project access to the ADRF to request access these data.",
@@ -2352,8 +3023,19 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-bb0870d48572303c8efa",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "access_requirements": "You must be enrolled in an ADRF class or have approved project access to the ADRF to request access these data.",
@@ -2390,2796 +3072,2304 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-a89256424b5004a1aa6b",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "TANF",
+      "TANF data",
+      "Temporary Assistance for Needy Families data"
+    ],
     "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
       "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "OR",
+    "add_state": "yes",
+    "alias": [
+      "OR TANF",
+      "OR TANF data",
+      "OR Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Child welfare data",
+    "geography": "WA",
+    "alias": [
+      "Child welfare"
+    ],
+    "dataset_id": "dataset-d1f4aac2918c7560c742",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-d1f4aac2918c7560c742",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d1f4aac2918c7560c742",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "TANF data",
+    "geography": "WA",
+    "alias": [
+      "TANF",
+      "Temporary Assistance for Needy Families",
+      "Temporary Assistance for Needy Families data"
+    ],
     "dataset_id": "dataset-6f0409dbeecd882bd190",
     "dataset_id_metadata": {
       "dataset_id": "dataset-6f0409dbeecd882bd190",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Washington child welfare and TANF administrative data",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-248ce030289889629da1",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-248ce030289889629da1",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6f0409dbeecd882bd190",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "NY administrative data",
-    "geographical_coverage": "NY",
+    "geography": "NY",
     "dataset_id": "dataset-fb91a0bb2567d53cd4c2",
     "dataset_id_metadata": {
       "dataset_id": "dataset-fb91a0bb2567d53cd4c2",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-fb91a0bb2567d53cd4c2",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Current population survey data",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-5926dcc8a91229334c3d",
+    "title": "Current population survey",
+    "geography": "NY",
+    "alias": [
+      "CPS data",
+      "CPS",
+      "Current population survey data"
+    ],
+    "dataset_id": "dataset-f19084c8da29349729f0",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-5926dcc8a91229334c3d",
+      "dataset_id": "dataset-f19084c8da29349729f0",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "CPS data",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-d74ad19986507e1c8a56",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d74ad19986507e1c8a56",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-f19084c8da29349729f0",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Oregon Medicaid",
-    "geographical_coverage": "OR",
+    "geography": "OR",
+    "alias": [
+      "Oregon Medicaid data"
+    ],
     "dataset_id": "dataset-f3415db38d11cd87b9b4",
     "dataset_id_metadata": {
       "dataset_id": "dataset-f3415db38d11cd87b9b4",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "geographical_coverage": "OR",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Oregon Medicaid",
-    "geographical_coverage": "OR",
-    "dataset_id": "dataset-f3415db38d11cd87b9b4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f3415db38d11cd87b9b4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Program model information from Philadelphia",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-36a330ced0080d528431",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-36a330ced0080d528431",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-f3415db38d11cd87b9b4",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from NYC",
-    "geographical_coverage": "NY",
+    "geography": "NY",
+    "alias": [
+      "Program model information from New York City"
+    ],
     "dataset_id": "dataset-b0b87685ee1f9f987533",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b0b87685ee1f9f987533",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Program model information from New York City",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-4460bcec93551ca1429f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4460bcec93551ca1429f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b0b87685ee1f9f987533",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from Philadelphia",
-    "geographical_coverage": "PA",
+    "geography": "PA",
     "dataset_id": "dataset-36a330ced0080d528431",
     "dataset_id_metadata": {
       "dataset_id": "dataset-36a330ced0080d528431",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-36a330ced0080d528431",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from Hennepin County",
-    "geographical_coverage": "MN",
+    "geography": "MN",
+    "alias": [
+      "Program model information from Minneapolis",
+      "Program model information from Twin Cities"
+    ],
     "dataset_id": "dataset-f79a30291485aa9e6ecb",
     "dataset_id_metadata": {
       "dataset_id": "dataset-f79a30291485aa9e6ecb",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Program model information from Minneapolis",
-    "geographical_coverage": "MN",
-    "dataset_id": "dataset-d75a1ea0b9450e1176b8",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d75a1ea0b9450e1176b8",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Program model information from Twin Cities",
-    "geographical_coverage": "MN",
-    "dataset_id": "dataset-567dc54afda4ba65b691",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-567dc54afda4ba65b691",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-f79a30291485aa9e6ecb",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from Nebraska",
-    "geographical_coverage": "NE",
+    "geography": "NE",
     "dataset_id": "dataset-6905ebdfa3967f27a2c3",
     "dataset_id_metadata": {
       "dataset_id": "dataset-6905ebdfa3967f27a2c3",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6905ebdfa3967f27a2c3",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from New Jersey",
-    "geographical_coverage": "NJ",
+    "geography": "NJ",
     "dataset_id": "dataset-b9f272903cd17a3ea153",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b9f272903cd17a3ea153",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b9f272903cd17a3ea153",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Program model information from Rhode Island",
-    "geographical_coverage": "RI",
+    "geography": "RI",
     "dataset_id": "dataset-18b40bfb269dfbd09981",
     "dataset_id_metadata": {
       "dataset_id": "dataset-18b40bfb269dfbd09981",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-18b40bfb269dfbd09981",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Philadelphia TANF data",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-9f7da7ada2ee475343d0",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "PA",
+    "add_state": "yes",
+    "alias": [
+      "PA TANF",
+      "PA TANF data",
+      "PA Temporary Assistance for Needy Families data",
+      "PA Philadelphia TANF data",
+      "PA Philadelphia TANF"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-9f7da7ada2ee475343d0",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "TWC",
-    "geographical_coverage": "PA",
+    "geography": "PA",
+    "alias": [
+      "Transitional Work Corporation"
+    ],
     "dataset_id": "dataset-60c68576af72cd77c213",
     "dataset_id_metadata": {
       "dataset_id": "dataset-60c68576af72cd77c213",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Transitional Work Corporation",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-d568b983c8a7a3e94d15",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d568b983c8a7a3e94d15",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-60c68576af72cd77c213",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "STEP",
-    "geographical_coverage": "PA",
+    "geography": "PA",
+    "alias": [
+      "Success Through Employment Preparation"
+    ],
     "dataset_id": "dataset-ffa1e4fd3198285a5f02",
     "dataset_id_metadata": {
       "dataset_id": "dataset-ffa1e4fd3198285a5f02",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Success Through Employment Preparation",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-405a27a4d2374f390256",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-405a27a4d2374f390256",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Philadelphia TANF",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-db976575b25326f87386",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-db976575b25326f87386",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ffa1e4fd3198285a5f02",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Pennsylvania's Department of Public Welfare",
-    "geographical_coverage": "PA",
+    "geography": "PA",
+    "alias": [
+      "Pennsylvania's DPW",
+      "PA DPW",
+      "PA Department of Public Welfare"
+    ],
     "dataset_id": "dataset-b6c1599687d3db223222",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b6c1599687d3db223222",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Pennsylvania's DPW",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-d009e7aea0df6c35e743",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d009e7aea0df6c35e743",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b6c1599687d3db223222",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "National Directory of New Hires",
-    "geographical_coverage": "PA",
+    "geography": "PA",
+    "alias": [
+      "NDNH"
+    ],
     "dataset_id": "dataset-8fe595bf2312b13d4a45",
     "dataset_id_metadata": {
       "dataset_id": "dataset-8fe595bf2312b13d4a45",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "NDNH",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-b4c130f5a5fe4b8b8f93",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b4c130f5a5fe4b8b8f93",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-8fe595bf2312b13d4a45",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Work First program data",
-    "geographical_coverage": "MI",
+    "geography": "MI",
+    "alias": [
+      "Work First program"
+    ],
     "dataset_id": "dataset-b558081b738483935708",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b558081b738483935708",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b558081b738483935708",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "UI wage records",
-    "geographical_coverage": "MI",
+    "geography": "MI",
+    "alias": [
+      "UI wage record data"
+    ],
     "dataset_id": "dataset-4837ba53dc2b738dd876",
     "dataset_id_metadata": {
       "dataset_id": "dataset-4837ba53dc2b738dd876",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-4837ba53dc2b738dd876",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "State of Michigan",
-    "geographical_coverage": "MI",
+    "geography": "MI",
+    "alias": [
+      "State of Michigan data",
+      "Michigan data",
+      "Michigan"
+    ],
     "dataset_id": "dataset-b65dabb6d07f575705f6",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b65dabb6d07f575705f6",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b65dabb6d07f575705f6",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Maryland TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-ed6d337519ed27bb7024",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "MD",
+    "add_state": "yes",
+    "alias": [
+      "MD TANF",
+      "MD TANF data",
+      "MD Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-ed6d337519ed27bb7024",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Maryland TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
+    "title": "Family Transition Program",
+    "geography": "FL",
+    "alias": [
+      "Family Transition Program data"
+    ],
+    "dataset_id": "dataset-ccfd51fae7c4f5bac3e5",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
+      "dataset_id": "dataset-ccfd51fae7c4f5bac3e5",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ccfd51fae7c4f5bac3e5",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "NDNH",
-    "geographical_coverage": "PA",
-    "dataset_id": "dataset-b4c130f5a5fe4b8b8f93",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "OH",
+    "add_state": "yes",
+    "alias": [
+      "OH TANF",
+      "OH TANF data",
+      "OH Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-b4c130f5a5fe4b8b8f93",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Work First program data",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-b558081b738483935708",
+    "title": "Exit survey",
+    "geography": "OH",
+    "alias": [
+      "Exit survey data"
+    ],
+    "dataset_id": "dataset-9d0f309b8ff34506c6ad",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-b558081b738483935708",
+      "dataset_id": "dataset-9d0f309b8ff34506c6ad",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "UI wage records",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-4837ba53dc2b738dd876",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4837ba53dc2b738dd876",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9d0f309b8ff34506c6ad",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "State of Michigan",
-    "geographical_coverage": "MI",
+    "geography": "MI",
+    "alias": [
+      "State of Michigan data"
+    ],
     "dataset_id": "dataset-b65dabb6d07f575705f6",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b65dabb6d07f575705f6",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b65dabb6d07f575705f6",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Administrative and evaluation data of Florida's Family Transition Program for welfare recipients",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-46cb1e5062c92303cedd",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "MI",
+    "add_state": "yes",
+    "alias": [
+      "MI TANF",
+      "MI TANF data",
+      "MI Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-46cb1e5062c92303cedd",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "State of Ohio TANF data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-9ad7e1ee4ca9a3efe3b0",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI TANF",
+      "WI TANF data",
+      "WI Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-9ad7e1ee4ca9a3efe3b0",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "State of Ohio TANF",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-552a95994ae6ac502815",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-552a95994ae6ac502815",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Exit survey information",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-7102d36423660a14e135",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-7102d36423660a14e135",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "State of Michigan",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-b65dabb6d07f575705f6",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b65dabb6d07f575705f6",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Food Stamp Data",
+    "title": "Food Stamp data",
+    "alias": [
+      "SNAP data",
+      "Supplemental Nutrition Assistance Program",
+      "Supplemental Nutrition Assistance Program data"
+    ],
     "dataset_id": "dataset-7eba41673b6502909351",
     "dataset_id_metadata": {
       "dataset_id": "dataset-7eba41673b6502909351",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7eba41673b6502909351",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Women's Employment Study",
+    "alias": [
+      "Women's Employment Study data",
+      "WES",
+      "WEST data"
+    ],
     "dataset_id": "dataset-28f95b0000ee003511d1",
     "dataset_id_metadata": {
       "dataset_id": "dataset-28f95b0000ee003511d1",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-28f95b0000ee003511d1",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "WES",
-    "dataset_id": "dataset-5299e0441fea55d632d3",
+    "title": "State of Wisconsin data",
+    "geography": "WI",
+    "alias": [
+      "State of Wisconsin Data",
+      "Wisconsin state data"
+    ],
+    "dataset_id": "dataset-39c266e6eb146cc4be58",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-5299e0441fea55d632d3",
+      "dataset_id": "dataset-39c266e6eb146cc4be58",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-39c266e6eb146cc4be58",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Wisconsin TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-d6eeb7dab04ddf785e42",
+    "title": "W-2 data",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI W-2"
+    ],
+    "dataset_id": "dataset-01fddb574de46b3a0ca8",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-d6eeb7dab04ddf785e42",
+      "dataset_id": "dataset-01fddb574de46b3a0ca8",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-093a32b9c1aafa29895f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-093a32b9c1aafa29895f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-0ed8ffa054da64f48023",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0ed8ffa054da64f48023",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-127a4ed36bab03e1aa2f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-127a4ed36bab03e1aa2f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-d6eeb7dab04ddf785e42",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d6eeb7dab04ddf785e42",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-04b27937c2a8be9b71c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-04b27937c2a8be9b71c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin child support data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-77547cacce83ec998675",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-77547cacce83ec998675",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin child support",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-1b59ef2db032563edfd9",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-1b59ef2db032563edfd9",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "KY TANF",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-8197ba7c1da438a19973",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-8197ba7c1da438a19973",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "KY TANF data",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-42125bc4df55e234a83c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-42125bc4df55e234a83c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Kentucky TANF",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-84fb2d170ec861d75304",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-84fb2d170ec861d75304",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Kentucky TANF data",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-eacb57803a5baf9f2fec",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-eacb57803a5baf9f2fec",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Relocation Assistance Program",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-6c595084d04af1c54eb7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6c595084d04af1c54eb7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "RAP",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-83691fae0fefe72a0480",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-83691fae0fefe72a0480",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "UI administrative Data",
-    "geographical_coverage": "KY",
-    "dataset_id": "dataset-4981a9ceef90ef55b65e",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4981a9ceef90ef55b65e",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Child Care subsidy administrative data from Washington State",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-d9cb53a1f452aea6607b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d9cb53a1f452aea6607b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Milwaukee County, WI longitudinal data of TANF applicants in 1999",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-0d64f008e56ae90a6894",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0d64f008e56ae90a6894",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Milwaukee TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-9255b8ba0a53b683d9d9",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-9255b8ba0a53b683d9d9",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Milwaukee TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-6203badb7b98477c8780",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6203badb7b98477c8780",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Child welfare data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-d1f4aac2918c7560c742",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d1f4aac2918c7560c742",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-04b27937c2a8be9b71c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-04b27937c2a8be9b71c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin W-2",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-27ff6d720a927ce3b5bd",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-27ff6d720a927ce3b5bd",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI W-2 data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-f4bbf8f43159b98fb068",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f4bbf8f43159b98fb068",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI W-2",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-4cb00b535d29295be35e",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4cb00b535d29295be35e",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-01fddb574de46b3a0ca8",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Child support data",
-    "geographical_coverage": "WI",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child support"
+    ],
     "dataset_id": "dataset-9017bf4b50cc5bc65c61",
     "dataset_id_metadata": {
       "dataset_id": "dataset-9017bf4b50cc5bc65c61",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9017bf4b50cc5bc65c61",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Child support",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-8a3a51b4a11f53adbffa",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "KY",
+    "add_state": "yes",
+    "alias": [
+      "KY TANF",
+      "KY TANF data",
+      "KY Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-8a3a51b4a11f53adbffa",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Milwaukee TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-9255b8ba0a53b683d9d9",
+    "title": "Relocation Assistance Program",
+    "geography": "KY",
+    "add_state": "yes",
+    "alias": [
+      "KY RAP"
+    ],
+    "dataset_id": "dataset-6c595084d04af1c54eb7",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-9255b8ba0a53b683d9d9",
+      "dataset_id": "dataset-6c595084d04af1c54eb7",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6c595084d04af1c54eb7",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Milwaukee TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-6203badb7b98477c8780",
+    "title": "UI administrative data",
+    "geography": "KY",
+    "add_state": "yes",
+    "dataset_id": "dataset-4981a9ceef90ef55b65e",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-6203badb7b98477c8780",
+      "dataset_id": "dataset-4981a9ceef90ef55b65e",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-4981a9ceef90ef55b65e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "WA",
+    "add_state": "yes",
+    "alias": [
+      "WA TANF",
+      "WA TANF data",
+      "WA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Child care subsidy administrative data",
+    "geography": "WA",
+    "add_state": "yes",
+    "dataset_id": "dataset-e7219484f03e4acfd555",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e7219484f03e4acfd555",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-e7219484f03e4acfd555",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Milwaukee County, WI TANF data",
+    "geography": "WI",
+    "alias": [
+      "Milwaukee TANF",
+      "Milwaukee TANF data"
+    ],
+    "dataset_id": "dataset-ba5961891a185da5a716",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ba5961891a185da5a716",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ba5961891a185da5a716",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Child welfare data",
-    "geographical_coverage": "WI",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child welfare"
+    ],
     "dataset_id": "dataset-d1f4aac2918c7560c742",
     "dataset_id_metadata": {
       "dataset_id": "dataset-d1f4aac2918c7560c742",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d1f4aac2918c7560c742",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "TANF applicant data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-ed29b8b760ab9c94377b",
+    "title": "Child support data",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child support"
+    ],
+    "dataset_id": "dataset-9017bf4b50cc5bc65c61",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-ed29b8b760ab9c94377b",
+      "dataset_id": "dataset-9017bf4b50cc5bc65c61",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-6f0409dbeecd882bd190",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6f0409dbeecd882bd190",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Child welfare data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-d1f4aac2918c7560c742",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d1f4aac2918c7560c742",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Child welfare",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-afc6b9a725bc9455e0a6",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-afc6b9a725bc9455e0a6",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9017bf4b50cc5bc65c61",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in CO from 2002",
-    "geographical_coverage": "CO",
+    "geography": "CO",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Colorado from 2002"
+    ],
     "dataset_id": "dataset-150ecb086391ecf4c98d",
     "dataset_id_metadata": {
       "dataset_id": "dataset-150ecb086391ecf4c98d",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Colorado from 2002",
-    "geographical_coverage": "CO",
-    "dataset_id": "dataset-dbe6bf104264c30e97ea",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-dbe6bf104264c30e97ea",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-150ecb086391ecf4c98d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in DC from 2002",
-    "geographical_coverage": "DC",
+    "geography": "DC",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002"
+    ],
     "dataset_id": "dataset-d754d83b5c39d3aac9c5",
     "dataset_id_metadata": {
       "dataset_id": "dataset-d754d83b5c39d3aac9c5",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002",
-    "geographical_coverage": "DC",
-    "dataset_id": "dataset-fe89733203a6e9bca9cf",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-fe89733203a6e9bca9cf",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d754d83b5c39d3aac9c5",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in IL from 2002",
-    "geographical_coverage": "IL",
+    "geography": "IL",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Illinois from 2002"
+    ],
     "dataset_id": "dataset-4209867576132f552cce",
     "dataset_id_metadata": {
       "dataset_id": "dataset-4209867576132f552cce",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Illinois from 2002",
-    "geographical_coverage": "IL",
-    "dataset_id": "dataset-b534ed66825164cd9a97",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b534ed66825164cd9a97",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-4209867576132f552cce",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in MD from 2002",
-    "geographical_coverage": "MD",
+    "geography": "MD",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Maryland from 2002"
+    ],
     "dataset_id": "dataset-b7d6a874493d4cf69fdb",
     "dataset_id_metadata": {
       "dataset_id": "dataset-b7d6a874493d4cf69fdb",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Maryland from 2002",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-6b0627d62ba46fd2b428",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6b0627d62ba46fd2b428",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-b7d6a874493d4cf69fdb",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in MO from 2002",
-    "geographical_coverage": "MO",
+    "geography": "MO",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Montana from 2002"
+    ],
     "dataset_id": "dataset-de25cbf46c51ee4afd08",
     "dataset_id_metadata": {
       "dataset_id": "dataset-de25cbf46c51ee4afd08",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Montana from 2002",
-    "geographical_coverage": "MO",
-    "dataset_id": "dataset-6ccf5507902db2a734f0",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6ccf5507902db2a734f0",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-de25cbf46c51ee4afd08",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Statewide surveys of single-parent TANF recipients in SC from 2002",
-    "geographical_coverage": "SC",
+    "geography": "SC",
+    "alias": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002",
     "dataset_id": "dataset-18782d4717313fed7afd",
     "dataset_id_metadata": {
       "dataset_id": "dataset-18782d4717313fed7afd",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002",
-    "geographical_coverage": "SC",
-    "dataset_id": "dataset-8586e5679722ba53f94c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-8586e5679722ba53f94c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-18782d4717313fed7afd",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Devolution and Urban Change",
-    "geographical_coverage": "FL",
+    "geography": "FL",
     "dataset_id": "dataset-6f80f8ea96fd5734778e",
     "dataset_id_metadata": {
       "dataset_id": "dataset-6f80f8ea96fd5734778e",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-6f80f8ea96fd5734778e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Cuyahoga TANF",
-    "geographical_coverage": "FL",
+    "geography": "FL",
+    "alias": [
+      "Cuyahoga TANF data"
+    ],
     "dataset_id": "dataset-ae447e1e9c0d9b3a301d",
     "dataset_id_metadata": {
       "dataset_id": "dataset-ae447e1e9c0d9b3a301d",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ae447e1e9c0d9b3a301d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Los Angeles TANF data",
-    "geographical_coverage": "FL",
+    "geography": "CA",
+    "alias": [
+      "Los Angeles TANF"
+    ],
     "dataset_id": "dataset-d2a193dbddd5ef310db4",
     "dataset_id_metadata": {
       "dataset_id": "dataset-d2a193dbddd5ef310db4",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Los Angeles TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-bd9bfc05e1ddcbc9f2f4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-bd9bfc05e1ddcbc9f2f4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d2a193dbddd5ef310db4",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Miami-Dade TANF data",
-    "geographical_coverage": "FL",
+    "geography": "FL",
+    "alias": [
+      "Miami-Dade TANF"
+    ],
     "dataset_id": "dataset-7dfb8519ba6fb2e23c7e",
     "dataset_id_metadata": {
       "dataset_id": "dataset-7dfb8519ba6fb2e23c7e",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Miami-Dade TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-f5c4f38b1c74f1abe795",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f5c4f38b1c74f1abe795",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7dfb8519ba6fb2e23c7e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Philadelphia TANF data",
-    "geographical_coverage": "FL",
+    "geography": "PA",
+    "alias": [
+      "Philadelphia TANF"
+    ],
     "dataset_id": "dataset-9f7da7ada2ee475343d0",
     "dataset_id_metadata": {
       "dataset_id": "dataset-9f7da7ada2ee475343d0",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9f7da7ada2ee475343d0",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Philadelphia TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-db976575b25326f87386",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL TANF",
+      "FL TANF data",
+      "FL Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-db976575b25326f87386",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-ae447e1e9c0d9b3a301d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-ae447e1e9c0d9b3a301d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-27247cd57dd7aedbb5c7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-04b27937c2a8be9b71c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-04b27937c2a8be9b71c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin W-2",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-27ff6d720a927ce3b5bd",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-27ff6d720a927ce3b5bd",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-ed6d337519ed27bb7024",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-ed6d337519ed27bb7024",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a217d2d1c10bc14409d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a217d2d1c10bc14409d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-954efe670de3ed6b3b5c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-954efe670de3ed6b3b5c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin state data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-db300092d64c2a23f107",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-db300092d64c2a23f107",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida State TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-726b99d11509ba51a496",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-726b99d11509ba51a496",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida State TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-976dfb36c42052ad8276",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-976dfb36c42052ad8276",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Substance abuse testing data",
-    "geographical_coverage": "FL",
+    "geography": "FL",
+    "alias": [
+      "Substance abuse testing"
+    ],
     "dataset_id": "dataset-8a09ea2b9e2712e85bba",
     "dataset_id_metadata": {
       "dataset_id": "dataset-8a09ea2b9e2712e85bba",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Substance abuse testing",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-b35d2069837fba8350e2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b35d2069837fba8350e2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-8a09ea2b9e2712e85bba",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Medicaid data",
-    "geographical_coverage": "FL",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL Medicaid"
+    ],
     "dataset_id": "dataset-d0da05b6189482b29acf",
     "dataset_id_metadata": {
       "dataset_id": "dataset-d0da05b6189482b29acf",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d0da05b6189482b29acf",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "SNAP data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-25e5c7a15fb1c042f93d",
+    "title": "Food Stamp data",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL SNAP data",
+      "FL Supplemental Nutrition Assistance Program",
+      "FL Supplemental Nutrition Assistance Program data"
+    ],
+    "dataset_id": "dataset-7eba41673b6502909351",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-25e5c7a15fb1c042f93d",
+      "dataset_id": "dataset-7eba41673b6502909351",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Supplemental Nutrition Assistance Program data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-d99e1da2b45a11fe2da0",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d99e1da2b45a11fe2da0",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7eba41673b6502909351",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "UI data",
-    "geographical_coverage": "FL",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL UI"
+    ],
     "dataset_id": "dataset-18009db08cb1c7774b5e",
     "dataset_id_metadata": {
       "dataset_id": "dataset-18009db08cb1c7774b5e",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Medicaid",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-9c34d065b25c6408e51f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-9c34d065b25c6408e51f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "UI",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-36e1030d17758a724854",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-36e1030d17758a724854",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "geographical_coverage": "OR",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF data",
-    "geographical_coverage": "OR",
-    "dataset_id": "dataset-6f0409dbeecd882bd190",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6f0409dbeecd882bd190",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-59b8eed1be2c42c7e935",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-59b8eed1be2c42c7e935",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-6f0409dbeecd882bd190",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-6f0409dbeecd882bd190",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin State earnings data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-e83da85ca8f134f64e2b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-e83da85ca8f134f64e2b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin State employment data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-3ed4d2f06b2cb37f75d7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-3ed4d2f06b2cb37f75d7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin State earnings",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-68ae01013987445ef136",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-68ae01013987445ef136",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin State employment",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-72467331acaf1ea8767b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-72467331acaf1ea8767b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin State administrative data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-628bd3f3ff8814e54e39",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-628bd3f3ff8814e54e39",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Georgia TANF data",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-435589845176d09a92d5",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-435589845176d09a92d5",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Georgia TANF",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-5a6990e28be490b738b4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5a6990e28be490b738b4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "GA TANF data",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-3df8c6ecc845a2d0d0a4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-3df8c6ecc845a2d0d0a4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "GA TANF",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-a6c7dfa7bdb2ce215437",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-a6c7dfa7bdb2ce215437",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "DC TANF data",
-    "geographical_coverage": "DC",
-    "dataset_id": "dataset-e93eb6d57912004980f3",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-e93eb6d57912004980f3",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "DC TANF",
-    "geographical_coverage": "DC",
-    "dataset_id": "dataset-c61094c13512d6c7136d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c61094c13512d6c7136d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Missouri TANF data",
-    "geographical_coverage": "MO",
-    "dataset_id": "dataset-f71f0bbca02b9bd64dec",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f71f0bbca02b9bd64dec",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Missouri TANF",
-    "geographical_coverage": "MO",
-    "dataset_id": "dataset-c8b25c11b7871dd84590",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c8b25c11b7871dd84590",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MO TANF data",
-    "geographical_coverage": "MO",
-    "dataset_id": "dataset-5afb2f7f3febd5ee120b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5afb2f7f3febd5ee120b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MO TANF",
-    "geographical_coverage": "MO",
-    "dataset_id": "dataset-3e731879b846d28e3e6a",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-3e731879b846d28e3e6a",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "South Carolina TANF data",
-    "geographical_coverage": "SC",
-    "dataset_id": "dataset-970f4880e31a4bfcf0f5",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-970f4880e31a4bfcf0f5",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "South Carolina TANF",
-    "geographical_coverage": "SC",
-    "dataset_id": "dataset-1b2408c2b8ab4d0c2d10",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-1b2408c2b8ab4d0c2d10",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "SC TANF data",
-    "geographical_coverage": "SC",
-    "dataset_id": "dataset-d369a643deadf2eeffbc",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d369a643deadf2eeffbc",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "SC TANF",
-    "geographical_coverage": "SC",
-    "dataset_id": "dataset-e7039b97d048ef6fea92",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-e7039b97d048ef6fea92",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Iowa TANF data",
-    "geographical_coverage": "IA",
-    "dataset_id": "dataset-16a63bfdf9b9b92d222c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-16a63bfdf9b9b92d222c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Iowa TANF",
-    "geographical_coverage": "IA",
-    "dataset_id": "dataset-0dc8ce2d1e583594778e",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0dc8ce2d1e583594778e",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "IA TANF data",
-    "geographical_coverage": "IA",
-    "dataset_id": "dataset-cc050736b0f12b6fe198",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-cc050736b0f12b6fe198",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "IA TANF",
-    "geographical_coverage": "IA",
-    "dataset_id": "dataset-4a24f6053ae59bf505ab",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a24f6053ae59bf505ab",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Ohio TANF data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-5f027138355597dc0850",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5f027138355597dc0850",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Ohio TANF",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-310ad2b43e093b3a9170",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-310ad2b43e093b3a9170",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "OH TANF data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-41e70a2d355ea41620f8",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-41e70a2d355ea41620f8",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "OH TANF",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-2bc49063aac6b0bcc7ba",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-2bc49063aac6b0bcc7ba",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-ed6d337519ed27bb7024",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-ed6d337519ed27bb7024",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a217d2d1c10bc14409d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a217d2d1c10bc14409d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-954efe670de3ed6b3b5c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-954efe670de3ed6b3b5c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Salt Lake County State of Utah data",
-    "geographical_coverage": "UT",
-    "dataset_id": "dataset-06635f462eff74200ef7",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-06635f462eff74200ef7",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Salt Lake County State of UT",
-    "geographical_coverage": "UT",
-    "dataset_id": "dataset-215ee8609c6da251de7d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-215ee8609c6da251de7d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga County State of Ohio data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-275b978f0d6af0fd3456",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-275b978f0d6af0fd3456",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga County State of Ohio",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-c42c2e9169278437ff5f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c42c2e9169278437ff5f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cleveland State of Ohio data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-a2df8e0e77ba95ce154a",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-a2df8e0e77ba95ce154a",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cleveland State of Ohio",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-80d69ea15b618802871d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-80d69ea15b618802871d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida WAGES data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-3382619b57c0ccda67e4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-3382619b57c0ccda67e4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida WAGES",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-c83a3f7aaedf5e4365d4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c83a3f7aaedf5e4365d4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida UI data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-1da3be7b3dcbcfd7fe17",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-1da3be7b3dcbcfd7fe17",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida UI",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-0c63e0e2436ae1e370b9",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0c63e0e2436ae1e370b9",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF data",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-5d5ef8cb158fe43641eb",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Florida TANF",
-    "geographical_coverage": "FL",
-    "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f70ed997bf7d0a4592a2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Illinois TANF data",
-    "geographical_coverage": "IL",
-    "dataset_id": "dataset-c6eafd873cef35d38e36",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c6eafd873cef35d38e36",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Illinois TANF",
-    "geographical_coverage": "IL",
-    "dataset_id": "dataset-10384f3506eaa4fd8d7b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-10384f3506eaa4fd8d7b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga County State of Ohio data TANF",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-903b32f3149bda07e853",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-903b32f3149bda07e853",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cuyahoga County State of Ohio TANF data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-1cfc593427aec92aa368",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-1cfc593427aec92aa368",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cleveland State of Ohio TANF data",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-42e8001290599efd46a3",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-42e8001290599efd46a3",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Cleveland State of Ohio TANF",
-    "geographical_coverage": "OH",
-    "dataset_id": "dataset-e7c57359094fa4020021",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-e7c57359094fa4020021",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "California TANF data",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-7f9e268f503817a2a897",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-7f9e268f503817a2a897",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "California TANF",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-aa99fc2a58aa887636c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-aa99fc2a58aa887636c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "CA TANF data",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-0cd73de7daa5a88565cc",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0cd73de7daa5a88565cc",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "CA TANF",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-99534da7e13faf8256f2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-99534da7e13faf8256f2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Massachusetts TANF",
-    "geographical_coverage": "MA",
-    "dataset_id": "dataset-1876495f54ccc4c7f1dc",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-1876495f54ccc4c7f1dc",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MA TANF",
-    "geographical_coverage": "MA",
-    "dataset_id": "dataset-f8e07ed87ee788fc37e2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-f8e07ed87ee788fc37e2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Massachusetts TANF data",
-    "geographical_coverage": "MA",
-    "dataset_id": "dataset-d468be5fc1dfb97b86fd",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d468be5fc1dfb97b86fd",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MA TANF data",
-    "geographical_coverage": "MA",
-    "dataset_id": "dataset-4e134646e763f83ecf94",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4e134646e763f83ecf94",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "California TANF data",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-7f9e268f503817a2a897",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-7f9e268f503817a2a897",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "California TANF",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-aa99fc2a58aa887636c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-aa99fc2a58aa887636c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "CA TANF data",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-0cd73de7daa5a88565cc",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0cd73de7daa5a88565cc",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "CA TANF",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-99534da7e13faf8256f2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-99534da7e13faf8256f2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Washington TANF data",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-8923ed4ce5da7922e252",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-8923ed4ce5da7922e252",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WA TANF",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-979816ebc1de08dfcb5f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-979816ebc1de08dfcb5f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Washington TANF",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-3792045b627a44a659f6",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-3792045b627a44a659f6",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WA state TANF",
-    "geographical_coverage": "WA",
-    "dataset_id": "dataset-b8464c3cb078dec031c4",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-b8464c3cb078dec031c4",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Arizona TANF data",
-    "geographical_coverage": "AZ",
-    "dataset_id": "dataset-907d3071a94713f3a5ea",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-907d3071a94713f3a5ea",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "AZ TANF",
-    "geographical_coverage": "AZ",
-    "dataset_id": "dataset-bd818dbaf50b383810ec",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-bd818dbaf50b383810ec",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Arizona TANF",
-    "geographical_coverage": "AZ",
-    "dataset_id": "dataset-aa16babb74e94afd939b",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-aa16babb74e94afd939b",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "AZ TANF data",
-    "geographical_coverage": "AZ",
-    "dataset_id": "dataset-c74082361c3bd061f129",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c74082361c3bd061f129",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a4ce2de9e9e5d8670c2",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Maryland TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-ed6d337519ed27bb7024",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-ed6d337519ed27bb7024",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF data",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-4a217d2d1c10bc14409d",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4a217d2d1c10bc14409d",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MD TANF",
-    "geographical_coverage": "MD",
-    "dataset_id": "dataset-954efe670de3ed6b3b5c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-954efe670de3ed6b3b5c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "New York TANF data",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-8362f919373fc33b6f0f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-8362f919373fc33b6f0f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "New York TANF",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-180d845ef9798e65a78c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-180d845ef9798e65a78c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "NY TANF data",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-df41ff5eb68139d0ef28",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-df41ff5eb68139d0ef28",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "NY TANF",
-    "geographical_coverage": "NY",
-    "dataset_id": "dataset-0e00390d15f6c6dd1ac5",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0e00390d15f6c6dd1ac5",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin TANF",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-d6eeb7dab04ddf785e42",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-d6eeb7dab04ddf785e42",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Wisconsin TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-093a32b9c1aafa29895f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-093a32b9c1aafa29895f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-0ed8ffa054da64f48023",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0ed8ffa054da64f48023",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "WI TANF data",
-    "geographical_coverage": "WI",
-    "dataset_id": "dataset-127a4ed36bab03e1aa2f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-127a4ed36bab03e1aa2f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "New Jersey TANF",
-    "geographical_coverage": "NJ",
-    "dataset_id": "dataset-dceaa88aa905d28a7041",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-dceaa88aa905d28a7041",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "New Jersey TANF data",
-    "geographical_coverage": "NJ",
-    "dataset_id": "dataset-adcb7a745094783c602f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-adcb7a745094783c602f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "NJ TANF",
-    "geographical_coverage": "NJ",
-    "dataset_id": "dataset-60fe43d3b26e98b7a867",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-60fe43d3b26e98b7a867",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "NJ TANF data",
-    "geographical_coverage": "NJ",
-    "dataset_id": "dataset-ca6ab7c38ab7dfb79920",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-ca6ab7c38ab7dfb79920",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-18009db08cb1c7774b5e",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Earnings data",
+    "geography": "WI",
+    "add_state": "yes",
+    "dataset_id": "dataset-d52cb0fbfda4a8fdb173",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-d52cb0fbfda4a8fdb173",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-d52cb0fbfda4a8fdb173",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Employment data",
+    "geography": "WI",
+    "add_state": "yes",
+    "dataset_id": "dataset-a94e5f50c941662b6222",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a94e5f50c941662b6222",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-a94e5f50c941662b6222",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Administrative data",
+    "geography": "WI",
+    "add_state": "yes",
+    "dataset_id": "dataset-7edc369c0c3f9d78bb4c",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7edc369c0c3f9d78bb4c",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7edc369c0c3f9d78bb4c",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "GA",
+    "add_state": "yes",
+    "alias": [
+      "GA TANF",
+      "GA TANF data",
+      "GA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "DC",
+    "add_state": "yes",
+    "alias": [
+      "DC TANF",
+      "DC TANF data",
+      "DC Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "MO",
+    "add_state": "yes",
+    "alias": [
+      "MO TANF",
+      "MO TANF data",
+      "MO Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "SC",
+    "add_state": "yes",
+    "alias": [
+      "SC TANF",
+      "SC TANF data",
+      "SC Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "IA",
+    "add_state": "yes",
+    "alias": [
+      "IA TANF",
+      "IA TANF data",
+      "IA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Salt Lake County data",
+    "geography": "UT",
+    "alias": [
+      "Salt Lake County data"
+    ],
+    "dataset_id": "dataset-10bcbfc200aef725922a",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-10bcbfc200aef725922a",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-10bcbfc200aef725922a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Cuyahoga County data",
+    "geography": "OH",
+    "alias": [
+      "Cuyahoga County"
+    ],
+    "dataset_id": "dataset-66da3681286c532f5475",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-66da3681286c532f5475",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-66da3681286c532f5475",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Cleveland data",
+    "geography": "OH",
+    "alias": [
+      "Cleveland"
+    ],
+    "dataset_id": "dataset-096a6ccafeed0d46b007",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-096a6ccafeed0d46b007",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-096a6ccafeed0d46b007",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Wages data",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL Florida wages"
+    ],
+    "dataset_id": "dataset-65f543f4075c051f4d79",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-65f543f4075c051f4d79",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-65f543f4075c051f4d79",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "IL",
+    "add_state": "yes",
+    "alias": [
+      "IL TANF",
+      "IL TANF data",
+      "IL Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Cuyahoga County TANF data",
+    "geography": "OH",
+    "alias": [
+      "Cuyahoga County TANF"
+    ],
+    "dataset_id": "dataset-25d96a2012290b354f71",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-25d96a2012290b354f71",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-25d96a2012290b354f71",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Cleveland TANF data",
+    "geography": "OH",
+    "alias": [
+      "Cleveland TANF"
+    ],
+    "dataset_id": "dataset-9443253183a58062f596",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-9443253183a58062f596",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-9443253183a58062f596",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "CA",
+    "add_state": "yes",
+    "alias": [
+      "CA TANF",
+      "CA TANF data",
+      "CA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "MA",
+    "add_state": "yes",
+    "alias": [
+      "MA TANF",
+      "MA TANF data",
+      "MA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "AZ",
+    "add_state": "yes",
+    "alias": [
+      "AZ TANF",
+      "AZ TANF data",
+      "AZ Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "NY",
+    "add_state": "yes",
+    "alias": [
+      "NY TANF",
+      "NY TANF data",
+      "NY Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "NJ",
+    "add_state": "yes",
+    "alias": [
+      "NJ TANF",
+      "NJ TANF data",
+      "NJ Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "Family Program Development data",
-    "geographical_coverage": "NJ",
+    "geography": "NJ",
+    "add_state": "yes",
+    "alias": [
+      "NJ Family Program Development"
+    ],
     "dataset_id": "dataset-ff6b22da6e4815eae6c4",
     "dataset_id_metadata": {
       "dataset_id": "dataset-ff6b22da6e4815eae6c4",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ff6b22da6e4815eae6c4",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Family Program Development",
-    "geographical_coverage": "NJ",
-    "dataset_id": "dataset-f110c2991c459685aa73",
+    "title": "Progress and Services Report",
+    "geography": "AL",
+    "add_state": "yes",
+    "alias": [
+      "AL Progress and Services Report data"
+    ],
+    "dataset_id": "dataset-c33b7e664540618008ab",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-f110c2991c459685aa73",
+      "dataset_id": "dataset-c33b7e664540618008ab",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c33b7e664540618008ab",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Alabama Progress and Services Report",
-    "geographical_coverage": "AL",
-    "dataset_id": "dataset-baadc736a00991ab3eec",
+    "title": "CalWORKS recipients earning report data",
+    "geography": "CA",
+    "alias": [
+      "California Work Opportunities and Responsibility to Kids earning report data",
+      "California Work Opportunities and Responsibility to Kids earning report",
+      "CalWORKs data"
+    ],
+    "dataset_id": "dataset-45423310a061e05a4e7d",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-baadc736a00991ab3eec",
+      "dataset_id": "dataset-45423310a061e05a4e7d",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-45423310a061e05a4e7d",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "California County TANF",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-d3ef8d8b4969f55ca5f8",
+    "title": "DFCS",
+    "geography": "GA",
+    "add_state": "yes",
+    "alias": [
+      "GA Department of Family and Child Services",
+      "GA Department of Family and Child Services data",
+      "GA DFCS data"
+    ],
+    "dataset_id": "dataset-fd9eb991bd5577cb6160",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-d3ef8d8b4969f55ca5f8",
+      "dataset_id": "dataset-fd9eb991bd5577cb6160",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-fd9eb991bd5577cb6160",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "CalWORKS recipients earning report",
-    "geographical_coverage": "CA",
-    "dataset_id": "dataset-9f798d0f8ae50bba89c6",
+    "title": "Health and Human Services data",
+    "geography": "MI",
+    "add_state": "yes",
+    "alias": [
+      "MI Health and Human Services",
+      "MI DHHS",
+      "MI DHHS data"
+    ],
+    "dataset_id": "dataset-c3f569007d64a034b8d4",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-9f798d0f8ae50bba89c6",
+      "dataset_id": "dataset-c3f569007d64a034b8d4",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Georgia DFCS",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-c30e76241c3968081928",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c30e76241c3968081928",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Georgia Department of Family and Child Services",
-    "geographical_coverage": "GA",
-    "dataset_id": "dataset-42491a92c497687e7fc6",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-42491a92c497687e7fc6",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Michigan Department of Health and Human Services",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-2398908b2c6ee9705307",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-2398908b2c6ee9705307",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Michigan DHS",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-c8f1b094bcabc940fee0",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-c8f1b094bcabc940fee0",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Michigan TANF",
-    "geographical_coverage": "MI",
-    "dataset_id": "dataset-0e1634a507944f851590",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-0e1634a507944f851590",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-c3f569007d64a034b8d4",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
     "title": "SSRC",
-    "geographical_coverage": "CO",
+    "geography": "CO",
+    "add_state": "yes",
+    "alias": [
+      "CO Self-Sufficiency Research Clearinghouse",
+      "CO Self-Sufficiency Research Clearinghouse data",
+      "CO SSRC data"
+    ],
     "dataset_id": "dataset-a14d8b91e78708c7730a",
     "dataset_id_metadata": {
       "dataset_id": "dataset-a14d8b91e78708c7730a",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-a14d8b91e78708c7730a",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Self-Sufficiency Research Clearinghouse",
-    "geographical_coverage": "CO",
-    "dataset_id": "dataset-d35ea21dcfeedec28059",
+    "title": "Family Investment Program",
+    "geography": "MN",
+    "add_state": "yes",
+    "alias": [
+      "MN FIP data",
+      "MN FIP",
+      "MN Family Investment Program data"
+    ],
+    "dataset_id": "dataset-7e6deb9eb954c3c74a04",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-d35ea21dcfeedec28059",
+      "dataset_id": "dataset-7e6deb9eb954c3c74a04",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-7e6deb9eb954c3c74a04",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   },
   {
-    "title": "Minnesota Family Investment Program",
-    "geographical_coverage": "MN",
-    "dataset_id": "dataset-69b6cbece314d802a230",
+    "title": "Temporary Assistance for Needy Families",
+    "geography": "VA",
+    "add_state": "yes",
+    "alias": [
+      "VA TANF",
+      "VA TANF data",
+      "VA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
     "dataset_id_metadata": {
-      "dataset_id": "dataset-69b6cbece314d802a230",
+      "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "MFIP",
-    "geographical_coverage": "MN",
-    "dataset_id": "dataset-4df46ccdfbdf38237494",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-4df46ccdfbdf38237494",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "Virginia TANF",
-    "geographical_coverage": "VA",
-    "dataset_id": "dataset-aeab81db1eaba027410f",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-aeab81db1eaba027410f",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "VA TANF",
-    "geographical_coverage": "VA",
-    "dataset_id": "dataset-7d7a1079d361454e506c",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-7d7a1079d361454e506c",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
-  },
-  {
-    "title": "VZentK",
-    "dataset_id": "dataset-7896b984ec566be14868",
-    "dataset_id_metadata": {
-      "dataset_id": "dataset-7896b984ec566be14868",
-      "hashed_columns": [
-        "title"
-      ],
-      "date_created": "2019-08-28"
-    }
+      "date_created": "2019-08-29"
+    },
+    "dataset_id_history": [
+      {
+        "dataset_id": "dataset-ed7ac640546d7e7d9dcc",
+        "date_archived": "2019-08-29",
+        "hashed_columns": [
+          "title"
+        ],
+        "date_created": "2019-08-29",
+        "in_use": true
+      }
+    ]
   }
 ]
