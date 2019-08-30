@@ -6,42 +6,6 @@ import metadata_funs
 import dateutil
 import json
 
-# def assign_id(dataset_entry,fields_to_hash):
-#     hash_vals = [(v) for k,v in dataset_entry.items() if k in fields_to_hash]
-#     dataset_entry['dataset_id'] = "dataset-" + metadata_funs.get_hash(hash_vals)
-#     dataset_entry['dataset_id_metadata'] = {'dataset_id':dataset_entry['dataset_id']
-#                                             ,'hashed_columns':fields_to_hash
-# #                                             ,'date_created':datetime.datetime.now()}
-#                                             ,'date_created':convert_date(datetime.datetime.now())}
-# #                                                 ,'date_created':str(dateutil.parser.parse(str(datetime.datetime.now())).date())}
-#     return dataset_entry
-
-# def convert_date(a_date):
-#     new_date = str(dateutil.parser.parse(str(a_date)).date())
-#     return new_date
-    
-# def read_adrf_dataset_md():
-#     linkage_path = os.path.join(os.getcwd(),'metadata/manually_curated_metadata/adrf_metadata.csv')
-#     adrf_md_df = pd.read_csv(linkage_path)
-#     return adrf_md_df
-
-
-# def read_manual_ds_names():
-#     manual_dataset_json_path =  os.path.join(os.getcwd(),'metadata/manually_curated_metadata/curated_dataset_names_alias.json')
-#     with open(manual_dataset_json_path) as json_file:
-#         manual_dataset_json = json.load(json_file)
-#     return manual_dataset_json
-
-# def read_ds_names(adrf_md):
-#     titles = adrf_md.title.unique().tolist()
-#     alias =  adrf_md.alias.unique().tolist()
-#     adrf_ds_names = list(set(titles+alias))
-#     return adrf_ds_names
-
-# def update_archive_dict(dataset_entry):
-#     hist_dict = {'dataset_id':dataset_entry['dataset_id'],'date_archived':datetime.datetime.now()}
-#     hist_dict.update(dataset_entry['dataset_id_metadata'])
-#     return hist_dict
 def assign_id(dataset_entry,fields_to_hash):
     hash_vals = [(v) for k,v in dataset_entry.items() if k in fields_to_hash]
     dataset_entry['dataset_id'] = "dataset-" + metadata_funs.get_hash(hash_vals)
@@ -67,14 +31,23 @@ def read_adrf_dataset_md():
 
 
 def read_manual_ds_names():
-    manual_dataset_json_path =  os.path.join(os.getcwd(),'metadata/manually_curated_metadata/curated_dataset_names_alias.json')
+    manual_dataset_json_path =  os.path.join(os.getcwd(),'metadata/manually_curated_metadata/curated_dataset_names_alias_provider.json')
     with open(manual_dataset_json_path) as json_file:
         manual_dataset_json = json.load(json_file)
     return manual_dataset_json
 
+# def read_ds_names(adrf_md):
+#     titles = adrf_md.title.unique().tolist()
+#     alias =  adrf_md.alias.unique().tolist()
+#     adrf_ds_names = list(set(titles+alias))
+#     return adrf_ds_names
+
+
 def read_ds_names(adrf_md):
     titles = adrf_md.title.unique().tolist()
     alias =  adrf_md.alias.unique().tolist()
+    if ',' in alias:
+        alias = [b.strip() for b in alias.split(',')]
     adrf_ds_names = list(set(titles+alias))
     return adrf_ds_names
 
@@ -86,6 +59,14 @@ def update_archive_dict(dataset_entry):
     return hist_dict
 
 
+def convert_to_dict(adrf_ds_df):
+    adrf_dd_dict = adrf_ds_df.to_dict('records')
+    for d in adrf_dd_dict:
+        if ',' in str(d['alias']):
+            d['alias'] = [b.strip() for b in d['alias'].split(',')]
+        elif ',' not in str(d['alias']):
+            pass
+    return adrf_dd_dict
 
 
 def main():
@@ -94,9 +75,9 @@ def main():
     man_ds_names = read_manual_ds_names()
 
     addl_ds_names = [i for i in man_ds_names if i['title'] not in adrf_ds_names]
-    adrf_dd_dict = adrf_ds_df.to_dict('records')
+#     adrf_dd_dict = adrf_ds_df.to_dict('records')
 
-
+    adrf_dd_dict = convert_to_dict(adrf_ds_df)
     final_ds_dict = adrf_dd_dict + addl_ds_names
 
     dd_dict = final_ds_dict
@@ -156,7 +137,7 @@ def main():
 #     return dd_dict
 
 dd_dict = main()    
-dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','dataset_id_history','data_steward']} for d in dd_dict]
+dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','dataset_id_history','data_steward','data_provider']} for d in dd_dict]
 
 json.dump(dd_dict, open('new_metadata/datasets.json', 'w'), indent=2)
 json.dump(dd_dict_lim, open('new_metadata/datasets_lim.json', 'w'), indent=2)

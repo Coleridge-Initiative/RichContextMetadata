@@ -1,0 +1,750 @@
+[
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "alias": [
+      "TANF",
+      "TANF data",
+      "Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "OR",
+    "add_state": "yes",
+    "alias": [
+      "OR TANF",
+      "OR TANF data",
+      "OR Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Child welfare data",
+    "data_provider":"Health and Human Services",
+    "geography": "WA",
+    "alias": [
+      "Child welfare"
+    ]
+  },
+  {
+    "title": "TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "WA",
+    "alias": [
+      "TANF",
+      "Temporary Assistance for Needy Families",
+      "Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "NY administrative data",
+    "data_provider":"New York State",
+    "geography": "NY"
+  },
+  {
+    "title": "Current population survey",
+    "geography": "NY",
+    "data_provider":"United States Census Bureau",
+    "alias": [
+      "CPS data",
+      "CPS",
+      "Current population survey data"
+    ]
+  },
+  {
+    "title": "Oregon Medicaid",
+    "data_provider":"Centers for Medicare and Medicaid",
+    "geography": "OR",
+    "alias": [
+      "Oregon Medicaid data"
+    ]
+  },
+  {
+    "title": "Program model information from NYC",
+    "geography": "NY",
+    "alias": [
+      "Program model information from New York City"
+    ]
+  },
+  {
+    "title": "Program model information from Philadelphia",
+    "geography": "PA"
+  },
+  {
+    "title": "Program model information from Hennepin County",
+    "geography": "MN",
+    "alias": [
+      "Program model information from Minneapolis",
+      "Program model information from Twin Cities"
+    ]
+  },
+  {
+    "title": "Program model information from Nebraska",
+    "geography": "NE"
+  },
+  {
+    "title": "Program model information from New Jersey",
+    "geography": "NJ"
+  },
+  {
+    "title": "Program model information from Rhode Island",
+    "geography": "RI"
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "PA",
+    "add_state": "yes",
+    "alias": [
+      "PA TANF",
+      "PA TANF data",
+      "PA Temporary Assistance for Needy Families data",
+      "PA Philadelphia TANF data",
+      "PA Philadelphia TANF"
+    ]
+  },
+  {
+    "title": "TWC",
+    "data_provider":"Transitional Work Corporation",
+    "geography": "PA",
+    "alias": [
+      "Transitional Work Corporation"
+    ]
+  },
+  {
+    "title": "STEP",
+    "data_provider":"Bureau of Consular Affairs",
+    "geography": "PA",
+    "alias": [
+      "Success Through Employment Preparation"
+    ]
+  },
+  {
+    "title": "Pennsylvania's Department of Public Welfare",
+    "data_provider":"Pennsylvania Department of Human Services",
+    "geography": "PA",
+    "alias": [
+      "Pennsylvania's DPW",
+      "PA DPW",
+      "PA Department of Public Welfare"
+    ]
+  },
+  {
+    "title": "National Directory of New Hires",
+    "data_provider":"Health and Human Services",
+    "geography": "PA",
+    "alias": [
+      "NDNH"
+    ]
+  },
+  {
+    "title": "Work First program data",
+    "data_provider":"Health and Human Services",
+    "geography": "MI",
+    "alias": [
+      "Work First program"
+    ]
+  },
+  {
+    "title": "UI wage records",
+    "data_provider":"Department of Labor",
+    "geography": "MI",
+    "alias": [
+      "UI wage record data"
+    ]
+  },
+  {
+    "title": "State of Michigan",
+    "data_provider":"State of Michigan",
+    "geography": "MI",
+    "alias": [
+      "State of Michigan data",
+      "Michigan data",
+      "Michigan"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "MD",
+    "add_state": "yes",
+    "alias": [
+      "MD TANF",
+      "MD TANF data",
+      "MD Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Family Transition Program",
+    "data_provider":"Florida Department of Children and Families",
+    "geography": "FL",
+    "alias": [
+      "Family Transition Program data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "OH",
+    "add_state": "yes",
+    "alias": [
+      "OH TANF",
+      "OH TANF data",
+      "OH Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Exit survey",
+    "geography": "OH",
+    "alias": [
+      "Exit survey data"
+    ]
+  },
+  {
+    "title": "State of Michigan",
+    "data_provider":"State of Michigan",
+    "geography": "MI",
+    "alias": [
+      "State of Michigan data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "MI",
+    "add_state": "yes",
+    "alias": [
+      "MI TANF",
+      "MI TANF data",
+      "MI Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI TANF",
+      "WI TANF data",
+      "WI Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Food Stamp data",
+    "data_provider":"Department of Agriculture",
+    "alias": [
+      "SNAP data",
+      "Supplemental Nutrition Assistance Program",
+      "Supplemental Nutrition Assistance Program data"
+    ]
+  },
+  {
+    "title": "Women's Employment Study",
+    "data_provider":"Department of Labor",
+    "alias": [
+      "Women's Employment Study data",
+      "WES",
+      "WEST data"
+    ]
+  },
+  {
+    "title": "State of Wisconsin data",
+    "data_provider":"State of Wisconsin",
+    "geography": "WI",
+    "alias": [
+      "State of Wisconsin Data",
+      "Wisconsin state data"
+    ]
+  },
+  {
+    "title": "W-2 data",
+    "data_provider":"Department of Revenue",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI W-2"
+    ]
+  },
+  {
+    "title": "Child support data",
+    "data_provider":"Department of Children and Families",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child support"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "KY",
+    "add_state": "yes",
+    "alias": [
+      "KY TANF",
+      "KY TANF data",
+      "KY Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Relocation Assistance Program",
+    "data_provider":"Health and Human Services",
+    "geography": "KY",
+    "add_state": "yes",
+    "alias": [
+      "KY RAP"
+    ]
+  },
+  {
+    "title": "UI administrative data",
+    "data_provider":"Department of Labor",
+    "geography": "KY",
+    "add_state": "yes"
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "WA",
+    "add_state": "yes",
+    "alias": [
+      "WA TANF",
+      "WA TANF data",
+      "WA Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Child care subsidy administrative data",
+    "data_provider":"Department of Children, Youth & Families",
+    "geography": "WA",
+    "add_state": "yes"
+  },
+  {
+    "title": "Milwaukee County, WI TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "WI",
+    "alias": [
+      "Milwaukee TANF",
+      "Milwaukee TANF data"
+    ]
+  },
+  {
+    "title": "Child welfare data",
+    "data_provider":"Department of Children and Families",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child welfare"
+    ]
+  },
+  {
+    "title": "Child support data",
+    "data_provider":"Department of Children and Families",
+    "geography": "WI",
+    "add_state": "yes",
+    "alias": [
+      "WI Child support"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in CO from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "CO",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Colorado from 2002"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in DC from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "DC",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in IL from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "IL",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Illinois from 2002"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in MD from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "MD",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Maryland from 2002"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in MO from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "MO",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Montana from 2002"
+    ]
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in SC from 2002",
+    "data_provider":"Health and Human Services",
+    "geography": "SC",
+    "alias": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002"
+  },
+  {
+    "title": "Devolution and Urban Change",
+    "geography": "FL"
+  },
+  {
+    "title": "Cuyahoga TANF",
+    "data_provider":"Health and Human Services",
+    "geography": "FL",
+    "alias": [
+      "Cuyahoga TANF data"
+    ]
+  },
+  {
+    "title": "Los Angeles TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "CA",
+    "alias": [
+      "Los Angeles TANF"
+    ]
+  },
+  {
+    "title": "Miami-Dade TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "FL",
+    "alias": [
+      "Miami-Dade TANF"
+    ]
+  },
+  {
+    "title": "Philadelphia TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "PA",
+    "alias": [
+      "Philadelphia TANF"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL TANF",
+      "FL TANF data",
+      "FL Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Substance abuse testing data",
+    "data_provider":"Department of Health",
+    "geography": "FL",
+    "alias": [
+      "Substance abuse testing"
+    ]
+  },
+  {
+    "title": "Medicaid data",
+    "data_provider":"Centers for Medicare and Medicaid",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL Medicaid"
+    ]
+  },
+  {
+    "title": "Food Stamp data",
+    "data_provider":"Department of Agriculture",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL SNAP data",
+      "FL Supplemental Nutrition Assistance Program",
+      "FL Supplemental Nutrition Assistance Program data"
+    ]
+  },
+  {
+    "title": "UI data",
+    "data_provider":"Department of Labor",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL UI"
+    ]
+  },
+  {
+    "title": "Earnings data",
+    "data_provider":"Department of Labor",
+    "geography": "WI",
+    "add_state": "yes"
+  },
+  {
+    "title": "Employment data",
+    "data_provider":"Department of Labor",
+    "geography": "WI",
+    "add_state": "yes"
+  },
+  {
+    "title": "Administrative data",
+    "data_provider":"Wisconsin State",
+    "geography": "WI",
+    "add_state": "yes"
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "GA",
+    "add_state": "yes",
+    "alias": [
+      "GA TANF",
+      "GA TANF data",
+      "GA Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "DC",
+    "add_state": "yes",
+    "alias": [
+      "DC TANF",
+      "DC TANF data",
+      "DC Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "MO",
+    "add_state": "yes",
+    "alias": [
+      "MO TANF",
+      "MO TANF data",
+      "MO Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "SC",
+    "add_state": "yes",
+    "alias": [
+      "SC TANF",
+      "SC TANF data",
+      "SC Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "IA",
+    "add_state": "yes",
+    "alias": [
+      "IA TANF",
+      "IA TANF data",
+      "IA Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Salt Lake County data",
+    "data_provider":"State of Utah",
+    "geography": "UT",
+    "alias": [
+      "Salt Lake County data"
+    ]
+  },
+  {
+    "title": "Cuyahoga County data",
+    "data_provider":"State of Ohio",
+    "geography": "OH",
+    "alias": [
+      "Cuyahoga County"
+    ]
+  },
+  {
+    "title": "Cleveland data",
+    "data_provider":"State of Ohio",
+    "geography": "OH",
+    "alias": [
+      "Cleveland"
+    ]
+  },
+  {
+    "title": "Wages data",
+    "data_provider":"Department of Labor",
+    "geography": "FL",
+    "add_state": "yes",
+    "alias": [
+      "FL Florida wages"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "IL",
+    "add_state": "yes",
+    "alias": [
+      "IL TANF",
+      "IL TANF data",
+      "IL Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Cuyahoga County TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "OH",
+    "alias": [
+      "Cuyahoga County TANF"
+    ]
+  },
+  {
+    "title": "Cleveland TANF data",
+    "data_provider":"Health and Human Services",
+    "geography": "OH",
+    "alias": [
+      "Cleveland TANF"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "CA",
+    "add_state": "yes",
+    "alias": [
+      "CA TANF",
+      "CA TANF data",
+      "CA Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "MA",
+    "add_state": "yes",
+    "alias": [
+      "MA TANF",
+      "MA TANF data",
+      "MA Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "AZ",
+    "add_state": "yes",
+    "alias": [
+      "AZ TANF",
+      "AZ TANF data",
+      "AZ Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "NY",
+    "add_state": "yes",
+    "alias": [
+      "NY TANF",
+      "NY TANF data",
+      "NY Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "NJ",
+    "add_state": "yes",
+    "alias": [
+      "NJ TANF",
+      "NJ TANF data",
+      "NJ Temporary Assistance for Needy Families data"
+    ]
+  },
+  {
+    "title": "Family Program Development data",
+    "data_provider":"Department of Human Services",
+    "geography": "NJ",
+    "add_state": "yes",
+    "alias": [
+      "NJ Family Program Development"
+    ]
+  },
+  {
+    "title": "Progress and Services Report",
+    "data_provider":"Administration for Children & Families",
+    "geography": "AL",
+    "add_state": "yes",
+    "alias": [
+      "AL Progress and Services Report data"
+    ]
+  },
+  {
+    "title": "CalWORKS recipients earning report data",
+    "data_provider":"California Department of Social Services",
+    "geography": "CA",
+    "alias": [
+      "California Work Opportunities and Responsibility to Kids earning report data",
+      "California Work Opportunities and Responsibility to Kids earning report",
+      "CalWORKs data"
+    ]
+  },
+  {
+    "title": "DFCS",
+    "data_provider":"Department of Family and Child Services",
+    "geography": "GA",
+    "add_state": "yes",
+    "alias": [
+      "GA Department of Family and Child Services",
+      "GA Department of Family and Child Services data",
+      "GA DFCS data"
+    ]
+  },
+  {
+    "title": "Health and Human Services data",
+    "data_provider":"Health and Human Services",
+    "geography": "MI",
+    "add_state": "yes",
+    "alias": [
+      "MI Health and Human Services",
+      "MI DHHS",
+      "MI DHHS data"
+    ]
+  },
+  {
+    "title": "SSRC",
+    "data_provider":"Self-Sufficiency Research Clearinghouse",
+    "geography": "CO",
+    "add_state": "yes",
+    "alias": [
+      "CO Self-Sufficiency Research Clearinghouse",
+      "CO Self-Sufficiency Research Clearinghouse data",
+      "CO SSRC data"
+    ]
+  },
+  {
+    "title": "Family Investment Program",
+    "data_provider":"Department of Human Services",
+    "geography": "MN",
+    "add_state": "yes",
+    "alias": [
+      "MN FIP data",
+      "MN FIP",
+      "MN Family Investment Program data"
+    ]
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "data_provider":"Health and Human Services",
+    "geography": "VA",
+    "add_state": "yes",
+    "alias": [
+      "VA TANF",
+      "VA TANF data",
+      "VA Temporary Assistance for Needy Families data"
+    ]
+  }
+]
