@@ -2,1252 +2,2199 @@
   {
     "title": "External Position of Banks",
     "alias": "AUSTA",
-    "dataset_id": "dataset-b48654a3feb4deaaa272"
+    "dataset_id": "dataset-ce94635bb2109ddf8f24",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ce94635bb2109ddf8f24",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Quarterly borrower statistics",
     "alias": "VJKRE",
-    "dataset_id": "dataset-e60ec495ae9942bcfabd"
+    "dataset_id": "dataset-0b6bccac59c6fd49e116",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-0b6bccac59c6fd49e116",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Corporate balance sheets",
     "alias": "USTAN",
-    "dataset_id": "dataset-8a1ecadc065cd96080e6"
+    "dataset_id": "dataset-88aebc53e2717d69814c",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-88aebc53e2717d69814c",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Securities Holdings Statistics - Base",
     "alias": "SHS-BASE",
-    "dataset_id": "dataset-7f96cddfcd84cf53dc01"
+    "dataset_id": "dataset-8f0eb980c7e23a771b02",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8f0eb980c7e23a771b02",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Panel on Household Finances",
     "alias": "PHF",
-    "dataset_id": "dataset-53fcd9fbd727f01baad3"
+    "dataset_id": "dataset-fc8091b6b9de518b5aa0",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-fc8091b6b9de518b5aa0",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Investment Funds Statistics - Base",
     "alias": "IFS-BASE",
-    "dataset_id": "dataset-0710bb97f8650281c188"
+    "dataset_id": "dataset-7f57c2d31986bf60288d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7f57c2d31986bf60288d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "MFI Interest Rate Statistics",
     "alias": "ZISTA",
-    "dataset_id": "dataset-65a4641708c72cf803d6"
+    "dataset_id": "dataset-a27bcfd3792f56c70f09",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a27bcfd3792f56c70f09",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "OECD Survey on Adult Financial Literacy in Germany",
-    "alias": NaN,
-    "dataset_id": "dataset-36a6da383deb2261e284"
+    "alias": "0",
+    "dataset_id": "dataset-460da93fed153759b20f",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-460da93fed153759b20f",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "BAKIS-M",
     "alias": "BAKIS",
-    "dataset_id": "dataset-38916e1949eaf3be8941"
+    "dataset_id": "dataset-8532f03e4f0ce8fa88f5",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8532f03e4f0ce8fa88f5",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Monthly balance sheet statistics",
     "alias": "BISTA",
-    "dataset_id": "dataset-24cedd45ae05ab3ded81"
+    "dataset_id": "dataset-b53e35ff375ad5b52c6e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b53e35ff375ad5b52c6e",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Statistics of the banks\u2019 profit and loss accounts",
     "alias": "GUV",
-    "dataset_id": "dataset-0d8a1e97eb40d9f44975"
+    "dataset_id": "dataset-76452104be2983188734",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-76452104be2983188734",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Microdatabase Direct Investment",
     "alias": "MIDI",
-    "dataset_id": "dataset-e1d4f401a412761b3ed9"
+    "dataset_id": "dataset-3b5eb418ba0f080013d9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-3b5eb418ba0f080013d9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Statistics on International Trade in Services",
     "alias": "SITS",
-    "dataset_id": "dataset-576efc10fc453835f4b5"
+    "dataset_id": "dataset-15463a41beb6ae1cb5cd",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-15463a41beb6ae1cb5cd",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Zentralkartei Banken",
     "alias": "ZentK",
-    "dataset_id": "dataset-f744543fdae124bae674"
+    "dataset_id": "dataset-812b784f2046d9ac9b63",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-812b784f2046d9ac9b63",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Bank Lending Survey",
     "alias": "BLS",
-    "dataset_id": "dataset-86320022f75a9bac3a6b"
+    "dataset_id": "dataset-8dedf0ea8ec0a59a241a",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8dedf0ea8ec0a59a241a",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "MiMiK",
-    "alias": "MIMIK",
-    "dataset_id": "dataset-c2001ca53104f07ee73f"
+    "alias": NaN,
+    "dataset_id": "dataset-b4ccf3bfe5b07c3834ab",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b4ccf3bfe5b07c3834ab",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Payment behaviour in Germany",
     "alias": "PaymentSurvey",
-    "dataset_id": "dataset-800f0a3295b76b2056a1"
+    "dataset_id": "dataset-894fc43e63e736b2d0af",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-894fc43e63e736b2d0af",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Centralised Securities Database",
     "alias": "CSDB",
-    "dataset_id": "dataset-b0dbbe35652387cdd150"
+    "dataset_id": "dataset-5cd04272a226fdc5dbd9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-5cd04272a226fdc5dbd9",
+      "hashed_columns": [
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "TARGET2",
-    "alias": "TARGET2",
-    "dataset_id": "dataset-90fe7dbb02b4f7d4ee4f"
+    "alias": NaN,
+    "dataset_id": "dataset-8cc28757066c6a9badfd",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8cc28757066c6a9badfd",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Annual Distress Database of the Deutsche Bundesbank",
     "alias": "SRP",
-    "dataset_id": "dataset-06bc9a7136827dcf3c70"
+    "dataset_id": "dataset-25408a872364ccb80bb1",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-25408a872364ccb80bb1",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Corrections (DOC) Inmate Admissions 1990-2015",
     "alias": "Illinois Department of Corrections DOC Inmate Admissions",
-    "dataset_id": "dataset-dbb599ff3ec7ba940456"
+    "dataset_id": "dataset-273ce538e108c4489950",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-273ce538e108c4489950",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Corrections (DOC) Inmate Exits - 1990-2015",
     "alias": "Illinois Department of Corrections DOC Inmate Exits",
-    "dataset_id": "dataset-e78ba588674be5d464b7"
+    "dataset_id": "dataset-77b0762b57700e543382",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-77b0762b57700e543382",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Employment Security (IDES) Unemployment Insurance (UI) wage records - 2005-2015",
     "alias": "Illinois Department of Employment Security IDES Unemployment Insurance UI wage records",
-    "dataset_id": "dataset-8388e7ed5437db045c8e"
+    "dataset_id": "dataset-2a812c58e32cafc14411",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2a812c58e32cafc14411",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Individuals: Illinois",
     "alias": "US Department of Housing and Urban Development Program Microdata Individuals Illinois",
-    "dataset_id": "dataset-3a763fff41ad5219c76d"
+    "dataset_id": "dataset-88eab91be3061a1c2c1b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-88eab91be3061a1c2c1b",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Employment Security (IDES) Employer records - 2005-2015",
     "alias": "Illinois Department of Employment Security IDES Employer records",
-    "dataset_id": "dataset-48b9e257c67430a782aa"
+    "dataset_id": "dataset-6784a47390e87fffc618",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6784a47390e87fffc618",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Employment Security (IDES) establishment data addendum to employer records - 2012-2015",
     "alias": "Illinois Department of Employment Security IDES establishment data addendum to employer records",
-    "dataset_id": "dataset-01ad1003c85929517ca2"
+    "dataset_id": "dataset-b277d27112fc84fcc37d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b277d27112fc84fcc37d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Corrections (DOC) Parolee address data - 2009-2015",
     "alias": "Illinois Department of Corrections DOC Parolee address data",
-    "dataset_id": "dataset-f47caa714f736511aa4e"
+    "dataset_id": "dataset-828c9b26fa8d7f0837f9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-828c9b26fa8d7f0837f9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Households: Illinois",
     "alias": "US Department of Housing and Urban Development Program Microdata Households Illinois",
-    "dataset_id": "dataset-4faf29b67545abf8a0f3"
+    "dataset_id": "dataset-7c3252db6b0f7b7bbc81",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7c3252db6b0f7b7bbc81",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "IL Corrections Industries Training dataset",
-    "alias": "IL Corrections Industries Training dataset",
-    "dataset_id": "dataset-ce2e1896d3964fa70bda"
+    "alias": NaN,
+    "dataset_id": "dataset-99486e3e40ad83632b50",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-99486e3e40ad83632b50",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Corrections (IDOC) SPSS Holding Codes (HCLASS) and Education Level (EDUCLVL)",
     "alias": "Illinois Department of Corrections IDOC SPSS Holding Codes HCLASS and Education Level EDUCLVL",
-    "dataset_id": "dataset-9636811b8433b0cb984c"
+    "dataset_id": "dataset-76b1e92edc389f70b3f4",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-76b1e92edc389f70b3f4",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Corrections Person Relation Table",
-    "alias": "Illinois Department of Corrections Person Relation Table",
-    "dataset_id": "dataset-b76065d2b1ba49802d9f"
+    "alias": NaN,
+    "dataset_id": "dataset-5d3529dba74b7417c2e7",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-5d3529dba74b7417c2e7",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Human Services (IDHS) Point-In-Time Files: Time Invariant Characteristics",
     "alias": "Illinois Department of Human Services IDHS PointInTime Files Time Invariant Characteristics",
-    "dataset_id": "dataset-5f5af64fcd9505b4e803"
+    "dataset_id": "dataset-749a684655cc48be355b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-749a684655cc48be355b",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Human Services (IDHS) Head of Household Files",
     "alias": "Illinois Department of Human Services IDHS Head of Household Files",
-    "dataset_id": "dataset-73d8f85a46750c14305f"
+    "dataset_id": "dataset-9f28002c1d16b66dcdf1",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-9f28002c1d16b66dcdf1",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Human Services (IDHS) Spell Files: Time-Varying Characteristics",
     "alias": "Illinois Department of Human Services IDHS Spell Files TimeVarying Characteristics",
-    "dataset_id": "dataset-a2b7360ca04eddfa51e5"
+    "dataset_id": "dataset-cc1f2ace6f8e56a78cf1",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-cc1f2ace6f8e56a78cf1",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Understanding the Transition from Cash Assistance Receipt to Employment",
-    "alias": "Understanding the Transition from Cash Assistance Receipt to Employment",
-    "dataset_id": "dataset-1008f09bbe5a6e65da8c"
+    "alias": NaN,
+    "dataset_id": "dataset-0cd5a0696edd28abc975",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-0cd5a0696edd28abc975",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Individuals: New York",
     "alias": "US Department of Housing and Urban Development Program Microdata Individuals New York",
-    "dataset_id": "dataset-c4f4847901cbb159f30c"
+    "dataset_id": "dataset-6488de6525c479983e37",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6488de6525c479983e37",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Households: New York",
     "alias": "US Department of Housing and Urban Development Program Microdata Households New York",
-    "dataset_id": "dataset-a316b257912dcce2bb18"
+    "dataset_id": "dataset-7704bda561b2670a37ce",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7704bda561b2670a37ce",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Illinois Department of Human Services (IDHS) Cases Cancelled Due to Earnings and Newly Employed ",
     "alias": "Illinois Department of Human Services IDHS Cases Cancelled Due to Earnings and Newly Employed",
-    "dataset_id": "dataset-298ed6febc5562f61816"
+    "dataset_id": "dataset-51d83dd4f37d9176b65a",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-51d83dd4f37d9176b65a",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Unemployment Insurance (UI) wage 2006-2016",
     "alias": "Missouri Unemployment Insurance UI wage",
-    "dataset_id": "dataset-42932440bca8c3e13041"
+    "dataset_id": "dataset-7a884694adcb69209d10",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7a884694adcb69209d10",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Census LEHD Employer records - 2006-2016",
     "alias": "Missouri Census LEHD Employer records",
-    "dataset_id": "dataset-492d6ebd4a5f7fc95ebc"
+    "dataset_id": "dataset-9aeee508d6ecf818e847",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-9aeee508d6ecf818e847",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Kansas City, Missouri Water Customer Data",
     "alias": "Kansas City Missouri Water Customer Data",
-    "dataset_id": "dataset-e6530bf51d898e68215e"
+    "dataset_id": "dataset-883b6c992fbde5ca23e9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-883b6c992fbde5ca23e9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "The Kansas City Star Full Text Business Section Articles - May 2016 - April 2018",
     "alias": "The Kansas City Star Full Text Business Section Articles May April",
-    "dataset_id": "dataset-600975b51a6e0487f158"
+    "dataset_id": "dataset-1b07bff83cd281e26468",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-1b07bff83cd281e26468",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Kansas City Missouri census tracts with flag for East or West of Troost Street",
-    "alias": "Kansas City Missouri census tracts with flag for East or West of Troost Street",
-    "dataset_id": "dataset-dbec8ab16578121df084"
+    "alias": NaN,
+    "dataset_id": "dataset-61cd9d70187a21cc39fb",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-61cd9d70187a21cc39fb",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Kansas City Police Department Crime Data 2009-2018",
     "alias": "Kansas City Police Department Crime Data",
-    "dataset_id": "dataset-9b4a2e425e18c1a35f3b"
+    "dataset_id": "dataset-4f7e607affc329acf5e9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4f7e607affc329acf5e9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Indiana wage records by quarter 2005-2018",
     "alias": "Indiana wage records by quarter",
-    "dataset_id": "dataset-1caf9ac06dbef2335944"
+    "dataset_id": "dataset-de87d1828c09c899a61c",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-de87d1828c09c899a61c",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Indiana wage records by employer 2005-2018",
     "alias": "Indiana wage records by employer",
-    "dataset_id": "dataset-c021814cfddb46b99440"
+    "dataset_id": "dataset-8c5c35b2c85e1165cb1c",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8c5c35b2c85e1165cb1c",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Indiana Public Higher Education Enrollments, 2005-2006 Through 2017-2018",
     "alias": "Indiana Public Higher Education Enrollments Through",
-    "dataset_id": "dataset-bcdc1712e3640b6c84e5"
+    "dataset_id": "dataset-3f4fa207db9812d11670",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-3f4fa207db9812d11670",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Indiana Public Higher Education Degree Completions 2005-2006 Through 2017-2018",
     "alias": "Indiana Public Higher Education Degree Completions Through",
-    "dataset_id": "dataset-22468424d0bfef8c704d"
+    "dataset_id": "dataset-b475a81f387d3c741af0",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b475a81f387d3c741af0",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Unemployment Insurance (UI) wage 2006-2017",
     "alias": "Missouri Unemployment Insurance UI wage",
-    "dataset_id": "dataset-f14093c580a1de36db16"
+    "dataset_id": "dataset-6786d68a032fa473b50b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6786d68a032fa473b50b",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Census LEHD Employer records - 2006-2017",
     "alias": "Missouri Census LEHD Employer records",
-    "dataset_id": "dataset-138ccab6eb441b4e90bf"
+    "dataset_id": "dataset-d1d5e97011a57c6baa52",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-d1d5e97011a57c6baa52",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Higher Education (DHE) - Term Registrations, 2006-2017",
     "alias": "Missouri Department of Higher Education DHE Term Registrations",
-    "dataset_id": "dataset-617006a53c42e42a4da0"
+    "dataset_id": "dataset-2fd39487c70927030e69",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2fd39487c70927030e69",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Higher Education (DHE) - Enrollments, 2006-2016",
     "alias": "Missouri Department of Higher Education DHE Enrollments",
-    "dataset_id": "dataset-80fabc636afac16b74ea"
+    "dataset_id": "dataset-9e879f0790372e817f95",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-9e879f0790372e817f95",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Higher Education (DHE) - Completions, 2006-2017",
     "alias": "Missouri Department of Higher Education DHE Completions",
-    "dataset_id": "dataset-9a81571a1269a4ce43f8"
+    "dataset_id": "dataset-dee226c153b1423d9842",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-dee226c153b1423d9842",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Corrections (DOC) - Classes",
     "alias": "Missouri Department of Corrections DOC Classes",
-    "dataset_id": "dataset-6fff8d8d4ea649d6cafc"
+    "dataset_id": "dataset-584fe651bc8e332a922d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-584fe651bc8e332a922d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Corrections (DOC) - Releases",
     "alias": "Missouri Department of Corrections DOC Releases",
-    "dataset_id": "dataset-adce017df37305c1856f"
+    "dataset_id": "dataset-91c445834f852f33db99",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-91c445834f852f33db99",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Corrections (DOC) - Hashed SSN to Hashed MO DOC ID Crosswalk",
     "alias": "Missouri Department of Corrections DOC Hashed SSN to Hashed MO DOC ID Crosswalk",
-    "dataset_id": "dataset-42b0178b38d001a188c5"
+    "dataset_id": "dataset-44f9ea359c752a3e5272",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-44f9ea359c752a3e5272",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Labor and Industrial Relations (DOLIR) Unemployment Insurance Claims",
     "alias": "Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Claims",
-    "dataset_id": "dataset-1ade426c5b99e122f244"
+    "dataset_id": "dataset-819847dd32ee1bc73707",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-819847dd32ee1bc73707",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Missouri Department of Labor and Industrial Relations (DOLIR) Unemployment Insurance Payments",
     "alias": "Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Payments",
-    "dataset_id": "dataset-f8d9bfb38687a5a86c11"
+    "dataset_id": "dataset-3dd7b87bb85e6f260a02",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-3dd7b87bb85e6f260a02",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "IRI Consumer Network",
-    "alias": "IRI Consumer Network",
-    "dataset_id": "dataset-2ec62ed30035804516e8"
+    "alias": [
+      "IRI consumer network data",
+      "Proprietary household scanner data",
+      "IRI household scanner data",
+      "IRI consumer panel data",
+      "IRI consumer network panel"
+    ],
+    "dataset_id": "dataset-bc66222aacfbecf3aab9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bc66222aacfbecf3aab9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "IRI InfoScan",
-    "alias": "IRI InfoScan",
-    "dataset_id": "dataset-746fd76d6552006c8619"
+    "alias": [
+      "IRI Infoscan panel",
+      "IRI Infoscan data",
+      "IRI retail scanner data",
+      "InfoScan database",
+      "retail scanner data"
+    ],
+    "dataset_id": "dataset-e9cc0d475b4948f46e28",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e9cc0d475b4948f46e28",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "FoodAPS",
+    "title": "National Household Food Acquisition and Purchase Survey",
     "alias": "FoodAPS",
-    "dataset_id": "dataset-0be106edce5c1088b32c"
+    "dataset_id": "dataset-658cc33843664f56954d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-658cc33843664f56954d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "WIC",
+    "title": "Women, Infants and Children",
     "alias": "WIC",
-    "dataset_id": "dataset-749aa260e5b0f82fe754"
-  },
-  {
-    "title": "SNAP",
-    "alias": "SNAP",
-    "dataset_id": "dataset-3425c58652e05c56dbe5"
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
-  },
-  {
-    "title": "Temporary Assistance for Needy Families",
-    "dataset_id": "dataset-7b0ea42e161eb49b4aa5"
-  },
-  {
-    "title": "TANF data",
-    "dataset_id": "dataset-b7d0911898cd40268e30"
-  },
-  {
-    "title": "Washington child welfare and TANF administrative data",
-    "dataset_id": "dataset-968ecb5c4ba58636b8d9"
-  },
-  {
-    "title": "NY administrative data",
-    "dataset_id": "dataset-ff30fc582d66ec5fe1b0"
-  },
-  {
-    "title": "Current population survey data",
-    "dataset_id": "dataset-b7a68ab2087f3f536bd8"
-  },
-  {
-    "title": "CPS data",
-    "dataset_id": "dataset-eecdcb756b3a147ad54f"
-  },
-  {
-    "title": "Oregon Medicaid",
-    "dataset_id": "dataset-f83a11693d7d22cd545d"
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
-  },
-  {
-    "title": "Oregon Medicaid",
-    "dataset_id": "dataset-f83a11693d7d22cd545d"
-  },
-  {
-    "title": "Program model information from Philadelphia",
-    "dataset_id": "dataset-5bd0e183be42fec34a2f"
-  },
-  {
-    "title": "Program model information from NYC",
-    "dataset_id": "dataset-b61cd3a64cbee0654d55"
-  },
-  {
-    "title": "Program model information from New York City",
-    "dataset_id": "dataset-c5f219dd978382b30d99"
-  },
-  {
-    "title": "Program model information from Philadelphia",
-    "dataset_id": "dataset-5bd0e183be42fec34a2f"
-  },
-  {
-    "title": "Program model information from Hennepin County",
-    "dataset_id": "dataset-8ce9cd45519e95a063b3"
-  },
-  {
-    "title": "Program model information from Minneapolis",
-    "dataset_id": "dataset-5ae0294f60d4c5d77c60"
-  },
-  {
-    "title": "Program model information from Twin Cities",
-    "dataset_id": "dataset-b472deecddbde600823f"
-  },
-  {
-    "title": "Program model information from Nebraska",
-    "dataset_id": "dataset-87ab332e52ea225ffcce"
-  },
-  {
-    "title": "Program model information from New Jersey",
-    "dataset_id": "dataset-0d1f0cf7b77e04c60bc9"
-  },
-  {
-    "title": "Program model information from Rhode Island",
-    "dataset_id": "dataset-14e4f9e14299a1287ca6"
-  },
-  {
-    "title": "Philadelphia TANF data",
-    "dataset_id": "dataset-5b7851c88918090dabed"
-  },
-  {
-    "title": "TWC",
-    "dataset_id": "dataset-ccf9f12949563cac290b"
-  },
-  {
-    "title": "Transitional Work Corporation",
-    "dataset_id": "dataset-f0e8de09648466e2a5b9"
-  },
-  {
-    "title": "STEP",
-    "dataset_id": "dataset-668d2eb2507479c3fa68"
-  },
-  {
-    "title": "Success Through Employment Preparation",
-    "dataset_id": "dataset-ee17a49053eaf923e76c"
-  },
-  {
-    "title": "Philadelphia TANF",
-    "dataset_id": "dataset-a94e3877a9e3168c4900"
-  },
-  {
-    "title": "Pennsylvania's Department of Public Welfare",
-    "dataset_id": "dataset-3ec432c8e4552f4fa4da"
-  },
-  {
-    "title": "Pennsylvania's DPW",
-    "dataset_id": "dataset-2f7e29a71fb9d258cf6b"
-  },
-  {
-    "title": "National Directory of New Hires",
-    "dataset_id": "dataset-7cef106c159335a7ad8c"
-  },
-  {
-    "title": "NDNH",
-    "dataset_id": "dataset-216ded83db9d26f0aa7d"
-  },
-  {
-    "title": "Work First program data",
-    "dataset_id": "dataset-c12854e43a90f83a7111"
-  },
-  {
-    "title": "UI wage records",
-    "dataset_id": "dataset-ace62b2524e24eada362"
-  },
-  {
-    "title": "State of Michigan",
-    "dataset_id": "dataset-5855f16bfbeac19b56a1"
-  },
-  {
-    "title": "Maryland TANF",
-    "dataset_id": "dataset-419592f3fff3af8ed75f"
-  },
-  {
-    "title": "Maryland TANF data",
-    "dataset_id": "dataset-4e73d05a7dcb2e9ad170"
-  },
-  {
-    "title": "NDNH",
-    "dataset_id": "dataset-216ded83db9d26f0aa7d"
-  },
-  {
-    "title": "Work First program data",
-    "dataset_id": "dataset-c12854e43a90f83a7111"
-  },
-  {
-    "title": "UI wage records",
-    "dataset_id": "dataset-ace62b2524e24eada362"
-  },
-  {
-    "title": "State of Michigan",
-    "dataset_id": "dataset-5855f16bfbeac19b56a1"
-  },
-  {
-    "title": "Administrative and evaluation data of Florida's Family Transition Program for welfare recipients",
-    "dataset_id": "dataset-e58e39f8583b7c8c3b57"
-  },
-  {
-    "title": "State of Ohio TANF data",
-    "dataset_id": "dataset-5cd4329c45c71f4f06d1"
-  },
-  {
-    "title": "State of Ohio TANF",
-    "dataset_id": "dataset-3a3a20882471421670c4"
-  },
-  {
-    "title": "Exit survey information",
-    "dataset_id": "dataset-ef64155d2830c7c72a5c"
-  },
-  {
-    "title": "State of Michigan",
-    "dataset_id": "dataset-5855f16bfbeac19b56a1"
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
-  },
-  {
-    "title": "Food Stamp Data",
-    "dataset_id": "dataset-b31a633f506e5388cfd6"
-  },
-  {
-    "title": "Women's Employment Study",
-    "dataset_id": "dataset-83955ce8e583e5b4baf5"
-  },
-  {
-    "title": "WES",
-    "dataset_id": "dataset-752281cb0166b5f85350"
-  },
-  {
-    "title": "Wisconsin TANF",
-    "dataset_id": "dataset-d642f9526e5c2f648e11"
-  },
-  {
-    "title": "Wisconsin TANF data",
-    "dataset_id": "dataset-888b199cc383fb3dbbd8"
-  },
-  {
-    "title": "WI data",
-    "dataset_id": "dataset-76f2c607c8743575ac9a"
-  },
-  {
-    "title": "WI TANF data",
-    "dataset_id": "dataset-f8431c9268e4917e57c6"
-  },
-  {
-    "title": "Wisconsin TANF",
-    "dataset_id": "dataset-d642f9526e5c2f648e11"
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "dataset_id": "dataset-9a29494818c9b2bd7a27"
-  },
-  {
-    "title": "Wisconsin child support data",
-    "dataset_id": "dataset-6b29208fb303af548a74"
-  },
-  {
-    "title": "Wisconsin child support",
-    "dataset_id": "dataset-9dc34b841876196e5e6c"
-  },
-  {
-    "title": "KY TANF",
-    "dataset_id": "dataset-d6e03e2a0c948f503cd4"
-  },
-  {
-    "title": "KY TANF data",
-    "dataset_id": "dataset-6d94749e84a4caebfa62"
-  },
-  {
-    "title": "Kentucky TANF",
-    "dataset_id": "dataset-fe50f25d63fda2e1003f"
-  },
-  {
-    "title": "Kentucky TANF data",
-    "dataset_id": "dataset-d18feace28cb6f4a36cd"
-  },
-  {
-    "title": "Relocation Assistance Program",
-    "dataset_id": "dataset-ef335afe59b93a8b4dee"
-  },
-  {
-    "title": "RAP",
-    "dataset_id": "dataset-944e7e70d804b807ef15"
-  },
-  {
-    "title": "UI administrative Data",
-    "dataset_id": "dataset-5d48ddea7e430349ff6b"
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
-  },
-  {
-    "title": "Child Care subsidy administrative data from Washington State",
-    "dataset_id": "dataset-1099b93bd1ed3200487d"
-  },
-  {
-    "title": "Milwaukee County, WI longitudinal data of TANF applicants in 1999",
-    "dataset_id": "dataset-aaff2932a95bf35d082f"
-  },
-  {
-    "title": "Milwaukee TANF data",
-    "dataset_id": "dataset-d0da547f68624ecb3d03"
-  },
-  {
-    "title": "Milwaukee TANF",
-    "dataset_id": "dataset-3f78b512926b4892debe"
-  },
-  {
-    "title": "Child welfare data",
-    "dataset_id": "dataset-598674038a70952c22ee"
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "dataset_id": "dataset-9a29494818c9b2bd7a27"
-  },
-  {
-    "title": "Wisconsin W-2",
-    "dataset_id": "dataset-82f247610e90e2cdf77f"
-  },
-  {
-    "title": "WI W-2 data",
-    "dataset_id": "dataset-8af263b471442a23d1d5"
-  },
-  {
-    "title": "WI W-2",
-    "dataset_id": "dataset-c3569ef1d3ba813f2f58"
-  },
-  {
-    "title": "Child support data",
-    "dataset_id": "dataset-411b9fe0426df5e72578"
-  },
-  {
-    "title": "Child support",
-    "dataset_id": "dataset-6d6967f55a0f2f2a6d77"
-  },
-  {
-    "title": "Milwaukee TANF data",
-    "dataset_id": "dataset-d0da547f68624ecb3d03"
-  },
-  {
-    "title": "Milwaukee TANF",
-    "dataset_id": "dataset-3f78b512926b4892debe"
-  },
-  {
-    "title": "Child welfare data",
-    "dataset_id": "dataset-598674038a70952c22ee"
-  },
-  {
-    "title": "TANF applicant data",
-    "dataset_id": "dataset-fd1fa4be552cd6f09ff6"
-  },
-  {
-    "title": "TANF data",
-    "dataset_id": "dataset-b7d0911898cd40268e30"
-  },
-  {
-    "title": "Child welfare data",
-    "dataset_id": "dataset-598674038a70952c22ee"
-  },
-  {
-    "title": "Child welfare",
-    "dataset_id": "dataset-8f77007230e7c0e19ae0"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in CO from 2002",
-    "dataset_id": "dataset-90af5f58d21aa3723b84"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Colorado from 2002",
-    "dataset_id": "dataset-f4d9f0f4472d7c6a7cf1"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in DC from 2002",
-    "dataset_id": "dataset-fee0bf9dd52f4654e486"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002",
-    "dataset_id": "dataset-05a782cd1d714203acd6"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in IL from 2002",
-    "dataset_id": "dataset-c7396b3bba9c71f0375c"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Illinois from 2002",
-    "dataset_id": "dataset-e4728acec37ba08cbda2"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in MD from 2002",
-    "dataset_id": "dataset-54771fe716fe5370321b"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Maryland from 2002",
-    "dataset_id": "dataset-fc755c524d8ffaaec14b"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in MO from 2002",
-    "dataset_id": "dataset-afe550b0f4a0240b2ca4"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in Montana from 2002",
-    "dataset_id": "dataset-170ae8e57adaaaef78c3"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in SC from 2002",
-    "dataset_id": "dataset-f5119951382da4357323"
-  },
-  {
-    "title": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002",
-    "dataset_id": "dataset-7c2a16ead5f14094b9e2"
-  },
-  {
-    "title": "Devolution and Urban Change",
-    "dataset_id": "dataset-a9810472a6ae64d0e04e"
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "dataset_id": "dataset-9f21cb317b6d47009fe6"
-  },
-  {
-    "title": "Cuyahoga TANF",
-    "dataset_id": "dataset-197bed3a8816df6c46fe"
-  },
-  {
-    "title": "Los Angeles TANF data",
-    "dataset_id": "dataset-bf17433de2104658e51a"
-  },
-  {
-    "title": "Los Angeles TANF",
-    "dataset_id": "dataset-66eeea882bc7e5506d72"
-  },
-  {
-    "title": "Miami-Dade TANF data",
-    "dataset_id": "dataset-c83b6327ab5e58fc3f15"
-  },
-  {
-    "title": "Miami-Dade TANF",
-    "dataset_id": "dataset-b4714134664b3cca3b2f"
-  },
-  {
-    "title": "Philadelphia TANF data",
-    "dataset_id": "dataset-5b7851c88918090dabed"
-  },
-  {
-    "title": "Philadelphia TANF",
-    "dataset_id": "dataset-a94e3877a9e3168c4900"
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "dataset_id": "dataset-9f21cb317b6d47009fe6"
-  },
-  {
-    "title": "Cuyahoga TANF",
-    "dataset_id": "dataset-197bed3a8816df6c46fe"
-  },
-  {
-    "title": "Cuyahoga TANF data",
-    "dataset_id": "dataset-9f21cb317b6d47009fe6"
-  },
-  {
-    "title": "Wisconsin W-2 data",
-    "dataset_id": "dataset-9a29494818c9b2bd7a27"
-  },
-  {
-    "title": "Wisconsin W-2",
-    "dataset_id": "dataset-82f247610e90e2cdf77f"
-  },
-  {
-    "title": "Maryland TANF data",
-    "dataset_id": "dataset-4e73d05a7dcb2e9ad170"
-  },
-  {
-    "title": "Maryland TANF",
-    "dataset_id": "dataset-419592f3fff3af8ed75f"
-  },
-  {
-    "title": "MD TANF data",
-    "dataset_id": "dataset-5adddfddece17b94b334"
-  },
-  {
-    "title": "MD TANF",
-    "dataset_id": "dataset-3748f44ec324700dfa7b"
-  },
-  {
-    "title": "Wisconsin state data",
-    "dataset_id": "dataset-75f87a784f911e4c963b"
-  },
-  {
-    "title": "Florida State TANF data",
-    "dataset_id": "dataset-78f4aa3e15ee19e84c7e"
-  },
-  {
-    "title": "Florida State TANF",
-    "dataset_id": "dataset-a11c192bc1f9d209288d"
-  },
-  {
-    "title": "Florida TANF data",
-    "dataset_id": "dataset-9f162457e80b2895b0ba"
-  },
-  {
-    "title": "Florida TANF",
-    "dataset_id": "dataset-f13667ee641f459352cb"
-  },
-  {
-    "title": "Substance abuse testing data",
-    "dataset_id": "dataset-46561f43d09208585a72"
-  },
-  {
-    "title": "Substance abuse testing",
-    "dataset_id": "dataset-daf038c541012fe78bc9"
-  },
-  {
-    "title": "Medicaid data",
-    "dataset_id": "dataset-c9169a2e41c7375000e1"
-  },
-  {
-    "title": "SNAP data",
-    "dataset_id": "dataset-782e26fc47b8066b030c"
-  },
-  {
-    "title": "Supplemental Nutrition Assistance Program data",
-    "dataset_id": "dataset-ee6a0d688f05f0c790c8"
-  },
-  {
-    "title": "UI data",
-    "dataset_id": "dataset-b7367a06b0ef522cc856"
-  },
-  {
-    "title": "Medicaid",
-    "dataset_id": "dataset-8321ba9623c3c0875f48"
+    "dataset_id": "dataset-a1c7111f5bec6dc79461",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a1c7111f5bec6dc79461",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Supplemental Nutrition Assistance Program",
-    "dataset_id": "dataset-5159b36eff312562fccf"
+    "alias": "SNAP",
+    "dataset_id": "dataset-604f7ba29a12987ae532",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-604f7ba29a12987ae532",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "UI",
-    "dataset_id": "dataset-ab869e6b7cc14e336911"
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "TANF",
+      "TANF data",
+      "Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "OR TANF",
+      "OR TANF data",
+      "OR Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Child welfare data",
+    "alias": [
+      "Child welfare"
+    ],
+    "dataset_id": "dataset-62bdd16f1bff79654148",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-62bdd16f1bff79654148",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "TANF data",
-    "dataset_id": "dataset-b7d0911898cd40268e30"
-  },
-  {
-    "title": "TANF",
-    "dataset_id": "dataset-ca73e29d74cca0b069ed"
-  },
-  {
-    "title": "TANF data",
-    "dataset_id": "dataset-b7d0911898cd40268e30"
-  },
-  {
-    "title": "Wisconsin State earnings data",
-    "dataset_id": "dataset-a76170f57bbf1618b6db"
-  },
-  {
-    "title": "Wisconsin State employment data",
-    "dataset_id": "dataset-db6888c4ed1268688d45"
-  },
-  {
-    "title": "Wisconsin State earnings",
-    "dataset_id": "dataset-c549b3cd853923c7b982"
-  },
-  {
-    "title": "Wisconsin State employment",
-    "dataset_id": "dataset-5c88212a7241d415f3aa"
-  },
-  {
-    "title": "Wisconsin State administrative data",
-    "dataset_id": "dataset-8b55e8e7e8d89dd94972"
-  },
-  {
-    "title": "Georgia TANF data",
-    "dataset_id": "dataset-2de46b4bea293eba8e4b"
-  },
-  {
-    "title": "Georgia TANF",
-    "dataset_id": "dataset-566065a81501c3ba4291"
-  },
-  {
-    "title": "GA TANF data",
-    "dataset_id": "dataset-4abd6bcd906e1e679cb9"
-  },
-  {
-    "title": "GA TANF",
-    "dataset_id": "dataset-e557483fe7085f1962f8"
-  },
-  {
-    "title": "DC TANF data",
-    "dataset_id": "dataset-fb4390aa64956ad1e541"
-  },
-  {
-    "title": "DC TANF",
-    "dataset_id": "dataset-97e8575840743f2f5ee9"
-  },
-  {
-    "title": "Missouri TANF data",
-    "dataset_id": "dataset-a8a3c621130298d3d5fe"
-  },
-  {
-    "title": "Missouri TANF",
-    "dataset_id": "dataset-dca5c896fee1167a56b4"
-  },
-  {
-    "title": "MO TANF data",
-    "dataset_id": "dataset-a2c6dca83afaf4a7cb4d"
-  },
-  {
-    "title": "MO TANF",
-    "dataset_id": "dataset-f24c2ba9ffbb8ef17ffd"
-  },
-  {
-    "title": "South Carolina TANF data",
-    "dataset_id": "dataset-227f2989a818de6c9b15"
-  },
-  {
-    "title": "South Carolina TANF",
-    "dataset_id": "dataset-9b9d0509221a310c8c62"
-  },
-  {
-    "title": "SC TANF data",
-    "dataset_id": "dataset-95b71e5c661b4aed0d5d"
-  },
-  {
-    "title": "SC TANF",
-    "dataset_id": "dataset-6244d5d4fbfb6f0e43a9"
-  },
-  {
-    "title": "Iowa TANF data",
-    "dataset_id": "dataset-c3d8257445f09c2bb514"
-  },
-  {
-    "title": "Iowa TANF",
-    "dataset_id": "dataset-477663315d96bdbf9494"
-  },
-  {
-    "title": "IA TANF data",
-    "dataset_id": "dataset-c1512b1cc7b795f720ec"
-  },
-  {
-    "title": "IA TANF",
-    "dataset_id": "dataset-c1696c627f2b1fb5365e"
-  },
-  {
-    "title": "Ohio TANF data",
-    "dataset_id": "dataset-4786fa60cca3e40ec8b5"
-  },
-  {
-    "title": "Ohio TANF",
-    "dataset_id": "dataset-31f4078f08ec2c389df5"
-  },
-  {
-    "title": "OH TANF data",
-    "dataset_id": "dataset-0d9f1563003b2d8595d9"
-  },
-  {
-    "title": "OH TANF",
-    "dataset_id": "dataset-737fee10851a192a6363"
-  },
-  {
-    "title": "Maryland TANF data",
-    "dataset_id": "dataset-4e73d05a7dcb2e9ad170"
-  },
-  {
-    "title": "Maryland TANF",
-    "dataset_id": "dataset-419592f3fff3af8ed75f"
-  },
-  {
-    "title": "MD TANF data",
-    "dataset_id": "dataset-5adddfddece17b94b334"
-  },
-  {
-    "title": "MD TANF",
-    "dataset_id": "dataset-3748f44ec324700dfa7b"
-  },
-  {
-    "title": "Salt Lake County State of Utah data",
-    "dataset_id": "dataset-02908c576735d601b395"
-  },
-  {
-    "title": "Salt Lake County State of UT",
-    "dataset_id": "dataset-aebe46966821e99e5e8f"
-  },
-  {
-    "title": "Cuyahoga County State of Ohio data",
-    "dataset_id": "dataset-ca48c5a497e88f222994"
-  },
-  {
-    "title": "Cuyahoga County State of Ohio",
-    "dataset_id": "dataset-9939dcbe98fb21eb168e"
-  },
-  {
-    "title": "Cleveland State of Ohio data",
-    "dataset_id": "dataset-a46534bafa36ba985e10"
-  },
-  {
-    "title": "Cleveland State of Ohio",
-    "dataset_id": "dataset-7cf9e35f75284e39f715"
-  },
-  {
-    "title": "Florida TANF data",
-    "dataset_id": "dataset-9f162457e80b2895b0ba"
-  },
-  {
-    "title": "Florida TANF",
-    "dataset_id": "dataset-f13667ee641f459352cb"
-  },
-  {
-    "title": "Florida WAGES data",
-    "dataset_id": "dataset-478efb51622e9a8f64e1"
-  },
-  {
-    "title": "Florida WAGES",
-    "dataset_id": "dataset-ead27941d35f58f54394"
-  },
-  {
-    "title": "Florida UI data",
-    "dataset_id": "dataset-d1ea25ef44df91dc2f23"
-  },
-  {
-    "title": "Florida UI",
-    "dataset_id": "dataset-82bef6e5333971a1b03b"
-  },
-  {
-    "title": "Florida TANF data",
-    "dataset_id": "dataset-9f162457e80b2895b0ba"
-  },
-  {
-    "title": "Florida TANF",
-    "dataset_id": "dataset-f13667ee641f459352cb"
-  },
-  {
-    "title": "Illinois TANF data",
-    "dataset_id": "dataset-7875b8be3e8557cdab10"
-  },
-  {
-    "title": "Illinois TANF",
-    "dataset_id": "dataset-053a5a9a7042c8de6845"
-  },
-  {
-    "title": "Cuyahoga County State of Ohio data TANF",
-    "dataset_id": "dataset-34b35e5a59f9e6f8256a"
-  },
-  {
-    "title": "Cuyahoga County State of Ohio TANF data",
-    "dataset_id": "dataset-34b35e5a59f9e6f8256a"
-  },
-  {
-    "title": "Cleveland State of Ohio TANF data",
-    "dataset_id": "dataset-603485cfd33ea4ba2edc"
-  },
-  {
-    "title": "Cleveland State of Ohio TANF",
-    "dataset_id": "dataset-b7dc0c65cad21a81c78c"
-  },
-  {
-    "title": "California TANF data",
-    "dataset_id": "dataset-219f0cec8d2252a0a9fc"
-  },
-  {
-    "title": "California TANF",
-    "dataset_id": "dataset-0272193502b8f1e70729"
-  },
-  {
-    "title": "CA TANF data",
-    "dataset_id": "dataset-dca6ef63505f56f8532a"
-  },
-  {
-    "title": "CA TANF",
-    "dataset_id": "dataset-275fc457365aff9e867b"
-  },
-  {
-    "title": "Massachusetts TANF",
-    "dataset_id": "dataset-d022e997aa69ac0d6656"
-  },
-  {
-    "title": "MA TANF",
-    "dataset_id": "dataset-b6053074c4e5ff769483"
-  },
-  {
-    "title": "Massachusetts TANF data",
-    "dataset_id": "dataset-01f5692e05a034090778"
-  },
-  {
-    "title": "MA TANF data",
-    "dataset_id": "dataset-1c8a176c0f2a89ed4c74"
-  },
-  {
-    "title": "California TANF data",
-    "dataset_id": "dataset-219f0cec8d2252a0a9fc"
-  },
-  {
-    "title": "California TANF",
-    "dataset_id": "dataset-0272193502b8f1e70729"
-  },
-  {
-    "title": "CA TANF data",
-    "dataset_id": "dataset-dca6ef63505f56f8532a"
-  },
-  {
-    "title": "CA TANF",
-    "dataset_id": "dataset-275fc457365aff9e867b"
-  },
-  {
-    "title": "Washington TANF data",
-    "dataset_id": "dataset-308a58be3d8da874a6f9"
-  },
-  {
-    "title": "WA TANF",
-    "dataset_id": "dataset-6daf83e631c9249545d9"
-  },
-  {
-    "title": "Washington TANF",
-    "dataset_id": "dataset-69bb71cf4a297f1c4db7"
-  },
-  {
-    "title": "WA state TANF",
-    "dataset_id": "dataset-577941f7798d94a929c1"
-  },
-  {
-    "title": "Arizona TANF data",
-    "dataset_id": "dataset-5d580305c22093bfb1b7"
-  },
-  {
-    "title": "AZ TANF",
-    "dataset_id": "dataset-520825cb7b837ae64eff"
-  },
-  {
-    "title": "Arizona TANF",
-    "dataset_id": "dataset-aaebdc7318ca422ec230"
-  },
-  {
-    "title": "AZ TANF data",
-    "dataset_id": "dataset-93e79501ee22bc119492"
-  },
-  {
-    "title": "Maryland TANF data",
-    "dataset_id": "dataset-4e73d05a7dcb2e9ad170"
-  },
-  {
-    "title": "Maryland TANF",
-    "dataset_id": "dataset-419592f3fff3af8ed75f"
-  },
-  {
-    "title": "MD TANF data",
-    "dataset_id": "dataset-5adddfddece17b94b334"
-  },
-  {
-    "title": "MD TANF",
-    "dataset_id": "dataset-3748f44ec324700dfa7b"
-  },
-  {
-    "title": "New York TANF data",
-    "dataset_id": "dataset-ba34dc12a35fa37c3fba"
-  },
-  {
-    "title": "New York TANF",
-    "dataset_id": "dataset-b3751033954432f75ce5"
-  },
-  {
-    "title": "NY TANF data",
-    "dataset_id": "dataset-a07368d834cb0ba06790"
-  },
-  {
-    "title": "NY TANF",
-    "dataset_id": "dataset-ca44b9b1645ee694820e"
-  },
-  {
-    "title": "Wisconsin TANF",
-    "dataset_id": "dataset-d642f9526e5c2f648e11"
-  },
-  {
-    "title": "Wisconsin TANF data",
-    "dataset_id": "dataset-888b199cc383fb3dbbd8"
-  },
-  {
-    "title": "WI data",
-    "dataset_id": "dataset-76f2c607c8743575ac9a"
-  },
-  {
-    "title": "WI TANF data",
-    "dataset_id": "dataset-f8431c9268e4917e57c6"
-  },
-  {
-    "title": "New Jersey TANF",
-    "dataset_id": "dataset-61f8165df8a16b097e83"
-  },
-  {
-    "title": "New Jersey TANF data",
-    "dataset_id": "dataset-a5531585acd8f9c0443a"
-  },
-  {
-    "title": "NJ TANF",
-    "dataset_id": "dataset-c644c446f19a8aae76ff"
-  },
-  {
-    "title": "NJ TANF data",
-    "dataset_id": "dataset-c300a01d894770ed2235"
+    "alias": [
+      "TANF",
+      "Temporary Assistance for Needy Families",
+      "Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-73e3499a60a6958e1146",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-73e3499a60a6958e1146",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "NY administrative data",
+    "dataset_id": "dataset-e04f715d46c31615f01d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e04f715d46c31615f01d",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Current population survey",
+    "alias": [
+      "CPS data",
+      "CPS",
+      "Current population survey data"
+    ],
+    "dataset_id": "dataset-5f2bdfd25a3e6391135b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-5f2bdfd25a3e6391135b",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Oregon Medicaid",
+    "alias": [
+      "Oregon Medicaid data"
+    ],
+    "dataset_id": "dataset-76f0c26c8edbbe0a89b1",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-76f0c26c8edbbe0a89b1",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from NYC",
+    "alias": [
+      "Program model information from New York City"
+    ],
+    "dataset_id": "dataset-b0b87685ee1f9f987533",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b0b87685ee1f9f987533",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from Philadelphia",
+    "dataset_id": "dataset-36a330ced0080d528431",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-36a330ced0080d528431",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from Hennepin County",
+    "alias": [
+      "Program model information from Minneapolis",
+      "Program model information from Twin Cities"
+    ],
+    "dataset_id": "dataset-f79a30291485aa9e6ecb",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-f79a30291485aa9e6ecb",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from Nebraska",
+    "dataset_id": "dataset-6905ebdfa3967f27a2c3",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6905ebdfa3967f27a2c3",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from New Jersey",
+    "dataset_id": "dataset-b9f272903cd17a3ea153",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b9f272903cd17a3ea153",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Program model information from Rhode Island",
+    "dataset_id": "dataset-18b40bfb269dfbd09981",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-18b40bfb269dfbd09981",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "PA TANF",
+      "PA TANF data",
+      "PA Temporary Assistance for Needy Families data",
+      "PA Philadelphia TANF data",
+      "PA Philadelphia TANF"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "TWC",
+    "alias": [
+      "Transitional Work Corporation"
+    ],
+    "dataset_id": "dataset-d525c40f91a8a300aca3",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-d525c40f91a8a300aca3",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "STEP",
+    "alias": [
+      "Success Through Employment Preparation"
+    ],
+    "dataset_id": "dataset-53f436db190095e46a89",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-53f436db190095e46a89",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Pennsylvania's Department of Public Welfare",
+    "alias": [
+      "Pennsylvania's DPW",
+      "PA DPW",
+      "PA Department of Public Welfare"
+    ],
+    "dataset_id": "dataset-ba76b1dc9bd85e1232ac",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ba76b1dc9bd85e1232ac",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "National Directory of New Hires",
+    "alias": [
+      "NDNH"
+    ],
+    "dataset_id": "dataset-7ef211ac58409e7ba26d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7ef211ac58409e7ba26d",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Work First program data",
+    "alias": [
+      "Work First program"
+    ],
+    "dataset_id": "dataset-7b0dd3b8f43cccff45d0",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7b0dd3b8f43cccff45d0",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "UI wage records",
+    "alias": [
+      "UI wage record data"
+    ],
+    "dataset_id": "dataset-a605d175eab86799e336",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a605d175eab86799e336",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "State of Michigan",
+    "alias": [
+      "State of Michigan data",
+      "Michigan data",
+      "Michigan"
+    ],
+    "dataset_id": "dataset-4646717a8b07c8d71ab9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4646717a8b07c8d71ab9",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "MD TANF",
+      "MD TANF data",
+      "MD Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Family Transition Program",
+    "alias": [
+      "Family Transition Program data"
+    ],
+    "dataset_id": "dataset-e55845f7b93a7f487ea7",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e55845f7b93a7f487ea7",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "OH TANF",
+      "OH TANF data",
+      "OH Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Exit survey",
+    "alias": [
+      "Exit survey data"
+    ],
+    "dataset_id": "dataset-9d0f309b8ff34506c6ad",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-9d0f309b8ff34506c6ad",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "State of Michigan",
+    "alias": [
+      "State of Michigan data"
+    ],
+    "dataset_id": "dataset-4646717a8b07c8d71ab9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4646717a8b07c8d71ab9",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "MI TANF",
+      "MI TANF data",
+      "MI Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "WI TANF",
+      "WI TANF data",
+      "WI Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Food Stamp data",
+    "alias": [
+      "SNAP data",
+      "Supplemental Nutrition Assistance Program",
+      "Supplemental Nutrition Assistance Program data"
+    ],
+    "dataset_id": "dataset-916b49d8c03ddd7d9aea",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-916b49d8c03ddd7d9aea",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Women's Employment Study",
+    "alias": [
+      "Women's Employment Study data",
+      "WES",
+      "WEST data"
+    ],
+    "dataset_id": "dataset-13ca3352dc06f7a17152",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-13ca3352dc06f7a17152",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "State of Wisconsin data",
+    "alias": [
+      "State of Wisconsin Data",
+      "Wisconsin state data"
+    ],
+    "dataset_id": "dataset-d5646d5dd9cb567bc62b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-d5646d5dd9cb567bc62b",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "W-2 data",
+    "alias": [
+      "WI W-2"
+    ],
+    "dataset_id": "dataset-4d3e8354a116db99190e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4d3e8354a116db99190e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Child support data",
+    "alias": [
+      "WI Child support"
+    ],
+    "dataset_id": "dataset-7e9eb3ff747032db7e23",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7e9eb3ff747032db7e23",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "KY TANF",
+      "KY TANF data",
+      "KY Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Relocation Assistance Program",
+    "alias": [
+      "KY RAP"
+    ],
+    "dataset_id": "dataset-e59a2d5cb8a9d4f30b7e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e59a2d5cb8a9d4f30b7e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "UI administrative data",
+    "dataset_id": "dataset-f2aa7560204820a8c0a5",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-f2aa7560204820a8c0a5",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "WA TANF",
+      "WA TANF data",
+      "WA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Child care subsidy administrative data",
+    "dataset_id": "dataset-57b2bf0ceee337807127",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-57b2bf0ceee337807127",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Milwaukee County, WI TANF data",
+    "alias": [
+      "Milwaukee TANF",
+      "Milwaukee TANF data"
+    ],
+    "dataset_id": "dataset-4cb1be3923e39f1fc16d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4cb1be3923e39f1fc16d",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Child welfare data",
+    "alias": [
+      "WI Child welfare"
+    ],
+    "dataset_id": "dataset-fec4398bccebe3a406c2",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-fec4398bccebe3a406c2",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Child support data",
+    "alias": [
+      "WI Child support"
+    ],
+    "dataset_id": "dataset-7e9eb3ff747032db7e23",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7e9eb3ff747032db7e23",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in CO from 2002",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Colorado from 2002"
+    ],
+    "dataset_id": "dataset-a606ea8d378acd95caf5",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a606ea8d378acd95caf5",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in DC from 2002",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002"
+    ],
+    "dataset_id": "dataset-310c7b592941a7c1b321",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-310c7b592941a7c1b321",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in IL from 2002",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Illinois from 2002"
+    ],
+    "dataset_id": "dataset-a3a4aa3b8469c539eacd",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a3a4aa3b8469c539eacd",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in MD from 2002",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Maryland from 2002"
+    ],
+    "dataset_id": "dataset-623d9ff0e91a26f05601",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-623d9ff0e91a26f05601",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in MO from 2002",
+    "alias": [
+      "Statewide surveys of single-parent TANF recipients in Montana from 2002"
+    ],
+    "dataset_id": "dataset-43a76857c9ae658d7053",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-43a76857c9ae658d7053",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Statewide surveys of single-parent TANF recipients in SC from 2002",
+    "alias": "Statewide surveys of single-parent TANF recipients in South Carolina from 2002",
+    "dataset_id": "dataset-2e73dcf3bb1ea41e0bd4",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2e73dcf3bb1ea41e0bd4",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Devolution and Urban Change",
+    "dataset_id": "dataset-6f80f8ea96fd5734778e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6f80f8ea96fd5734778e",
+      "hashed_columns": [
+        "title"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Cuyahoga TANF",
+    "alias": [
+      "Cuyahoga TANF data"
+    ],
+    "dataset_id": "dataset-ecc7658cc4885972e1e7",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ecc7658cc4885972e1e7",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Los Angeles TANF data",
+    "alias": [
+      "Los Angeles TANF"
+    ],
+    "dataset_id": "dataset-ad0d19daff3c7390b2ba",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ad0d19daff3c7390b2ba",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Miami-Dade TANF data",
+    "alias": [
+      "Miami-Dade TANF"
+    ],
+    "dataset_id": "dataset-325554f5bef0e507d0bb",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-325554f5bef0e507d0bb",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Philadelphia TANF data",
+    "alias": [
+      "Philadelphia TANF"
+    ],
+    "dataset_id": "dataset-4fb146d7af97a64cf3c0",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-4fb146d7af97a64cf3c0",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "FL TANF",
+      "FL TANF data",
+      "FL Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Substance abuse testing data",
+    "alias": [
+      "Substance abuse testing"
+    ],
+    "dataset_id": "dataset-a177e9bb2d34c4da8588",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a177e9bb2d34c4da8588",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Medicaid data",
+    "alias": [
+      "FL Medicaid"
+    ],
+    "dataset_id": "dataset-f218ec61429eb3f4ee16",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-f218ec61429eb3f4ee16",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Food Stamp data",
+    "alias": [
+      "FL SNAP data",
+      "FL Supplemental Nutrition Assistance Program",
+      "FL Supplemental Nutrition Assistance Program data"
+    ],
+    "dataset_id": "dataset-916b49d8c03ddd7d9aea",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-916b49d8c03ddd7d9aea",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "UI data",
+    "alias": [
+      "FL UI"
+    ],
+    "dataset_id": "dataset-f5873744b65cc694d019",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-f5873744b65cc694d019",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Earnings data",
+    "dataset_id": "dataset-f6e67e247a929457b5e1",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-f6e67e247a929457b5e1",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Employment data",
+    "dataset_id": "dataset-2a98c6af8487a728b66a",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2a98c6af8487a728b66a",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Administrative data",
+    "dataset_id": "dataset-a2a4d8dbf149d06d087b",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a2a4d8dbf149d06d087b",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "GA TANF",
+      "GA TANF data",
+      "GA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "DC TANF",
+      "DC TANF data",
+      "DC Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "MO TANF",
+      "MO TANF data",
+      "MO Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "SC TANF",
+      "SC TANF data",
+      "SC Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "IA TANF",
+      "IA TANF data",
+      "IA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Salt Lake County data",
+    "alias": [
+      "Salt Lake County data"
+    ],
+    "dataset_id": "dataset-65d6897b8110e1903649",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-65d6897b8110e1903649",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Cuyahoga County data",
+    "alias": [
+      "Cuyahoga County"
+    ],
+    "dataset_id": "dataset-3c18d85d8f1c0ea88d42",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-3c18d85d8f1c0ea88d42",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Cleveland data",
+    "alias": [
+      "Cleveland"
+    ],
+    "dataset_id": "dataset-aa9b07386010418732f5",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-aa9b07386010418732f5",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Wages data",
+    "alias": [
+      "FL Florida wages"
+    ],
+    "dataset_id": "dataset-8aed9754a1ad42503016",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8aed9754a1ad42503016",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "IL TANF",
+      "IL TANF data",
+      "IL Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Cuyahoga County TANF data",
+    "alias": [
+      "Cuyahoga County TANF"
+    ],
+    "dataset_id": "dataset-cd62d08c3ab2c51981cd",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-cd62d08c3ab2c51981cd",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Cleveland TANF data",
+    "alias": [
+      "Cleveland TANF"
+    ],
+    "dataset_id": "dataset-74918568754fdc522ce2",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-74918568754fdc522ce2",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "CA TANF",
+      "CA TANF data",
+      "CA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "MA TANF",
+      "MA TANF data",
+      "MA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "AZ TANF",
+      "AZ TANF data",
+      "AZ Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "NY TANF",
+      "NY TANF data",
+      "NY Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
+  },
+  {
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "NJ TANF",
+      "NJ TANF data",
+      "NJ Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "Family Program Development data",
-    "dataset_id": "dataset-1de642d8efccea074320"
+    "alias": [
+      "NJ Family Program Development"
+    ],
+    "dataset_id": "dataset-a971e6b88fc9fb15beed",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a971e6b88fc9fb15beed",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "Family Program Development",
-    "dataset_id": "dataset-7b57a50299e95c92368a"
+    "title": "Progress and Services Report",
+    "alias": [
+      "AL Progress and Services Report data"
+    ],
+    "dataset_id": "dataset-6599f75c7a90cce3f8e4",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-6599f75c7a90cce3f8e4",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "Alabama Progress and Services Report",
-    "dataset_id": "dataset-46f124a50a441fceb538"
+    "title": "CalWORKS recipients earning report data",
+    "alias": [
+      "California Work Opportunities and Responsibility to Kids earning report data",
+      "California Work Opportunities and Responsibility to Kids earning report",
+      "CalWORKs data"
+    ],
+    "dataset_id": "dataset-0a533a874c8a9fdd437d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-0a533a874c8a9fdd437d",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "California County TANF",
-    "dataset_id": "dataset-21bad578e538d8d0d916"
+    "title": "DFCS",
+    "alias": [
+      "GA Department of Family and Child Services",
+      "GA Department of Family and Child Services data",
+      "GA DFCS data"
+    ],
+    "dataset_id": "dataset-a1e64443a5441b95d47e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a1e64443a5441b95d47e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "CalWORKS recipients earning report",
-    "dataset_id": "dataset-c07d76b269ccbc227475"
-  },
-  {
-    "title": "Georgia DFCS",
-    "dataset_id": "dataset-92421c61e055b9738fb9"
-  },
-  {
-    "title": "Georgia Department of Family and Child Services",
-    "dataset_id": "dataset-6b84164bfa16895af4bf"
-  },
-  {
-    "title": "Michigan Department of Health and Human Services",
-    "dataset_id": "dataset-fab8d51c46c8743a8f61"
-  },
-  {
-    "title": "Michigan DHS",
-    "dataset_id": "dataset-0ef9091a85d7efd59445"
-  },
-  {
-    "title": "Michigan TANF",
-    "dataset_id": "dataset-d8cf69b2ffec6a13d32d"
+    "title": "Health and Human Services data",
+    "alias": [
+      "MI Health and Human Services",
+      "MI DHHS",
+      "MI DHHS data"
+    ],
+    "dataset_id": "dataset-0b119c870dd092fbeb98",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-0b119c870dd092fbeb98",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
     "title": "SSRC",
-    "dataset_id": "dataset-ff1f18471f34bf166adb"
+    "alias": [
+      "CO Self-Sufficiency Research Clearinghouse",
+      "CO Self-Sufficiency Research Clearinghouse data",
+      "CO SSRC data"
+    ],
+    "dataset_id": "dataset-2e271f1e4b19b77f6fa8",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2e271f1e4b19b77f6fa8",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "Self-Sufficiency Research Clearinghouse",
-    "dataset_id": "dataset-5cd2b943303c21464c41"
+    "title": "Family Investment Program",
+    "alias": [
+      "MN FIP data",
+      "MN FIP",
+      "MN Family Investment Program data"
+    ],
+    "dataset_id": "dataset-2b9ebeb2f6d2a51dcef4",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-2b9ebeb2f6d2a51dcef4",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   },
   {
-    "title": "Minnesota Family Investment Program",
-    "dataset_id": "dataset-ab192c8d6893784aed70"
-  },
-  {
-    "title": "MFIP",
-    "dataset_id": "dataset-9eacb0e1b6c0a26b6945"
-  },
-  {
-    "title": "Virginia TANF",
-    "dataset_id": "dataset-7ac344d558388106bf3c"
-  },
-  {
-    "title": "VA TANF",
-    "dataset_id": "dataset-a44e1e31116b8123171a"
-  },
-  {
-    "title": "VZentK",
-    "dataset_id": "dataset-932fedd5e9ad4557f970"
+    "title": "Temporary Assistance for Needy Families",
+    "alias": [
+      "VA TANF",
+      "VA TANF data",
+      "VA Temporary Assistance for Needy Families data"
+    ],
+    "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bf095ca377f8c5ec5b0e",
+      "hashed_columns": [
+        "title",
+        "data_provider"
+      ],
+      "date_created": "2019-08-30"
+    }
   }
 ]

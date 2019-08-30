@@ -75,51 +75,29 @@ def main():
     man_ds_names = read_manual_ds_names()
 
     addl_ds_names = [i for i in man_ds_names if i['title'] not in adrf_ds_names]
-#     adrf_dd_dict = adrf_ds_df.to_dict('records')
-
     adrf_dd_dict = convert_to_dict(adrf_ds_df)
     final_ds_dict = adrf_dd_dict + addl_ds_names
 
     dd_dict = final_ds_dict
+    
     for i in dd_dict:
-        i['title'] = unicodedata.normalize('NFC',i['title'])
-        fields_to_hash = ['title']
-        i = assign_id(dataset_entry = i,fields_to_hash = fields_to_hash)
-        hist_dict = update_archive_dict(i)
-        try:
-            i['dataset_id_history']
-            i['dataset_id_history'].append(hist_dict)
-        except:
-            hist_dict_list = []
-            hist_dict_list.append(hist_dict)
-            i['dataset_id_history'] = hist_dict_list
-        last_id = get_last_id(i)
-        if last_id == i['dataset_id']:
-            in_use = True
-        elif last_id != i['dataset_id']:
-            in_use = False
-        this_hist_dict = [h for h in hist_dict_list if h['dataset_id'] == i['dataset_id']][0]
-        this_hist_dict.update({'in_use':in_use})
+        fields_to_hash_all = ['title','data_steward','data_provider']
+        fields_to_hash_final = [f for f in fields_to_hash_all if f in i.keys()]
+        hash_fields = [k for k,v in i.items() if k in fields_to_hash_final and not pd.isnull(v)]
+        i = assign_id(dataset_entry = i,fields_to_hash = hash_fields)
         try:
             if isinstance(i['temporal_coverage_end'], datetime.date):
                 i['temporal_coverage_end'] = convert_date(i['temporal_coverage_end'])
-    #             i['temporal_coverage_end'] = str(dateutil.parser.parse(str(i['temporal_coverage_end'])).date())
             if isinstance(i['temporal_coverage_start'], datetime.date):
                 i['temporal_coverage_end'] = convert_date(i['temporal_coverage_start'])
-    #             i['temporal_coverage_start'] = str(dateutil.parser.parse(str(i['temporal_coverage_start'])).date())
         except:
             pass
 
-    return dd_dict
-
-
 #     for i in dd_dict:
 #         i['title'] = unicodedata.normalize('NFC',i['title'])
-#         fields_to_hash = ['title']
+#         fields_to_hash = ['title','data_provider']
 #         i = assign_id(dataset_entry = i,fields_to_hash = fields_to_hash)
 #         hist_dict = update_archive_dict(i)
-# #         hist_list.append(hist_dict)
-# #         dataset_entry['dataset_id_history'] = hist_list
 #         try:
 #             i['dataset_id_history']
 #             i['dataset_id_history'].append(hist_dict)
@@ -127,17 +105,25 @@ def main():
 #             hist_dict_list = []
 #             hist_dict_list.append(hist_dict)
 #             i['dataset_id_history'] = hist_dict_list
-#         try:
-#             if isinstance(i['temporal_coverage_end'], datetime.date):
-#                 i['temporal_coverage_end'] = str(dateutil.parser.parse(str(i['temporal_coverage_end'])).date())
-#             if isinstance(i['temporal_coverage_start'], datetime.date):
-#                 i['temporal_coverage_start'] = str(dateutil.parser.parse(str(i['temporal_coverage_start'])).date())
-#         except:
-#             pass
-#     return dd_dict
+#         last_id = get_last_id(i)
+#         if last_id == i['dataset_id']:
+#             in_use = True
+#         elif last_id != i['dataset_id']:
+#             in_use = False
+#         this_hist_dict = [h for h in hist_dict_list if h['dataset_id'] == i['dataset_id']][0]
+#         this_hist_dict.update({'in_use':in_use})
+
+    return dd_dict
+
 
 dd_dict = main()    
-dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','dataset_id_history','data_steward','data_provider']} for d in dd_dict]
+dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata']} for d in dd_dict]
 
-json.dump(dd_dict, open('new_metadata/datasets.json', 'w'), indent=2)
-json.dump(dd_dict_lim, open('new_metadata/datasets_lim.json', 'w'), indent=2)
+# dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','dataset_id_history','data_steward','data_provider']} for d in dd_dict]
+
+json.dump(dd_dict, open('datasets.json', 'w'), indent=2)
+json.dump(dd_dict_lim, open('datasets_lim.json', 'w'), indent=2)
+
+
+# json.dump(dd_dict, open('new_metadata/datasets.json', 'w'), indent=2)
+# json.dump(dd_dict_lim, open('new_metadata/datasets_lim.json', 'w'), indent=2)
