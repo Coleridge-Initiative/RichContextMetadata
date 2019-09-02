@@ -1,0 +1,727 @@
+[
+  {
+    "date_inserted": "2017-08-31",
+    "title": "New Bank Lending Survey of the Eurosystem",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2358",
+        "name": "0104 Statistics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "id": "pub.1008795506",
+    "journal": {
+      "id": "jour.1150628",
+      "title": "Journal of Business Cycle Measurement and Analysis"
+    },
+    "researchers": [
+      {
+        "id": "ur.014734024051.84",
+        "last_name": "Hempell",
+        "first_name": "Hannah Sabine"
+      }
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "issn": [
+      "1729-3618",
+      "1729-3626"
+    ],
+    "pages": "387-407",
+    "authors": [
+      {
+        "first_name": "Hannah Sabine",
+        "last_name": "Hempell",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.014734024051.84",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Hannah Sabine",
+          "last_name": "Hempell",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014734024051.84",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2201",
+        "name": "01 Mathematical Sciences"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2005-01-24",
+    "reference_ids": [
+      "pub.1059948625"
+    ],
+    "references": [
+      "pub.1059948625"
+    ],
+    "doi": "10.1787/jbcma-v2004-art20-en",
+    "year": 2005,
+    "type": "article",
+    "volume": "2004",
+    "terms": [
+      "lending business",
+      "standard",
+      "Euro area",
+      "micro data level",
+      "supply-side determinants",
+      "statistics",
+      "survey rounds",
+      "power",
+      "margin",
+      "Germany",
+      "significant information",
+      "main tendencies",
+      "determinants",
+      "special interest",
+      "growth",
+      "development",
+      "factors",
+      "demand",
+      "analysis",
+      "part",
+      "monetary financial institutions",
+      "rounds",
+      "area",
+      "framework",
+      "contributing factors",
+      "rate statistics",
+      "Eurosystem",
+      "margin changes",
+      "institutions",
+      "survey results",
+      "information",
+      "financial institutions",
+      "credit standards",
+      "detailed analysis",
+      "changes",
+      "relationship",
+      "loan growth",
+      "data level",
+      "paper",
+      "tendency",
+      "demand-side determinants",
+      "business",
+      "explanatory power",
+      "regular surveys",
+      "interest",
+      "banks",
+      "institutional framework",
+      "aggregate level",
+      "loans",
+      "levels",
+      "data",
+      "survey",
+      "survey data"
+    ],
+    "concepts": [
+      "lending business",
+      "standard",
+      "Euro area",
+      "micro data level",
+      "supply-side determinants",
+      "statistics",
+      "survey rounds",
+      "power",
+      "margin",
+      "Germany",
+      "significant information",
+      "main tendencies",
+      "determinants",
+      "special interest",
+      "growth",
+      "development",
+      "factors",
+      "demand",
+      "analysis",
+      "part",
+      "monetary financial institutions",
+      "rounds",
+      "area",
+      "framework",
+      "contributing factors",
+      "rate statistics",
+      "Eurosystem",
+      "margin changes",
+      "institutions",
+      "survey results",
+      "information",
+      "financial institutions",
+      "credit standards",
+      "detailed analysis",
+      "changes",
+      "relationship",
+      "loan growth",
+      "data level",
+      "paper",
+      "tendency",
+      "demand-side determinants",
+      "business",
+      "explanatory power",
+      "regular surveys",
+      "interest",
+      "banks",
+      "institutional framework",
+      "aggregate level",
+      "loans",
+      "levels",
+      "data",
+      "survey",
+      "survey data"
+    ],
+    "issue": "3",
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "2358",
+        "name": "0104 Statistics"
+      },
+      {
+        "id": "2201",
+        "name": "01 Mathematical Sciences"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "dimensions_id": "pub.1008795506",
+    "related_dataset_name": "Quarterly borrower statistics",
+    "related_dataset": "dataset-0b6bccac59c6fd49e116",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "title": "Interbank Relationships and the Credit Channel in Germany",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1020312311",
+    "journal": {
+      "id": "jour.1136664",
+      "title": "Empirica"
+    },
+    "researchers": [
+      {
+        "id": "ur.013572645201.46",
+        "last_name": "Worms",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Andreas"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "0340-8744",
+      "1573-6911"
+    ],
+    "pages": "179-198",
+    "field_citation_ratio": 0.21,
+    "authors": [
+      {
+        "first_name": "Andreas",
+        "last_name": "Worms",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.013572645201.46",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Andreas",
+          "last_name": "Worms",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.013572645201.46",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2003-06-01",
+    "reference_ids": [
+      "pub.1007284784",
+      "pub.1029480138",
+      "pub.1000496705",
+      "pub.1038264081",
+      "pub.1011361187",
+      "pub.1070020846",
+      "pub.1069639557",
+      "pub.1004375526",
+      "pub.1024237634",
+      "pub.1063349105",
+      "pub.1050909302",
+      "pub.1088871507",
+      "pub.1069979645",
+      "pub.1035393285",
+      "pub.1064531332",
+      "pub.1064529756",
+      "pub.1004902196",
+      "pub.1048768996",
+      "pub.1069688367",
+      "pub.1049159011",
+      "pub.1069869282",
+      "pub.1070466443",
+      "pub.1064527092",
+      "pub.1003552959",
+      "pub.1006922655",
+      "pub.1036078041"
+    ],
+    "references": [
+      "pub.1007284784",
+      "pub.1029480138",
+      "pub.1000496705",
+      "pub.1038264081",
+      "pub.1011361187",
+      "pub.1070020846",
+      "pub.1069639557",
+      "pub.1004375526",
+      "pub.1024237634",
+      "pub.1063349105",
+      "pub.1050909302",
+      "pub.1088871507",
+      "pub.1069979645",
+      "pub.1035393285",
+      "pub.1064531332",
+      "pub.1064529756",
+      "pub.1004902196",
+      "pub.1048768996",
+      "pub.1069688367",
+      "pub.1049159011",
+      "pub.1069869282",
+      "pub.1070466443",
+      "pub.1064527092",
+      "pub.1003552959",
+      "pub.1006922655",
+      "pub.1036078041"
+    ],
+    "doi": "10.1023/a:1024173416117",
+    "year": 2003,
+    "type": "article",
+    "volume": "30",
+    "times_cited": 1,
+    "terms": [
+      "crucial condition",
+      "measures",
+      "information",
+      "effect",
+      "policy",
+      "restrictive monetary policy measures",
+      "loan supply",
+      "discussion",
+      "panel estimation",
+      "banks",
+      "total assets",
+      "bank loan supply",
+      "monetary policy measures",
+      "average bank",
+      "dataset",
+      "policy measures",
+      "issues",
+      "assets",
+      "German banks",
+      "existence",
+      "credit channel",
+      "German banking system",
+      "monetary policy",
+      "evidenceis",
+      "banking system",
+      "interbank deposits",
+      "supply",
+      "estimation",
+      "network structure"
+    ],
+    "concepts": [
+      "crucial condition",
+      "measures",
+      "information",
+      "effect",
+      "policy",
+      "restrictive monetary policy measures",
+      "loan supply",
+      "discussion",
+      "panel estimation",
+      "banks",
+      "total assets",
+      "bank loan supply",
+      "monetary policy measures",
+      "average bank",
+      "dataset",
+      "policy measures",
+      "issues",
+      "assets",
+      "German banks",
+      "existence",
+      "credit channel",
+      "German banking system",
+      "monetary policy",
+      "evidenceis",
+      "banking system",
+      "interbank deposits",
+      "supply",
+      "estimation",
+      "network structure"
+    ],
+    "issue": "2",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1020312311",
+    "related_dataset_name": "Quarterly borrower statistics",
+    "related_dataset": "dataset-0b6bccac59c6fd49e116",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2003-01-01",
+    "terms": [
+      "role",
+      "credit channel",
+      "play",
+      "Tsatsaronis",
+      "movement",
+      "order",
+      "network structure",
+      "introduction",
+      "recent empirical literature",
+      "banking system",
+      "Favero",
+      "monetary policy",
+      "loan supply",
+      "set",
+      "Ehrmann et al",
+      "German banking system",
+      "empirical literature",
+      "account",
+      "patterns",
+      "variables",
+      "data sets",
+      "kake",
+      "demand",
+      "Winker",
+      "basis",
+      "Giavazzi",
+      "data",
+      "problem",
+      "analysis",
+      "ambiguity",
+      "Chapter 14",
+      "policy",
+      "De Bondt",
+      "population",
+      "loan demand",
+      "K\u00fcpper",
+      "specific income",
+      "risk variables",
+      "supply",
+      "support",
+      "issues",
+      "shift",
+      "methodology",
+      "micro data",
+      "banking population",
+      "balance sheet",
+      "Flabbi",
+      "Germany",
+      "Sturm",
+      "existence",
+      "chapter",
+      "direction",
+      "seasonal pattern",
+      "fundamental problem",
+      "bank balance sheets",
+      "evidence",
+      "Moersch",
+      "example",
+      "literature",
+      "income",
+      "empirical evidence"
+    ],
+    "concepts": [
+      "role",
+      "credit channel",
+      "play",
+      "Tsatsaronis",
+      "movement",
+      "order",
+      "network structure",
+      "introduction",
+      "recent empirical literature",
+      "banking system",
+      "Favero",
+      "monetary policy",
+      "loan supply",
+      "set",
+      "Ehrmann et al",
+      "German banking system",
+      "empirical literature",
+      "account",
+      "patterns",
+      "variables",
+      "data sets",
+      "kake",
+      "demand",
+      "Winker",
+      "basis",
+      "Giavazzi",
+      "data",
+      "problem",
+      "analysis",
+      "ambiguity",
+      "Chapter 14",
+      "policy",
+      "De Bondt",
+      "population",
+      "loan demand",
+      "K\u00fcpper",
+      "specific income",
+      "risk variables",
+      "supply",
+      "support",
+      "issues",
+      "shift",
+      "methodology",
+      "micro data",
+      "banking population",
+      "balance sheet",
+      "Flabbi",
+      "Germany",
+      "Sturm",
+      "existence",
+      "chapter",
+      "direction",
+      "seasonal pattern",
+      "fundamental problem",
+      "bank balance sheets",
+      "evidence",
+      "Moersch",
+      "example",
+      "literature",
+      "income",
+      "empirical evidence"
+    ],
+    "id": "pub.1047363668",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_pub",
+        "name": "Green, Published",
+        "description": "Free copy of published version in an OA repository"
+      }
+    ],
+    "year": 2003,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "times_cited": 10,
+    "title": "The reaction of bank lending to monetary policy measures in Germany",
+    "authors": [
+      {
+        "first_name": "A.",
+        "last_name": "Worms",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "A.",
+          "last_name": "Worms",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - published"
+    ],
+    "linkout": "http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp096.pdf",
+    "publisher": "Cambridge University Press (CUP)",
+    "field_citation_ratio": 1.95,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "type": "chapter",
+    "pages": "270-283",
+    "book_doi": "10.1017/cbo9780511492372",
+    "doi": "10.1017/cbo9780511492372.019",
+    "book_title": "Monetary Policy Transmission in the Euro Area",
+    "dimensions_id": "pub.1047363668",
+    "related_dataset_name": "Quarterly borrower statistics",
+    "related_dataset": "dataset-0b6bccac59c6fd49e116",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

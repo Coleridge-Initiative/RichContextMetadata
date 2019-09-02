@@ -1,0 +1,7931 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "altmetric_id": 64590789,
+    "authors": [
+      {
+        "first_name": "Francesco",
+        "last_name": "Bimbo",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.10796.39",
+            "name": "University of Foggia",
+            "city": "Foggia",
+            "city_id": 3176885,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Alessandro",
+        "last_name": "Bonanno",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.47894.36",
+            "name": "Colorado State University",
+            "city": "Fort Collins",
+            "city_id": 5577147,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Colorado",
+            "state_code": "US-CO"
+          }
+        ]
+      },
+      {
+        "first_name": "Rosaria",
+        "last_name": "Viscecchia",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.10796.39",
+            "name": "University of Foggia",
+            "city": "Foggia",
+            "city_id": 3176885,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Francesco",
+          "last_name": "Bimbo",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10796.39",
+              "name": "University of Foggia",
+              "city": "Foggia",
+              "city_id": 3176885,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Alessandro",
+          "last_name": "Bonanno",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47894.36",
+              "name": "Colorado State University",
+              "city": "Fort Collins",
+              "city_id": 5577147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Colorado",
+              "state_code": "US-CO"
+            }
+          ]
+        },
+        {
+          "first_name": "Rosaria",
+          "last_name": "Viscecchia",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10796.39",
+              "name": "University of Foggia",
+              "city": "Foggia",
+              "city_id": 3176885,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5577147,
+        "name": "Fort Collins"
+      },
+      {
+        "id": 3176885,
+        "name": "Foggia"
+      }
+    ],
+    "id": "pub.1120127009",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      },
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date": "2019-08-04",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "ERA 2015",
+      "ERIH PLUS"
+    ],
+    "issn": [
+      "1364-985X",
+      "2414-584X",
+      "1467-8489"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1111/1467-8489.12318",
+    "journal": {
+      "id": "jour.1028665",
+      "title": "Australian Journal of Agricultural and Resource Economics"
+    },
+    "title": "An empirical framework to study food labelling fraud: an application to the Italian extra\u2010virgin olive oil market",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric": 1,
+    "type": "article",
+    "research_org_country_names": [
+      "United States",
+      "Italy"
+    ],
+    "date_inserted": "2019-08-06",
+    "research_org_state_codes": [
+      {
+        "id": "US-CO",
+        "name": "Colorado"
+      }
+    ],
+    "concepts": [
+      "welfare loss",
+      "welfare implications",
+      "data",
+      "consumer loss",
+      "gain",
+      "food markets",
+      "availability",
+      "levels",
+      "implications",
+      "olive oil market",
+      "administrative fines",
+      "overpayment",
+      "empirical framework",
+      "economic consequences",
+      "food products",
+      "welfare transfers",
+      "cent",
+      "products",
+      "food",
+      "consequence",
+      "demand model",
+      "measures",
+      "mislabelling",
+      "market",
+      "sales data",
+      "framework",
+      "model",
+      "probability",
+      "firm image",
+      "fraud",
+      "such frameworks",
+      "false claims",
+      "oil market",
+      "large fines",
+      "claims",
+      "food fraud"
+    ],
+    "terms": [
+      "welfare loss",
+      "welfare implications",
+      "data",
+      "consumer loss",
+      "gain",
+      "food markets",
+      "availability",
+      "levels",
+      "implications",
+      "olive oil market",
+      "administrative fines",
+      "overpayment",
+      "empirical framework",
+      "economic consequences",
+      "food products",
+      "welfare transfers",
+      "cent",
+      "products",
+      "food",
+      "consequence",
+      "demand model",
+      "measures",
+      "mislabelling",
+      "market",
+      "sales data",
+      "framework",
+      "model",
+      "probability",
+      "firm image",
+      "fraud",
+      "such frameworks",
+      "false claims",
+      "oil market",
+      "large fines",
+      "claims",
+      "food fraud"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.47894.36",
+        "acronym": "CSU",
+        "name": "Colorado State University",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.10796.39",
+        "name": "University of Foggia",
+        "country_name": "Italy"
+      }
+    ],
+    "references": [
+      "pub.1017833577",
+      "pub.1015466899",
+      "pub.1020889730",
+      "pub.1005361727",
+      "pub.1013221184",
+      "pub.1069410550",
+      "pub.1058638759",
+      "pub.1069804328",
+      "pub.1091291782",
+      "pub.1031498032",
+      "pub.1004056590",
+      "pub.1020785219",
+      "pub.1002104951",
+      "pub.1048922738",
+      "pub.1091308711",
+      "pub.1059569617",
+      "pub.1036239875",
+      "pub.1069804358",
+      "pub.1069640316",
+      "pub.1061933874",
+      "pub.1033709499",
+      "pub.1063349372",
+      "pub.1013760158",
+      "pub.1016883472",
+      "pub.1001847712",
+      "pub.1040895217",
+      "pub.1101263294",
+      "pub.1020978730",
+      "pub.1069991587",
+      "pub.1083490055",
+      "pub.1007002585",
+      "pub.1030071087",
+      "pub.1020099602",
+      "pub.1058752083",
+      "pub.1018843370",
+      "pub.1059380242",
+      "pub.1032643738",
+      "pub.1036035733",
+      "pub.1048285979",
+      "pub.1013225473"
+    ],
+    "reference_ids": [
+      "pub.1017833577",
+      "pub.1015466899",
+      "pub.1020889730",
+      "pub.1005361727",
+      "pub.1013221184",
+      "pub.1069410550",
+      "pub.1058638759",
+      "pub.1069804328",
+      "pub.1091291782",
+      "pub.1031498032",
+      "pub.1004056590",
+      "pub.1020785219",
+      "pub.1002104951",
+      "pub.1048922738",
+      "pub.1091308711",
+      "pub.1059569617",
+      "pub.1036239875",
+      "pub.1069804358",
+      "pub.1069640316",
+      "pub.1061933874",
+      "pub.1033709499",
+      "pub.1063349372",
+      "pub.1013760158",
+      "pub.1016883472",
+      "pub.1001847712",
+      "pub.1040895217",
+      "pub.1101263294",
+      "pub.1020978730",
+      "pub.1069991587",
+      "pub.1083490055",
+      "pub.1007002585",
+      "pub.1030071087",
+      "pub.1020099602",
+      "pub.1058752083",
+      "pub.1018843370",
+      "pub.1059380242",
+      "pub.1032643738",
+      "pub.1036035733",
+      "pub.1048285979",
+      "pub.1013225473"
+    ],
+    "research_org_state_names": [
+      "Colorado"
+    ],
+    "dimensions_id": "pub.1120127009",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-03-08",
+    "research_org_state_names": [
+      "Texas"
+    ],
+    "title": "Is the Simple Price Premium that Simple?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.264758.a",
+        "name": "Texas A&M University \u2013 Commerce",
+        "country_name": "United States"
+      }
+    ],
+    "id": "pub.1112595446",
+    "journal": {
+      "id": "jour.1150566",
+      "title": "Review of Marketing Science"
+    },
+    "research_org_country_names": [
+      "United States"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERIH PLUS"
+    ],
+    "publisher": "De Gruyter",
+    "issn": [
+      "2194-5985",
+      "1546-5616"
+    ],
+    "pages": "25-47",
+    "authors": [
+      {
+        "first_name": "Yuying",
+        "last_name": "Shi",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.264758.a",
+            "name": "Texas A&M University \u2013 Commerce",
+            "city": "Commerce",
+            "city_id": 4682762,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Texas",
+            "state_code": "US-TX"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Yuying",
+          "last_name": "Shi",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.264758.a",
+              "name": "Texas A&M University \u2013 Commerce",
+              "city": "Commerce",
+              "city_id": 4682762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4682762,
+        "name": "Commerce"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-06-26",
+    "reference_ids": [
+      "pub.1110841956",
+      "pub.1001972291",
+      "pub.1011820881",
+      "pub.1064713336",
+      "pub.1049763388",
+      "pub.1069991587",
+      "pub.1038851833",
+      "pub.1069804358",
+      "pub.1064712656",
+      "pub.1052288885",
+      "pub.1000638134",
+      "pub.1107570089",
+      "pub.1012706989",
+      "pub.1110591279",
+      "pub.1064712874",
+      "pub.1011986621",
+      "pub.1064719111",
+      "pub.1064712927",
+      "pub.1110046509",
+      "pub.1070861838",
+      "pub.1040864995",
+      "pub.1064713515",
+      "pub.1010838398",
+      "pub.1020889730",
+      "pub.1110591251",
+      "pub.1058528594",
+      "pub.1038898535",
+      "pub.1110432762",
+      "pub.1048037073",
+      "pub.1063349372",
+      "pub.1064713434",
+      "pub.1064713274",
+      "pub.1022633283"
+    ],
+    "references": [
+      "pub.1110841956",
+      "pub.1001972291",
+      "pub.1011820881",
+      "pub.1064713336",
+      "pub.1049763388",
+      "pub.1069991587",
+      "pub.1038851833",
+      "pub.1069804358",
+      "pub.1064712656",
+      "pub.1052288885",
+      "pub.1000638134",
+      "pub.1107570089",
+      "pub.1012706989",
+      "pub.1110591279",
+      "pub.1064712874",
+      "pub.1011986621",
+      "pub.1064719111",
+      "pub.1064712927",
+      "pub.1110046509",
+      "pub.1070861838",
+      "pub.1040864995",
+      "pub.1064713515",
+      "pub.1010838398",
+      "pub.1020889730",
+      "pub.1110591251",
+      "pub.1058528594",
+      "pub.1038898535",
+      "pub.1110432762",
+      "pub.1048037073",
+      "pub.1063349372",
+      "pub.1064713434",
+      "pub.1064713274",
+      "pub.1022633283"
+    ],
+    "doi": "10.1515/roms-2018-0009",
+    "year": 2019,
+    "type": "article",
+    "volume": "16",
+    "terms": [
+      "development",
+      "premium",
+      "perennial topic",
+      "efficient characteristics",
+      "topic",
+      "position",
+      "natural question",
+      "sophisticated measures",
+      "demand model",
+      "brand equity measures",
+      "values",
+      "brand",
+      "marketing",
+      "characteristics",
+      "equity measures",
+      "appropriate measures",
+      "managers",
+      "market",
+      "certain conditions",
+      "complex measures",
+      "data",
+      "U.S. market",
+      "question",
+      "scanner data",
+      "facets",
+      "equity",
+      "brand equity",
+      "suggestions",
+      "model",
+      "measures",
+      "market position",
+      "price premium",
+      "disagreement"
+    ],
+    "concepts": [
+      "development",
+      "premium",
+      "perennial topic",
+      "efficient characteristics",
+      "topic",
+      "position",
+      "natural question",
+      "sophisticated measures",
+      "demand model",
+      "brand equity measures",
+      "values",
+      "brand",
+      "marketing",
+      "characteristics",
+      "equity measures",
+      "appropriate measures",
+      "managers",
+      "market",
+      "certain conditions",
+      "complex measures",
+      "data",
+      "U.S. market",
+      "question",
+      "scanner data",
+      "facets",
+      "equity",
+      "brand equity",
+      "suggestions",
+      "model",
+      "measures",
+      "market position",
+      "price premium",
+      "disagreement"
+    ],
+    "issue": "1",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-TX",
+        "name": "Texas"
+      }
+    ],
+    "dimensions_id": "pub.1112595446",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2019-06-01",
+    "research_orgs": [
+      {
+        "id": "grid.213876.9",
+        "acronym": "UGA",
+        "name": "University of Georgia",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.62562.35",
+        "name": "RTI International",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.463419.d",
+        "acronym": "ARS",
+        "name": "Agricultural Research Service",
+        "country_name": "United States"
+      }
+    ],
+    "journal": {
+      "id": "jour.1103841",
+      "title": "Health Economics"
+    },
+    "terms": [
+      "systematic differences",
+      "policy",
+      "higher income households",
+      "health policy research",
+      "research",
+      "beverage tax",
+      "consumer demand systems",
+      "outcomes",
+      "level playing field",
+      "income households",
+      "population",
+      "Consumer Expenditure Survey",
+      "more price",
+      "household scanner data",
+      "budget shares",
+      "survey",
+      "explanatory variables",
+      "positive association",
+      "Expenditure Survey",
+      "effect",
+      "panel",
+      "demand system",
+      "policy research",
+      "price elasticity",
+      "degree",
+      "households",
+      "levels",
+      "simulation outcomes",
+      "model",
+      "food groups",
+      "num\u00e9raire",
+      "elasticity",
+      "playing field",
+      "policy simulations",
+      "important differences",
+      "share",
+      "consumer networks",
+      "expenditure",
+      "variables",
+      "demand model",
+      "network expenditures",
+      "demand elasticity",
+      "tax",
+      "findings",
+      "article",
+      "dataset",
+      "food budget share",
+      "health policy",
+      "underreporting",
+      "data",
+      "price",
+      "scanner panel",
+      "income elasticity",
+      "scanner data",
+      "income"
+    ],
+    "concepts": [
+      "systematic differences",
+      "policy",
+      "higher income households",
+      "health policy research",
+      "research",
+      "beverage tax",
+      "consumer demand systems",
+      "outcomes",
+      "level playing field",
+      "income households",
+      "population",
+      "Consumer Expenditure Survey",
+      "more price",
+      "household scanner data",
+      "budget shares",
+      "survey",
+      "explanatory variables",
+      "positive association",
+      "Expenditure Survey",
+      "effect",
+      "panel",
+      "demand system",
+      "policy research",
+      "price elasticity",
+      "degree",
+      "households",
+      "levels",
+      "simulation outcomes",
+      "model",
+      "food groups",
+      "num\u00e9raire",
+      "elasticity",
+      "playing field",
+      "policy simulations",
+      "important differences",
+      "share",
+      "consumer networks",
+      "expenditure",
+      "variables",
+      "demand model",
+      "network expenditures",
+      "demand elasticity",
+      "tax",
+      "findings",
+      "article",
+      "dataset",
+      "food budget share",
+      "health policy",
+      "underreporting",
+      "data",
+      "price",
+      "scanner panel",
+      "income elasticity",
+      "scanner data",
+      "income"
+    ],
+    "id": "pub.1115024809",
+    "issn": [
+      "1057-9230",
+      "1099-1050"
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1006131469",
+      "pub.1069869134",
+      "pub.1007062148",
+      "pub.1005477919",
+      "pub.1061933576",
+      "pub.1009314263",
+      "pub.1049813254",
+      "pub.1032218834",
+      "pub.1001047543",
+      "pub.1016706697",
+      "pub.1032735004",
+      "pub.1043851490",
+      "pub.1064530166",
+      "pub.1000696039",
+      "pub.1064528029",
+      "pub.1026858214",
+      "pub.1069649988",
+      "pub.1071225215",
+      "pub.1007367038",
+      "pub.1064526217",
+      "pub.1059379715",
+      "pub.1061832889",
+      "pub.1071753795",
+      "pub.1064532160",
+      "pub.1100382261",
+      "pub.1069868881",
+      "pub.1022637569",
+      "pub.1064532091",
+      "pub.1069640157"
+    ],
+    "references": [
+      "pub.1006131469",
+      "pub.1069869134",
+      "pub.1007062148",
+      "pub.1005477919",
+      "pub.1061933576",
+      "pub.1009314263",
+      "pub.1049813254",
+      "pub.1032218834",
+      "pub.1001047543",
+      "pub.1016706697",
+      "pub.1032735004",
+      "pub.1043851490",
+      "pub.1064530166",
+      "pub.1000696039",
+      "pub.1064528029",
+      "pub.1026858214",
+      "pub.1069649988",
+      "pub.1071225215",
+      "pub.1007367038",
+      "pub.1064526217",
+      "pub.1059379715",
+      "pub.1061832889",
+      "pub.1071753795",
+      "pub.1064532160",
+      "pub.1100382261",
+      "pub.1069868881",
+      "pub.1022637569",
+      "pub.1064532091",
+      "pub.1069640157"
+    ],
+    "year": 2019,
+    "pmid": "31116502",
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "category_bra": [
+      {
+        "id": "4003",
+        "name": "Public Health"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date_inserted": "2019-05-23",
+    "volume": "28",
+    "title": "Do differences in reported expenditures between household scanner data and expenditure surveys matter in health policy research?",
+    "authors": [
+      {
+        "first_name": "Chen",
+        "last_name": "Zhen",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.213876.9",
+            "name": "University of Georgia",
+            "city": "Athens",
+            "city_id": 4180386,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Georgia",
+            "state_code": "US-GA"
+          }
+        ]
+      },
+      {
+        "first_name": "Mary",
+        "last_name": "Muth",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      },
+      {
+        "first_name": "Abigail",
+        "last_name": "Okrent",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "Shawn",
+        "last_name": "Karns",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      },
+      {
+        "first_name": "Derick",
+        "last_name": "Brown",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      },
+      {
+        "first_name": "Peter",
+        "last_name": "Siegel",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Chen",
+          "last_name": "Zhen",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Mary",
+          "last_name": "Muth",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Abigail",
+          "last_name": "Okrent",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Shawn",
+          "last_name": "Karns",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Derick",
+          "last_name": "Brown",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Peter",
+          "last_name": "Siegel",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4464368,
+        "name": "Durham"
+      },
+      {
+        "id": 4180386,
+        "name": "Athens"
+      },
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "publisher": "Wiley",
+    "research_org_state_names": [
+      "District of Columbia",
+      "North Carolina",
+      "Georgia"
+    ],
+    "issue": "6",
+    "altmetric": 2,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "altmetric_id": 60904543,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW",
+      "PubMed"
+    ],
+    "type": "article",
+    "pages": "782-800",
+    "category_hra": [
+      {
+        "id": "3903",
+        "name": "Population & Society"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina"
+      },
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      },
+      {
+        "id": "US-GA",
+        "name": "Georgia"
+      }
+    ],
+    "doi": "10.1002/hec.3883",
+    "dimensions_id": "pub.1115024809",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-04-08",
+    "research_orgs": [
+      {
+        "id": "grid.14003.36",
+        "acronym": "UW",
+        "name": "University of Wisconsin\u2013Madison",
+        "country_name": "United States"
+      }
+    ],
+    "journal": {
+      "id": "jour.1138030",
+      "title": "Agribusiness"
+    },
+    "terms": [
+      "city",
+      "price transmission",
+      "US metropolitan areas",
+      "market competitiveness",
+      "competitiveness",
+      "fluid milk products",
+      "terms",
+      "expenditure",
+      "ongoing consolidation",
+      "consolidation",
+      "paper",
+      "asymmetry",
+      "EconLit citations",
+      "welfare loss",
+      "impact",
+      "welfare analysis",
+      "implications",
+      "products",
+      "price asymmetry",
+      "Q11",
+      "industry",
+      "asymmetric price transmission",
+      "food retailing industry",
+      "metropolitan area",
+      "retailing industry",
+      "L11",
+      "ideal demand system",
+      "area",
+      "analysis",
+      "citations",
+      "welfare implications",
+      "degree",
+      "demand system"
+    ],
+    "concepts": [
+      "city",
+      "price transmission",
+      "US metropolitan areas",
+      "market competitiveness",
+      "competitiveness",
+      "fluid milk products",
+      "terms",
+      "expenditure",
+      "ongoing consolidation",
+      "consolidation",
+      "paper",
+      "asymmetry",
+      "EconLit citations",
+      "welfare loss",
+      "impact",
+      "welfare analysis",
+      "implications",
+      "products",
+      "price asymmetry",
+      "Q11",
+      "industry",
+      "asymmetric price transmission",
+      "food retailing industry",
+      "metropolitan area",
+      "retailing industry",
+      "L11",
+      "ideal demand system",
+      "area",
+      "analysis",
+      "citations",
+      "welfare implications",
+      "degree",
+      "demand system"
+    ],
+    "id": "pub.1113302384",
+    "issn": [
+      "0742-4477",
+      "1520-6297"
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1069406010",
+      "pub.1069650140",
+      "pub.1059379897",
+      "pub.1013885678",
+      "pub.1036105377",
+      "pub.1069639598",
+      "pub.1024685345",
+      "pub.1027994438",
+      "pub.1028919041",
+      "pub.1063349047",
+      "pub.1046002027",
+      "pub.1064724849",
+      "pub.1038972864",
+      "pub.1007062148",
+      "pub.1058575607",
+      "pub.1069409440",
+      "pub.1069639565",
+      "pub.1069408373",
+      "pub.1040593031",
+      "pub.1061832959",
+      "pub.1030913259",
+      "pub.1054922238",
+      "pub.1064712927",
+      "pub.1059379886",
+      "pub.1089066416",
+      "pub.1059569560",
+      "pub.1110073765",
+      "pub.1053084616"
+    ],
+    "references": [
+      "pub.1069406010",
+      "pub.1069650140",
+      "pub.1059379897",
+      "pub.1013885678",
+      "pub.1036105377",
+      "pub.1069639598",
+      "pub.1024685345",
+      "pub.1027994438",
+      "pub.1028919041",
+      "pub.1063349047",
+      "pub.1046002027",
+      "pub.1064724849",
+      "pub.1038972864",
+      "pub.1007062148",
+      "pub.1058575607",
+      "pub.1069409440",
+      "pub.1069639565",
+      "pub.1069408373",
+      "pub.1040593031",
+      "pub.1061832959",
+      "pub.1030913259",
+      "pub.1054922238",
+      "pub.1064712927",
+      "pub.1059379886",
+      "pub.1089066416",
+      "pub.1059569560",
+      "pub.1110073765",
+      "pub.1053084616"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2207",
+        "name": "07 Agricultural and Veterinary Sciences"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3364",
+        "name": "1505 Marketing"
+      },
+      {
+        "id": "2671",
+        "name": "0701 Agriculture, Land and Farm Management"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date_inserted": "2019-04-10",
+    "title": "Market power and farm\u2010retail price transmission: The case of US fluid milk markets",
+    "authors": [
+      {
+        "first_name": "Charng\u2010Jiun",
+        "last_name": "Yu",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.14003.36",
+            "name": "University of Wisconsin\u2013Madison",
+            "city": "Madison",
+            "city_id": 5261457,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Wisconsin",
+            "state_code": "US-WI"
+          }
+        ]
+      },
+      {
+        "first_name": "Brian W.",
+        "last_name": "Gould",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.14003.36",
+            "name": "University of Wisconsin\u2013Madison",
+            "city": "Madison",
+            "city_id": 5261457,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Wisconsin",
+            "state_code": "US-WI"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Charng\u2010Jiun",
+          "last_name": "Yu",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Brian W.",
+          "last_name": "Gould",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5261457,
+        "name": "Madison"
+      }
+    ],
+    "publisher": "Wiley",
+    "research_org_state_names": [
+      "Wisconsin"
+    ],
+    "altmetric": 1,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 59460800,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "research_org_state_codes": [
+      {
+        "id": "US-WI",
+        "name": "Wisconsin"
+      }
+    ],
+    "doi": "10.1002/agr.21606",
+    "dimensions_id": "pub.1113302384",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "altmetric_id": 58730004,
+    "authors": [
+      {
+        "first_name": "Moritz",
+        "last_name": "Bosbach",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.4691.a",
+            "name": "University of Naples Federico II",
+            "city": "Naples",
+            "city_id": 3172394,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Ornella Wanda",
+        "last_name": "Maietta",
+        "orcid": "['0000-0001-7158-4793']",
+        "current_organization_id": "grid.493065.d",
+        "researcher_id": "ur.011566437751.08",
+        "affiliations": [
+          {
+            "name": "CSEF, Dipartimento di Scienze Economiche e Statistiche (DISES), Universit\u00e0 degli Studi di Napoli \u201cFederico II\u201d, Monte Sant'Angelo, via Cintia 45, 80126 Naples, Italy"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Moritz",
+          "last_name": "Bosbach",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.4691.a",
+              "name": "University of Naples Federico II",
+              "city": "Naples",
+              "city_id": 3172394,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Ornella Wanda",
+          "last_name": "Maietta",
+          "orcid": "['0000-0001-7158-4793']",
+          "current_organization_id": "grid.493065.d",
+          "researcher_id": "ur.011566437751.08",
+          "affiliations": [
+            {
+              "name": "CSEF, Dipartimento di Scienze Economiche e Statistiche (DISES), Universit\u00e0 degli Studi di Napoli \u201cFederico II\u201d, Monte Sant'Angelo, via Cintia 45, 80126 Naples, Italy"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3172394,
+        "name": "Naples"
+      },
+      {
+        "id": 3172747,
+        "name": "Monte Sant'Angelo"
+      }
+    ],
+    "id": "pub.1110890146",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date": "2019-04-01",
+    "pages": "34-41",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0921-8009",
+      "1873-6106"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ecolecon.2018.12.010",
+    "journal": {
+      "id": "jour.1327410",
+      "title": "Ecological Economics"
+    },
+    "title": "The Implicit Price for Fair Trade Coffee: Does Social Capital Matter?",
+    "FOR": [
+      {
+        "id": "3448",
+        "name": "1608 Sociology"
+      }
+    ],
+    "altmetric": 1,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.011566437751.08",
+        "last_name": "Maietta",
+        "orcid_id": [
+          "0000-0001-7158-4793"
+        ],
+        "research_orgs": [
+          "grid.4691.a",
+          "grid.493065.d"
+        ],
+        "first_name": "Ornella Wanda"
+      }
+    ],
+    "research_org_country_names": [
+      "Italy"
+    ],
+    "date_inserted": "2018-12-25",
+    "concepts": [
+      "attributes",
+      "regressors",
+      "coffee",
+      "fair trade",
+      "hedonic regression",
+      "scanner data",
+      "op members",
+      "stock",
+      "consumer prices",
+      "fair trade coffee",
+      "proxy",
+      "supermarkets",
+      "capital",
+      "certification",
+      "indicators",
+      "social capital",
+      "co-op members",
+      "NUTS3 level",
+      "data",
+      "members",
+      "territory",
+      "social capital proxies",
+      "trade",
+      "regression",
+      "status",
+      "price",
+      "implicit prices",
+      "levels",
+      "total employment",
+      "consumers",
+      "employment"
+    ],
+    "terms": [
+      "attributes",
+      "regressors",
+      "coffee",
+      "fair trade",
+      "hedonic regression",
+      "scanner data",
+      "op members",
+      "stock",
+      "consumer prices",
+      "fair trade coffee",
+      "proxy",
+      "supermarkets",
+      "capital",
+      "certification",
+      "indicators",
+      "social capital",
+      "co-op members",
+      "NUTS3 level",
+      "data",
+      "members",
+      "territory",
+      "social capital proxies",
+      "trade",
+      "regression",
+      "status",
+      "price",
+      "implicit prices",
+      "levels",
+      "total employment",
+      "consumers",
+      "employment"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3320",
+        "name": "1499 Other Economics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2205",
+        "name": "05 Environmental Sciences"
+      },
+      {
+        "id": "2558",
+        "name": "0502 Environmental Science and Management"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.4691.a",
+        "name": "University of Naples Federico II",
+        "country_name": "Italy"
+      }
+    ],
+    "references": [
+      "pub.1005650827",
+      "pub.1014785411",
+      "pub.1019579282",
+      "pub.1069868407",
+      "pub.1064524327",
+      "pub.1049730483",
+      "pub.1015102017",
+      "pub.1017330448",
+      "pub.1049449939",
+      "pub.1004178841",
+      "pub.1002850068",
+      "pub.1058803555",
+      "pub.1003266618",
+      "pub.1009035280",
+      "pub.1018521546",
+      "pub.1104258838",
+      "pub.1059570462",
+      "pub.1034835193",
+      "pub.1034237519",
+      "pub.1009310997",
+      "pub.1030185458",
+      "pub.1069649789",
+      "pub.1008486074",
+      "pub.1067472357",
+      "pub.1044745970",
+      "pub.1013246082",
+      "pub.1067700162",
+      "pub.1003031603",
+      "pub.1012674578",
+      "pub.1027317127",
+      "pub.1058572612",
+      "pub.1098775068",
+      "pub.1059570502",
+      "pub.1048078262",
+      "pub.1034557291",
+      "pub.1014749393",
+      "pub.1040371724",
+      "pub.1035546975",
+      "pub.1058573650",
+      "pub.1000798267",
+      "pub.1005307448",
+      "pub.1034346450",
+      "pub.1031831122"
+    ],
+    "reference_ids": [
+      "pub.1005650827",
+      "pub.1014785411",
+      "pub.1019579282",
+      "pub.1069868407",
+      "pub.1064524327",
+      "pub.1049730483",
+      "pub.1015102017",
+      "pub.1017330448",
+      "pub.1049449939",
+      "pub.1004178841",
+      "pub.1002850068",
+      "pub.1058803555",
+      "pub.1003266618",
+      "pub.1009035280",
+      "pub.1018521546",
+      "pub.1104258838",
+      "pub.1059570462",
+      "pub.1034835193",
+      "pub.1034237519",
+      "pub.1009310997",
+      "pub.1030185458",
+      "pub.1069649789",
+      "pub.1008486074",
+      "pub.1067472357",
+      "pub.1044745970",
+      "pub.1013246082",
+      "pub.1067700162",
+      "pub.1003031603",
+      "pub.1012674578",
+      "pub.1027317127",
+      "pub.1058572612",
+      "pub.1098775068",
+      "pub.1059570502",
+      "pub.1048078262",
+      "pub.1034557291",
+      "pub.1014749393",
+      "pub.1040371724",
+      "pub.1035546975",
+      "pub.1058573650",
+      "pub.1000798267",
+      "pub.1005307448",
+      "pub.1034346450",
+      "pub.1031831122"
+    ],
+    "research_org_state_names": [
+      "Apulia"
+    ],
+    "volume": "158",
+    "issue": "Econ. Rev. 21 2002",
+    "dimensions_id": "pub.1110890146",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2211",
+        "name": "11 Medical and Health Sciences"
+      }
+    ],
+    "times_cited": 1,
+    "pmid": "30875736",
+    "altmetric_id": 57485598,
+    "mesh_terms": [
+      "Adolescent",
+      "Child",
+      "Diet",
+      "Dietary Fiber",
+      "Energy Intake",
+      "Food Handling",
+      "Food, Formulated",
+      "Health Promotion",
+      "Humans",
+      "Nutritive Value"
+    ],
+    "category_rcdc": [
+      {
+        "id": "388",
+        "name": "Nutrition"
+      },
+      {
+        "id": "558",
+        "name": "Prevention"
+      },
+      {
+        "id": "547",
+        "name": "Pediatric"
+      },
+      {
+        "id": "389",
+        "name": "Obesity"
+      },
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "388",
+        "name": "Nutrition"
+      },
+      {
+        "id": "558",
+        "name": "Prevention"
+      },
+      {
+        "id": "547",
+        "name": "Pediatric"
+      },
+      {
+        "id": "389",
+        "name": "Obesity"
+      },
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Mary K.",
+        "last_name": "Muth",
+        "orcid": "['0000-0001-7879-0469']",
+        "current_organization_id": "grid.62562.35",
+        "researcher_id": "ur.0617027742.93",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      },
+      {
+        "first_name": "Shawn A.",
+        "last_name": "Karns",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.62562.35",
+            "name": "RTI International",
+            "city": "Durham",
+            "city_id": 4464368,
+            "country": "United States",
+            "country_code": "US",
+            "state": "North Carolina",
+            "state_code": "US-NC"
+          }
+        ]
+      },
+      {
+        "first_name": "Lisa",
+        "last_name": "Mancino",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "Jessica E.",
+        "last_name": "Todd",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Mary K.",
+          "last_name": "Muth",
+          "orcid": "['0000-0001-7879-0469']",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.0617027742.93",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Shawn A.",
+          "last_name": "Karns",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa",
+          "last_name": "Mancino",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Jessica E.",
+          "last_name": "Todd",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4464368,
+        "name": "Durham"
+      },
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      }
+    ],
+    "id": "pub.1112755635",
+    "HRCS_HC": [
+      {
+        "id": "894",
+        "name": "Cardiovascular"
+      },
+      {
+        "id": "899",
+        "name": "Oral and Gastrointestinal"
+      },
+      {
+        "id": "911",
+        "name": "Cancer"
+      },
+      {
+        "id": "909",
+        "name": "Stroke"
+      },
+      {
+        "id": "906",
+        "name": "Metabolic and Endocrine"
+      }
+    ],
+    "category_hrcs_hc": [
+      {
+        "id": "894",
+        "name": "Cardiovascular"
+      },
+      {
+        "id": "899",
+        "name": "Oral and Gastrointestinal"
+      },
+      {
+        "id": "911",
+        "name": "Cancer"
+      },
+      {
+        "id": "909",
+        "name": "Stroke"
+      },
+      {
+        "id": "906",
+        "name": "Metabolic and Endocrine"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2019-03-14",
+    "pages": "618",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "recent_citations": 1,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "VABB-SHW",
+      "PubMed"
+    ],
+    "issn": [
+      "2072-6643"
+    ],
+    "publisher": "MDPI",
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "doi": "10.3390/nu11030618",
+    "journal": {
+      "id": "jour.1042723",
+      "title": "Nutrients"
+    },
+    "HRCS_RAC": [
+      {
+        "id": "10303",
+        "name": "3.3 Nutrition and chemoprevention"
+      }
+    ],
+    "category_hrcs_rac": [
+      {
+        "id": "10303",
+        "name": "3.3 Nutrition and chemoprevention"
+      }
+    ],
+    "title": "How Much Can Product Reformulation Improve Diet Quality in Households with Children and Adolescents?",
+    "FOR": [
+      {
+        "id": "3136",
+        "name": "1111 Nutrition and Dietetics"
+      }
+    ],
+    "altmetric": 1,
+    "type": "article",
+    "pmcid": "PMC6470779",
+    "category_bra": [
+      {
+        "id": "4001",
+        "name": "Clinical Medicine and Science"
+      }
+    ],
+    "researchers": [
+      {
+        "id": "ur.0617027742.93",
+        "last_name": "Muth",
+        "orcid_id": [
+          "0000-0001-7879-0469"
+        ],
+        "research_orgs": [
+          "grid.62562.35"
+        ],
+        "first_name": "Mary Katherine"
+      }
+    ],
+    "linkout": "https://www.mdpi.com/2072-6643/11/3/618/pdf",
+    "funders": [
+      {
+        "id": "grid.419213.c",
+        "acronym": "RWJF",
+        "name": "Robert Wood Johnson Foundation",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "date_inserted": "2019-03-16",
+    "research_org_state_codes": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina"
+      },
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      }
+    ],
+    "concepts": [
+      "study",
+      "differences",
+      "consumption",
+      "beverages",
+      "cent",
+      "average",
+      "obesity",
+      "servings",
+      "limited evidence",
+      "categories",
+      "years",
+      "quality",
+      "intake",
+      "calories",
+      "dietary fiber",
+      "saturated fat",
+      "children",
+      "healthier versions",
+      "potential avenues",
+      "evidence",
+      "effect",
+      "adolescents",
+      "prevalence",
+      "dietary fiber consumption",
+      "healthfulness",
+      "barriers",
+      "purchasing patterns",
+      "minimal changes",
+      "sugar consumption",
+      "healthy products",
+      "caloric intake",
+      "food",
+      "improvement",
+      "diet quality",
+      "sodium",
+      "changes",
+      "patterns",
+      "fat",
+      "fiber consumption",
+      "results"
+    ],
+    "terms": [
+      "study",
+      "differences",
+      "consumption",
+      "beverages",
+      "cent",
+      "average",
+      "obesity",
+      "servings",
+      "limited evidence",
+      "categories",
+      "years",
+      "quality",
+      "intake",
+      "calories",
+      "dietary fiber",
+      "saturated fat",
+      "children",
+      "healthier versions",
+      "potential avenues",
+      "evidence",
+      "effect",
+      "adolescents",
+      "prevalence",
+      "dietary fiber consumption",
+      "healthfulness",
+      "barriers",
+      "purchasing patterns",
+      "minimal changes",
+      "sugar consumption",
+      "healthy products",
+      "caloric intake",
+      "food",
+      "improvement",
+      "diet quality",
+      "sodium",
+      "changes",
+      "patterns",
+      "fat",
+      "fiber consumption",
+      "results"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3136",
+        "name": "1111 Nutrition and Dietetics"
+      },
+      {
+        "id": "2211",
+        "name": "11 Medical and Health Sciences"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.463419.d",
+        "acronym": "ARS",
+        "name": "Agricultural Research Service",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.62562.35",
+        "name": "RTI International",
+        "country_name": "United States"
+      }
+    ],
+    "references": [
+      "pub.1083545304",
+      "pub.1003647233",
+      "pub.1024431939",
+      "pub.1031864442",
+      "pub.1032158082",
+      "pub.1016082927",
+      "pub.1038483378",
+      "pub.1009867280",
+      "pub.1101246888",
+      "pub.1048079499",
+      "pub.1050054115",
+      "pub.1019381475",
+      "pub.1068848479",
+      "pub.1031770694",
+      "pub.1105804735",
+      "pub.1042471363",
+      "pub.1034197762",
+      "pub.1008151767",
+      "pub.1037185655",
+      "pub.1029917089",
+      "pub.1048386314",
+      "pub.1044407472",
+      "pub.1050405330"
+    ],
+    "reference_ids": [
+      "pub.1083545304",
+      "pub.1003647233",
+      "pub.1024431939",
+      "pub.1031864442",
+      "pub.1032158082",
+      "pub.1016082927",
+      "pub.1038483378",
+      "pub.1009867280",
+      "pub.1101246888",
+      "pub.1048079499",
+      "pub.1050054115",
+      "pub.1019381475",
+      "pub.1068848479",
+      "pub.1031770694",
+      "pub.1105804735",
+      "pub.1042471363",
+      "pub.1034197762",
+      "pub.1008151767",
+      "pub.1037185655",
+      "pub.1029917089",
+      "pub.1048386314",
+      "pub.1044407472",
+      "pub.1050405330"
+    ],
+    "research_org_state_names": [
+      "District of Columbia",
+      "North Carolina"
+    ],
+    "volume": "11",
+    "issue": "3",
+    "dimensions_id": "pub.1112755635",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "date": "2019-03-08",
+    "research_orgs": [
+      {
+        "id": "grid.8461.b",
+        "name": "CEU San Pablo University",
+        "country_name": "Spain"
+      },
+      {
+        "id": "grid.10383.39",
+        "acronym": "UNIPR",
+        "name": "University of Parma",
+        "country_name": "Italy"
+      }
+    ],
+    "journal": {
+      "id": "jour.1297338",
+      "title": "Social Sciences"
+    },
+    "terms": [
+      "price",
+      "protected designation",
+      "price transmission process",
+      "paper",
+      "counterparts",
+      "short-run dynamics",
+      "changes",
+      "institutions",
+      "previous literature",
+      "farms",
+      "crisis",
+      "run",
+      "market farmers",
+      "products",
+      "food products",
+      "market changes",
+      "retailers",
+      "price crisis",
+      "dataset",
+      "European institutions",
+      "period",
+      "designation",
+      "retail market",
+      "operating structure",
+      "response function",
+      "literature",
+      "market shocks",
+      "approach",
+      "place",
+      "retail level",
+      "farmers",
+      "price dynamics",
+      "Price transmission dynamics",
+      "decades",
+      "useful insights",
+      "agrifood supply chain",
+      "unique dataset",
+      "dynamics",
+      "analysis",
+      "shock",
+      "Italy",
+      "supply chain",
+      "process",
+      "quality schemes",
+      "cheese market",
+      "scheme",
+      "type approach",
+      "effectiveness",
+      "framework",
+      "chain",
+      "efforts",
+      "recent period",
+      "hypothesis",
+      "sector",
+      "short run",
+      "comparative analysis",
+      "market",
+      "transmission process",
+      "performance",
+      "insight",
+      "levels",
+      "dairy sector",
+      "power",
+      "impulse response function",
+      "PDO",
+      "market power"
+    ],
+    "concepts": [
+      "price",
+      "protected designation",
+      "price transmission process",
+      "paper",
+      "counterparts",
+      "short-run dynamics",
+      "changes",
+      "institutions",
+      "previous literature",
+      "farms",
+      "crisis",
+      "run",
+      "market farmers",
+      "products",
+      "food products",
+      "market changes",
+      "retailers",
+      "price crisis",
+      "dataset",
+      "European institutions",
+      "period",
+      "designation",
+      "retail market",
+      "operating structure",
+      "response function",
+      "literature",
+      "market shocks",
+      "approach",
+      "place",
+      "retail level",
+      "farmers",
+      "price dynamics",
+      "Price transmission dynamics",
+      "decades",
+      "useful insights",
+      "agrifood supply chain",
+      "unique dataset",
+      "dynamics",
+      "analysis",
+      "shock",
+      "Italy",
+      "supply chain",
+      "process",
+      "quality schemes",
+      "cheese market",
+      "scheme",
+      "type approach",
+      "effectiveness",
+      "framework",
+      "chain",
+      "efforts",
+      "recent period",
+      "hypothesis",
+      "sector",
+      "short run",
+      "comparative analysis",
+      "market",
+      "transmission process",
+      "performance",
+      "insight",
+      "levels",
+      "dairy sector",
+      "power",
+      "impulse response function",
+      "PDO",
+      "market power"
+    ],
+    "id": "pub.1112651621",
+    "issn": [
+      "2076-0760"
+    ],
+    "researchers": [
+      {
+        "id": "ur.016153247402.06",
+        "last_name": "Ferrer-P\u00e9rez",
+        "orcid_id": [
+          "0000-0002-5583-3697"
+        ],
+        "research_orgs": [
+          "grid.8461.b"
+        ],
+        "first_name": "Hugo"
+      },
+      {
+        "id": "ur.015616025541.08",
+        "last_name": "Arfini",
+        "orcid_id": [
+          "0000-0002-5179-2541"
+        ],
+        "research_orgs": [
+          "grid.10383.39"
+        ],
+        "first_name": "Filippo"
+      },
+      {
+        "id": "ur.01157700763.41",
+        "last_name": "Gil",
+        "orcid_id": [
+          "0000-0003-3313-9052"
+        ],
+        "research_orgs": [
+          "grid.410476.0",
+          "grid.418268.1",
+          "grid.423913.e",
+          "grid.6835.8",
+          "grid.11205.37"
+        ],
+        "first_name": "Jos\u00e9 Mar\u0131 A"
+      }
+    ],
+    "research_org_country_names": [
+      "Spain",
+      "Italy"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "reference_ids": [
+      "pub.1048260727",
+      "pub.1018596610",
+      "pub.1070139884",
+      "pub.1100972178",
+      "pub.1026133341",
+      "pub.1053084616",
+      "pub.1069409440",
+      "pub.1029844071",
+      "pub.1011256988",
+      "pub.1069640314",
+      "pub.1031011395",
+      "pub.1110458263",
+      "pub.1011396023",
+      "pub.1014204965",
+      "pub.1029787428",
+      "pub.1100981520",
+      "pub.1059569711",
+      "pub.1017960853",
+      "pub.1105100424",
+      "pub.1033516555",
+      "pub.1007415687",
+      "pub.1069640597",
+      "pub.1059570127",
+      "pub.1059569738",
+      "pub.1032398593",
+      "pub.1042322036",
+      "pub.1046002027",
+      "pub.1015697867"
+    ],
+    "references": [
+      "pub.1048260727",
+      "pub.1018596610",
+      "pub.1070139884",
+      "pub.1100972178",
+      "pub.1026133341",
+      "pub.1053084616",
+      "pub.1069409440",
+      "pub.1029844071",
+      "pub.1011256988",
+      "pub.1069640314",
+      "pub.1031011395",
+      "pub.1110458263",
+      "pub.1011396023",
+      "pub.1014204965",
+      "pub.1029787428",
+      "pub.1100981520",
+      "pub.1059569711",
+      "pub.1017960853",
+      "pub.1105100424",
+      "pub.1033516555",
+      "pub.1007415687",
+      "pub.1069640597",
+      "pub.1059570127",
+      "pub.1059569738",
+      "pub.1032398593",
+      "pub.1042322036",
+      "pub.1046002027",
+      "pub.1015697867"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      },
+      {
+        "id": "ES",
+        "name": "Spain"
+      }
+    ],
+    "date_inserted": "2019-03-10",
+    "volume": "8",
+    "title": "Modelling Price Transmission within the Supply Chain under a European Protected Designation of Origin Framework: The Case of Parmigiano Reggiano in Italy",
+    "authors": [
+      {
+        "first_name": "Hugo",
+        "last_name": "Ferrer-P\u00e9rez",
+        "orcid": "['0000-0002-5583-3697']",
+        "current_organization_id": "grid.8461.b",
+        "researcher_id": "ur.016153247402.06",
+        "affiliations": [
+          {
+            "id": "grid.8461.b",
+            "name": "CEU San Pablo University",
+            "city": "Madrid",
+            "city_id": 3117735,
+            "country": "Spain",
+            "country_code": "ES",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Filippo",
+        "last_name": "Arfini",
+        "orcid": "['0000-0002-5179-2541']",
+        "current_organization_id": "grid.10383.39",
+        "researcher_id": "ur.015616025541.08",
+        "affiliations": [
+          {
+            "id": "grid.10383.39",
+            "name": "University of Parma",
+            "city": "Parma",
+            "city_id": 3171457,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Jos\u00e9 M.",
+        "last_name": "Gil",
+        "orcid": "['0000-0003-3313-9052']",
+        "current_organization_id": "grid.6835.8",
+        "researcher_id": "ur.01157700763.41",
+        "affiliations": [
+          {
+            "name": "CREDA-UPC-IRTA, 08860 Castelldefels, Spain"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Hugo",
+          "last_name": "Ferrer-P\u00e9rez",
+          "orcid": "['0000-0002-5583-3697']",
+          "current_organization_id": "grid.8461.b",
+          "researcher_id": "ur.016153247402.06",
+          "affiliations": [
+            {
+              "id": "grid.8461.b",
+              "name": "CEU San Pablo University",
+              "city": "Madrid",
+              "city_id": 3117735,
+              "country": "Spain",
+              "country_code": "ES",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Filippo",
+          "last_name": "Arfini",
+          "orcid": "['0000-0002-5179-2541']",
+          "current_organization_id": "grid.10383.39",
+          "researcher_id": "ur.015616025541.08",
+          "affiliations": [
+            {
+              "id": "grid.10383.39",
+              "name": "University of Parma",
+              "city": "Parma",
+              "city_id": 3171457,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Jos\u00e9 M.",
+          "last_name": "Gil",
+          "orcid": "['0000-0003-3313-9052']",
+          "current_organization_id": "grid.6835.8",
+          "researcher_id": "ur.01157700763.41",
+          "affiliations": [
+            {
+              "name": "CREDA-UPC-IRTA, 08860 Castelldefels, Spain"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3171457,
+        "name": "Parma"
+      },
+      {
+        "id": 3125897,
+        "name": "Castelldefels"
+      },
+      {
+        "id": 3117735,
+        "name": "Madrid"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.270680.b",
+        "acronym": "EC",
+        "name": "European Commission",
+        "country_name": "Belgium"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.mdpi.com/2076-0760/8/3/87/pdf",
+    "publisher": "MDPI",
+    "research_org_state_names": [
+      "Catalonia"
+    ],
+    "issue": "3",
+    "altmetric": 2,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 56699085,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "ERIH PLUS",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "87",
+    "doi": "10.3390/socsci8030087",
+    "supporting_grant_ids": [
+      "grant.5494306"
+    ],
+    "dimensions_id": "pub.1112651621",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-02-01",
+    "research_org_state_names": [
+      "Colorado"
+    ],
+    "title": "Vertical differentiation via multi-tier geographical indications and the consumer perception of quality: The case of Chianti wines",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.8404.8",
+        "name": "University of Florence",
+        "country_name": "Italy"
+      },
+      {
+        "id": "grid.47894.36",
+        "acronym": "CSU",
+        "name": "Colorado State University",
+        "country_name": "United States"
+      }
+    ],
+    "id": "pub.1111753801",
+    "journal": {
+      "id": "jour.1327407",
+      "title": "Food Policy"
+    },
+    "researchers": [
+      {
+        "id": "ur.010777651161.06",
+        "last_name": "Costanigro",
+        "orcid_id": [
+          "0000-0002-7104-097X"
+        ],
+        "research_orgs": [
+          "grid.42752.36",
+          "grid.47894.36"
+        ],
+        "first_name": "Marco"
+      }
+    ],
+    "research_org_country_names": [
+      "United States",
+      "Italy"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0306-9192",
+      "1873-5657"
+    ],
+    "pages": "246-259",
+    "authors": [
+      {
+        "first_name": "Marco",
+        "last_name": "Costanigro",
+        "orcid": "['0000-0002-7104-097X']",
+        "current_organization_id": "grid.47894.36",
+        "researcher_id": "ur.010777651161.06",
+        "affiliations": [
+          {
+            "id": "grid.47894.36",
+            "name": "Colorado State University",
+            "city": "Fort Collins",
+            "city_id": 5577147,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Colorado",
+            "state_code": "US-CO"
+          }
+        ]
+      },
+      {
+        "first_name": "Gabriele",
+        "last_name": "Scozzafava",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Leonardo",
+        "last_name": "Casini",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Marco",
+          "last_name": "Costanigro",
+          "orcid": "['0000-0002-7104-097X']",
+          "current_organization_id": "grid.47894.36",
+          "researcher_id": "ur.010777651161.06",
+          "affiliations": [
+            {
+              "id": "grid.47894.36",
+              "name": "Colorado State University",
+              "city": "Fort Collins",
+              "city_id": 5577147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Colorado",
+              "state_code": "US-CO"
+            }
+          ]
+        },
+        {
+          "first_name": "Gabriele",
+          "last_name": "Scozzafava",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Leonardo",
+          "last_name": "Casini",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5577147,
+        "name": "Fort Collins"
+      },
+      {
+        "id": 3176959,
+        "name": "Florence"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-02-01",
+    "reference_ids": [
+      "pub.1058751406",
+      "pub.1021250278",
+      "pub.1064713431",
+      "pub.1083549830",
+      "pub.1059570291",
+      "pub.1019430553",
+      "pub.1031464257",
+      "pub.1041824437",
+      "pub.1004178841",
+      "pub.1033591378",
+      "pub.1000333039",
+      "pub.1059379648",
+      "pub.1059380242",
+      "pub.1011133810",
+      "pub.1069623022",
+      "pub.1042794123",
+      "pub.1061922074",
+      "pub.1002248699",
+      "pub.1058574319",
+      "pub.1006852127",
+      "pub.1059379658",
+      "pub.1050887799",
+      "pub.1008454826",
+      "pub.1069408189",
+      "pub.1012140559",
+      "pub.1100289531",
+      "pub.1012722631",
+      "pub.1064531004",
+      "pub.1002294728",
+      "pub.1058573111",
+      "pub.1058856387",
+      "pub.1059570345",
+      "pub.1030324107",
+      "pub.1022834556",
+      "pub.1109919447",
+      "pub.1025035769",
+      "pub.1004586821",
+      "pub.1027000877",
+      "pub.1090574296",
+      "pub.1006886055",
+      "pub.1090805752",
+      "pub.1014264339",
+      "pub.1034359242",
+      "pub.1021659580",
+      "pub.1042283834",
+      "pub.1052288885",
+      "pub.1059570439",
+      "pub.1030472193",
+      "pub.1029466390",
+      "pub.1023732283",
+      "pub.1105880089",
+      "pub.1061933998",
+      "pub.1070145591",
+      "pub.1085641353",
+      "pub.1061934178",
+      "pub.1003961340",
+      "pub.1069623608"
+    ],
+    "references": [
+      "pub.1058751406",
+      "pub.1021250278",
+      "pub.1064713431",
+      "pub.1083549830",
+      "pub.1059570291",
+      "pub.1019430553",
+      "pub.1031464257",
+      "pub.1041824437",
+      "pub.1004178841",
+      "pub.1033591378",
+      "pub.1000333039",
+      "pub.1059379648",
+      "pub.1059380242",
+      "pub.1011133810",
+      "pub.1069623022",
+      "pub.1042794123",
+      "pub.1061922074",
+      "pub.1002248699",
+      "pub.1058574319",
+      "pub.1006852127",
+      "pub.1059379658",
+      "pub.1050887799",
+      "pub.1008454826",
+      "pub.1069408189",
+      "pub.1012140559",
+      "pub.1100289531",
+      "pub.1012722631",
+      "pub.1064531004",
+      "pub.1002294728",
+      "pub.1058573111",
+      "pub.1058856387",
+      "pub.1059570345",
+      "pub.1030324107",
+      "pub.1022834556",
+      "pub.1109919447",
+      "pub.1025035769",
+      "pub.1004586821",
+      "pub.1027000877",
+      "pub.1090574296",
+      "pub.1006886055",
+      "pub.1090805752",
+      "pub.1014264339",
+      "pub.1034359242",
+      "pub.1021659580",
+      "pub.1042283834",
+      "pub.1052288885",
+      "pub.1059570439",
+      "pub.1030472193",
+      "pub.1029466390",
+      "pub.1023732283",
+      "pub.1105880089",
+      "pub.1061933998",
+      "pub.1070145591",
+      "pub.1085641353",
+      "pub.1061934178",
+      "pub.1003961340",
+      "pub.1069623608"
+    ],
+    "doi": "10.1016/j.foodpol.2019.01.008",
+    "year": 2019,
+    "type": "article",
+    "volume": "83",
+    "terms": [
+      "variables",
+      "WTP",
+      "perception",
+      "empirical model",
+      "geographical indications",
+      "restructuring",
+      "choice",
+      "quality tiers",
+      "online experiment",
+      "wine choice",
+      "demand",
+      "quality labels",
+      "strategies",
+      "quality",
+      "tiers",
+      "vertical differentiation",
+      "benefits",
+      "quality perception",
+      "model",
+      "context",
+      "market",
+      "explanatory variables"
+    ],
+    "concepts": [
+      "variables",
+      "WTP",
+      "perception",
+      "empirical model",
+      "geographical indications",
+      "restructuring",
+      "choice",
+      "quality tiers",
+      "online experiment",
+      "wine choice",
+      "demand",
+      "quality labels",
+      "strategies",
+      "quality",
+      "tiers",
+      "vertical differentiation",
+      "benefits",
+      "quality perception",
+      "model",
+      "context",
+      "market",
+      "explanatory variables"
+    ],
+    "issue": "Q. J. Econ. 84 3 1970",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      },
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      },
+      {
+        "id": "2209",
+        "name": "09 Engineering"
+      },
+      {
+        "id": "2883",
+        "name": "0908 Food Sciences"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-CO",
+        "name": "Colorado"
+      }
+    ],
+    "dimensions_id": "pub.1111753801",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "pmcid": "PMC6695271",
+    "date": "2019-01-01",
+    "research_orgs": [
+      {
+        "id": "grid.8404.8",
+        "name": "University of Florence",
+        "country_name": "Italy"
+      }
+    ],
+    "journal": {
+      "id": "jour.1050655",
+      "title": "MethodsX"
+    },
+    "terms": [
+      "discrete choice experiment",
+      "price",
+      "reference",
+      "fact",
+      "price level",
+      "willingness",
+      "certain price",
+      "area",
+      "estimates",
+      "consumer segments",
+      "market",
+      "consumer studies",
+      "consumers",
+      "levels",
+      "price preferences",
+      "methodology",
+      "market segments",
+      "price interval",
+      "respondents",
+      "preference",
+      "heterogeneity",
+      "price vector",
+      "issues",
+      "behavior",
+      "example",
+      "quality",
+      "wide price range",
+      "choice experiments",
+      "products",
+      "estimation",
+      "price thresholds",
+      "problem areas",
+      "price range",
+      "different price levels",
+      "respect"
+    ],
+    "concepts": [
+      "discrete choice experiment",
+      "price",
+      "reference",
+      "fact",
+      "price level",
+      "willingness",
+      "certain price",
+      "area",
+      "estimates",
+      "consumer segments",
+      "market",
+      "consumer studies",
+      "consumers",
+      "levels",
+      "price preferences",
+      "methodology",
+      "market segments",
+      "price interval",
+      "respondents",
+      "preference",
+      "heterogeneity",
+      "price vector",
+      "issues",
+      "behavior",
+      "example",
+      "quality",
+      "wide price range",
+      "choice experiments",
+      "products",
+      "estimation",
+      "price thresholds",
+      "problem areas",
+      "price range",
+      "different price levels",
+      "respect"
+    ],
+    "id": "pub.1120014584",
+    "issn": [
+      "2215-0161"
+    ],
+    "research_org_country_names": [
+      "Italy"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1074214782",
+      "pub.1021744888",
+      "pub.1112069672",
+      "pub.1037120806",
+      "pub.1020712029",
+      "pub.1034359242",
+      "pub.1014885256",
+      "pub.1027814148",
+      "pub.1035685880"
+    ],
+    "references": [
+      "pub.1074214782",
+      "pub.1021744888",
+      "pub.1112069672",
+      "pub.1037120806",
+      "pub.1020712029",
+      "pub.1034359242",
+      "pub.1014885256",
+      "pub.1027814148",
+      "pub.1035685880"
+    ],
+    "year": 2019,
+    "pmid": "31428567",
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date_inserted": "2019-08-03",
+    "volume": "6",
+    "title": "Discrete choice experiments with multiple price vectors for products sold in a wide price range",
+    "authors": [
+      {
+        "first_name": "Caterina",
+        "last_name": "Contini",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Fabio",
+        "last_name": "Boncinelli",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Caterina",
+        "last_name": "Romano",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Gabriele",
+        "last_name": "Scozzafava",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Leonardo",
+        "last_name": "Casini",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.8404.8",
+            "name": "University of Florence",
+            "city": "Florence",
+            "city_id": 3176959,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Caterina",
+          "last_name": "Contini",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Fabio",
+          "last_name": "Boncinelli",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Caterina",
+          "last_name": "Romano",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Gabriele",
+          "last_name": "Scozzafava",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Leonardo",
+          "last_name": "Casini",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.8404.8",
+              "name": "University of Florence",
+              "city": "Florence",
+              "city_id": 3176959,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3176959,
+        "name": "Florence"
+      }
+    ],
+    "publisher": "Elsevier",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "PubMed"
+    ],
+    "type": "article",
+    "pages": "1774-1778",
+    "doi": "10.1016/j.mex.2019.07.026",
+    "dimensions_id": "pub.1120014584",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2211",
+        "name": "11 Medical and Health Sciences"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2018-11-23",
+    "research_orgs": [
+      {
+        "id": "grid.463419.d",
+        "acronym": "ARS",
+        "name": "Agricultural Research Service",
+        "country_name": "United States"
+      }
+    ],
+    "journal": {
+      "id": "jour.1270913",
+      "title": "Journal of Consumer Policy"
+    },
+    "terms": [
+      "food producers",
+      "regulatory standards",
+      "attributes",
+      "claims",
+      "standard",
+      "confusion",
+      "indicators",
+      "stewardship",
+      "USA",
+      "evidence",
+      "government",
+      "decision",
+      "terms",
+      "food attributes",
+      "Google Trends data",
+      "help",
+      "Department",
+      "consumer interest",
+      "food",
+      "meaning",
+      "agriculture",
+      "USDA",
+      "study",
+      "State Department",
+      "retail purchases",
+      "interest",
+      "expenditure",
+      "paper",
+      "purchase",
+      "organic food",
+      "federal government",
+      "environmental stewardship",
+      "similar meaning",
+      "trend data",
+      "consumers",
+      "food expenditure",
+      "United States Department",
+      "survey",
+      "producers"
+    ],
+    "concepts": [
+      "food producers",
+      "regulatory standards",
+      "attributes",
+      "claims",
+      "standard",
+      "confusion",
+      "indicators",
+      "stewardship",
+      "USA",
+      "evidence",
+      "government",
+      "decision",
+      "terms",
+      "food attributes",
+      "Google Trends data",
+      "help",
+      "Department",
+      "consumer interest",
+      "food",
+      "meaning",
+      "agriculture",
+      "USDA",
+      "study",
+      "State Department",
+      "retail purchases",
+      "interest",
+      "expenditure",
+      "paper",
+      "purchase",
+      "organic food",
+      "federal government",
+      "environmental stewardship",
+      "similar meaning",
+      "trend data",
+      "consumers",
+      "food expenditure",
+      "United States Department",
+      "survey",
+      "producers"
+    ],
+    "id": "pub.1110152836",
+    "issn": [
+      "0168-7034",
+      "1573-0700"
+    ],
+    "researchers": [
+      {
+        "id": "ur.014201335104.70",
+        "last_name": "Kuchler",
+        "research_orgs": [
+          "grid.417548.b",
+          "grid.482913.5",
+          "grid.463419.d"
+        ],
+        "first_name": "Fred"
+      }
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1044005029",
+      "pub.1013831750",
+      "pub.1041546140",
+      "pub.1039641612",
+      "pub.1040796372",
+      "pub.1058751406",
+      "pub.1069405138",
+      "pub.1084075134",
+      "pub.1054921938",
+      "pub.1025302196",
+      "pub.1064530150",
+      "pub.1020985854",
+      "pub.1010666624",
+      "pub.1084025982",
+      "pub.1071419038",
+      "pub.1038763687",
+      "pub.1070139958",
+      "pub.1006151483"
+    ],
+    "references": [
+      "pub.1044005029",
+      "pub.1013831750",
+      "pub.1041546140",
+      "pub.1039641612",
+      "pub.1040796372",
+      "pub.1058751406",
+      "pub.1069405138",
+      "pub.1084075134",
+      "pub.1054921938",
+      "pub.1025302196",
+      "pub.1064530150",
+      "pub.1020985854",
+      "pub.1010666624",
+      "pub.1084025982",
+      "pub.1071419038",
+      "pub.1038763687",
+      "pub.1070139958",
+      "pub.1006151483"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3494",
+        "name": "1801 Law"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      },
+      {
+        "id": "2218",
+        "name": "18 Law and Legal Studies"
+      },
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date_inserted": "2018-11-25",
+    "title": "Evidence from Retail Food Markets That Consumers Are Confused by Natural and Organic Food Labels",
+    "authors": [
+      {
+        "first_name": "F.",
+        "last_name": "Kuchler",
+        "orcid": "",
+        "current_organization_id": "grid.463419.d",
+        "researcher_id": "ur.014201335104.70",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "M.",
+        "last_name": "Bowman",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "M.",
+        "last_name": "Sweitzer",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "C.",
+        "last_name": "Greene",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "F.",
+          "last_name": "Kuchler",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.014201335104.70",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "M.",
+          "last_name": "Bowman",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "M.",
+          "last_name": "Sweitzer",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "C.",
+          "last_name": "Greene",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "research_org_state_names": [
+      "District of Columbia"
+    ],
+    "FOR": [
+      {
+        "id": "3177",
+        "name": "1117 Public Health and Health Services"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "1-17",
+    "category_hra": [
+      {
+        "id": "3903",
+        "name": "Population & Society"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      }
+    ],
+    "doi": "10.1007/s10603-018-9396-x",
+    "dimensions_id": "pub.1110152836",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2018-07-09",
+    "recent_citations": 1,
+    "research_org_state_names": [
+      "Zurich",
+      "Bavaria",
+      "Connecticut"
+    ],
+    "title": "A tale of two Italian cities: brand-level milk demand and price competition",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.63054.34",
+        "name": "University of Connecticut",
+        "country_name": "United States"
+      }
+    ],
+    "id": "pub.1105408762",
+    "journal": {
+      "id": "jour.1027307",
+      "title": "Applied Economics"
+    },
+    "researchers": [
+      {
+        "id": "ur.011160707526.38",
+        "last_name": "Hirsch",
+        "research_orgs": [
+          "grid.6936.a",
+          "grid.5801.c"
+        ],
+        "first_name": "Stefan"
+      },
+      {
+        "id": "ur.07520077505.16",
+        "last_name": "Lopez",
+        "research_orgs": [
+          "grid.63054.34",
+          "grid.7159.a",
+          "grid.430387.b"
+        ],
+        "first_name": "Rigoberto A"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany",
+      "United States",
+      "Switzerland"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "0003-6846",
+      "1466-4283"
+    ],
+    "altmetric_id": 45119083,
+    "pages": "1-14",
+    "authors": [
+      {
+        "first_name": "Stefan",
+        "last_name": "Hirsch",
+        "orcid": "",
+        "current_organization_id": "grid.6936.a",
+        "researcher_id": "ur.011160707526.38",
+        "affiliations": [
+          {
+            "name": "School of Management, Technical University of Munich, Munich, Germany; Department of Management, Technology and Economics, Agricultural Economics and Policy Group, ETH Zurich, Zurich, Switzerland, Correspondencestefan.hirsch@tum.de"
+          }
+        ]
+      },
+      {
+        "first_name": "Giulia",
+        "last_name": "Tiboldo",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.63054.34",
+            "name": "University of Connecticut",
+            "city": "Storrs",
+            "city_id": 4843786,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Connecticut",
+            "state_code": "US-CT"
+          }
+        ]
+      },
+      {
+        "first_name": "Rigoberto A.",
+        "last_name": "Lopez",
+        "orcid": "",
+        "current_organization_id": "grid.63054.34",
+        "researcher_id": "ur.07520077505.16",
+        "affiliations": [
+          {
+            "id": "grid.63054.34",
+            "name": "University of Connecticut",
+            "city": "Storrs",
+            "city_id": 4843786,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Connecticut",
+            "state_code": "US-CT"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Stefan",
+          "last_name": "Hirsch",
+          "orcid": "",
+          "current_organization_id": "grid.6936.a",
+          "researcher_id": "ur.011160707526.38",
+          "affiliations": [
+            {
+              "name": "School of Management, Technical University of Munich, Munich, Germany; Department of Management, Technology and Economics, Agricultural Economics and Policy Group, ETH Zurich, Zurich, Switzerland, Correspondencestefan.hirsch@tum.de"
+            }
+          ]
+        },
+        {
+          "first_name": "Giulia",
+          "last_name": "Tiboldo",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.63054.34",
+              "name": "University of Connecticut",
+              "city": "Storrs",
+              "city_id": 4843786,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Rigoberto A.",
+          "last_name": "Lopez",
+          "orcid": "",
+          "current_organization_id": "grid.63054.34",
+          "researcher_id": "ur.07520077505.16",
+          "affiliations": [
+            {
+              "id": "grid.63054.34",
+              "name": "University of Connecticut",
+              "city": "Storrs",
+              "city_id": 4843786,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2657896,
+        "name": "Z\u00fcrich"
+      },
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 4843786,
+        "name": "Storrs"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-10-21",
+    "reference_ids": [
+      "pub.1043457107",
+      "pub.1012738646",
+      "pub.1059570404",
+      "pub.1064722180",
+      "pub.1064713820",
+      "pub.1044840988",
+      "pub.1061922075",
+      "pub.1035241549",
+      "pub.1007002585",
+      "pub.1051679738",
+      "pub.1051080123",
+      "pub.1064712548",
+      "pub.1069804358",
+      "pub.1021001519",
+      "pub.1006754096",
+      "pub.1063349372",
+      "pub.1010660635",
+      "pub.1023890585",
+      "pub.1059569615",
+      "pub.1064712947",
+      "pub.1020978730",
+      "pub.1033787125",
+      "pub.1020889730",
+      "pub.1005296682",
+      "pub.1061833760",
+      "pub.1049822714"
+    ],
+    "references": [
+      "pub.1043457107",
+      "pub.1012738646",
+      "pub.1059570404",
+      "pub.1064722180",
+      "pub.1064713820",
+      "pub.1044840988",
+      "pub.1061922075",
+      "pub.1035241549",
+      "pub.1007002585",
+      "pub.1051679738",
+      "pub.1051080123",
+      "pub.1064712548",
+      "pub.1069804358",
+      "pub.1021001519",
+      "pub.1006754096",
+      "pub.1063349372",
+      "pub.1010660635",
+      "pub.1023890585",
+      "pub.1059569615",
+      "pub.1064712947",
+      "pub.1020978730",
+      "pub.1033787125",
+      "pub.1020889730",
+      "pub.1005296682",
+      "pub.1061833760",
+      "pub.1049822714"
+    ],
+    "doi": "10.1080/00036846.2018.1486016",
+    "year": 2018,
+    "type": "article",
+    "volume": "50",
+    "altmetric": 3,
+    "times_cited": 1,
+    "terms": [
+      "price increases",
+      "characteristics",
+      "fresh milk",
+      "manufacturer brands",
+      "data",
+      "elasticity",
+      "high-income regions",
+      "market",
+      "cheap milk",
+      "demand model",
+      "south",
+      "previous studies",
+      "Bertrand price competition",
+      "natural experiment",
+      "more price",
+      "virtue",
+      "market power",
+      "markup",
+      "price competition",
+      "consumers",
+      "matter",
+      "socioeconomic differences",
+      "location matter",
+      "sales data",
+      "income regions",
+      "city",
+      "competition",
+      "maturity",
+      "Italian cities",
+      "private label brands",
+      "price elasticity",
+      "inelastic demand",
+      "consumer choice",
+      "choice",
+      "manufacturers\u2019 brands",
+      "north-south",
+      "index",
+      "retail market power",
+      "manufacturers",
+      "marketing characteristics",
+      "power",
+      "Turin",
+      "respect",
+      "brand",
+      "model",
+      "private labels",
+      "small manufacturers",
+      "Lerner index",
+      "price",
+      "demand",
+      "low price elasticity"
+    ],
+    "concepts": [
+      "price increases",
+      "characteristics",
+      "fresh milk",
+      "manufacturer brands",
+      "data",
+      "elasticity",
+      "high-income regions",
+      "market",
+      "cheap milk",
+      "demand model",
+      "south",
+      "previous studies",
+      "Bertrand price competition",
+      "natural experiment",
+      "more price",
+      "virtue",
+      "market power",
+      "markup",
+      "price competition",
+      "consumers",
+      "matter",
+      "socioeconomic differences",
+      "location matter",
+      "sales data",
+      "income regions",
+      "city",
+      "competition",
+      "maturity",
+      "Italian cities",
+      "private label brands",
+      "price elasticity",
+      "inelastic demand",
+      "consumer choice",
+      "choice",
+      "manufacturers\u2019 brands",
+      "north-south",
+      "index",
+      "retail market power",
+      "manufacturers",
+      "marketing characteristics",
+      "power",
+      "Turin",
+      "respect",
+      "brand",
+      "model",
+      "private labels",
+      "small manufacturers",
+      "Lerner index",
+      "price",
+      "demand",
+      "low price elasticity"
+    ],
+    "issue": "49",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-CT",
+        "name": "Connecticut"
+      }
+    ],
+    "dimensions_id": "pub.1105408762",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2211",
+        "name": "11 Medical and Health Sciences"
+      }
+    ],
+    "times_cited": 4,
+    "category_rcdc": [
+      {
+        "id": "503",
+        "name": "Cancer"
+      },
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      },
+      {
+        "id": "388",
+        "name": "Nutrition"
+      },
+      {
+        "id": "497",
+        "name": "Basic Behavioral and Social Science"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "503",
+        "name": "Cancer"
+      },
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      },
+      {
+        "id": "388",
+        "name": "Nutrition"
+      },
+      {
+        "id": "497",
+        "name": "Basic Behavioral and Social Science"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Linlin",
+        "last_name": "Fan",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.260120.7",
+            "name": "Mississippi State University",
+            "city": "Starkville",
+            "city_id": 4447161,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Mississippi",
+            "state_code": "US-MS"
+          }
+        ]
+      },
+      {
+        "first_name": "Kathy",
+        "last_name": "Baylis",
+        "orcid": "",
+        "current_organization_id": "grid.35403.31",
+        "researcher_id": "ur.0726312040.96",
+        "affiliations": [
+          {
+            "id": "grid.35403.31",
+            "name": "University of Illinois at Urbana Champaign",
+            "city": "Urbana",
+            "city_id": 4914570,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Illinois",
+            "state_code": "US-IL"
+          }
+        ]
+      },
+      {
+        "first_name": "Craig",
+        "last_name": "Gundersen",
+        "orcid": "",
+        "current_organization_id": "grid.35403.31",
+        "researcher_id": "ur.01341472614.22",
+        "affiliations": [
+          {
+            "id": "grid.35403.31",
+            "name": "University of Illinois at Urbana Champaign",
+            "city": "Urbana",
+            "city_id": 4914570,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Illinois",
+            "state_code": "US-IL"
+          }
+        ]
+      },
+      {
+        "first_name": "Michele Ver",
+        "last_name": "Ploeg",
+        "orcid": "",
+        "current_organization_id": "grid.463419.d",
+        "researcher_id": "ur.011022453465.95",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Linlin",
+          "last_name": "Fan",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.260120.7",
+              "name": "Mississippi State University",
+              "city": "Starkville",
+              "city_id": 4447161,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Mississippi",
+              "state_code": "US-MS"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathy",
+          "last_name": "Baylis",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.0726312040.96",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Michele Ver",
+          "last_name": "Ploeg",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.011022453465.95",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4447161,
+        "name": "Starkville"
+      },
+      {
+        "id": 4914570,
+        "name": "Urbana"
+      },
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      }
+    ],
+    "id": "pub.1105151096",
+    "HRCS_HC": [
+      {
+        "id": "899",
+        "name": "Oral and Gastrointestinal"
+      }
+    ],
+    "category_hrcs_hc": [
+      {
+        "id": "899",
+        "name": "Oral and Gastrointestinal"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2018-09-01",
+    "pages": "587-597",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 4,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0169-5150",
+      "1574-0862"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1111/agec.12444",
+    "journal": {
+      "id": "jour.1044328",
+      "title": "Agricultural Economics"
+    },
+    "title": "Does a nutritious diet cost more in food deserts?",
+    "FOR": [
+      {
+        "id": "3136",
+        "name": "1111 Nutrition and Dietetics"
+      }
+    ],
+    "type": "article",
+    "category_bra": [
+      {
+        "id": "4003",
+        "name": "Public Health"
+      }
+    ],
+    "researchers": [
+      {
+        "id": "ur.0726312040.96",
+        "last_name": "Baylis",
+        "research_orgs": [
+          "grid.29857.31",
+          "grid.17091.3e",
+          "grid.35403.31",
+          "grid.47840.3f"
+        ],
+        "first_name": "Kathy"
+      },
+      {
+        "id": "ur.01341472614.22",
+        "last_name": "Gundersen",
+        "research_orgs": [
+          "grid.34421.30",
+          "grid.482913.5",
+          "grid.17063.33",
+          "grid.266539.d",
+          "grid.411030.7",
+          "grid.35403.31"
+        ],
+        "first_name": "Craig G"
+      },
+      {
+        "id": "ur.011022453465.95",
+        "last_name": "Ploeg",
+        "research_orgs": [
+          "grid.259029.5",
+          "grid.451487.b",
+          "grid.482913.5",
+          "grid.463419.d"
+        ],
+        "first_name": "Michele Ver"
+      }
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "date_inserted": "2018-06-28",
+    "research_org_state_codes": [
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      },
+      {
+        "id": "US-IL",
+        "name": "Illinois"
+      },
+      {
+        "id": "US-MS",
+        "name": "Mississippi"
+      }
+    ],
+    "concepts": [
+      "consumer choice",
+      "availability",
+      "census tracts",
+      "heterogeneity",
+      "food deserts",
+      "representative sample",
+      "area",
+      "article",
+      "food prices",
+      "price",
+      "potential effects",
+      "high price",
+      "healthy foods",
+      "nutrition",
+      "consumer outcomes",
+      "Thrifty Food Plan",
+      "effect",
+      "choice",
+      "plan",
+      "food basket",
+      "product heterogeneity",
+      "basket",
+      "outcomes",
+      "low\u2010income",
+      "potential biases",
+      "research",
+      "consumers",
+      "cost",
+      "price index",
+      "extent consumers",
+      "index",
+      "impact",
+      "biases",
+      "policymakers",
+      "diet cost",
+      "food",
+      "counterparts",
+      "food plan",
+      "data",
+      "attention"
+    ],
+    "terms": [
+      "consumer choice",
+      "availability",
+      "census tracts",
+      "heterogeneity",
+      "food deserts",
+      "representative sample",
+      "area",
+      "article",
+      "food prices",
+      "price",
+      "potential effects",
+      "high price",
+      "healthy foods",
+      "nutrition",
+      "consumer outcomes",
+      "Thrifty Food Plan",
+      "effect",
+      "choice",
+      "plan",
+      "food basket",
+      "product heterogeneity",
+      "basket",
+      "outcomes",
+      "low\u2010income",
+      "potential biases",
+      "research",
+      "consumers",
+      "cost",
+      "price index",
+      "extent consumers",
+      "index",
+      "impact",
+      "biases",
+      "policymakers",
+      "diet cost",
+      "food",
+      "counterparts",
+      "food plan",
+      "data",
+      "attention"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.260120.7",
+        "acronym": "MSU",
+        "name": "Mississippi State University",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.463419.d",
+        "acronym": "ARS",
+        "name": "Agricultural Research Service",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.35403.31",
+        "acronym": "UIUC",
+        "name": "University of Illinois at Urbana Champaign",
+        "country_name": "United States"
+      }
+    ],
+    "references": [
+      "pub.1028453459",
+      "pub.1038226239",
+      "pub.1068878470",
+      "pub.1082783880",
+      "pub.1054921906",
+      "pub.1018239986",
+      "pub.1078854319",
+      "pub.1064525261",
+      "pub.1024480233",
+      "pub.1059380339",
+      "pub.1053183641",
+      "pub.1009893606",
+      "pub.1064712595",
+      "pub.1016601329",
+      "pub.1090709437",
+      "pub.1076611967",
+      "pub.1014420222",
+      "pub.1100643220",
+      "pub.1029612566",
+      "pub.1030911752",
+      "pub.1099503995",
+      "pub.1059380415",
+      "pub.1044586350",
+      "pub.1001916955",
+      "pub.1061833214",
+      "pub.1029632182",
+      "pub.1059353991",
+      "pub.1069649538",
+      "pub.1059353901"
+    ],
+    "reference_ids": [
+      "pub.1028453459",
+      "pub.1038226239",
+      "pub.1068878470",
+      "pub.1082783880",
+      "pub.1054921906",
+      "pub.1018239986",
+      "pub.1078854319",
+      "pub.1064525261",
+      "pub.1024480233",
+      "pub.1059380339",
+      "pub.1053183641",
+      "pub.1009893606",
+      "pub.1064712595",
+      "pub.1016601329",
+      "pub.1090709437",
+      "pub.1076611967",
+      "pub.1014420222",
+      "pub.1100643220",
+      "pub.1029612566",
+      "pub.1030911752",
+      "pub.1099503995",
+      "pub.1059380415",
+      "pub.1044586350",
+      "pub.1001916955",
+      "pub.1061833214",
+      "pub.1029632182",
+      "pub.1059353991",
+      "pub.1069649538",
+      "pub.1059353901"
+    ],
+    "research_org_state_names": [
+      "Mississippi",
+      "District of Columbia",
+      "Illinois"
+    ],
+    "volume": "49",
+    "issue": "5",
+    "dimensions_id": "pub.1105151096",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-12-22",
+    "recent_citations": 3,
+    "title": "EU quality labels in the Italian olive oil market: How much overlap is there between geographical indication and organic production?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.7644.1",
+        "name": "University of Bari Aldo Moro",
+        "country_name": "Italy"
+      }
+    ],
+    "id": "pub.1099666611",
+    "journal": {
+      "id": "jour.1129227",
+      "title": "Journal of Food Products Marketing"
+    },
+    "researchers": [
+      {
+        "id": "ur.010763462345.82",
+        "last_name": "Roselli",
+        "orcid_id": [
+          "0000-0002-1164-8772"
+        ],
+        "research_orgs": [
+          "grid.7644.1"
+        ],
+        "first_name": "Luigi"
+      },
+      {
+        "id": "ur.016151551104.70",
+        "last_name": "Giannoccaro",
+        "orcid_id": [
+          "0000-0001-5958-2648"
+        ],
+        "research_orgs": [
+          "grid.7644.1",
+          "grid.411901.c",
+          "grid.10692.3c",
+          "grid.10796.39"
+        ],
+        "first_name": "Giacomo"
+      },
+      {
+        "id": "ur.014404715407.46",
+        "last_name": "Carlucci",
+        "orcid_id": [
+          "0000-0003-4330-0954"
+        ],
+        "research_orgs": [
+          "grid.7644.1",
+          "grid.10796.39"
+        ],
+        "first_name": "Domenico"
+      },
+      {
+        "id": "ur.015524741207.43",
+        "last_name": "De Gennaro",
+        "orcid_id": [
+          "0000-0002-5273-8846"
+        ],
+        "research_orgs": [
+          "grid.7644.1"
+        ],
+        "first_name": "Bernardo Corrado"
+      }
+    ],
+    "research_org_country_names": [
+      "Italy"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "1045-4446",
+      "1540-4102"
+    ],
+    "pages": "1-18",
+    "authors": [
+      {
+        "first_name": "Luigi",
+        "last_name": "Roselli",
+        "orcid": "['0000-0002-1164-8772']",
+        "current_organization_id": "grid.7644.1",
+        "researcher_id": "ur.010763462345.82",
+        "affiliations": [
+          {
+            "id": "grid.7644.1",
+            "name": "University of Bari Aldo Moro",
+            "city": "Bari",
+            "city_id": 3182351,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Giacomo",
+        "last_name": "Giannoccaro",
+        "orcid": "['0000-0001-5958-2648']",
+        "current_organization_id": "grid.7644.1",
+        "researcher_id": "ur.016151551104.70",
+        "affiliations": [
+          {
+            "id": "grid.7644.1",
+            "name": "University of Bari Aldo Moro",
+            "city": "Bari",
+            "city_id": 3182351,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Domenico",
+        "last_name": "Carlucci",
+        "orcid": "['0000-0003-4330-0954']",
+        "current_organization_id": "grid.7644.1",
+        "researcher_id": "ur.014404715407.46",
+        "affiliations": [
+          {
+            "id": "grid.7644.1",
+            "name": "University of Bari Aldo Moro",
+            "city": "Bari",
+            "city_id": 3182351,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Bernardo",
+        "last_name": "De Gennaro",
+        "orcid": "['0000-0002-5273-8846']",
+        "current_organization_id": "grid.7644.1",
+        "researcher_id": "ur.015524741207.43",
+        "affiliations": [
+          {
+            "id": "grid.7644.1",
+            "name": "University of Bari Aldo Moro",
+            "city": "Bari",
+            "city_id": 3182351,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Luigi",
+          "last_name": "Roselli",
+          "orcid": "['0000-0002-1164-8772']",
+          "current_organization_id": "grid.7644.1",
+          "researcher_id": "ur.010763462345.82",
+          "affiliations": [
+            {
+              "id": "grid.7644.1",
+              "name": "University of Bari Aldo Moro",
+              "city": "Bari",
+              "city_id": 3182351,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Giacomo",
+          "last_name": "Giannoccaro",
+          "orcid": "['0000-0001-5958-2648']",
+          "current_organization_id": "grid.7644.1",
+          "researcher_id": "ur.016151551104.70",
+          "affiliations": [
+            {
+              "id": "grid.7644.1",
+              "name": "University of Bari Aldo Moro",
+              "city": "Bari",
+              "city_id": 3182351,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Domenico",
+          "last_name": "Carlucci",
+          "orcid": "['0000-0003-4330-0954']",
+          "current_organization_id": "grid.7644.1",
+          "researcher_id": "ur.014404715407.46",
+          "affiliations": [
+            {
+              "id": "grid.7644.1",
+              "name": "University of Bari Aldo Moro",
+              "city": "Bari",
+              "city_id": 3182351,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Bernardo",
+          "last_name": "De Gennaro",
+          "orcid": "['0000-0002-5273-8846']",
+          "current_organization_id": "grid.7644.1",
+          "researcher_id": "ur.015524741207.43",
+          "affiliations": [
+            {
+              "id": "grid.7644.1",
+              "name": "University of Bari Aldo Moro",
+              "city": "Bari",
+              "city_id": 3182351,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3182351,
+        "name": "Bari"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-08-18",
+    "reference_ids": [
+      "pub.1000333039",
+      "pub.1091323117",
+      "pub.1020765876",
+      "pub.1025741344",
+      "pub.1041574908",
+      "pub.1030676605",
+      "pub.1047369264",
+      "pub.1048922738",
+      "pub.1042655084",
+      "pub.1059569738",
+      "pub.1059578785",
+      "pub.1011157233",
+      "pub.1039591668",
+      "pub.1038223316",
+      "pub.1010090835",
+      "pub.1020712029",
+      "pub.1052454431",
+      "pub.1038865375",
+      "pub.1015907076",
+      "pub.1090978086",
+      "pub.1028633502",
+      "pub.1049130628",
+      "pub.1058253279",
+      "pub.1006754096",
+      "pub.1059570291",
+      "pub.1036847347",
+      "pub.1100981520",
+      "pub.1069353814",
+      "pub.1027116775",
+      "pub.1036085943",
+      "pub.1022087500",
+      "pub.1010551120",
+      "pub.1069411384",
+      "pub.1051847390",
+      "pub.1063545605",
+      "pub.1018561802",
+      "pub.1021684770",
+      "pub.1008994883"
+    ],
+    "references": [
+      "pub.1000333039",
+      "pub.1091323117",
+      "pub.1020765876",
+      "pub.1025741344",
+      "pub.1041574908",
+      "pub.1030676605",
+      "pub.1047369264",
+      "pub.1048922738",
+      "pub.1042655084",
+      "pub.1059569738",
+      "pub.1059578785",
+      "pub.1011157233",
+      "pub.1039591668",
+      "pub.1038223316",
+      "pub.1010090835",
+      "pub.1020712029",
+      "pub.1052454431",
+      "pub.1038865375",
+      "pub.1015907076",
+      "pub.1090978086",
+      "pub.1028633502",
+      "pub.1049130628",
+      "pub.1058253279",
+      "pub.1006754096",
+      "pub.1059570291",
+      "pub.1036847347",
+      "pub.1100981520",
+      "pub.1069353814",
+      "pub.1027116775",
+      "pub.1036085943",
+      "pub.1022087500",
+      "pub.1010551120",
+      "pub.1069411384",
+      "pub.1051847390",
+      "pub.1063545605",
+      "pub.1018561802",
+      "pub.1021684770",
+      "pub.1008994883"
+    ],
+    "doi": "10.1080/10454446.2017.1413473",
+    "year": 2018,
+    "type": "article",
+    "volume": "24",
+    "times_cited": 3,
+    "terms": [
+      "products",
+      "synergy",
+      "virgin olive oil",
+      "oil",
+      "olive oil",
+      "extra virgin olive oil",
+      "EU",
+      "promising use",
+      "oil products",
+      "behavior",
+      "olive oil products"
+    ],
+    "concepts": [
+      "products",
+      "synergy",
+      "virgin olive oil",
+      "oil",
+      "olive oil",
+      "extra virgin olive oil",
+      "EU",
+      "promising use",
+      "oil products",
+      "behavior",
+      "olive oil products"
+    ],
+    "issue": "6",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3364",
+        "name": "1505 Marketing"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "dimensions_id": "pub.1099666611",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 8,
+    "pmid": "28833150",
+    "mesh_terms": [
+      "Adult",
+      "Commerce",
+      "Consumer Behavior",
+      "Female",
+      "Fruit",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Olea",
+      "Olive Oil",
+      "Taste",
+      "Young Adult"
+    ],
+    "authors": [
+      {
+        "first_name": "Carla",
+        "last_name": "Cavallo",
+        "orcid": "['0000-0002-0810-3157']",
+        "current_organization_id": "grid.4691.a",
+        "researcher_id": "ur.07753225351.47",
+        "affiliations": [
+          {
+            "id": "grid.4691.a",
+            "name": "University of Naples Federico II",
+            "city": "Naples",
+            "city_id": 3172394,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Francesco",
+        "last_name": "Caracciolo",
+        "orcid": "['0000-0001-9430-7529']",
+        "current_organization_id": "grid.4691.a",
+        "researcher_id": "ur.0575761574.23",
+        "affiliations": [
+          {
+            "id": "grid.4691.a",
+            "name": "University of Naples Federico II",
+            "city": "Naples",
+            "city_id": 3172394,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Gianni",
+        "last_name": "Cicia",
+        "orcid": "['0000-0003-4188-241X']",
+        "current_organization_id": "grid.4691.a",
+        "researcher_id": "ur.016657313511.99",
+        "affiliations": [
+          {
+            "id": "grid.4691.a",
+            "name": "University of Naples Federico II",
+            "city": "Naples",
+            "city_id": 3172394,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Teresa",
+        "last_name": "Del Giudice",
+        "orcid": "['0000-0001-9417-7816']",
+        "current_organization_id": "grid.4691.a",
+        "researcher_id": "ur.015063335551.44",
+        "affiliations": [
+          {
+            "id": "grid.4691.a",
+            "name": "University of Naples Federico II",
+            "city": "Naples",
+            "city_id": 3172394,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Carla",
+          "last_name": "Cavallo",
+          "orcid": "['0000-0002-0810-3157']",
+          "current_organization_id": "grid.4691.a",
+          "researcher_id": "ur.07753225351.47",
+          "affiliations": [
+            {
+              "id": "grid.4691.a",
+              "name": "University of Naples Federico II",
+              "city": "Naples",
+              "city_id": 3172394,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Francesco",
+          "last_name": "Caracciolo",
+          "orcid": "['0000-0001-9430-7529']",
+          "current_organization_id": "grid.4691.a",
+          "researcher_id": "ur.0575761574.23",
+          "affiliations": [
+            {
+              "id": "grid.4691.a",
+              "name": "University of Naples Federico II",
+              "city": "Naples",
+              "city_id": 3172394,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Gianni",
+          "last_name": "Cicia",
+          "orcid": "['0000-0003-4188-241X']",
+          "current_organization_id": "grid.4691.a",
+          "researcher_id": "ur.016657313511.99",
+          "affiliations": [
+            {
+              "id": "grid.4691.a",
+              "name": "University of Naples Federico II",
+              "city": "Naples",
+              "city_id": 3172394,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Teresa",
+          "last_name": "Del Giudice",
+          "orcid": "['0000-0001-9417-7816']",
+          "current_organization_id": "grid.4691.a",
+          "researcher_id": "ur.015063335551.44",
+          "affiliations": [
+            {
+              "id": "grid.4691.a",
+              "name": "University of Naples Federico II",
+              "city": "Naples",
+              "city_id": 3172394,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3172394,
+        "name": "Naples"
+      }
+    ],
+    "id": "pub.1091291782",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date": "2018-03-01",
+    "pages": "1591-1598",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 8,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW",
+      "PubMed"
+    ],
+    "issn": [
+      "0022-5142",
+      "1097-0010"
+    ],
+    "publisher": "Wiley",
+    "funder_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "doi": "10.1002/jsfa.8633",
+    "journal": {
+      "id": "jour.1017828",
+      "title": "Journal of the Science of Food and Agriculture"
+    },
+    "title": "Extra\u2010virgin olive oil: are consumers provided with the sensory quality they want? A hedonic price model with sensory attributes",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.07753225351.47",
+        "last_name": "Cavallo",
+        "orcid_id": [
+          "0000-0002-0810-3157"
+        ],
+        "research_orgs": [
+          "grid.4691.a"
+        ],
+        "first_name": "Carla"
+      },
+      {
+        "id": "ur.0575761574.23",
+        "last_name": "Caracciolo",
+        "orcid_id": [
+          "0000-0001-9430-7529"
+        ],
+        "research_orgs": [
+          "grid.4691.a"
+        ],
+        "first_name": "Francesco"
+      },
+      {
+        "id": "ur.016657313511.99",
+        "last_name": "Cicia",
+        "orcid_id": [
+          "0000-0003-4188-241X"
+        ],
+        "research_orgs": [
+          "grid.4691.a"
+        ],
+        "first_name": "Gianni"
+      },
+      {
+        "id": "ur.015063335551.44",
+        "last_name": "Del Giudice",
+        "orcid_id": [
+          "0000-0001-9417-7816"
+        ],
+        "research_orgs": [
+          "grid.4691.a"
+        ],
+        "first_name": "Teresa"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.425778.b",
+        "acronym": "MiPAAF",
+        "name": "Ministry of Agricultural, Food and Forestry Policies",
+        "country_name": "Italy"
+      }
+    ],
+    "research_org_country_names": [
+      "Italy"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "supply trends",
+      "terms",
+      "current demand",
+      "properties",
+      "quality standards",
+      "such oils",
+      "industry",
+      "olive oil",
+      "such products",
+      "products",
+      "chemical industry",
+      "extra-virgin olive oil",
+      "standard",
+      "demand",
+      "importance",
+      "trend",
+      "strategies",
+      "oil",
+      "virgin olive oil"
+    ],
+    "terms": [
+      "supply trends",
+      "terms",
+      "current demand",
+      "properties",
+      "quality standards",
+      "such oils",
+      "industry",
+      "olive oil",
+      "such products",
+      "products",
+      "chemical industry",
+      "extra-virgin olive oil",
+      "standard",
+      "demand",
+      "importance",
+      "trend",
+      "strategies",
+      "oil",
+      "virgin olive oil"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "2209",
+        "name": "09 Engineering"
+      },
+      {
+        "id": "2207",
+        "name": "07 Agricultural and Veterinary Sciences"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.4691.a",
+        "name": "University of Naples Federico II",
+        "country_name": "Italy"
+      }
+    ],
+    "references": [
+      "pub.1003257089",
+      "pub.1058573650",
+      "pub.1051183552",
+      "pub.1032514310",
+      "pub.1014490330",
+      "pub.1014100507",
+      "pub.1029789377",
+      "pub.1048922738",
+      "pub.1025706201",
+      "pub.1001022525",
+      "pub.1028368546",
+      "pub.1074734481",
+      "pub.1017569872",
+      "pub.1055898392",
+      "pub.1008311619",
+      "pub.1018007246",
+      "pub.1015256810",
+      "pub.1032321647",
+      "pub.1020712029",
+      "pub.1000719611",
+      "pub.1048285979",
+      "pub.1058572612",
+      "pub.1015907076",
+      "pub.1023125431",
+      "pub.1032369727",
+      "pub.1003243031",
+      "pub.1017330640",
+      "pub.1028126048",
+      "pub.1021219502",
+      "pub.1036639752",
+      "pub.1013843112",
+      "pub.1059747016",
+      "pub.1069410550",
+      "pub.1043354738",
+      "pub.1035747184",
+      "pub.1025747135",
+      "pub.1059578788",
+      "pub.1004168708",
+      "pub.1030231811",
+      "pub.1003726509",
+      "pub.1043387272",
+      "pub.1030892614",
+      "pub.1045275460",
+      "pub.1049130628"
+    ],
+    "reference_ids": [
+      "pub.1003257089",
+      "pub.1058573650",
+      "pub.1051183552",
+      "pub.1032514310",
+      "pub.1014490330",
+      "pub.1014100507",
+      "pub.1029789377",
+      "pub.1048922738",
+      "pub.1025706201",
+      "pub.1001022525",
+      "pub.1028368546",
+      "pub.1074734481",
+      "pub.1017569872",
+      "pub.1055898392",
+      "pub.1008311619",
+      "pub.1018007246",
+      "pub.1015256810",
+      "pub.1032321647",
+      "pub.1020712029",
+      "pub.1000719611",
+      "pub.1048285979",
+      "pub.1058572612",
+      "pub.1015907076",
+      "pub.1023125431",
+      "pub.1032369727",
+      "pub.1003243031",
+      "pub.1017330640",
+      "pub.1028126048",
+      "pub.1021219502",
+      "pub.1036639752",
+      "pub.1013843112",
+      "pub.1059747016",
+      "pub.1069410550",
+      "pub.1043354738",
+      "pub.1035747184",
+      "pub.1025747135",
+      "pub.1059578788",
+      "pub.1004168708",
+      "pub.1030231811",
+      "pub.1003726509",
+      "pub.1043387272",
+      "pub.1030892614",
+      "pub.1045275460",
+      "pub.1049130628"
+    ],
+    "volume": "98",
+    "issue": "4",
+    "dimensions_id": "pub.1091291782",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2220",
+        "name": "20 Language, Communication and Culture"
+      }
+    ],
+    "date": "2018-01-01",
+    "journal": {
+      "id": "jour.1138186",
+      "title": "SHS Web of Conferences"
+    },
+    "terms": [
+      "authors",
+      "role",
+      "N1",
+      "combination",
+      "literature",
+      "function",
+      "patterns"
+    ],
+    "concepts": [
+      "authors",
+      "role",
+      "N1",
+      "combination",
+      "literature",
+      "function",
+      "patterns"
+    ],
+    "id": "pub.1105467962",
+    "issn": [
+      "2261-2424"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "reference_ids": [
+      "pub.1071294458",
+      "pub.1098726524",
+      "pub.1089243609",
+      "pub.1071294652",
+      "pub.1098718678",
+      "pub.1099273913",
+      "pub.1071297235"
+    ],
+    "references": [
+      "pub.1071294458",
+      "pub.1098726524",
+      "pub.1089243609",
+      "pub.1071294652",
+      "pub.1098718678",
+      "pub.1099273913",
+      "pub.1071297235"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3626",
+        "name": "2005 Literary Studies"
+      },
+      {
+        "id": "2220",
+        "name": "20 Language, Communication and Culture"
+      }
+    ],
+    "date_inserted": "2018-07-13",
+    "volume": "46",
+    "title": "Un espace papeterie n\u2019est-il pas une (simple) papeterie ?: composition binominale souscat\u00e9gorisante",
+    "authors": [
+      {
+        "first_name": "Kentaro",
+        "last_name": "Koga",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Kentaro",
+          "last_name": "Koga",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.shs-conferences.org/articles/shsconf/pdf/2018/07/shsconf_cmlf2018_08004.pdf",
+    "publisher": "EDP Sciences",
+    "FOR": [
+      {
+        "id": "3626",
+        "name": "2005 Literary Studies"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ"
+    ],
+    "type": "article",
+    "pages": "08004",
+    "doi": "10.1051/shsconf/20184608004",
+    "dimensions_id": "pub.1105467962",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 4,
+    "field_citation_ratio": 4.08,
+    "authors": [
+      {
+        "first_name": "Vittoria",
+        "last_name": "Pilone",
+        "orcid": "['0000-0001-6343-3426']",
+        "current_organization_id": "grid.10796.39",
+        "researcher_id": "ur.014103153541.74",
+        "affiliations": [
+          {
+            "id": "grid.10796.39",
+            "name": "University of Foggia",
+            "city": "Foggia",
+            "city_id": 3176885,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Antonio",
+        "last_name": "Stasi",
+        "orcid": "['0000-0003-1617-4606']",
+        "current_organization_id": "grid.10796.39",
+        "researcher_id": "ur.07717635627.35",
+        "affiliations": [
+          {
+            "id": "grid.10796.39",
+            "name": "University of Foggia",
+            "city": "Foggia",
+            "city_id": 3176885,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Antonio",
+        "last_name": "Baselice",
+        "orcid": "",
+        "current_organization_id": "grid.10796.39",
+        "researcher_id": "ur.07557242705.67",
+        "affiliations": [
+          {
+            "id": "grid.10796.39",
+            "name": "University of Foggia",
+            "city": "Foggia",
+            "city_id": 3176885,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Vittoria",
+          "last_name": "Pilone",
+          "orcid": "['0000-0001-6343-3426']",
+          "current_organization_id": "grid.10796.39",
+          "researcher_id": "ur.014103153541.74",
+          "affiliations": [
+            {
+              "id": "grid.10796.39",
+              "name": "University of Foggia",
+              "city": "Foggia",
+              "city_id": 3176885,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Antonio",
+          "last_name": "Stasi",
+          "orcid": "['0000-0003-1617-4606']",
+          "current_organization_id": "grid.10796.39",
+          "researcher_id": "ur.07717635627.35",
+          "affiliations": [
+            {
+              "id": "grid.10796.39",
+              "name": "University of Foggia",
+              "city": "Foggia",
+              "city_id": 3176885,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Antonio",
+          "last_name": "Baselice",
+          "orcid": "",
+          "current_organization_id": "grid.10796.39",
+          "researcher_id": "ur.07557242705.67",
+          "affiliations": [
+            {
+              "id": "grid.10796.39",
+              "name": "University of Foggia",
+              "city": "Foggia",
+              "city_id": 3176885,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3176885,
+        "name": "Foggia"
+      }
+    ],
+    "id": "pub.1085475089",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date": "2017-07-03",
+    "pages": "1473-1486",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 4,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "ERIH PLUS",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0007-070X",
+      "1758-4108"
+    ],
+    "publisher": "Emerald",
+    "doi": "10.1108/bfj-09-2016-0419",
+    "journal": {
+      "id": "jour.1032904",
+      "title": "British Food Journal"
+    },
+    "title": "Quality preferences and pricing of fresh-cut salads in Italy: new evidence from market data",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.014103153541.74",
+        "last_name": "Pilone",
+        "orcid_id": [
+          "0000-0001-6343-3426"
+        ],
+        "research_orgs": [
+          "grid.10796.39"
+        ],
+        "first_name": "Vittoria"
+      },
+      {
+        "id": "ur.07717635627.35",
+        "last_name": "Stasi",
+        "orcid_id": [
+          "0000-0003-1617-4606"
+        ],
+        "research_orgs": [
+          "grid.10796.39"
+        ],
+        "first_name": "Antonio"
+      },
+      {
+        "id": "ur.07557242705.67",
+        "last_name": "Baselice",
+        "research_orgs": [
+          "grid.10796.39"
+        ],
+        "first_name": "Antonio"
+      }
+    ],
+    "research_org_country_names": [
+      "Italy"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "Design/methodology/approach",
+      "organic certification",
+      "strategies",
+      "consumers\u2019 preferences",
+      "real market data",
+      "market data",
+      "preference",
+      "scanner data",
+      "findings",
+      "Implications Findings",
+      "consumers",
+      "Methodology/approach",
+      "consumer preference analysis",
+      "insight",
+      "literature",
+      "preference analysis",
+      "Originality/value",
+      "certification",
+      "analysis",
+      "vegetables",
+      "current literature",
+      "example",
+      "hedonic price model",
+      "consumer preferences",
+      "high price",
+      "Italy",
+      "promotion",
+      "products",
+      "price",
+      "mix",
+      "Europe",
+      "brand",
+      "price model",
+      "pricing",
+      "main attributes",
+      "novelty",
+      "model",
+      "main results",
+      "Practical implications Findings",
+      "vegetable variety",
+      "attributes",
+      "product prices",
+      "food sector",
+      "impact",
+      "values",
+      "manufacturer strategies",
+      "economic literature",
+      "Italian consumers",
+      "packaging attributes",
+      "paper",
+      "purchase",
+      "different attributes",
+      "possibility",
+      "assortment",
+      "sector",
+      "producers",
+      "purpose",
+      "approach",
+      "agro-food sector",
+      "different strategies",
+      "data"
+    ],
+    "terms": [
+      "Design/methodology/approach",
+      "organic certification",
+      "strategies",
+      "consumers\u2019 preferences",
+      "real market data",
+      "market data",
+      "preference",
+      "scanner data",
+      "findings",
+      "Implications Findings",
+      "consumers",
+      "Methodology/approach",
+      "consumer preference analysis",
+      "insight",
+      "literature",
+      "preference analysis",
+      "Originality/value",
+      "certification",
+      "analysis",
+      "vegetables",
+      "current literature",
+      "example",
+      "hedonic price model",
+      "consumer preferences",
+      "high price",
+      "Italy",
+      "promotion",
+      "products",
+      "price",
+      "mix",
+      "Europe",
+      "brand",
+      "price model",
+      "pricing",
+      "main attributes",
+      "novelty",
+      "model",
+      "main results",
+      "Practical implications Findings",
+      "vegetable variety",
+      "attributes",
+      "product prices",
+      "food sector",
+      "impact",
+      "values",
+      "manufacturer strategies",
+      "economic literature",
+      "Italian consumers",
+      "packaging attributes",
+      "paper",
+      "purchase",
+      "different attributes",
+      "possibility",
+      "assortment",
+      "sector",
+      "producers",
+      "purpose",
+      "approach",
+      "agro-food sector",
+      "different strategies",
+      "data"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10796.39",
+        "name": "University of Foggia",
+        "country_name": "Italy"
+      }
+    ],
+    "references": [
+      "pub.1011822585",
+      "pub.1016673629",
+      "pub.1058573650",
+      "pub.1074194791",
+      "pub.1020914372",
+      "pub.1029869729",
+      "pub.1010530018",
+      "pub.1009899499",
+      "pub.1054921676",
+      "pub.1024401934",
+      "pub.1038094158",
+      "pub.1008326640",
+      "pub.1031877428",
+      "pub.1011961090",
+      "pub.1004828554",
+      "pub.1041853516",
+      "pub.1068400176",
+      "pub.1030521856",
+      "pub.1024480233",
+      "pub.1050562322",
+      "pub.1059569577",
+      "pub.1018381982",
+      "pub.1019578529",
+      "pub.1000482540",
+      "pub.1058572612",
+      "pub.1023157438",
+      "pub.1039685884",
+      "pub.1022657180",
+      "pub.1040456350",
+      "pub.1047087493",
+      "pub.1038569788",
+      "pub.1068414375",
+      "pub.1034800643",
+      "pub.1021617155",
+      "pub.1023308782",
+      "pub.1006093925",
+      "pub.1003111774",
+      "pub.1047125024",
+      "pub.1040349387",
+      "pub.1034790649",
+      "pub.1030795562",
+      "pub.1011917686",
+      "pub.1014550144",
+      "pub.1035059202",
+      "pub.1011209476",
+      "pub.1008362182",
+      "pub.1050341577",
+      "pub.1032388525",
+      "pub.1034231966",
+      "pub.1058349654",
+      "pub.1013766060",
+      "pub.1033927281",
+      "pub.1022318829",
+      "pub.1032072623",
+      "pub.1047169143",
+      "pub.1072510103",
+      "pub.1047143272",
+      "pub.1048716084"
+    ],
+    "reference_ids": [
+      "pub.1011822585",
+      "pub.1016673629",
+      "pub.1058573650",
+      "pub.1074194791",
+      "pub.1020914372",
+      "pub.1029869729",
+      "pub.1010530018",
+      "pub.1009899499",
+      "pub.1054921676",
+      "pub.1024401934",
+      "pub.1038094158",
+      "pub.1008326640",
+      "pub.1031877428",
+      "pub.1011961090",
+      "pub.1004828554",
+      "pub.1041853516",
+      "pub.1068400176",
+      "pub.1030521856",
+      "pub.1024480233",
+      "pub.1050562322",
+      "pub.1059569577",
+      "pub.1018381982",
+      "pub.1019578529",
+      "pub.1000482540",
+      "pub.1058572612",
+      "pub.1023157438",
+      "pub.1039685884",
+      "pub.1022657180",
+      "pub.1040456350",
+      "pub.1047087493",
+      "pub.1038569788",
+      "pub.1068414375",
+      "pub.1034800643",
+      "pub.1021617155",
+      "pub.1023308782",
+      "pub.1006093925",
+      "pub.1003111774",
+      "pub.1047125024",
+      "pub.1040349387",
+      "pub.1034790649",
+      "pub.1030795562",
+      "pub.1011917686",
+      "pub.1014550144",
+      "pub.1035059202",
+      "pub.1011209476",
+      "pub.1008362182",
+      "pub.1050341577",
+      "pub.1032388525",
+      "pub.1034231966",
+      "pub.1058349654",
+      "pub.1013766060",
+      "pub.1033927281",
+      "pub.1022318829",
+      "pub.1032072623",
+      "pub.1047169143",
+      "pub.1072510103",
+      "pub.1047143272",
+      "pub.1048716084"
+    ],
+    "volume": "Volume 119",
+    "issue": "Issue 7",
+    "dimensions_id": "pub.1085475089",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2016-12-01",
+    "research_orgs": [
+      {
+        "id": "grid.6936.a",
+        "acronym": "TUM",
+        "name": "Technical University Munich",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.215654.1",
+        "acronym": "ASU",
+        "name": "Arizona State University",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.5386.8",
+        "acronym": "CU",
+        "name": "Cornell University",
+        "country_name": "United States"
+      }
+    ],
+    "journal": {
+      "id": "jour.1051939",
+      "title": "Journal of Retailing"
+    },
+    "terms": [
+      "unit price",
+      "preference",
+      "demand",
+      "cereal category",
+      "hidden way",
+      "manufacture",
+      "competition",
+      "downsizing",
+      "levels",
+      "wholesale price",
+      "package size",
+      "order",
+      "way",
+      "convenience",
+      "categories",
+      "price competition",
+      "cost",
+      "structural model",
+      "joint decision",
+      "downstream market",
+      "margin",
+      "data",
+      "profit",
+      "face",
+      "goods",
+      "category profit",
+      "decision",
+      "breakfast cereal category",
+      "industry",
+      "market",
+      "different levels",
+      "complement",
+      "size",
+      "different package sizes",
+      "strategic complements",
+      "heterogeneous preferences",
+      "competitive tool",
+      "price",
+      "outcomes",
+      "hand",
+      "purchase decisions",
+      "high production costs",
+      "hypothesis",
+      "manufacturers",
+      "model",
+      "part",
+      "degree",
+      "consumer demand",
+      "consumers",
+      "desirable outcomes",
+      "retailers",
+      "scanner data",
+      "tool",
+      "package downsizing",
+      "production costs"
+    ],
+    "concepts": [
+      "unit price",
+      "preference",
+      "demand",
+      "cereal category",
+      "hidden way",
+      "manufacture",
+      "competition",
+      "downsizing",
+      "levels",
+      "wholesale price",
+      "package size",
+      "order",
+      "way",
+      "convenience",
+      "categories",
+      "price competition",
+      "cost",
+      "structural model",
+      "joint decision",
+      "downstream market",
+      "margin",
+      "data",
+      "profit",
+      "face",
+      "goods",
+      "category profit",
+      "decision",
+      "breakfast cereal category",
+      "industry",
+      "market",
+      "different levels",
+      "complement",
+      "size",
+      "different package sizes",
+      "strategic complements",
+      "heterogeneous preferences",
+      "competitive tool",
+      "price",
+      "outcomes",
+      "hand",
+      "purchase decisions",
+      "high production costs",
+      "hypothesis",
+      "manufacturers",
+      "model",
+      "part",
+      "degree",
+      "consumer demand",
+      "consumers",
+      "desirable outcomes",
+      "retailers",
+      "scanner data",
+      "tool",
+      "package downsizing",
+      "production costs"
+    ],
+    "id": "pub.1045235331",
+    "issn": [
+      "0022-4359",
+      "1873-3271"
+    ],
+    "researchers": [
+      {
+        "id": "ur.012426611301.34",
+        "last_name": "Yonezawa",
+        "orcid_id": [
+          "0000-0003-1532-262X"
+        ],
+        "research_orgs": [
+          "grid.5386.8",
+          "grid.6936.a"
+        ],
+        "first_name": "Koichi"
+      },
+      {
+        "id": "ur.012023362455.36",
+        "last_name": "Richards",
+        "research_orgs": [
+          "grid.215654.1"
+        ],
+        "first_name": "Timothy J"
+      }
+    ],
+    "research_org_country_names": [
+      "United States",
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1102602315",
+      "pub.1069417460",
+      "pub.1032707551",
+      "pub.1032740201",
+      "pub.1029798385",
+      "pub.1006302554",
+      "pub.1064712879",
+      "pub.1064712617",
+      "pub.1036786521",
+      "pub.1064721694",
+      "pub.1070214290",
+      "pub.1064722381",
+      "pub.1042794123",
+      "pub.1070213964",
+      "pub.1061936571",
+      "pub.1026455246",
+      "pub.1070214250",
+      "pub.1069641248",
+      "pub.1020495743",
+      "pub.1014949035",
+      "pub.1001847712",
+      "pub.1069804328",
+      "pub.1053246449",
+      "pub.1045366135",
+      "pub.1048879254",
+      "pub.1064713409",
+      "pub.1064713528",
+      "pub.1063722661",
+      "pub.1064720419",
+      "pub.1050064839",
+      "pub.1058528513",
+      "pub.1020889730",
+      "pub.1098708499",
+      "pub.1064715142",
+      "pub.1064712795",
+      "pub.1038396117",
+      "pub.1040492309",
+      "pub.1061936670",
+      "pub.1069991517",
+      "pub.1018586548",
+      "pub.1070212971",
+      "pub.1069991587",
+      "pub.1045046886",
+      "pub.1069639408",
+      "pub.1007862903",
+      "pub.1026422292",
+      "pub.1048595285",
+      "pub.1070212131",
+      "pub.1061936835",
+      "pub.1069804358",
+      "pub.1069973174",
+      "pub.1025777832",
+      "pub.1064712537",
+      "pub.1058606236",
+      "pub.1070214093",
+      "pub.1070217181",
+      "pub.1058670021",
+      "pub.1026014159",
+      "pub.1064713362",
+      "pub.1022754458",
+      "pub.1064721826",
+      "pub.1024051121",
+      "pub.1025154622",
+      "pub.1017212192",
+      "pub.1064713892",
+      "pub.1008121096",
+      "pub.1012722631",
+      "pub.1015403057",
+      "pub.1023237245",
+      "pub.1044054894",
+      "pub.1058528208"
+    ],
+    "references": [
+      "pub.1102602315",
+      "pub.1069417460",
+      "pub.1032707551",
+      "pub.1032740201",
+      "pub.1029798385",
+      "pub.1006302554",
+      "pub.1064712879",
+      "pub.1064712617",
+      "pub.1036786521",
+      "pub.1064721694",
+      "pub.1070214290",
+      "pub.1064722381",
+      "pub.1042794123",
+      "pub.1070213964",
+      "pub.1061936571",
+      "pub.1026455246",
+      "pub.1070214250",
+      "pub.1069641248",
+      "pub.1020495743",
+      "pub.1014949035",
+      "pub.1001847712",
+      "pub.1069804328",
+      "pub.1053246449",
+      "pub.1045366135",
+      "pub.1048879254",
+      "pub.1064713409",
+      "pub.1064713528",
+      "pub.1063722661",
+      "pub.1064720419",
+      "pub.1050064839",
+      "pub.1058528513",
+      "pub.1020889730",
+      "pub.1098708499",
+      "pub.1064715142",
+      "pub.1064712795",
+      "pub.1038396117",
+      "pub.1040492309",
+      "pub.1061936670",
+      "pub.1069991517",
+      "pub.1018586548",
+      "pub.1070212971",
+      "pub.1069991587",
+      "pub.1045046886",
+      "pub.1069639408",
+      "pub.1007862903",
+      "pub.1026422292",
+      "pub.1048595285",
+      "pub.1070212131",
+      "pub.1061936835",
+      "pub.1069804358",
+      "pub.1069973174",
+      "pub.1025777832",
+      "pub.1064712537",
+      "pub.1058606236",
+      "pub.1070214093",
+      "pub.1070217181",
+      "pub.1058670021",
+      "pub.1026014159",
+      "pub.1064713362",
+      "pub.1022754458",
+      "pub.1064721826",
+      "pub.1024051121",
+      "pub.1025154622",
+      "pub.1017212192",
+      "pub.1064713892",
+      "pub.1008121096",
+      "pub.1012722631",
+      "pub.1015403057",
+      "pub.1023237245",
+      "pub.1044054894",
+      "pub.1058528208"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3364",
+        "name": "1505 Marketing"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "92",
+    "times_cited": 3,
+    "title": "Competitive Package Size Decisions",
+    "authors": [
+      {
+        "first_name": "Koichi",
+        "last_name": "Yonezawa",
+        "orcid": "['0000-0003-1532-262X']",
+        "current_organization_id": "grid.5386.8",
+        "researcher_id": "ur.012426611301.34",
+        "affiliations": [
+          {
+            "id": "grid.6936.a",
+            "name": "Technical University Munich",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.5386.8",
+            "name": "Cornell University",
+            "city": "Ithaca",
+            "city_id": 5122432,
+            "country": "United States",
+            "country_code": "US",
+            "state": "New York",
+            "state_code": "US-NY"
+          }
+        ]
+      },
+      {
+        "first_name": "Timothy J.",
+        "last_name": "Richards",
+        "orcid": "",
+        "current_organization_id": "grid.215654.1",
+        "researcher_id": "ur.012023362455.36",
+        "affiliations": [
+          {
+            "id": "grid.215654.1",
+            "name": "Arizona State University",
+            "city": "Tempe",
+            "city_id": 5317058,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Arizona",
+            "state_code": "US-AZ"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Koichi",
+          "last_name": "Yonezawa",
+          "orcid": "['0000-0003-1532-262X']",
+          "current_organization_id": "grid.5386.8",
+          "researcher_id": "ur.012426611301.34",
+          "affiliations": [
+            {
+              "id": "grid.6936.a",
+              "name": "Technical University Munich",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.5386.8",
+              "name": "Cornell University",
+              "city": "Ithaca",
+              "city_id": 5122432,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Timothy J.",
+          "last_name": "Richards",
+          "orcid": "",
+          "current_organization_id": "grid.215654.1",
+          "researcher_id": "ur.012023362455.36",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5122432,
+        "name": "Ithaca"
+      },
+      {
+        "id": 5317058,
+        "name": "Tempe"
+      },
+      {
+        "id": 2867714,
+        "name": "Munich"
+      }
+    ],
+    "publisher": "Elsevier",
+    "research_org_state_names": [
+      "Arizona",
+      "New York"
+    ],
+    "issue": "4",
+    "recent_citations": 2,
+    "altmetric": 24,
+    "field_citation_ratio": 0.94,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 41315409,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "445-469",
+    "research_org_state_codes": [
+      {
+        "id": "US-NY",
+        "name": "New York"
+      },
+      {
+        "id": "US-AZ",
+        "name": "Arizona"
+      }
+    ],
+    "doi": "10.1016/j.jretai.2016.06.001",
+    "dimensions_id": "pub.1045235331",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "William C.",
+        "last_name": "Horrace",
+        "orcid": "['0000-0003-1325-5320']",
+        "current_organization_id": "grid.264484.8",
+        "researcher_id": "ur.011023630045.22",
+        "affiliations": [
+          {
+            "id": "grid.264484.8",
+            "name": "Syracuse University",
+            "city": "Syracuse",
+            "city_id": 5140405,
+            "country": "United States",
+            "country_code": "US",
+            "state": "New York",
+            "state_code": "US-NY"
+          }
+        ]
+      },
+      {
+        "first_name": "Rui",
+        "last_name": "Huang",
+        "orcid": "",
+        "current_organization_id": "grid.423379.8",
+        "researcher_id": "ur.014736057775.73",
+        "affiliations": [
+          {
+            "id": "grid.423379.8",
+            "name": "United States Department of Justice",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "Jeffrey M.",
+        "last_name": "Perloff",
+        "orcid": "",
+        "current_organization_id": "grid.47840.3f",
+        "researcher_id": "ur.01366126414.31",
+        "affiliations": [
+          {
+            "id": "grid.47840.3f",
+            "name": "University of California, Berkeley",
+            "city": "Berkeley",
+            "city_id": 5327684,
+            "country": "United States",
+            "country_code": "US",
+            "state": "California",
+            "state_code": "US-CA"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "William C.",
+          "last_name": "Horrace",
+          "orcid": "['0000-0003-1325-5320']",
+          "current_organization_id": "grid.264484.8",
+          "researcher_id": "ur.011023630045.22",
+          "affiliations": [
+            {
+              "id": "grid.264484.8",
+              "name": "Syracuse University",
+              "city": "Syracuse",
+              "city_id": 5140405,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Rui",
+          "last_name": "Huang",
+          "orcid": "",
+          "current_organization_id": "grid.423379.8",
+          "researcher_id": "ur.014736057775.73",
+          "affiliations": [
+            {
+              "id": "grid.423379.8",
+              "name": "United States Department of Justice",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Jeffrey M.",
+          "last_name": "Perloff",
+          "orcid": "",
+          "current_organization_id": "grid.47840.3f",
+          "researcher_id": "ur.01366126414.31",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      },
+      {
+        "id": 5327684,
+        "name": "Berkeley"
+      },
+      {
+        "id": 5140405,
+        "name": "Syracuse"
+      }
+    ],
+    "id": "pub.1029102404",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2016-12-01",
+    "pages": "569-587",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "1090-9443",
+      "1090-9451"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.rie.2016.06.006",
+    "journal": {
+      "id": "jour.1140345",
+      "title": "Research in Economics"
+    },
+    "title": "Effects of increased variety on demand, pricing, and welfare",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.011023630045.22",
+        "last_name": "Horrace",
+        "orcid_id": [
+          "0000-0003-1325-5320"
+        ],
+        "research_orgs": [
+          "grid.250279.b",
+          "grid.264484.8",
+          "grid.134563.6",
+          "grid.17088.36"
+        ],
+        "first_name": "William C"
+      },
+      {
+        "id": "ur.014736057775.73",
+        "last_name": "Huang",
+        "research_orgs": [
+          "grid.63054.34",
+          "grid.423379.8",
+          "grid.47840.3f"
+        ],
+        "first_name": "Rui"
+      },
+      {
+        "id": "ur.01366126414.31",
+        "last_name": "Perloff",
+        "research_orgs": [
+          "grid.47840.3f",
+          "grid.30389.31"
+        ],
+        "first_name": "Jeffrey M"
+      }
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "date_inserted": "2017-08-31",
+    "research_org_state_codes": [
+      {
+        "id": "US-CA",
+        "name": "California"
+      },
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      },
+      {
+        "id": "US-NY",
+        "name": "New York"
+      }
+    ],
+    "concepts": [
+      "brand",
+      "concave sections",
+      "variable estimator",
+      "firms",
+      "demand system",
+      "mixed logit",
+      "convex",
+      "consumer surplus",
+      "traditional demand systems",
+      "adjustment",
+      "cost",
+      "grocery stores",
+      "optimal number",
+      "welfare",
+      "consumers",
+      "price adjustment",
+      "profit",
+      "Pepsi",
+      "logit",
+      "price variability",
+      "demand function",
+      "instrumental variable estimator",
+      "point",
+      "statistics",
+      "increase",
+      "store",
+      "surplus",
+      "demand curve",
+      "more variety",
+      "order",
+      "estimator"
+    ],
+    "terms": [
+      "brand",
+      "concave sections",
+      "variable estimator",
+      "firms",
+      "demand system",
+      "mixed logit",
+      "convex",
+      "consumer surplus",
+      "traditional demand systems",
+      "adjustment",
+      "cost",
+      "grocery stores",
+      "optimal number",
+      "welfare",
+      "consumers",
+      "price adjustment",
+      "profit",
+      "Pepsi",
+      "logit",
+      "price variability",
+      "demand function",
+      "instrumental variable estimator",
+      "point",
+      "statistics",
+      "increase",
+      "store",
+      "surplus",
+      "demand curve",
+      "more variety",
+      "order",
+      "estimator"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.47840.3f",
+        "acronym": "UCB",
+        "name": "University of California, Berkeley",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.423379.8",
+        "acronym": "DOJ",
+        "name": "United States Department of Justice",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.264484.8",
+        "acronym": "SU",
+        "name": "Syracuse University",
+        "country_name": "United States"
+      }
+    ],
+    "references": [
+      "pub.1064527815",
+      "pub.1045649243",
+      "pub.1069868888",
+      "pub.1059569577",
+      "pub.1064712556",
+      "pub.1043256103",
+      "pub.1046518833",
+      "pub.1062243952",
+      "pub.1069868757",
+      "pub.1069759442",
+      "pub.1050476739",
+      "pub.1058299237",
+      "pub.1102602468",
+      "pub.1069869274",
+      "pub.1050064839",
+      "pub.1070145607",
+      "pub.1098714638",
+      "pub.1052343129",
+      "pub.1010925223"
+    ],
+    "reference_ids": [
+      "pub.1064527815",
+      "pub.1045649243",
+      "pub.1069868888",
+      "pub.1059569577",
+      "pub.1064712556",
+      "pub.1043256103",
+      "pub.1046518833",
+      "pub.1062243952",
+      "pub.1069868757",
+      "pub.1069759442",
+      "pub.1050476739",
+      "pub.1058299237",
+      "pub.1102602468",
+      "pub.1069869274",
+      "pub.1050064839",
+      "pub.1070145607",
+      "pub.1098714638",
+      "pub.1052343129",
+      "pub.1010925223"
+    ],
+    "research_org_state_names": [
+      "California",
+      "District of Columbia",
+      "New York"
+    ],
+    "volume": "70",
+    "issue": "4",
+    "dimensions_id": "pub.1029102404",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "linkout": "https://doi.org/10.3168/jds.2015-10410",
+    "RCDC": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      },
+      {
+        "id": "508",
+        "name": "Clinical Trials and Supportive Activities"
+      }
+    ],
+    "category_rcdc": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      },
+      {
+        "id": "508",
+        "name": "Clinical Trials and Supportive Activities"
+      }
+    ],
+    "recent_citations": 5,
+    "research_org_state_names": [
+      "Minnesota",
+      "Wyoming"
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - accepted"
+    ],
+    "title": "The effects of retail concentration on retail dairy product prices in the United States",
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "mesh_terms": [
+      "Commerce",
+      "Dairy Products",
+      "Empirical Research",
+      "United States"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.17635.36",
+        "name": "University of Minnesota",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.135963.b",
+        "acronym": "UW",
+        "name": "University of Wyoming",
+        "country_name": "United States"
+      }
+    ],
+    "id": "pub.1049283008",
+    "journal": {
+      "id": "jour.1077143",
+      "title": "Journal of Dairy Science"
+    },
+    "researchers": [
+      {
+        "id": "ur.015104511545.66",
+        "last_name": "Hovhannisyan",
+        "research_orgs": [
+          "grid.17635.36",
+          "grid.14003.36",
+          "grid.135963.b"
+        ],
+        "first_name": "Vardges"
+      },
+      {
+        "id": "ur.07651625377.29",
+        "last_name": "Bozic",
+        "research_orgs": [
+          "grid.17635.36"
+        ],
+        "first_name": "Marin"
+      }
+    ],
+    "research_org_country_names": [
+      "United States"
+    ],
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW",
+      "PubMed"
+    ],
+    "publisher": "American Dairy Science Association",
+    "issn": [
+      "0022-0302",
+      "1525-3198"
+    ],
+    "altmetric_id": 7301232,
+    "pages": "4928-4938",
+    "funders": [
+      {
+        "id": "grid.482914.2",
+        "acronym": "NIFA",
+        "name": "National Institute of Food and Agriculture",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.417548.b",
+        "acronym": "USDA",
+        "name": "United States Department of Agriculture",
+        "country_name": "United States"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "pmid": "27060827",
+    "field_citation_ratio": 1.35,
+    "authors": [
+      {
+        "first_name": "V.",
+        "last_name": "Hovhannisyan",
+        "orcid": "",
+        "current_organization_id": "grid.135963.b",
+        "researcher_id": "ur.015104511545.66",
+        "affiliations": [
+          {
+            "id": "grid.135963.b",
+            "name": "University of Wyoming",
+            "city": "Laramie",
+            "city_id": 5830062,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Wyoming",
+            "state_code": "US-WY"
+          }
+        ]
+      },
+      {
+        "first_name": "M.",
+        "last_name": "Bozic",
+        "orcid": "",
+        "current_organization_id": "grid.17635.36",
+        "researcher_id": "ur.07651625377.29",
+        "affiliations": [
+          {
+            "id": "grid.17635.36",
+            "name": "University of Minnesota",
+            "city": "Minneapolis",
+            "city_id": 5037649,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Minnesota",
+            "state_code": "US-MN"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "V.",
+          "last_name": "Hovhannisyan",
+          "orcid": "",
+          "current_organization_id": "grid.135963.b",
+          "researcher_id": "ur.015104511545.66",
+          "affiliations": [
+            {
+              "id": "grid.135963.b",
+              "name": "University of Wyoming",
+              "city": "Laramie",
+              "city_id": 5830062,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wyoming",
+              "state_code": "US-WY"
+            }
+          ]
+        },
+        {
+          "first_name": "M.",
+          "last_name": "Bozic",
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.07651625377.29",
+          "affiliations": [
+            {
+              "id": "grid.17635.36",
+              "name": "University of Minnesota",
+              "city": "Minneapolis",
+              "city_id": 5037649,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Minnesota",
+              "state_code": "US-MN"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5037649,
+        "name": "Minneapolis"
+      },
+      {
+        "id": 5830062,
+        "name": "Laramie"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2016-06-01",
+    "supporting_grant_ids": [
+      "grant.3827387"
+    ],
+    "reference_ids": [
+      "pub.1027092223",
+      "pub.1006113565",
+      "pub.1069650250",
+      "pub.1070145711",
+      "pub.1061833760",
+      "pub.1009905055",
+      "pub.1051861051",
+      "pub.1010934676",
+      "pub.1059379886",
+      "pub.1047852416",
+      "pub.1051639131",
+      "pub.1028525061",
+      "pub.1069650030",
+      "pub.1053084616",
+      "pub.1054922238"
+    ],
+    "references": [
+      "pub.1027092223",
+      "pub.1006113565",
+      "pub.1069650250",
+      "pub.1070145711",
+      "pub.1061833760",
+      "pub.1009905055",
+      "pub.1051861051",
+      "pub.1010934676",
+      "pub.1059379886",
+      "pub.1047852416",
+      "pub.1051639131",
+      "pub.1028525061",
+      "pub.1069650030",
+      "pub.1053084616",
+      "pub.1054922238"
+    ],
+    "doi": "10.3168/jds.2015-10410",
+    "year": 2016,
+    "type": "article",
+    "volume": "99",
+    "altmetric": 1,
+    "times_cited": 5,
+    "terms": [
+      "alternative measures",
+      "index",
+      "framework",
+      "unique data",
+      "groceries",
+      "empirical evidence",
+      "significant effect",
+      "Hirschman Index",
+      "empirical investigation",
+      "levels",
+      "effect",
+      "central result",
+      "product prices",
+      "data",
+      "Herfindahl-Hirschman Index",
+      "analysis",
+      "United States",
+      "broad empirical evidence",
+      "price",
+      "relationship",
+      "period",
+      "data techniques",
+      "power",
+      "panel data techniques",
+      "retail market power",
+      "store characteristics",
+      "literature",
+      "rise",
+      "state",
+      "store-level",
+      "Information Resources Inc.",
+      "evidence",
+      "retail concentration",
+      "store",
+      "characteristics",
+      "revenue",
+      "measures",
+      "empirical framework",
+      "market power",
+      "retail price",
+      "way"
+    ],
+    "concepts": [
+      "alternative measures",
+      "index",
+      "framework",
+      "unique data",
+      "groceries",
+      "empirical evidence",
+      "significant effect",
+      "Hirschman Index",
+      "empirical investigation",
+      "levels",
+      "effect",
+      "central result",
+      "product prices",
+      "data",
+      "Herfindahl-Hirschman Index",
+      "analysis",
+      "United States",
+      "broad empirical evidence",
+      "price",
+      "relationship",
+      "period",
+      "data techniques",
+      "power",
+      "panel data techniques",
+      "retail market power",
+      "store characteristics",
+      "literature",
+      "rise",
+      "state",
+      "store-level",
+      "Information Resources Inc.",
+      "evidence",
+      "retail concentration",
+      "store",
+      "characteristics",
+      "revenue",
+      "measures",
+      "empirical framework",
+      "market power",
+      "retail price",
+      "way"
+    ],
+    "issue": "6",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "2681",
+        "name": "0702 Animal Production"
+      },
+      {
+        "id": "2209",
+        "name": "09 Engineering"
+      },
+      {
+        "id": "2883",
+        "name": "0908 Food Sciences"
+      },
+      {
+        "id": "2207",
+        "name": "07 Agricultural and Veterinary Sciences"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "US-MN",
+        "name": "Minnesota"
+      },
+      {
+        "id": "US-WY",
+        "name": "Wyoming"
+      }
+    ],
+    "dimensions_id": "pub.1049283008",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "times_cited": 3,
+    "altmetric_id": 6798546,
+    "field_citation_ratio": 2.21,
+    "authors": [
+      {
+        "first_name": "David W",
+        "last_name": "Stewart",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Craig",
+        "last_name": "Gugel",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "David W",
+          "last_name": "Stewart",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Craig",
+          "last_name": "Gugel",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1040186622",
+    "date": "2016-02-05",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 2,
+    "publisher": "Taylor & Francis",
+    "doi": "10.4324/9781315639703",
+    "title": "Accountable Marketing",
+    "FOR": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      }
+    ],
+    "altmetric": 5,
+    "type": "monograph",
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "accountability",
+      "importance",
+      "marketing",
+      "metrics",
+      "perspective",
+      "board",
+      "role",
+      "critical importance",
+      "Standards Board",
+      "topic",
+      "performance metrics",
+      "international perspective"
+    ],
+    "terms": [
+      "accountability",
+      "importance",
+      "marketing",
+      "metrics",
+      "perspective",
+      "board",
+      "role",
+      "critical importance",
+      "Standards Board",
+      "topic",
+      "performance metrics",
+      "international perspective"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "dimensions_id": "pub.1040186622",
+    "related_dataset_name": "IRI InfoScan",
+    "related_dataset": "dataset-e9cc0d475b4948f46e28",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

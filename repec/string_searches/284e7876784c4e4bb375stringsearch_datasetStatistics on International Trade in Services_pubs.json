@@ -1,0 +1,2029 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-08-01",
+    "research_orgs": [
+      {
+        "id": "grid.7311.4",
+        "name": "University of Aveiro",
+        "country_name": "Portugal"
+      },
+      {
+        "id": "grid.10328.38",
+        "name": "University of Minho",
+        "country_name": "Portugal"
+      }
+    ],
+    "journal": {
+      "id": "jour.1142284",
+      "title": "Journal of International Accounting Auditing and Taxation"
+    },
+    "terms": [
+      "corporate taxation",
+      "tax bill",
+      "little literature",
+      "prior literature",
+      "bill",
+      "investment",
+      "foreign subsidiaries",
+      "assets",
+      "real investment",
+      "subsidiaries",
+      "intangible assets",
+      "tax responsiveness",
+      "order",
+      "host country",
+      "literature",
+      "taxation",
+      "corporate groups",
+      "responsiveness",
+      "income",
+      "countries",
+      "relation",
+      "period",
+      "high-tax countries",
+      "companies",
+      "decision",
+      "extent",
+      "international income"
+    ],
+    "concepts": [
+      "corporate taxation",
+      "tax bill",
+      "little literature",
+      "prior literature",
+      "bill",
+      "investment",
+      "foreign subsidiaries",
+      "assets",
+      "real investment",
+      "subsidiaries",
+      "intangible assets",
+      "tax responsiveness",
+      "order",
+      "host country",
+      "literature",
+      "taxation",
+      "corporate groups",
+      "responsiveness",
+      "income",
+      "countries",
+      "relation",
+      "period",
+      "high-tax countries",
+      "companies",
+      "decision",
+      "extent",
+      "international income"
+    ],
+    "id": "pub.1120028256",
+    "issn": [
+      "1061-9518",
+      "1879-1603"
+    ],
+    "research_org_country_names": [
+      "Portugal"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1045908222",
+      "pub.1016526984",
+      "pub.1021223769",
+      "pub.1006125312",
+      "pub.1036860187",
+      "pub.1019689257",
+      "pub.1009789709",
+      "pub.1008828581",
+      "pub.1068329262",
+      "pub.1003900238",
+      "pub.1023555929",
+      "pub.1006365017",
+      "pub.1068328960",
+      "pub.1015555732",
+      "pub.1036596214",
+      "pub.1072843840",
+      "pub.1068329300",
+      "pub.1013567390",
+      "pub.1006397512",
+      "pub.1010888846",
+      "pub.1022012898",
+      "pub.1050413381",
+      "pub.1033899294",
+      "pub.1030018986",
+      "pub.1047209497",
+      "pub.1040108086",
+      "pub.1007181936",
+      "pub.1091807880",
+      "pub.1026199770",
+      "pub.1012131981",
+      "pub.1003895273",
+      "pub.1001261409",
+      "pub.1030250107"
+    ],
+    "references": [
+      "pub.1045908222",
+      "pub.1016526984",
+      "pub.1021223769",
+      "pub.1006125312",
+      "pub.1036860187",
+      "pub.1019689257",
+      "pub.1009789709",
+      "pub.1008828581",
+      "pub.1068329262",
+      "pub.1003900238",
+      "pub.1023555929",
+      "pub.1006365017",
+      "pub.1068328960",
+      "pub.1015555732",
+      "pub.1036596214",
+      "pub.1072843840",
+      "pub.1068329300",
+      "pub.1013567390",
+      "pub.1006397512",
+      "pub.1010888846",
+      "pub.1022012898",
+      "pub.1050413381",
+      "pub.1033899294",
+      "pub.1030018986",
+      "pub.1047209497",
+      "pub.1040108086",
+      "pub.1007181936",
+      "pub.1091807880",
+      "pub.1026199770",
+      "pub.1012131981",
+      "pub.1003895273",
+      "pub.1001261409",
+      "pub.1030250107"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3326",
+        "name": "1501 Accounting, Auditing and Accountability"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "date_inserted": "2019-08-03",
+    "title": "The effect of international income shifting on the link between real investment and corporate taxation",
+    "authors": [
+      {
+        "first_name": "M\u00e1rio",
+        "last_name": "Marques",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.10328.38",
+            "name": "University of Minho",
+            "city": "Braga",
+            "city_id": 2742032,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Carlos",
+        "last_name": "Pinho",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.7311.4",
+            "name": "University of Aveiro",
+            "city": "Aveiro",
+            "city_id": 2742611,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "T\u00e2nia Menezes",
+        "last_name": "Montenegro",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.10328.38",
+            "name": "University of Minho",
+            "city": "Braga",
+            "city_id": 2742032,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "M\u00e1rio",
+          "last_name": "Marques",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10328.38",
+              "name": "University of Minho",
+              "city": "Braga",
+              "city_id": 2742032,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Carlos",
+          "last_name": "Pinho",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.7311.4",
+              "name": "University of Aveiro",
+              "city": "Aveiro",
+              "city_id": 2742611,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "T\u00e2nia Menezes",
+          "last_name": "Montenegro",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10328.38",
+              "name": "University of Minho",
+              "city": "Braga",
+              "city_id": 2742032,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2742032,
+        "name": "Braga"
+      },
+      {
+        "id": 2742611,
+        "name": "Aveiro"
+      }
+    ],
+    "publisher": "Elsevier",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "100268",
+    "doi": "10.1016/j.intaccaudtax.2019.100268",
+    "dimensions_id": "pub.1120028256",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-07-13",
+    "title": "International trade in services: firm-level evidence for Portugal",
+    "FOR": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.432360.0",
+        "name": "Bank of Portugal",
+        "country_name": "Portugal"
+      },
+      {
+        "id": "grid.10772.33",
+        "acronym": "NOVA",
+        "name": "Universidade Nova de Lisboa",
+        "country_name": "Portugal"
+      }
+    ],
+    "id": "pub.1117938493",
+    "journal": {
+      "id": "jour.1136477",
+      "title": "Portuguese Economic Journal"
+    },
+    "research_org_country_names": [
+      "Portugal"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "1617-982X",
+      "1617-9838"
+    ],
+    "altmetric_id": 63411596,
+    "pages": "1-37",
+    "authors": [
+      {
+        "first_name": "Jo\u00e3o",
+        "last_name": "Amador",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.432360.0",
+            "name": "Banco de Portugal",
+            "city": "Lisbon",
+            "city_id": 2267057,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.10772.33",
+            "name": "Universidade Nova de Lisboa",
+            "city": "Lisbon",
+            "city_id": 2267057,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "S\u00f3nia",
+        "last_name": "Cabral",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.432360.0",
+            "name": "Banco de Portugal",
+            "city": "Lisbon",
+            "city_id": 2267057,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Birgitte",
+        "last_name": "Ringstad",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.10772.33",
+            "name": "Universidade Nova de Lisboa",
+            "city": "Lisbon",
+            "city_id": 2267057,
+            "country": "Portugal",
+            "country_code": "PT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Jo\u00e3o",
+          "last_name": "Amador",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.432360.0",
+              "name": "Banco de Portugal",
+              "city": "Lisbon",
+              "city_id": 2267057,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.10772.33",
+              "name": "Universidade Nova de Lisboa",
+              "city": "Lisbon",
+              "city_id": 2267057,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "S\u00f3nia",
+          "last_name": "Cabral",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.432360.0",
+              "name": "Banco de Portugal",
+              "city": "Lisbon",
+              "city_id": 2267057,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Birgitte",
+          "last_name": "Ringstad",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10772.33",
+              "name": "Universidade Nova de Lisboa",
+              "city": "Lisbon",
+              "city_id": 2267057,
+              "country": "Portugal",
+              "country_code": "PT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2267057,
+        "name": "Lisbon"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-07-11",
+    "reference_ids": [
+      "pub.1003546166",
+      "pub.1009760386",
+      "pub.1042033346",
+      "pub.1052796234",
+      "pub.1014174203",
+      "pub.1001749102",
+      "pub.1071419053",
+      "pub.1064529087",
+      "pub.1096022215",
+      "pub.1071420023",
+      "pub.1005632218",
+      "pub.1011415238",
+      "pub.1106959444",
+      "pub.1042975006"
+    ],
+    "references": [
+      "pub.1003546166",
+      "pub.1009760386",
+      "pub.1042033346",
+      "pub.1052796234",
+      "pub.1014174203",
+      "pub.1001749102",
+      "pub.1071419053",
+      "pub.1064529087",
+      "pub.1096022215",
+      "pub.1071420023",
+      "pub.1005632218",
+      "pub.1011415238",
+      "pub.1106959444",
+      "pub.1042975006"
+    ],
+    "doi": "10.1007/s10258-019-00161-4",
+    "year": 2019,
+    "type": "article",
+    "altmetric": 2,
+    "terms": [
+      "paper",
+      "equity",
+      "firms\u2019 performance",
+      "imports",
+      "trade flows",
+      "margin",
+      "high share",
+      "portfolio",
+      "trade",
+      "traders",
+      "intensive margin",
+      "tourism services",
+      "substantial share",
+      "level evidence",
+      "firms",
+      "profitability",
+      "international trade",
+      "performance",
+      "sheet data",
+      "way traders",
+      "foreign equity",
+      "export",
+      "firms\u2019 characteristics",
+      "extensive margin",
+      "literature",
+      "characteristics",
+      "accordance",
+      "one-way traders",
+      "evidence",
+      "diversified services",
+      "two-way traders",
+      "share",
+      "balance-sheet data",
+      "data",
+      "services",
+      "firm-level evidence",
+      "productivity"
+    ],
+    "concepts": [
+      "paper",
+      "equity",
+      "firms\u2019 performance",
+      "imports",
+      "trade flows",
+      "margin",
+      "high share",
+      "portfolio",
+      "trade",
+      "traders",
+      "intensive margin",
+      "tourism services",
+      "substantial share",
+      "level evidence",
+      "firms",
+      "profitability",
+      "international trade",
+      "performance",
+      "sheet data",
+      "way traders",
+      "foreign equity",
+      "export",
+      "firms\u2019 characteristics",
+      "extensive margin",
+      "literature",
+      "characteristics",
+      "accordance",
+      "one-way traders",
+      "evidence",
+      "diversified services",
+      "two-way traders",
+      "share",
+      "balance-sheet data",
+      "data",
+      "services",
+      "firm-level evidence",
+      "productivity"
+    ],
+    "research_org_countries": [
+      {
+        "id": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "dimensions_id": "pub.1117938493",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-07-02",
+    "id": "pub.1117629581",
+    "issn": [
+      "23130857"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "date_inserted": "2019-06-30",
+    "volume": "2019",
+    "title": "Conventional signs and abbreviations",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "issue": "1",
+    "type": "article",
+    "pages": "5-5",
+    "doi": "10.1787/1ac4afde-en",
+    "dimensions_id": "pub.1117629581",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-08-26",
+    "title": "Composition, definitions & methodology",
+    "id": "pub.1120509529",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "WTO",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "WTO",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-07-01",
+    "doi": "10.30875/0daed836-en",
+    "year": 2019,
+    "type": "article",
+    "dimensions_id": "pub.1120509529",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-06-11",
+    "terms": [
+      "G20",
+      "commerce",
+      "develop countries",
+      "private sector",
+      "participants",
+      "request",
+      "sector",
+      "countries",
+      "enterprises",
+      "least-developed countries",
+      "International Chamber",
+      "large enterprises",
+      "business arm",
+      "Argentina",
+      "meeting"
+    ],
+    "concepts": [
+      "G20",
+      "commerce",
+      "develop countries",
+      "private sector",
+      "participants",
+      "request",
+      "sector",
+      "countries",
+      "enterprises",
+      "least-developed countries",
+      "International Chamber",
+      "large enterprises",
+      "business arm",
+      "Argentina",
+      "meeting"
+    ],
+    "id": "pub.1117385103",
+    "issn": [
+      "2519-3082",
+      "25193082"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "Annual Report",
+    "date_inserted": "2019-06-23",
+    "title": "Outreach",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "WTO",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "WTO",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "World Trade Organization",
+    "type": "chapter",
+    "pages": "144-169",
+    "book_doi": "10.30875/a26cc32a-en",
+    "doi": "10.30875/fa6e1829-en",
+    "book_title": "Annual Report 2019",
+    "dimensions_id": "pub.1117385103",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "altmetric_id": 60007329,
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1113957608",
+    "date": "2019-05-01",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2307-1672"
+    ],
+    "doi": "10.1787/d6072d28-en",
+    "title": "Providing new OECD evidence on tourism trade in value added",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "altmetric": 2,
+    "type": "article",
+    "date_inserted": "2019-05-10",
+    "concepts": [
+      "Added",
+      "chain",
+      "countries",
+      "Tourism Satellite Account",
+      "Portugal",
+      "trade",
+      "strategic objectives",
+      "economics",
+      "impact",
+      "satellite accounts",
+      "input",
+      "tourism",
+      "output",
+      "United Kingdom",
+      "first attempt",
+      "TIVA",
+      "country analysis",
+      "infrastructure",
+      "work",
+      "progress",
+      "Kingdom",
+      "National Statistics",
+      "values",
+      "Value Added",
+      "policy makers",
+      "future policy",
+      "challenges",
+      "value chain",
+      "OECD work",
+      "Canada",
+      "account",
+      "action",
+      "makers",
+      "significant work",
+      "economic growth",
+      "statistics",
+      "roadmap",
+      "evidence",
+      "policy",
+      "perspective",
+      "deeper understanding",
+      "data",
+      "tourism economics",
+      "priority actions",
+      "understanding",
+      "inter-country input",
+      "analysis",
+      "growth",
+      "competitiveness",
+      "tourism trade",
+      "tourism data",
+      "economic impact",
+      "benefits",
+      "attempt"
+    ],
+    "terms": [
+      "Added",
+      "chain",
+      "countries",
+      "Tourism Satellite Account",
+      "Portugal",
+      "trade",
+      "strategic objectives",
+      "economics",
+      "impact",
+      "satellite accounts",
+      "input",
+      "tourism",
+      "output",
+      "United Kingdom",
+      "first attempt",
+      "TIVA",
+      "country analysis",
+      "infrastructure",
+      "work",
+      "progress",
+      "Kingdom",
+      "National Statistics",
+      "values",
+      "Value Added",
+      "policy makers",
+      "future policy",
+      "challenges",
+      "value chain",
+      "OECD work",
+      "Canada",
+      "account",
+      "action",
+      "makers",
+      "significant work",
+      "economic growth",
+      "statistics",
+      "roadmap",
+      "evidence",
+      "policy",
+      "perspective",
+      "deeper understanding",
+      "data",
+      "tourism economics",
+      "priority actions",
+      "understanding",
+      "inter-country input",
+      "analysis",
+      "growth",
+      "competitiveness",
+      "tourism trade",
+      "tourism data",
+      "economic impact",
+      "benefits",
+      "attempt"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1113957608",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1113415061",
+    "date": "2019-04-01",
+    "pages": "5-6",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2313-0857"
+    ],
+    "doi": "10.1787/9c15fcc0-en",
+    "title": "Conventional signs and abbreviations",
+    "type": "article",
+    "date_inserted": "2019-04-14",
+    "year": 2019,
+    "volume": "2018",
+    "issue": "4",
+    "dimensions_id": "pub.1113415061",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-03-01",
+    "terms": [
+      "values",
+      "services",
+      "policy",
+      "trade policy",
+      "levels",
+      "world trade",
+      "export",
+      "trade",
+      "secondary role",
+      "commitment",
+      "service commitments",
+      "terms",
+      "services trade policies",
+      "role",
+      "development",
+      "countries"
+    ],
+    "concepts": [
+      "values",
+      "services",
+      "policy",
+      "trade policy",
+      "levels",
+      "world trade",
+      "export",
+      "trade",
+      "secondary role",
+      "commitment",
+      "service commitments",
+      "terms",
+      "services trade policies",
+      "role",
+      "development",
+      "countries"
+    ],
+    "id": "pub.1113928231",
+    "issn": [
+      "2518-9808"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1000966007",
+      "pub.1106359737",
+      "pub.1107161418",
+      "pub.1012078820",
+      "pub.1043926395",
+      "pub.1110342817",
+      "pub.1102440135",
+      "pub.1051430510",
+      "pub.1048726817",
+      "pub.1021749155",
+      "pub.1000078969",
+      "pub.1003708360",
+      "pub.1054936727",
+      "pub.1107177913",
+      "pub.1004290405"
+    ],
+    "references": [
+      "pub.1000966007",
+      "pub.1106359737",
+      "pub.1107161418",
+      "pub.1012078820",
+      "pub.1043926395",
+      "pub.1110342817",
+      "pub.1102440135",
+      "pub.1051430510",
+      "pub.1048726817",
+      "pub.1021749155",
+      "pub.1000078969",
+      "pub.1003708360",
+      "pub.1054936727",
+      "pub.1107177913",
+      "pub.1004290405"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2019-05-10",
+    "title": "Services Trade Policy, WTO Commitments, and their Role in Economic Development and Trade Integration",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "WTO",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "WTO",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "doi": "10.30875/9ac21df6-en",
+    "dimensions_id": "pub.1113928231",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2019-03-01",
+    "research_orgs": [
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      }
+    ],
+    "journal": {
+      "id": "jour.1027659",
+      "title": "Journal of International Economics"
+    },
+    "terms": [
+      "theory",
+      "employment",
+      "service workers",
+      "job",
+      "supply shocks",
+      "question",
+      "developed countries",
+      "employment effects",
+      "firm employment",
+      "instrumental variables",
+      "effect",
+      "countries",
+      "panel dataset",
+      "levels",
+      "model",
+      "services",
+      "employment gains",
+      "offshoring",
+      "service offshoring",
+      "technological advances",
+      "partner country",
+      "firms",
+      "job loss",
+      "service type",
+      "workers",
+      "services imports",
+      "efficiency gains",
+      "new wave",
+      "paper",
+      "detailed panel dataset",
+      "higher initial levels",
+      "trade theory",
+      "shock",
+      "dataset",
+      "answers",
+      "imports",
+      "trade",
+      "variables",
+      "initial level",
+      "gain",
+      "entire universe",
+      "net effect"
+    ],
+    "concepts": [
+      "theory",
+      "employment",
+      "service workers",
+      "job",
+      "supply shocks",
+      "question",
+      "developed countries",
+      "employment effects",
+      "firm employment",
+      "instrumental variables",
+      "effect",
+      "countries",
+      "panel dataset",
+      "levels",
+      "model",
+      "services",
+      "employment gains",
+      "offshoring",
+      "service offshoring",
+      "technological advances",
+      "partner country",
+      "firms",
+      "job loss",
+      "service type",
+      "workers",
+      "services imports",
+      "efficiency gains",
+      "new wave",
+      "paper",
+      "detailed panel dataset",
+      "higher initial levels",
+      "trade theory",
+      "shock",
+      "dataset",
+      "answers",
+      "imports",
+      "trade",
+      "variables",
+      "initial level",
+      "gain",
+      "entire universe",
+      "net effect"
+    ],
+    "id": "pub.1111599247",
+    "issn": [
+      "0022-1996",
+      "1873-0353"
+    ],
+    "researchers": [
+      {
+        "id": "ur.07630005111.45",
+        "last_name": "Eppinger",
+        "orcid_id": [
+          "0000-0002-8460-544X"
+        ],
+        "research_orgs": [
+          "grid.10392.39",
+          "grid.435512.4"
+        ],
+        "first_name": "Peter S"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1058674470",
+      "pub.1043664479",
+      "pub.1064525172",
+      "pub.1014682844",
+      "pub.1034676408",
+      "pub.1046935288",
+      "pub.1064526234",
+      "pub.1064529087",
+      "pub.1028959858",
+      "pub.1064527848",
+      "pub.1043071967",
+      "pub.1064525301",
+      "pub.1050510113",
+      "pub.1069640134",
+      "pub.1000369124",
+      "pub.1010753985",
+      "pub.1034193317",
+      "pub.1035062991",
+      "pub.1042033346",
+      "pub.1073319806",
+      "pub.1015733727",
+      "pub.1002354513",
+      "pub.1064526098",
+      "pub.1045632401",
+      "pub.1070155007",
+      "pub.1069869282",
+      "pub.1063349145",
+      "pub.1032100953",
+      "pub.1059949045",
+      "pub.1012415843",
+      "pub.1052796234",
+      "pub.1032397799",
+      "pub.1014390860",
+      "pub.1006680116",
+      "pub.1064523858",
+      "pub.1003024114",
+      "pub.1058852976",
+      "pub.1102750489",
+      "pub.1029060416",
+      "pub.1091468128",
+      "pub.1036301279",
+      "pub.1032044127",
+      "pub.1005632218",
+      "pub.1044764755",
+      "pub.1035308190",
+      "pub.1015240354",
+      "pub.1019074406"
+    ],
+    "references": [
+      "pub.1058674470",
+      "pub.1043664479",
+      "pub.1064525172",
+      "pub.1014682844",
+      "pub.1034676408",
+      "pub.1046935288",
+      "pub.1064526234",
+      "pub.1064529087",
+      "pub.1028959858",
+      "pub.1064527848",
+      "pub.1043071967",
+      "pub.1064525301",
+      "pub.1050510113",
+      "pub.1069640134",
+      "pub.1000369124",
+      "pub.1010753985",
+      "pub.1034193317",
+      "pub.1035062991",
+      "pub.1042033346",
+      "pub.1073319806",
+      "pub.1015733727",
+      "pub.1002354513",
+      "pub.1064526098",
+      "pub.1045632401",
+      "pub.1070155007",
+      "pub.1069869282",
+      "pub.1063349145",
+      "pub.1032100953",
+      "pub.1059949045",
+      "pub.1012415843",
+      "pub.1052796234",
+      "pub.1032397799",
+      "pub.1014390860",
+      "pub.1006680116",
+      "pub.1064523858",
+      "pub.1003024114",
+      "pub.1058852976",
+      "pub.1102750489",
+      "pub.1029060416",
+      "pub.1091468128",
+      "pub.1036301279",
+      "pub.1032044127",
+      "pub.1005632218",
+      "pub.1044764755",
+      "pub.1035308190",
+      "pub.1015240354",
+      "pub.1019074406"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2019-01-29",
+    "volume": "117",
+    "times_cited": 1,
+    "title": "Service Offshoring and firm Employment",
+    "authors": [
+      {
+        "first_name": "Peter S.",
+        "last_name": "Eppinger",
+        "orcid": "['0000-0002-8460-544X']",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.07630005111.45",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Peter S.",
+          "last_name": "Eppinger",
+          "orcid": "['0000-0002-8460-544X']",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.07630005111.45",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.424150.6",
+        "acronym": "DFG",
+        "name": "German Research Foundation",
+        "country_name": "Germany"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/170715/1/1001210670.pdf",
+    "publisher": "Elsevier",
+    "issue": "Econometrica 76 6 2008",
+    "recent_citations": 1,
+    "altmetric": 1,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "altmetric_id": 54601479,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "209-228",
+    "doi": "10.1016/j.jinteco.2019.01.007",
+    "dimensions_id": "pub.1111599247",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112552329",
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-07",
+    "title": "Travel",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/3d161a3d-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112552329",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112552261",
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-07",
+    "title": "Transport",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/26bbf5fc-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112552261",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1112437522",
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "date": "2019-02-22",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2225-7993",
+      "2225-8000"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/ad3fc87c-en",
+    "title": "Norway",
+    "type": "chapter",
+    "date_inserted": "2019-03-02",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "year": 2019,
+    "dimensions_id": "pub.1112437522",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1112438341",
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "date": "2019-02-22",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2225-7993",
+      "2225-8000"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/4b1ae77c-en",
+    "title": "Latvia",
+    "type": "chapter",
+    "date_inserted": "2019-03-02",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "year": 2019,
+    "dimensions_id": "pub.1112438341",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1112435102",
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "date": "2019-02-22",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2225-7993",
+      "2225-8000"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/fe5ac509-en",
+    "title": "Luxembourg",
+    "type": "chapter",
+    "date_inserted": "2019-03-02",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "year": 2019,
+    "dimensions_id": "pub.1112435102",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112552759",
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-07",
+    "title": "Travel",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/ea83a639-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112552759",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112552307",
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-07",
+    "title": "Transport",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/3761476b-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112552307",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "id": "pub.1112552609",
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "date": "2019-02-22",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/ac7773e8-en",
+    "title": "Travel",
+    "type": "chapter",
+    "date_inserted": "2019-03-07",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "year": 2019,
+    "dimensions_id": "pub.1112552609",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112552257",
+    "issn": [
+      "2225-7993",
+      "2225-8000",
+      "22258000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-07",
+    "title": "Transport",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/25a22c09-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112552257",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1112437874",
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "date": "2019-02-22",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "2225-7993",
+      "2225-8000"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/951831a0-en",
+    "title": "Canada",
+    "type": "chapter",
+    "date_inserted": "2019-03-02",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "year": 2019,
+    "dimensions_id": "pub.1112437874",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-02-22",
+    "id": "pub.1112441019",
+    "issn": [
+      "2225-7993",
+      "2225-8000"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "book_series_title": "OECD Statistics on International Trade in Services",
+    "date_inserted": "2019-03-02",
+    "title": "Denmark",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "type": "chapter",
+    "book_doi": "10.1787/sits-v2018-2-en",
+    "doi": "10.1787/0ecef091-en",
+    "book_title": "OECD Statistics on International Trade in Services, Volume 2018 Issue 2",
+    "dimensions_id": "pub.1112441019",
+    "related_dataset_name": "Statistics on International Trade in Services",
+    "related_dataset": "dataset-15463a41beb6ae1cb5cd",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

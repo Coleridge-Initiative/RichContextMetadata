@@ -1,0 +1,5665 @@
+[
+  {
+    "date_inserted": "2017-08-31",
+    "recent_citations": 1,
+    "title": "Withdrawal from Foreign Lending in the Financial Crisis by Parent Banks and Their Branches and Subsidiaries: Supply Versus Demand Effects",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1010932535",
+    "journal": {
+      "id": "jour.1136774",
+      "title": "Journal of Financial Services Research"
+    },
+    "researchers": [
+      {
+        "id": "ur.010463670477.01",
+        "last_name": "Frey",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Rainer"
+      },
+      {
+        "id": "ur.012654212077.91",
+        "last_name": "Kerl",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Cornelia"
+      },
+      {
+        "id": "ur.012100323661.11",
+        "last_name": "Lipponer",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Alexander"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "0920-8550",
+      "1573-0735"
+    ],
+    "pages": "1-48",
+    "authors": [
+      {
+        "first_name": "Rainer",
+        "last_name": "Frey",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.010463670477.01",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Cornelia",
+        "last_name": "Kerl",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.012654212077.91",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Alexander",
+        "last_name": "Lipponer",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.012100323661.11",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Rainer",
+          "last_name": "Frey",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.010463670477.01",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Cornelia",
+          "last_name": "Kerl",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.012654212077.91",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Lipponer",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.012100323661.11",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-08-01",
+    "reference_ids": [
+      "pub.1017069097",
+      "pub.1006025988",
+      "pub.1064525673",
+      "pub.1007110467",
+      "pub.1070020846",
+      "pub.1047522526",
+      "pub.1060006566",
+      "pub.1064525672",
+      "pub.1043510150",
+      "pub.1013345017",
+      "pub.1042039419",
+      "pub.1000044129",
+      "pub.1102276903",
+      "pub.1024999978",
+      "pub.1070466432",
+      "pub.1040391677",
+      "pub.1029531523",
+      "pub.1013519831",
+      "pub.1037397937",
+      "pub.1014076522",
+      "pub.1009745985"
+    ],
+    "references": [
+      "pub.1017069097",
+      "pub.1006025988",
+      "pub.1064525673",
+      "pub.1007110467",
+      "pub.1070020846",
+      "pub.1047522526",
+      "pub.1060006566",
+      "pub.1064525672",
+      "pub.1043510150",
+      "pub.1013345017",
+      "pub.1042039419",
+      "pub.1000044129",
+      "pub.1102276903",
+      "pub.1024999978",
+      "pub.1070466432",
+      "pub.1040391677",
+      "pub.1029531523",
+      "pub.1013519831",
+      "pub.1037397937",
+      "pub.1014076522",
+      "pub.1009745985"
+    ],
+    "doi": "10.1007/s10693-016-0260-3",
+    "year": 2018,
+    "type": "article",
+    "volume": "54",
+    "times_cited": 2,
+    "terms": [
+      "aversion",
+      "affiliates",
+      "active banks",
+      "loans",
+      "countries\u2019 demand",
+      "risk aversion",
+      "risk characteristics",
+      "Lehman Brothers",
+      "demand",
+      "determinants",
+      "supply-side determinants",
+      "collapse",
+      "cross-border lending",
+      "greater risk aversion",
+      "factors",
+      "Tier I",
+      "different channels",
+      "German banks",
+      "foreign lending",
+      "data",
+      "specific factors",
+      "subsidiaries",
+      "brothers",
+      "banks",
+      "parent banks",
+      "bank-specific factors",
+      "independent subsidiaries",
+      "crisis",
+      "characteristics",
+      "status",
+      "lending",
+      "financial crisis"
+    ],
+    "concepts": [
+      "aversion",
+      "affiliates",
+      "active banks",
+      "loans",
+      "countries\u2019 demand",
+      "risk aversion",
+      "risk characteristics",
+      "Lehman Brothers",
+      "demand",
+      "determinants",
+      "supply-side determinants",
+      "collapse",
+      "cross-border lending",
+      "greater risk aversion",
+      "factors",
+      "Tier I",
+      "different channels",
+      "German banks",
+      "foreign lending",
+      "data",
+      "specific factors",
+      "subsidiaries",
+      "brothers",
+      "banks",
+      "parent banks",
+      "bank-specific factors",
+      "independent subsidiaries",
+      "crisis",
+      "characteristics",
+      "status",
+      "lending",
+      "financial crisis"
+    ],
+    "issue": "1",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3326",
+        "name": "1501 Accounting, Auditing and Accountability"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "dimensions_id": "pub.1010932535",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 3,
+    "altmetric_id": 42227493,
+    "field_citation_ratio": 4.05,
+    "authors": [
+      {
+        "first_name": "Photis",
+        "last_name": "Lysandrou",
+        "orcid": "",
+        "current_organization_id": "grid.28577.3f",
+        "researcher_id": "ur.012771705757.59",
+        "affiliations": [
+          {
+            "id": "grid.28577.3f",
+            "name": "City, University of London",
+            "city": "London",
+            "city_id": 2643743,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Anastasia",
+        "last_name": "Nesvetailova",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011427140551.39",
+        "affiliations": [
+          {
+            "name": "Department of International Politics, City, University of London, London, United Kingdom. E-mail: a.nesvetailova@city.ac.ukView further author information"
+          }
+        ]
+      },
+      {
+        "first_name": "Ronen",
+        "last_name": "Palan",
+        "orcid": "",
+        "current_organization_id": "grid.28577.3f",
+        "researcher_id": "ur.012777104253.22",
+        "affiliations": [
+          {
+            "name": "Department of International Politics, City, University of London, London, United Kingdom. E-mail: ronen.palan.1@city.ac.ukView further author information"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Photis",
+          "last_name": "Lysandrou",
+          "orcid": "",
+          "current_organization_id": "grid.28577.3f",
+          "researcher_id": "ur.012771705757.59",
+          "affiliations": [
+            {
+              "id": "grid.28577.3f",
+              "name": "City, University of London",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Anastasia",
+          "last_name": "Nesvetailova",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011427140551.39",
+          "affiliations": [
+            {
+              "name": "Department of International Politics, City, University of London, London, United Kingdom. E-mail: a.nesvetailova@city.ac.ukView further author information"
+            }
+          ]
+        },
+        {
+          "first_name": "Ronen",
+          "last_name": "Palan",
+          "orcid": "",
+          "current_organization_id": "grid.28577.3f",
+          "researcher_id": "ur.012777104253.22",
+          "affiliations": [
+            {
+              "name": "Department of International Politics, City, University of London, London, United Kingdom. E-mail: ronen.palan.1@city.ac.ukView further author information"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2643741,
+        "name": "City of London"
+      },
+      {
+        "id": 2643743,
+        "name": "London"
+      }
+    ],
+    "id": "pub.1091943246",
+    "research_org_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "date": "2017-04-03",
+    "pages": "159-184",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 2,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "issn": [
+      "1227-1373",
+      "1469-5766",
+      "0308-5147"
+    ],
+    "publisher": "Taylor & Francis",
+    "doi": "10.1080/03085147.2017.1359915",
+    "journal": {
+      "id": "jour.1028218",
+      "title": "Economy and Society"
+    },
+    "title": "The best of both worlds: scale economies and discriminatory policies in London\u2019s global financial centre",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric": 18,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012771705757.59",
+        "last_name": "Lysandrou",
+        "research_orgs": [
+          "grid.9909.9",
+          "grid.28577.3f",
+          "grid.23231.31"
+        ],
+        "first_name": "Photis"
+      },
+      {
+        "id": "ur.011427140551.39",
+        "last_name": "Nesvetailova",
+        "research_orgs": [
+          "grid.10025.36",
+          "grid.12082.39",
+          "grid.28577.3f"
+        ],
+        "first_name": "Anastasia"
+      },
+      {
+        "id": "ur.012777104253.22",
+        "last_name": "Palan",
+        "research_orgs": [
+          "grid.28577.3f",
+          "grid.12082.39"
+        ],
+        "first_name": "Ronen Peter"
+      }
+    ],
+    "linkout": "http://openaccess.city.ac.uk/18442/8/Best%20of%20both%20worlds%20version%2010.pdf",
+    "research_org_country_names": [
+      "United Kingdom"
+    ],
+    "date_inserted": "2017-09-28",
+    "concepts": [
+      "way",
+      "top spot",
+      "economic backing",
+      "phenomenon",
+      "political set",
+      "hub",
+      "OTC",
+      "collateral management",
+      "anything",
+      "financial hub",
+      "market",
+      "assets",
+      "international loans",
+      "backing",
+      "theory",
+      "practice",
+      "analysis",
+      "scale economies",
+      "York",
+      "international financial centre",
+      "financial centers",
+      "central claim",
+      "financial supremacy",
+      "set",
+      "loans",
+      "claims",
+      "global financial hub",
+      "area",
+      "early 1960s",
+      "paper",
+      "advantages",
+      "forex",
+      "classic analysis",
+      "supremacy",
+      "London",
+      "derivatives markets",
+      "economy",
+      "case study",
+      "order",
+      "recent theories",
+      "New York",
+      "business practices",
+      "international hub",
+      "management"
+    ],
+    "terms": [
+      "way",
+      "top spot",
+      "economic backing",
+      "phenomenon",
+      "political set",
+      "hub",
+      "OTC",
+      "collateral management",
+      "anything",
+      "financial hub",
+      "market",
+      "assets",
+      "international loans",
+      "backing",
+      "theory",
+      "practice",
+      "analysis",
+      "scale economies",
+      "York",
+      "international financial centre",
+      "financial centers",
+      "central claim",
+      "financial supremacy",
+      "set",
+      "loans",
+      "claims",
+      "global financial hub",
+      "area",
+      "early 1960s",
+      "paper",
+      "advantages",
+      "forex",
+      "classic analysis",
+      "supremacy",
+      "London",
+      "derivatives markets",
+      "economy",
+      "case study",
+      "order",
+      "recent theories",
+      "New York",
+      "business practices",
+      "international hub",
+      "management"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3432",
+        "name": "1606 Political Science"
+      },
+      {
+        "id": "3448",
+        "name": "1608 Sociology"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.28577.3f",
+        "name": "City, University of London",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "references": [
+      "pub.1072582496",
+      "pub.1042915112",
+      "pub.1073328559",
+      "pub.1098688053",
+      "pub.1098483954",
+      "pub.1109448455",
+      "pub.1046996883",
+      "pub.1021865693",
+      "pub.1032586880",
+      "pub.1029006701",
+      "pub.1046773273",
+      "pub.1020364408",
+      "pub.1028790385",
+      "pub.1008248688",
+      "pub.1052651732",
+      "pub.1040157154",
+      "pub.1042611073",
+      "pub.1007569294",
+      "pub.1022246420"
+    ],
+    "reference_ids": [
+      "pub.1072582496",
+      "pub.1042915112",
+      "pub.1073328559",
+      "pub.1098688053",
+      "pub.1098483954",
+      "pub.1109448455",
+      "pub.1046996883",
+      "pub.1021865693",
+      "pub.1032586880",
+      "pub.1029006701",
+      "pub.1046773273",
+      "pub.1020364408",
+      "pub.1028790385",
+      "pub.1008248688",
+      "pub.1052651732",
+      "pub.1040157154",
+      "pub.1042611073",
+      "pub.1007569294",
+      "pub.1022246420"
+    ],
+    "research_org_state_names": [
+      "England"
+    ],
+    "volume": "46",
+    "issue": "2",
+    "dimensions_id": "pub.1091943246",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2017-01-01",
+    "research_orgs": [
+      {
+        "id": "grid.252890.4",
+        "name": "Baylor University",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.7563.7",
+        "acronym": "UNIMIB",
+        "name": "University of Milano-Bicocca",
+        "country_name": "Italy"
+      }
+    ],
+    "journal": {
+      "id": "jour.1138994",
+      "title": "Journal of International Financial Markets Institutions and Money"
+    },
+    "terms": [
+      "empirical implications",
+      "theory's implications",
+      "trade patterns",
+      "imports",
+      "trade",
+      "expense",
+      "resources",
+      "implications",
+      "export position",
+      "countries",
+      "theory",
+      "international bank loans",
+      "view",
+      "international banking",
+      "capital resources",
+      "deposit services",
+      "labor",
+      "analysis",
+      "perspective",
+      "net export position",
+      "lending",
+      "physical capital resources",
+      "relationship",
+      "paper",
+      "banking system",
+      "systematic relationship",
+      "market",
+      "importance",
+      "bank loans",
+      "net export",
+      "fundamental role",
+      "banking",
+      "loans",
+      "deposit market",
+      "role",
+      "data",
+      "export",
+      "provision",
+      "position",
+      "services",
+      "capital intensity"
+    ],
+    "concepts": [
+      "empirical implications",
+      "theory's implications",
+      "trade patterns",
+      "imports",
+      "trade",
+      "expense",
+      "resources",
+      "implications",
+      "export position",
+      "countries",
+      "theory",
+      "international bank loans",
+      "view",
+      "international banking",
+      "capital resources",
+      "deposit services",
+      "labor",
+      "analysis",
+      "perspective",
+      "net export position",
+      "lending",
+      "physical capital resources",
+      "relationship",
+      "paper",
+      "banking system",
+      "systematic relationship",
+      "market",
+      "importance",
+      "bank loans",
+      "net export",
+      "fundamental role",
+      "banking",
+      "loans",
+      "deposit market",
+      "role",
+      "data",
+      "export",
+      "provision",
+      "position",
+      "services",
+      "capital intensity"
+    ],
+    "id": "pub.1022481629",
+    "issn": [
+      "1042-4431",
+      "1873-0612"
+    ],
+    "researchers": [
+      {
+        "id": "ur.012460233663.65",
+        "last_name": "Dia",
+        "orcid_id": [
+          "0000-0002-4602-4011"
+        ],
+        "research_orgs": [
+          "grid.252890.4",
+          "grid.7563.7"
+        ],
+        "first_name": "Enzo"
+      },
+      {
+        "id": "ur.07462765263.10",
+        "last_name": "Vanhoose",
+        "research_orgs": [
+          "grid.264484.8",
+          "grid.431393.f",
+          "grid.411015.0",
+          "grid.7563.7",
+          "grid.265892.2",
+          "grid.252890.4",
+          "grid.411377.7"
+        ],
+        "first_name": "David D"
+      }
+    ],
+    "research_org_country_names": [
+      "Italy",
+      "United States"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1060004827",
+      "pub.1015729274",
+      "pub.1069688124",
+      "pub.1019718980",
+      "pub.1036117876",
+      "pub.1060065036",
+      "pub.1028975582",
+      "pub.1064525671",
+      "pub.1047492082",
+      "pub.1052016115",
+      "pub.1007110467",
+      "pub.1050084009",
+      "pub.1025586284",
+      "pub.1004478761",
+      "pub.1015222429",
+      "pub.1004198066",
+      "pub.1004212425",
+      "pub.1019063017",
+      "pub.1053248515",
+      "pub.1006025988",
+      "pub.1110073504",
+      "pub.1005073062",
+      "pub.1109733145",
+      "pub.1069688116",
+      "pub.1008477731"
+    ],
+    "references": [
+      "pub.1060004827",
+      "pub.1015729274",
+      "pub.1069688124",
+      "pub.1019718980",
+      "pub.1036117876",
+      "pub.1060065036",
+      "pub.1028975582",
+      "pub.1064525671",
+      "pub.1047492082",
+      "pub.1052016115",
+      "pub.1007110467",
+      "pub.1050084009",
+      "pub.1025586284",
+      "pub.1004478761",
+      "pub.1015222429",
+      "pub.1004198066",
+      "pub.1004212425",
+      "pub.1019063017",
+      "pub.1053248515",
+      "pub.1006025988",
+      "pub.1110073504",
+      "pub.1005073062",
+      "pub.1109733145",
+      "pub.1069688116",
+      "pub.1008477731"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      },
+      {
+        "id": "IT",
+        "name": "Italy"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "46",
+    "times_cited": 5,
+    "title": "Capital intensities and international trade in banking services",
+    "authors": [
+      {
+        "first_name": "Enzo",
+        "last_name": "Dia",
+        "orcid": "['0000-0002-4602-4011']",
+        "current_organization_id": "grid.7563.7",
+        "researcher_id": "ur.012460233663.65",
+        "affiliations": [
+          {
+            "id": "grid.252890.4",
+            "name": "Baylor University",
+            "city": "Waco",
+            "city_id": 4739526,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Texas",
+            "state_code": "US-TX"
+          }
+        ]
+      },
+      {
+        "first_name": "David",
+        "last_name": "VanHoose",
+        "orcid": "",
+        "current_organization_id": "grid.252890.4",
+        "researcher_id": "ur.07462765263.10",
+        "affiliations": [
+          {
+            "id": "grid.7563.7",
+            "name": "University of Milano-Bicocca",
+            "city": "Milan",
+            "city_id": 3173435,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Enzo",
+          "last_name": "Dia",
+          "orcid": "['0000-0002-4602-4011']",
+          "current_organization_id": "grid.7563.7",
+          "researcher_id": "ur.012460233663.65",
+          "affiliations": [
+            {
+              "id": "grid.252890.4",
+              "name": "Baylor University",
+              "city": "Waco",
+              "city_id": 4739526,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "VanHoose",
+          "orcid": "",
+          "current_organization_id": "grid.252890.4",
+          "researcher_id": "ur.07462765263.10",
+          "affiliations": [
+            {
+              "id": "grid.7563.7",
+              "name": "University of Milano-Bicocca",
+              "city": "Milan",
+              "city_id": 3173435,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3173435,
+        "name": "Milan"
+      },
+      {
+        "id": 4739526,
+        "name": "Waco"
+      }
+    ],
+    "publisher": "Elsevier",
+    "research_org_state_names": [
+      "Texas"
+    ],
+    "recent_citations": 4,
+    "field_citation_ratio": 5.09,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "54-69",
+    "research_org_state_codes": [
+      {
+        "id": "US-TX",
+        "name": "Texas"
+      }
+    ],
+    "doi": "10.1016/j.intfin.2016.08.007",
+    "dimensions_id": "pub.1022481629",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Rainer",
+        "last_name": "Frey",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.010463670477.01",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Rainer",
+          "last_name": "Frey",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.010463670477.01",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "id": "pub.1034133358",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2016-12-01",
+    "pages": "90-113",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "issn": [
+      "1042-444X",
+      "1873-1309"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.mulfin.2016.10.002",
+    "journal": {
+      "id": "jour.1140418",
+      "title": "Journal of Multinational Financial Management"
+    },
+    "title": "Multinational banks\u2019 deleveraging in the Global Financial Crisis",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.010463670477.01",
+        "last_name": "Frey",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Rainer"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "income",
+      "adjustment pressures",
+      "trend",
+      "strong growth",
+      "profit",
+      "focus",
+      "levels",
+      "assets",
+      "crisis",
+      "financial centers",
+      "growth",
+      "balance sheet",
+      "average income",
+      "brothers",
+      "pre-crisis period",
+      "banking groups",
+      "years",
+      "high growth rate",
+      "collapse",
+      "banks",
+      "mid-2008",
+      "repercussions",
+      "crisis period",
+      "period",
+      "foreign assets",
+      "traditional banking activities",
+      "foreign claims",
+      "claims",
+      "banks\u2019 assets",
+      "growth rate",
+      "Lehman Brothers",
+      "place",
+      "banking activities",
+      "characteristics",
+      "German banking groups",
+      "non-traditional banking activities",
+      "higher average income",
+      "risk",
+      "rate"
+    ],
+    "terms": [
+      "income",
+      "adjustment pressures",
+      "trend",
+      "strong growth",
+      "profit",
+      "focus",
+      "levels",
+      "assets",
+      "crisis",
+      "financial centers",
+      "growth",
+      "balance sheet",
+      "average income",
+      "brothers",
+      "pre-crisis period",
+      "banking groups",
+      "years",
+      "high growth rate",
+      "collapse",
+      "banks",
+      "mid-2008",
+      "repercussions",
+      "crisis period",
+      "period",
+      "foreign assets",
+      "traditional banking activities",
+      "foreign claims",
+      "claims",
+      "banks\u2019 assets",
+      "growth rate",
+      "Lehman Brothers",
+      "place",
+      "banking activities",
+      "characteristics",
+      "German banking groups",
+      "non-traditional banking activities",
+      "higher average income",
+      "risk",
+      "rate"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1047522526",
+      "pub.1010895617",
+      "pub.1060013254",
+      "pub.1013267490",
+      "pub.1007131505",
+      "pub.1011462448",
+      "pub.1042921699",
+      "pub.1008829151",
+      "pub.1060004827",
+      "pub.1000044129",
+      "pub.1072582702",
+      "pub.1064527822",
+      "pub.1006025988",
+      "pub.1040923731",
+      "pub.1027987620",
+      "pub.1004214904",
+      "pub.1043510150",
+      "pub.1059983481",
+      "pub.1070466432",
+      "pub.1013345017",
+      "pub.1037397937",
+      "pub.1010932535",
+      "pub.1017069097",
+      "pub.1022007128",
+      "pub.1013595863",
+      "pub.1015081794",
+      "pub.1020005248",
+      "pub.1070020846",
+      "pub.1023393138",
+      "pub.1004910607",
+      "pub.1001404001",
+      "pub.1064525628",
+      "pub.1056311866",
+      "pub.1063349000",
+      "pub.1050499509",
+      "pub.1060006297",
+      "pub.1050496049",
+      "pub.1003831102",
+      "pub.1023831328"
+    ],
+    "reference_ids": [
+      "pub.1047522526",
+      "pub.1010895617",
+      "pub.1060013254",
+      "pub.1013267490",
+      "pub.1007131505",
+      "pub.1011462448",
+      "pub.1042921699",
+      "pub.1008829151",
+      "pub.1060004827",
+      "pub.1000044129",
+      "pub.1072582702",
+      "pub.1064527822",
+      "pub.1006025988",
+      "pub.1040923731",
+      "pub.1027987620",
+      "pub.1004214904",
+      "pub.1043510150",
+      "pub.1059983481",
+      "pub.1070466432",
+      "pub.1013345017",
+      "pub.1037397937",
+      "pub.1010932535",
+      "pub.1017069097",
+      "pub.1022007128",
+      "pub.1013595863",
+      "pub.1015081794",
+      "pub.1020005248",
+      "pub.1070020846",
+      "pub.1023393138",
+      "pub.1004910607",
+      "pub.1001404001",
+      "pub.1064525628",
+      "pub.1056311866",
+      "pub.1063349000",
+      "pub.1050499509",
+      "pub.1060006297",
+      "pub.1050496049",
+      "pub.1003831102",
+      "pub.1023831328"
+    ],
+    "volume": "37",
+    "dimensions_id": "pub.1034133358",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 9,
+    "altmetric_id": 5025743,
+    "field_citation_ratio": 6.82,
+    "authors": [
+      {
+        "first_name": "Filippo",
+        "last_name": "Brutti",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.016614660537.10",
+        "affiliations": [
+          {
+            "name": "UBS"
+          }
+        ]
+      },
+      {
+        "first_name": "Philip",
+        "last_name": "Saur\u00e9",
+        "orcid": "",
+        "current_organization_id": "grid.483622.9",
+        "researcher_id": "ur.016122621117.28",
+        "affiliations": [
+          {
+            "id": "grid.483622.9",
+            "name": "Swiss National Bank",
+            "city": "Bern",
+            "city_id": 2661552,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Filippo",
+          "last_name": "Brutti",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016614660537.10",
+          "affiliations": [
+            {
+              "name": "UBS"
+            }
+          ]
+        },
+        {
+          "first_name": "Philip",
+          "last_name": "Saur\u00e9",
+          "orcid": "",
+          "current_organization_id": "grid.483622.9",
+          "researcher_id": "ur.016122621117.28",
+          "affiliations": [
+            {
+              "id": "grid.483622.9",
+              "name": "Swiss National Bank",
+              "city": "Bern",
+              "city_id": 2661552,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2661552,
+        "name": "Bern"
+      }
+    ],
+    "id": "pub.1006566921",
+    "research_org_countries": [
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "date": "2016-02-01",
+    "pages": "145-174",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 3,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "1542-4766",
+      "1542-4774"
+    ],
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1111/jeea.12169",
+    "journal": {
+      "id": "jour.1033618",
+      "title": "Journal of the European Economic Association"
+    },
+    "title": "REPATRIATION OF DEBT IN THE EURO CRISIS",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric": 4,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.016614660537.10",
+        "last_name": "Brutti",
+        "research_orgs": [
+          "grid.7400.3"
+        ],
+        "first_name": "Filippo"
+      },
+      {
+        "id": "ur.016122621117.28",
+        "last_name": "Saur\u00e9",
+        "research_orgs": [
+          "grid.483622.9",
+          "grid.5802.f"
+        ],
+        "first_name": "Philip U"
+      }
+    ],
+    "research_org_country_names": [
+      "Switzerland"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "allocation",
+      "public debt",
+      "trend",
+      "market theory",
+      "European financial integration",
+      "investors",
+      "data",
+      "financial disintegration",
+      "disintegration",
+      "patterns",
+      "obligation",
+      "bank portfolios",
+      "crisis",
+      "influential countries",
+      "Euro area",
+      "standard theory",
+      "countries",
+      "financial integration",
+      "euro crisis",
+      "integration",
+      "beginning",
+      "regularity",
+      "debt obligations",
+      "crisis countries",
+      "position",
+      "holdings",
+      "new empirical regularities",
+      "border position",
+      "repatriation",
+      "area",
+      "theory",
+      "portfolio allocation",
+      "debt",
+      "evidence",
+      "portfolio",
+      "light",
+      "empirical regularities"
+    ],
+    "terms": [
+      "allocation",
+      "public debt",
+      "trend",
+      "market theory",
+      "European financial integration",
+      "investors",
+      "data",
+      "financial disintegration",
+      "disintegration",
+      "patterns",
+      "obligation",
+      "bank portfolios",
+      "crisis",
+      "influential countries",
+      "Euro area",
+      "standard theory",
+      "countries",
+      "financial integration",
+      "euro crisis",
+      "integration",
+      "beginning",
+      "regularity",
+      "debt obligations",
+      "crisis countries",
+      "position",
+      "holdings",
+      "new empirical regularities",
+      "border position",
+      "repatriation",
+      "area",
+      "theory",
+      "portfolio allocation",
+      "debt",
+      "evidence",
+      "portfolio",
+      "light",
+      "empirical regularities"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.483622.9",
+        "acronym": "SNB",
+        "name": "Swiss National Bank",
+        "country_name": "Switzerland"
+      }
+    ],
+    "references": [
+      "pub.1000865502",
+      "pub.1064525279",
+      "pub.1069639422",
+      "pub.1064529389",
+      "pub.1061835082",
+      "pub.1013267490",
+      "pub.1049365376",
+      "pub.1060005835",
+      "pub.1015892915",
+      "pub.1002181065",
+      "pub.1050338165",
+      "pub.1063348973",
+      "pub.1027488361",
+      "pub.1064530625",
+      "pub.1064528755",
+      "pub.1003941680",
+      "pub.1064527802",
+      "pub.1064531610",
+      "pub.1036850559",
+      "pub.1072581515",
+      "pub.1014396507",
+      "pub.1092353442",
+      "pub.1035545141",
+      "pub.1036910614",
+      "pub.1020001203",
+      "pub.1042866702",
+      "pub.1032886835",
+      "pub.1069868383",
+      "pub.1013666702",
+      "pub.1059983329",
+      "pub.1038199839",
+      "pub.1012678703",
+      "pub.1027736545",
+      "pub.1017004105",
+      "pub.1050290477",
+      "pub.1034731189",
+      "pub.1064531547",
+      "pub.1035472948",
+      "pub.1028616916",
+      "pub.1016316245",
+      "pub.1005813544",
+      "pub.1064529026",
+      "pub.1046202256",
+      "pub.1016141839",
+      "pub.1069973238",
+      "pub.1033281687",
+      "pub.1059568689",
+      "pub.1043050559",
+      "pub.1051903986",
+      "pub.1031811649",
+      "pub.1032565257",
+      "pub.1064527102",
+      "pub.1061936777",
+      "pub.1023024151",
+      "pub.1004862145",
+      "pub.1064531569",
+      "pub.1047581409",
+      "pub.1013345017"
+    ],
+    "reference_ids": [
+      "pub.1000865502",
+      "pub.1064525279",
+      "pub.1069639422",
+      "pub.1064529389",
+      "pub.1061835082",
+      "pub.1013267490",
+      "pub.1049365376",
+      "pub.1060005835",
+      "pub.1015892915",
+      "pub.1002181065",
+      "pub.1050338165",
+      "pub.1063348973",
+      "pub.1027488361",
+      "pub.1064530625",
+      "pub.1064528755",
+      "pub.1003941680",
+      "pub.1064527802",
+      "pub.1064531610",
+      "pub.1036850559",
+      "pub.1072581515",
+      "pub.1014396507",
+      "pub.1092353442",
+      "pub.1035545141",
+      "pub.1036910614",
+      "pub.1020001203",
+      "pub.1042866702",
+      "pub.1032886835",
+      "pub.1069868383",
+      "pub.1013666702",
+      "pub.1059983329",
+      "pub.1038199839",
+      "pub.1012678703",
+      "pub.1027736545",
+      "pub.1017004105",
+      "pub.1050290477",
+      "pub.1034731189",
+      "pub.1064531547",
+      "pub.1035472948",
+      "pub.1028616916",
+      "pub.1016316245",
+      "pub.1005813544",
+      "pub.1064529026",
+      "pub.1046202256",
+      "pub.1016141839",
+      "pub.1069973238",
+      "pub.1033281687",
+      "pub.1059568689",
+      "pub.1043050559",
+      "pub.1051903986",
+      "pub.1031811649",
+      "pub.1032565257",
+      "pub.1064527102",
+      "pub.1061936777",
+      "pub.1023024151",
+      "pub.1004862145",
+      "pub.1064531569",
+      "pub.1047581409",
+      "pub.1013345017"
+    ],
+    "volume": "14",
+    "issue": "1",
+    "dimensions_id": "pub.1006566921",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "linkout": "http://www.federalreserve.gov/econresdata/ifdp/2016/files/ifdp1170.pdf",
+    "recent_citations": 2,
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "title": "What Determines the Composition of International Bank Flows?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "id": "pub.1018998282",
+    "journal": {
+      "id": "jour.1319873",
+      "title": "IMF Economic Review"
+    },
+    "researchers": [
+      {
+        "id": "ur.012654212077.91",
+        "last_name": "Kerl",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Cornelia"
+      },
+      {
+        "id": "ur.015573252253.86",
+        "last_name": "Niepmann",
+        "research_orgs": [
+          "grid.431393.f",
+          "grid.15711.33",
+          "grid.466654.3"
+        ],
+        "first_name": "Friederike"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "VABB-SHW"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "2041-4161",
+      "2041-417X"
+    ],
+    "altmetric_id": 6372657,
+    "pages": "792-829",
+    "field_citation_ratio": 3.2,
+    "authors": [
+      {
+        "first_name": "Cornelia",
+        "last_name": "Kerl",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.012654212077.91",
+        "affiliations": []
+      },
+      {
+        "first_name": "Friederike",
+        "last_name": "Niepmann",
+        "orcid": "",
+        "current_organization_id": "grid.431393.f",
+        "researcher_id": "ur.015573252253.86",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Cornelia",
+          "last_name": "Kerl",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.012654212077.91",
+          "affiliations": []
+        },
+        {
+          "first_name": "Friederike",
+          "last_name": "Niepmann",
+          "orcid": "",
+          "current_organization_id": "grid.431393.f",
+          "researcher_id": "ur.015573252253.86",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2015-11-01",
+    "reference_ids": [
+      "pub.1008368674",
+      "pub.1011698594",
+      "pub.1049192456",
+      "pub.1048979477",
+      "pub.1060006566",
+      "pub.1019063017",
+      "pub.1058781020",
+      "pub.1006025988",
+      "pub.1047035903",
+      "pub.1064526969",
+      "pub.1060004827",
+      "pub.1047581409",
+      "pub.1043510150",
+      "pub.1047522526",
+      "pub.1019499010",
+      "pub.1011954213",
+      "pub.1031737817",
+      "pub.1050277087",
+      "pub.1046321849",
+      "pub.1053248515",
+      "pub.1060064431",
+      "pub.1031954222",
+      "pub.1002617487",
+      "pub.1003712213",
+      "pub.1022604722",
+      "pub.1018808760",
+      "pub.1025169085",
+      "pub.1017069097",
+      "pub.1045850966",
+      "pub.1064527822",
+      "pub.1003630530"
+    ],
+    "references": [
+      "pub.1008368674",
+      "pub.1011698594",
+      "pub.1049192456",
+      "pub.1048979477",
+      "pub.1060006566",
+      "pub.1019063017",
+      "pub.1058781020",
+      "pub.1006025988",
+      "pub.1047035903",
+      "pub.1064526969",
+      "pub.1060004827",
+      "pub.1047581409",
+      "pub.1043510150",
+      "pub.1047522526",
+      "pub.1019499010",
+      "pub.1011954213",
+      "pub.1031737817",
+      "pub.1050277087",
+      "pub.1046321849",
+      "pub.1053248515",
+      "pub.1060064431",
+      "pub.1031954222",
+      "pub.1002617487",
+      "pub.1003712213",
+      "pub.1022604722",
+      "pub.1018808760",
+      "pub.1025169085",
+      "pub.1017069097",
+      "pub.1045850966",
+      "pub.1064527822",
+      "pub.1003630530"
+    ],
+    "doi": "10.1057/imfer.2015.39",
+    "year": 2015,
+    "type": "article",
+    "volume": "63",
+    "altmetric": 1,
+    "times_cited": 5,
+    "terms": [
+      "border",
+      "foreign activities",
+      "bank operations",
+      "analysis",
+      "sectoral composition",
+      "bank-level data",
+      "parsimonious model",
+      "entry",
+      "bank entry",
+      "banking",
+      "position",
+      "counterfactual analysis",
+      "direction",
+      "level data",
+      "high barrier",
+      "interbank lending",
+      "barriers",
+      "foreign position",
+      "friction",
+      "foreign bank entry",
+      "shock",
+      "firms",
+      "changes",
+      "source",
+      "data",
+      "domestic conditions",
+      "non-banking firms",
+      "interbank",
+      "funding sources",
+      "lending",
+      "banking firms",
+      "model",
+      "paper",
+      "foreign bank operations",
+      "bank flow",
+      "policy"
+    ],
+    "concepts": [
+      "border",
+      "foreign activities",
+      "bank operations",
+      "analysis",
+      "sectoral composition",
+      "bank-level data",
+      "parsimonious model",
+      "entry",
+      "bank entry",
+      "banking",
+      "position",
+      "counterfactual analysis",
+      "direction",
+      "level data",
+      "high barrier",
+      "interbank lending",
+      "barriers",
+      "foreign position",
+      "friction",
+      "foreign bank entry",
+      "shock",
+      "firms",
+      "changes",
+      "source",
+      "data",
+      "domestic conditions",
+      "non-banking firms",
+      "interbank",
+      "funding sources",
+      "lending",
+      "banking firms",
+      "model",
+      "paper",
+      "foreign bank operations",
+      "bank flow",
+      "policy"
+    ],
+    "issue": "4",
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1018998282",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2218",
+        "name": "18 Law and Legal Studies"
+      }
+    ],
+    "date": "2015-03-01",
+    "journal": {
+      "id": "jour.1140664",
+      "title": "Economics and Politics"
+    },
+    "terms": [
+      "laundering regulation",
+      "enforcement",
+      "light",
+      "specific laws",
+      "attack",
+      "recent wave",
+      "cross-country dataset",
+      "burden",
+      "historical factors",
+      "countries",
+      "relevance",
+      "terrorist attacks",
+      "proxy",
+      "institutions",
+      "theory",
+      "law",
+      "room",
+      "further action",
+      "area",
+      "attention",
+      "money laundering activities",
+      "money laundering",
+      "liability",
+      "feeder activity",
+      "regulation index",
+      "proof",
+      "laundering",
+      "framework",
+      "Money Laundering Regulations",
+      "disclosure",
+      "action",
+      "regulation",
+      "country dataset",
+      "intermediaries",
+      "role",
+      "regulatory framework"
+    ],
+    "concepts": [
+      "laundering regulation",
+      "enforcement",
+      "light",
+      "specific laws",
+      "attack",
+      "recent wave",
+      "cross-country dataset",
+      "burden",
+      "historical factors",
+      "countries",
+      "relevance",
+      "terrorist attacks",
+      "proxy",
+      "institutions",
+      "theory",
+      "law",
+      "room",
+      "further action",
+      "area",
+      "attention",
+      "money laundering activities",
+      "money laundering",
+      "liability",
+      "feeder activity",
+      "regulation index",
+      "proof",
+      "laundering",
+      "framework",
+      "Money Laundering Regulations",
+      "disclosure",
+      "action",
+      "regulation",
+      "country dataset",
+      "intermediaries",
+      "role",
+      "regulatory framework"
+    ],
+    "id": "pub.1009494600",
+    "issn": [
+      "0954-1985",
+      "1468-0343"
+    ],
+    "researchers": [
+      {
+        "id": "ur.012725567625.37",
+        "last_name": "Chong",
+        "research_orgs": [
+          "grid.256304.6",
+          "grid.28046.38",
+          "grid.431756.2",
+          "grid.213910.8",
+          "grid.441818.0",
+          "grid.431778.e"
+        ],
+        "first_name": "Alberto"
+      },
+      {
+        "id": "ur.011214727261.48",
+        "last_name": "Lopez-De-Silanes",
+        "research_orgs": [
+          "grid.47100.32",
+          "grid.250279.b",
+          "grid.38142.3c",
+          "grid.462199.1"
+        ],
+        "first_name": "Florencio"
+      }
+    ],
+    "research_org_country_names": [
+      "Canada",
+      "France"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_pub",
+        "name": "Green, Published",
+        "description": "Free copy of published version in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1060065583",
+      "pub.1109374670",
+      "pub.1110458722",
+      "pub.1059803586",
+      "pub.1033636844",
+      "pub.1011720646",
+      "pub.1063348924",
+      "pub.1058604503",
+      "pub.1019045140",
+      "pub.1063348891",
+      "pub.1064531964",
+      "pub.1069669352",
+      "pub.1034529729",
+      "pub.1037831092",
+      "pub.1064528960",
+      "pub.1058571537",
+      "pub.1110458886",
+      "pub.1070833749",
+      "pub.1058673318",
+      "pub.1020291432",
+      "pub.1070466163",
+      "pub.1063348991",
+      "pub.1073343021",
+      "pub.1053390347",
+      "pub.1024727995",
+      "pub.1014370960",
+      "pub.1037605356",
+      "pub.1048156937",
+      "pub.1058563523"
+    ],
+    "references": [
+      "pub.1060065583",
+      "pub.1109374670",
+      "pub.1110458722",
+      "pub.1059803586",
+      "pub.1033636844",
+      "pub.1011720646",
+      "pub.1063348924",
+      "pub.1058604503",
+      "pub.1019045140",
+      "pub.1063348891",
+      "pub.1064531964",
+      "pub.1069669352",
+      "pub.1034529729",
+      "pub.1037831092",
+      "pub.1064528960",
+      "pub.1058571537",
+      "pub.1110458886",
+      "pub.1070833749",
+      "pub.1058673318",
+      "pub.1020291432",
+      "pub.1070466163",
+      "pub.1063348991",
+      "pub.1073343021",
+      "pub.1053390347",
+      "pub.1024727995",
+      "pub.1014370960",
+      "pub.1037605356",
+      "pub.1048156937",
+      "pub.1058563523"
+    ],
+    "year": 2015,
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "CA",
+        "name": "Canada"
+      },
+      {
+        "id": "FR",
+        "name": "France"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "27",
+    "times_cited": 11,
+    "title": "Money Laundering and Its Regulation",
+    "authors": [
+      {
+        "first_name": "Alberto",
+        "last_name": "Chong",
+        "orcid": "",
+        "current_organization_id": "grid.256304.6",
+        "researcher_id": "ur.012725567625.37",
+        "affiliations": [
+          {
+            "name": "University of Ottawa and Universidad del Pacifico"
+          }
+        ]
+      },
+      {
+        "first_name": "Florencio",
+        "last_name": "Lopez\u2010De\u2010Silanes",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011214727261.48",
+        "affiliations": [
+          {
+            "name": "EDHEC Business School and NBER"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Alberto",
+          "last_name": "Chong",
+          "orcid": "",
+          "current_organization_id": "grid.256304.6",
+          "researcher_id": "ur.012725567625.37",
+          "affiliations": [
+            {
+              "name": "University of Ottawa and Universidad del Pacifico"
+            }
+          ]
+        },
+        {
+          "first_name": "Florencio",
+          "last_name": "Lopez\u2010De\u2010Silanes",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011214727261.48",
+          "affiliations": [
+            {
+              "name": "EDHEC Business School and NBER"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 6094817,
+        "name": "Ottawa"
+      },
+      {
+        "id": 2982681,
+        "name": "Roubaix"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - published"
+    ],
+    "linkout": "http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=1161502",
+    "publisher": "Wiley",
+    "issue": "1",
+    "recent_citations": 9,
+    "altmetric": 1,
+    "FOR": [
+      {
+        "id": "3494",
+        "name": "1801 Law"
+      }
+    ],
+    "altmetric_id": 3077193,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "type": "article",
+    "pages": "78-123",
+    "doi": "10.1111/ecpo.12051",
+    "dimensions_id": "pub.1009494600",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2015-01-01",
+    "research_orgs": [
+      {
+        "id": "grid.412041.2",
+        "name": "University of Bordeaux",
+        "country_name": "France"
+      }
+    ],
+    "journal": {
+      "id": "jour.1138994",
+      "title": "Journal of International Financial Markets Institutions and Money"
+    },
+    "terms": [
+      "inflow",
+      "traditional push",
+      "standard",
+      "new regulations",
+      "framework",
+      "factors",
+      "capital",
+      "cross-border bank lending",
+      "push factors",
+      "new regulatory standards",
+      "International Bank",
+      "lending",
+      "liquidity requirements",
+      "liquidity ratio",
+      "advanced economies",
+      "regulation",
+      "claims",
+      "economy",
+      "paper",
+      "impact",
+      "evidence",
+      "potential impact",
+      "countries",
+      "GMM",
+      "bank lending",
+      "market economy",
+      "regulatory standards",
+      "push",
+      "banks",
+      "Basel III"
+    ],
+    "concepts": [
+      "inflow",
+      "traditional push",
+      "standard",
+      "new regulations",
+      "framework",
+      "factors",
+      "capital",
+      "cross-border bank lending",
+      "push factors",
+      "new regulatory standards",
+      "International Bank",
+      "lending",
+      "liquidity requirements",
+      "liquidity ratio",
+      "advanced economies",
+      "regulation",
+      "claims",
+      "economy",
+      "paper",
+      "impact",
+      "evidence",
+      "potential impact",
+      "countries",
+      "GMM",
+      "bank lending",
+      "market economy",
+      "regulatory standards",
+      "push",
+      "banks",
+      "Basel III"
+    ],
+    "id": "pub.1026687859",
+    "issn": [
+      "1042-4431",
+      "1873-0612"
+    ],
+    "researchers": [
+      {
+        "id": "ur.07736704427.66",
+        "last_name": "Figuet",
+        "research_orgs": [
+          "grid.412041.2"
+        ],
+        "first_name": "Jean-Marc"
+      },
+      {
+        "id": "ur.015126755700.80",
+        "last_name": "Lahet",
+        "research_orgs": [
+          "grid.412041.2"
+        ],
+        "first_name": "Delphine"
+      }
+    ],
+    "research_org_country_names": [
+      "France"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1010417054",
+      "pub.1006540519",
+      "pub.1025002288",
+      "pub.1013247045",
+      "pub.1019787122",
+      "pub.1069639876",
+      "pub.1102232460",
+      "pub.1107162734",
+      "pub.1021215245",
+      "pub.1071600390",
+      "pub.1047208394",
+      "pub.1002893184",
+      "pub.1102314539",
+      "pub.1010632196",
+      "pub.1027663597",
+      "pub.1072581704",
+      "pub.1072581740",
+      "pub.1106628495",
+      "pub.1036175047",
+      "pub.1069640159",
+      "pub.1072580689",
+      "pub.1000612914",
+      "pub.1072580956",
+      "pub.1037397937",
+      "pub.1000531349",
+      "pub.1015382472",
+      "pub.1063026640",
+      "pub.1059419276",
+      "pub.1102334098",
+      "pub.1061835920",
+      "pub.1060004827",
+      "pub.1102289120",
+      "pub.1102297815",
+      "pub.1070466432",
+      "pub.1045102418",
+      "pub.1017765067",
+      "pub.1024381944",
+      "pub.1107176101",
+      "pub.1102214328",
+      "pub.1047849541",
+      "pub.1107179346"
+    ],
+    "references": [
+      "pub.1010417054",
+      "pub.1006540519",
+      "pub.1025002288",
+      "pub.1013247045",
+      "pub.1019787122",
+      "pub.1069639876",
+      "pub.1102232460",
+      "pub.1107162734",
+      "pub.1021215245",
+      "pub.1071600390",
+      "pub.1047208394",
+      "pub.1002893184",
+      "pub.1102314539",
+      "pub.1010632196",
+      "pub.1027663597",
+      "pub.1072581704",
+      "pub.1072581740",
+      "pub.1106628495",
+      "pub.1036175047",
+      "pub.1069640159",
+      "pub.1072580689",
+      "pub.1000612914",
+      "pub.1072580956",
+      "pub.1037397937",
+      "pub.1000531349",
+      "pub.1015382472",
+      "pub.1063026640",
+      "pub.1059419276",
+      "pub.1102334098",
+      "pub.1061835920",
+      "pub.1060004827",
+      "pub.1102289120",
+      "pub.1102297815",
+      "pub.1070466432",
+      "pub.1045102418",
+      "pub.1017765067",
+      "pub.1024381944",
+      "pub.1107176101",
+      "pub.1102214328",
+      "pub.1047849541",
+      "pub.1107179346"
+    ],
+    "year": 2015,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "FR",
+        "name": "France"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "34",
+    "times_cited": 3,
+    "title": "Cross-border banking claims on emerging countries: The Basel III Banking Reforms in a push and pull framework",
+    "authors": [
+      {
+        "first_name": "Jean-Marc",
+        "last_name": "Figuet",
+        "orcid": "",
+        "current_organization_id": "grid.412041.2",
+        "researcher_id": "ur.07736704427.66",
+        "affiliations": [
+          {
+            "id": "grid.412041.2",
+            "name": "University of Bordeaux",
+            "city": "Bordeaux",
+            "city_id": 3031582,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Thomas",
+        "last_name": "Humblot",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.412041.2",
+            "name": "University of Bordeaux",
+            "city": "Bordeaux",
+            "city_id": 3031582,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Delphine",
+        "last_name": "Lahet",
+        "orcid": "",
+        "current_organization_id": "grid.412041.2",
+        "researcher_id": "ur.015126755700.80",
+        "affiliations": [
+          {
+            "id": "grid.412041.2",
+            "name": "University of Bordeaux",
+            "city": "Bordeaux",
+            "city_id": 3031582,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Jean-Marc",
+          "last_name": "Figuet",
+          "orcid": "",
+          "current_organization_id": "grid.412041.2",
+          "researcher_id": "ur.07736704427.66",
+          "affiliations": [
+            {
+              "id": "grid.412041.2",
+              "name": "University of Bordeaux",
+              "city": "Bordeaux",
+              "city_id": 3031582,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "Humblot",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.412041.2",
+              "name": "University of Bordeaux",
+              "city": "Bordeaux",
+              "city_id": 3031582,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Delphine",
+          "last_name": "Lahet",
+          "orcid": "",
+          "current_organization_id": "grid.412041.2",
+          "researcher_id": "ur.015126755700.80",
+          "affiliations": [
+            {
+              "id": "grid.412041.2",
+              "name": "University of Bordeaux",
+              "city": "Bordeaux",
+              "city_id": 3031582,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3031582,
+        "name": "Bordeaux"
+      }
+    ],
+    "publisher": "Elsevier",
+    "recent_citations": 2,
+    "field_citation_ratio": 1.92,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "294-310",
+    "doi": "10.1016/j.intfin.2014.11.016",
+    "dimensions_id": "pub.1026687859",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 3,
+    "field_citation_ratio": 1.64,
+    "authors": [
+      {
+        "first_name": "Saskia E.",
+        "last_name": "van Ewijk",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.012100142617.08",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Ivo J.M.",
+        "last_name": "Arnold",
+        "orcid": "",
+        "current_organization_id": "grid.6906.9",
+        "researcher_id": "ur.012536255625.17",
+        "affiliations": [
+          {
+            "id": "grid.449564.e",
+            "name": "Nyenrode Business University",
+            "city": "Breukelen",
+            "city_id": 2758333,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.6906.9",
+            "name": "Erasmus University Rotterdam",
+            "city": "Rotterdam",
+            "city_id": 2747891,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Saskia E.",
+          "last_name": "van Ewijk",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.012100142617.08",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Ivo J.M.",
+          "last_name": "Arnold",
+          "orcid": "",
+          "current_organization_id": "grid.6906.9",
+          "researcher_id": "ur.012536255625.17",
+          "affiliations": [
+            {
+              "id": "grid.449564.e",
+              "name": "Nyenrode Business University",
+              "city": "Breukelen",
+              "city_id": 2758333,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.6906.9",
+              "name": "Erasmus University Rotterdam",
+              "city": "Rotterdam",
+              "city_id": 2747891,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2759794,
+        "name": "Amsterdam"
+      },
+      {
+        "id": 2747891,
+        "name": "Rotterdam"
+      },
+      {
+        "id": 2758333,
+        "name": "Breukelen"
+      }
+    ],
+    "id": "pub.1016326885",
+    "research_org_countries": [
+      {
+        "id": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "date": "2015-01-01",
+    "pages": "335-342",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 1,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0264-9993",
+      "1873-6122"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.econmod.2014.05.026",
+    "journal": {
+      "id": "jour.1027798",
+      "title": "Economic Modelling"
+    },
+    "title": "Financial integration in the euro area: Pro-cyclical effects and economic convergence",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012100142617.08",
+        "last_name": "Van Ewijk",
+        "research_orgs": [
+          "grid.459463.9",
+          "grid.449564.e"
+        ],
+        "first_name": "Saskia E"
+      },
+      {
+        "id": "ur.012536255625.17",
+        "last_name": "Arnold",
+        "research_orgs": [
+          "grid.6906.9",
+          "grid.449564.e"
+        ],
+        "first_name": "Ivo J M"
+      }
+    ],
+    "research_org_country_names": [
+      "Netherlands"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "integration",
+      "euro",
+      "adjustment process",
+      "banks",
+      "impact",
+      "cycle synchronization",
+      "process",
+      "housing prices",
+      "EMU",
+      "Euro area",
+      "dataset",
+      "business cycle synchronization",
+      "claims",
+      "member countries",
+      "union",
+      "economic convergence",
+      "price",
+      "capital flows",
+      "version",
+      "border claims",
+      "New-Keynesian",
+      "flow",
+      "paper",
+      "banking statistics",
+      "financial integration",
+      "GDP",
+      "International Settlements",
+      "area",
+      "settlement",
+      "panel cointegration relationships",
+      "liability",
+      "relationship",
+      "Keynesians",
+      "countries",
+      "bank capital",
+      "position",
+      "cointegration relationship",
+      "external position",
+      "convergence",
+      "macroeconomic adjustment process",
+      "economic adjustment process",
+      "capital",
+      "introduction",
+      "statistics",
+      "role",
+      "cross-border claims",
+      "bank portfolios",
+      "portfolio"
+    ],
+    "terms": [
+      "integration",
+      "euro",
+      "adjustment process",
+      "banks",
+      "impact",
+      "cycle synchronization",
+      "process",
+      "housing prices",
+      "EMU",
+      "Euro area",
+      "dataset",
+      "business cycle synchronization",
+      "claims",
+      "member countries",
+      "union",
+      "economic convergence",
+      "price",
+      "capital flows",
+      "version",
+      "border claims",
+      "New-Keynesian",
+      "flow",
+      "paper",
+      "banking statistics",
+      "financial integration",
+      "GDP",
+      "International Settlements",
+      "area",
+      "settlement",
+      "panel cointegration relationships",
+      "liability",
+      "relationship",
+      "Keynesians",
+      "countries",
+      "bank capital",
+      "position",
+      "cointegration relationship",
+      "external position",
+      "convergence",
+      "macroeconomic adjustment process",
+      "economic adjustment process",
+      "capital",
+      "introduction",
+      "statistics",
+      "role",
+      "cross-border claims",
+      "bank portfolios",
+      "portfolio"
+    ],
+    "year": 2015,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.449564.e",
+        "name": "Nyenrode Business University",
+        "country_name": "Netherlands"
+      },
+      {
+        "id": "grid.459463.9",
+        "acronym": "DNB",
+        "name": "De Nederlandsche Bank",
+        "country_name": "Netherlands"
+      },
+      {
+        "id": "grid.6906.9",
+        "acronym": "EUR",
+        "name": "Erasmus University Rotterdam",
+        "country_name": "Netherlands"
+      }
+    ],
+    "references": [
+      "pub.1036664447",
+      "pub.1027059535",
+      "pub.1050725170",
+      "pub.1102214907",
+      "pub.1020426195",
+      "pub.1025454336",
+      "pub.1047581409",
+      "pub.1040852073",
+      "pub.1012597280",
+      "pub.1061835921",
+      "pub.1084806412",
+      "pub.1038778814",
+      "pub.1023296851",
+      "pub.1029486074",
+      "pub.1024128488",
+      "pub.1014235242",
+      "pub.1072580340",
+      "pub.1035987351",
+      "pub.1033439015",
+      "pub.1070145991",
+      "pub.1102224334",
+      "pub.1029643700"
+    ],
+    "reference_ids": [
+      "pub.1036664447",
+      "pub.1027059535",
+      "pub.1050725170",
+      "pub.1102214907",
+      "pub.1020426195",
+      "pub.1025454336",
+      "pub.1047581409",
+      "pub.1040852073",
+      "pub.1012597280",
+      "pub.1061835921",
+      "pub.1084806412",
+      "pub.1038778814",
+      "pub.1023296851",
+      "pub.1029486074",
+      "pub.1024128488",
+      "pub.1014235242",
+      "pub.1072580340",
+      "pub.1035987351",
+      "pub.1033439015",
+      "pub.1070145991",
+      "pub.1102224334",
+      "pub.1029643700"
+    ],
+    "volume": "44",
+    "dimensions_id": "pub.1016326885",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Priscilla Yin-Pheng",
+        "last_name": "Lim",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.010266164166.10",
+        "affiliations": [
+          {
+            "name": "The University of Nottingham Malaysia Campus"
+          }
+        ]
+      },
+      {
+        "first_name": "Roy W. L.",
+        "last_name": "Khong",
+        "orcid": "['0000-0002-4637-4628']",
+        "current_organization_id": "grid.440435.2",
+        "researcher_id": "ur.015346212312.12",
+        "affiliations": [
+          {
+            "name": "The University of Nottingham Malaysia Campus"
+          }
+        ]
+      },
+      {
+        "first_name": "Hui-Boon",
+        "last_name": "Tan",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.013254066166.25",
+        "affiliations": [
+          {
+            "name": "The University of Nottingham Malaysia Campus"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Priscilla Yin-Pheng",
+          "last_name": "Lim",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.010266164166.10",
+          "affiliations": [
+            {
+              "name": "The University of Nottingham Malaysia Campus"
+            }
+          ]
+        },
+        {
+          "first_name": "Roy W. L.",
+          "last_name": "Khong",
+          "orcid": "['0000-0002-4637-4628']",
+          "current_organization_id": "grid.440435.2",
+          "researcher_id": "ur.015346212312.12",
+          "affiliations": [
+            {
+              "name": "The University of Nottingham Malaysia Campus"
+            }
+          ]
+        },
+        {
+          "first_name": "Hui-Boon",
+          "last_name": "Tan",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013254066166.25",
+          "affiliations": [
+            {
+              "name": "The University of Nottingham Malaysia Campus"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 1734798,
+        "name": "Semenyih"
+      }
+    ],
+    "id": "pub.1049087695",
+    "research_org_countries": [
+      {
+        "id": "MY",
+        "name": "Malaysia"
+      }
+    ],
+    "date": "2015-01-01",
+    "pages": "301-312",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "issn": [
+      "0022-037X",
+      "1548-2278"
+    ],
+    "publisher": "Johns Hopkins University Press",
+    "doi": "10.1353/jda.2015.0141",
+    "journal": {
+      "id": "jour.1122905",
+      "title": "The Journal of Developing Areas"
+    },
+    "title": "Bank integration and systemic risk: Panacea or pandemic?",
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.010266164166.10",
+        "last_name": "Lim",
+        "first_name": "Priscilla Yin-Pheng"
+      },
+      {
+        "id": "ur.015346212312.12",
+        "last_name": "Khong",
+        "orcid_id": [
+          "0000-0002-4637-4628"
+        ],
+        "research_orgs": [
+          "grid.440435.2"
+        ],
+        "first_name": "Roy Wye Leong"
+      },
+      {
+        "id": "ur.013254066166.25",
+        "last_name": "Tan",
+        "first_name": "Hui-Boon"
+      }
+    ],
+    "research_org_country_names": [
+      "Malaysia"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "persistence",
+      "index",
+      "vunerability",
+      "bivariate GARCH",
+      "panel data regression method",
+      "business cycle",
+      "economic environment",
+      "data",
+      "operation",
+      "capital flows",
+      "protection",
+      "systemic risk",
+      "regard",
+      "bank supervision",
+      "least squares",
+      "volatility",
+      "countries",
+      "policy makers",
+      "correlation model",
+      "supervision",
+      "sector stock indexes",
+      "provision",
+      "interconnectedness",
+      "intermediaries",
+      "measures",
+      "macroeconomic environment",
+      "integration",
+      "behavior",
+      "effect",
+      "risk measures",
+      "risk",
+      "impact",
+      "threat",
+      "border",
+      "adverse economic environment",
+      "stock index",
+      "liquidity",
+      "financial instability",
+      "return",
+      "regression methods",
+      "lending behavior",
+      "environment",
+      "International Settlements",
+      "cross-border",
+      "high real interest rates",
+      "instrumental variable estimation",
+      "bank lending behavior",
+      "settlement",
+      "reporting",
+      "spread",
+      "Asia-Pacific region",
+      "estimation",
+      "Q1 2010",
+      "financial volatility",
+      "need",
+      "covariance",
+      "regulation",
+      "co-operation",
+      "model",
+      "period",
+      "real interest rates",
+      "country-pairs",
+      "banks",
+      "empirical evidence",
+      "constant conditional correlation model",
+      "confidential data",
+      "adverse shocks",
+      "bank integration",
+      "flow",
+      "financial intermediaries",
+      "savings",
+      "evidence",
+      "framework",
+      "makers",
+      "Pacific region",
+      "variable estimation",
+      "sustainable framework",
+      "daily returns",
+      "financial co-operation",
+      "square",
+      "GARCH",
+      "findings",
+      "systemic risk measures",
+      "strong empirical evidence",
+      "role",
+      "shock",
+      "vast savings",
+      "interest rates",
+      "conditional covariance",
+      "conditional correlation model"
+    ],
+    "terms": [
+      "persistence",
+      "index",
+      "vunerability",
+      "bivariate GARCH",
+      "panel data regression method",
+      "business cycle",
+      "economic environment",
+      "data",
+      "operation",
+      "capital flows",
+      "protection",
+      "systemic risk",
+      "regard",
+      "bank supervision",
+      "least squares",
+      "volatility",
+      "countries",
+      "policy makers",
+      "correlation model",
+      "supervision",
+      "sector stock indexes",
+      "provision",
+      "interconnectedness",
+      "intermediaries",
+      "measures",
+      "macroeconomic environment",
+      "integration",
+      "behavior",
+      "effect",
+      "risk measures",
+      "risk",
+      "impact",
+      "threat",
+      "border",
+      "adverse economic environment",
+      "stock index",
+      "liquidity",
+      "financial instability",
+      "return",
+      "regression methods",
+      "lending behavior",
+      "environment",
+      "International Settlements",
+      "cross-border",
+      "high real interest rates",
+      "instrumental variable estimation",
+      "bank lending behavior",
+      "settlement",
+      "reporting",
+      "spread",
+      "Asia-Pacific region",
+      "estimation",
+      "Q1 2010",
+      "financial volatility",
+      "need",
+      "covariance",
+      "regulation",
+      "co-operation",
+      "model",
+      "period",
+      "real interest rates",
+      "country-pairs",
+      "banks",
+      "empirical evidence",
+      "constant conditional correlation model",
+      "confidential data",
+      "adverse shocks",
+      "bank integration",
+      "flow",
+      "financial intermediaries",
+      "savings",
+      "evidence",
+      "framework",
+      "makers",
+      "Pacific region",
+      "variable estimation",
+      "sustainable framework",
+      "daily returns",
+      "financial co-operation",
+      "square",
+      "GARCH",
+      "findings",
+      "systemic risk measures",
+      "strong empirical evidence",
+      "role",
+      "shock",
+      "vast savings",
+      "interest rates",
+      "conditional covariance",
+      "conditional correlation model"
+    ],
+    "year": 2015,
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "volume": "49",
+    "issue": "4",
+    "dimensions_id": "pub.1049087695",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2014-11-01",
+    "terms": [
+      "restriction",
+      "composite index",
+      "state",
+      "substantive contributions",
+      "institutions",
+      "members",
+      "insurance services",
+      "Trade Restrictiveness Index",
+      "barriers",
+      "Africa",
+      "Brazil",
+      "India",
+      "service providers",
+      "significant impediment",
+      "price",
+      "providers",
+      "services",
+      "sample average",
+      "paper",
+      "open market",
+      "legal form",
+      "contribution",
+      "transactions",
+      "financial services",
+      "cross-border transactions",
+      "entry",
+      "regulation",
+      "South Africa",
+      "products",
+      "market",
+      "Indonesia",
+      "form",
+      "Russia",
+      "weighting system",
+      "banking",
+      "measures",
+      "force",
+      "impediments",
+      "vintage",
+      "values",
+      "China",
+      "preferential treatment",
+      "market entry",
+      "indicators",
+      "foreign service providers",
+      "border transactions",
+      "competition",
+      "OECD members",
+      "countries",
+      "Commercial Banking",
+      "analysis",
+      "list",
+      "financial institutions"
+    ],
+    "concepts": [
+      "restriction",
+      "composite index",
+      "state",
+      "substantive contributions",
+      "institutions",
+      "members",
+      "insurance services",
+      "Trade Restrictiveness Index",
+      "barriers",
+      "Africa",
+      "Brazil",
+      "India",
+      "service providers",
+      "significant impediment",
+      "price",
+      "providers",
+      "services",
+      "sample average",
+      "paper",
+      "open market",
+      "legal form",
+      "contribution",
+      "transactions",
+      "financial services",
+      "cross-border transactions",
+      "entry",
+      "regulation",
+      "South Africa",
+      "products",
+      "market",
+      "Indonesia",
+      "form",
+      "Russia",
+      "weighting system",
+      "banking",
+      "measures",
+      "force",
+      "impediments",
+      "vintage",
+      "values",
+      "China",
+      "preferential treatment",
+      "market entry",
+      "indicators",
+      "foreign service providers",
+      "border transactions",
+      "competition",
+      "OECD members",
+      "countries",
+      "Commercial Banking",
+      "analysis",
+      "list",
+      "financial institutions"
+    ],
+    "id": "pub.1107171898",
+    "issn": [
+      "1816-6873"
+    ],
+    "researchers": [
+      {
+        "id": "ur.011104366614.18",
+        "last_name": "Rouzet",
+        "research_orgs": [
+          "grid.36193.3e"
+        ],
+        "first_name": "Dorothee"
+      },
+      {
+        "id": "ur.015712641645.10",
+        "last_name": "Nord\u00e5s",
+        "research_orgs": [
+          "grid.36193.3e",
+          "grid.463021.2",
+          "grid.7914.b"
+        ],
+        "first_name": "Hildegunn Kyvik"
+      },
+      {
+        "id": "ur.011474337714.37",
+        "last_name": "Gonzales",
+        "first_name": "Fr\u00e9d\u00e9ric"
+      },
+      {
+        "id": "ur.014462265334.84",
+        "last_name": "Grosso",
+        "research_orgs": [
+          "grid.36193.3e"
+        ],
+        "first_name": "Massimo Geloso"
+      },
+      {
+        "id": "ur.015676022177.01",
+        "last_name": "Lej\u00e1rraga",
+        "research_orgs": [
+          "grid.36193.3e"
+        ],
+        "first_name": "Iza"
+      },
+      {
+        "id": "ur.015501771376.33",
+        "last_name": "Miroudot",
+        "orcid_id": [
+          "0000-0003-3850-2754"
+        ],
+        "research_orgs": [
+          "grid.36193.3e"
+        ],
+        "first_name": "Sebastien"
+      },
+      {
+        "id": "ur.07753454444.65",
+        "last_name": "Ueno",
+        "first_name": "Asako"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "reference_ids": [
+      "pub.1012078820",
+      "pub.1013519831",
+      "pub.1012110832",
+      "pub.1050277087",
+      "pub.1107161395"
+    ],
+    "references": [
+      "pub.1012078820",
+      "pub.1013519831",
+      "pub.1012110832",
+      "pub.1050277087",
+      "pub.1107161395"
+    ],
+    "year": 2014,
+    "category_rcdc": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2018-09-25",
+    "times_cited": 3,
+    "title": "Services Trade Restrictiveness Index (STRI): Financial Services",
+    "authors": [
+      {
+        "first_name": "Doroth\u00e9e",
+        "last_name": "Rouzet",
+        "orcid": "",
+        "current_organization_id": "grid.36193.3e",
+        "researcher_id": "ur.011104366614.18",
+        "affiliations": []
+      },
+      {
+        "first_name": "Hildegunn Kyvik",
+        "last_name": "Nord\u00e5s",
+        "orcid": "",
+        "current_organization_id": "grid.36193.3e",
+        "researcher_id": "ur.015712641645.10",
+        "affiliations": []
+      },
+      {
+        "first_name": "Fr\u00e9d\u00e9ric",
+        "last_name": "Gonzales",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011474337714.37",
+        "affiliations": []
+      },
+      {
+        "first_name": "Massimo Geloso",
+        "last_name": "Grosso",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.014462265334.84",
+        "affiliations": []
+      },
+      {
+        "first_name": "Iza",
+        "last_name": "Lej\u00e1rraga",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.015676022177.01",
+        "affiliations": []
+      },
+      {
+        "first_name": "S\u00e9bastien",
+        "last_name": "Miroudot",
+        "orcid": "['0000-0003-3850-2754']",
+        "current_organization_id": "grid.36193.3e",
+        "researcher_id": "ur.015501771376.33",
+        "affiliations": []
+      },
+      {
+        "first_name": "Asako",
+        "last_name": "Ueno",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.07753454444.65",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Doroth\u00e9e",
+          "last_name": "Rouzet",
+          "orcid": "",
+          "current_organization_id": "grid.36193.3e",
+          "researcher_id": "ur.011104366614.18",
+          "affiliations": []
+        },
+        {
+          "first_name": "Hildegunn Kyvik",
+          "last_name": "Nord\u00e5s",
+          "orcid": "",
+          "current_organization_id": "grid.36193.3e",
+          "researcher_id": "ur.015712641645.10",
+          "affiliations": []
+        },
+        {
+          "first_name": "Fr\u00e9d\u00e9ric",
+          "last_name": "Gonzales",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011474337714.37",
+          "affiliations": []
+        },
+        {
+          "first_name": "Massimo Geloso",
+          "last_name": "Grosso",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014462265334.84",
+          "affiliations": []
+        },
+        {
+          "first_name": "Iza",
+          "last_name": "Lej\u00e1rraga",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015676022177.01",
+          "affiliations": []
+        },
+        {
+          "first_name": "S\u00e9bastien",
+          "last_name": "Miroudot",
+          "orcid": "['0000-0003-3850-2754']",
+          "current_organization_id": "grid.36193.3e",
+          "researcher_id": "ur.015501771376.33",
+          "affiliations": []
+        },
+        {
+          "first_name": "Asako",
+          "last_name": "Ueno",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.07753454444.65",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.oecd-ilibrary.org/services-trade-restrictiveness-index-stri-financial-services_5jxt4nhssd30.pdf?itemId=%2Fcontent%2Fpaper%2F5jxt4nhssd30-en&mimeType=pdf",
+    "recent_citations": 1,
+    "altmetric": 5,
+    "field_citation_ratio": 1.63,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 2883765,
+    "type": "article",
+    "doi": "10.1787/5jxt4nhssd30-en",
+    "dimensions_id": "pub.1107171898",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Yiping",
+        "last_name": "Huang",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Shiro",
+        "last_name": "Armstrong",
+        "orcid": "['0000-0001-9756-7860']",
+        "current_organization_id": "grid.1001.0",
+        "researcher_id": "ur.014332140107.30",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Yiping",
+          "last_name": "Huang",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Shiro",
+          "last_name": "Armstrong",
+          "orcid": "['0000-0001-9756-7860']",
+          "current_organization_id": "grid.1001.0",
+          "researcher_id": "ur.014332140107.30",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1030649088",
+    "date": "2014-03-05",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Taylor & Francis",
+    "doi": "10.4324/9781315796437",
+    "title": "Asian Financial Integration",
+    "FOR": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      }
+    ],
+    "type": "monograph",
+    "researchers": [
+      {
+        "id": "ur.014332140107.30",
+        "last_name": "Armstrong",
+        "orcid_id": [
+          "0000-0001-9756-7860"
+        ],
+        "research_orgs": [
+          "grid.1001.0"
+        ],
+        "first_name": "Shiro Patrick"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "strategies",
+      "global recovery",
+      "strong economic growth",
+      "region",
+      "turn",
+      "Asia",
+      "policy strategies",
+      "years",
+      "growth",
+      "economic growth",
+      "global financial crisis",
+      "financial crisis",
+      "financial system",
+      "global financial system",
+      "wake",
+      "crisis",
+      "role",
+      "active role",
+      "book"
+    ],
+    "terms": [
+      "strategies",
+      "global recovery",
+      "strong economic growth",
+      "region",
+      "turn",
+      "Asia",
+      "policy strategies",
+      "years",
+      "growth",
+      "economic growth",
+      "global financial crisis",
+      "financial crisis",
+      "financial system",
+      "global financial system",
+      "wake",
+      "crisis",
+      "role",
+      "active role",
+      "book"
+    ],
+    "year": 2014,
+    "category_for": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "references": [
+      "pub.1102187631"
+    ],
+    "reference_ids": [
+      "pub.1102187631"
+    ],
+    "dimensions_id": "pub.1030649088",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2014-01-01",
+    "research_orgs": [
+      {
+        "id": "grid.7886.1",
+        "acronym": "UCD",
+        "name": "University College Dublin",
+        "country_name": "Ireland"
+      }
+    ],
+    "journal": {
+      "id": "jour.1048008",
+      "title": "Economic Policy"
+    },
+    "terms": [
+      "counterfactual case",
+      "monetary policy",
+      "paper",
+      "euro",
+      "credit risk",
+      "balance sheet",
+      "central bank",
+      "TARGET2 balances",
+      "payment system",
+      "crisis",
+      "factors",
+      "Whelan",
+      "policy",
+      "Europe's periphery",
+      "commentary",
+      "Eurozone",
+      "Germany",
+      "periphery",
+      "euro crisis",
+      "TARGET2 system",
+      "discussion",
+      "settlement",
+      "bailout",
+      "popular discussion",
+      "balance",
+      "themes",
+      "risk",
+      "banks",
+      "common themes",
+      "proposal"
+    ],
+    "concepts": [
+      "counterfactual case",
+      "monetary policy",
+      "paper",
+      "euro",
+      "credit risk",
+      "balance sheet",
+      "central bank",
+      "TARGET2 balances",
+      "payment system",
+      "crisis",
+      "factors",
+      "Whelan",
+      "policy",
+      "Europe's periphery",
+      "commentary",
+      "Eurozone",
+      "Germany",
+      "periphery",
+      "euro crisis",
+      "TARGET2 system",
+      "discussion",
+      "settlement",
+      "bailout",
+      "popular discussion",
+      "balance",
+      "themes",
+      "risk",
+      "banks",
+      "common themes",
+      "proposal"
+    ],
+    "id": "pub.1050037878",
+    "issn": [
+      "1945-7731",
+      "1945-774X",
+      "1468-0327"
+    ],
+    "researchers": [
+      {
+        "id": "ur.011160125204.74",
+        "last_name": "Whelan",
+        "orcid_id": [
+          "0000-0002-4831-5269"
+        ],
+        "research_orgs": [
+          "grid.7886.1",
+          "grid.116068.8"
+        ],
+        "first_name": "Karl T"
+      }
+    ],
+    "research_org_country_names": [
+      "Ireland"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1013443995",
+      "pub.1072576973",
+      "pub.1016399007",
+      "pub.1019864040",
+      "pub.1109737479",
+      "pub.1102361365",
+      "pub.1044734058",
+      "pub.1072558544",
+      "pub.1058574492",
+      "pub.1042645562",
+      "pub.1064525927"
+    ],
+    "references": [
+      "pub.1013443995",
+      "pub.1072576973",
+      "pub.1016399007",
+      "pub.1019864040",
+      "pub.1109737479",
+      "pub.1102361365",
+      "pub.1044734058",
+      "pub.1072558544",
+      "pub.1058574492",
+      "pub.1042645562",
+      "pub.1064525927"
+    ],
+    "year": 2014,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "29",
+    "times_cited": 15,
+    "title": "TARGET2 and central bank balance sheets",
+    "authors": [
+      {
+        "first_name": "Karl",
+        "last_name": "Whelan",
+        "orcid": "['0000-0002-4831-5269']",
+        "current_organization_id": "grid.7886.1",
+        "researcher_id": "ur.011160125204.74",
+        "affiliations": [
+          {
+            "id": "grid.7886.1",
+            "name": "University College Dublin",
+            "city": "Dublin",
+            "city_id": 2964574,
+            "country": "Ireland",
+            "country_code": "IE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Karl",
+          "last_name": "Whelan",
+          "orcid": "['0000-0002-4831-5269']",
+          "current_organization_id": "grid.7886.1",
+          "researcher_id": "ur.011160125204.74",
+          "affiliations": [
+            {
+              "id": "grid.7886.1",
+              "name": "University College Dublin",
+              "city": "Dublin",
+              "city_id": 2964574,
+              "country": "Ireland",
+              "country_code": "IE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2964574,
+        "name": "Dublin"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "linkout": "https://researchrepository.ucd.ie/bitstream/10197/3919/1/WP12_29.pdf",
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "77",
+    "recent_citations": 9,
+    "field_citation_ratio": 8.16,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015"
+    ],
+    "type": "article",
+    "pages": "79-137",
+    "doi": "10.1111/1468-0327.12025",
+    "dimensions_id": "pub.1050037878",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 2,
+    "field_citation_ratio": 0.87,
+    "authors": [
+      {
+        "first_name": "Michael R.",
+        "last_name": "Jonas",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Michael R.",
+          "last_name": "Jonas",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1019366917",
+    "date": "2014-01-01",
+    "pages": "848-863",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_hybrid",
+        "name": "Hybrid",
+        "description": "Version Of Record (VOR) is free under an open licence in a paid-access journal"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 0"
+    ],
+    "issn": [
+      "2152-7245",
+      "2152-7261"
+    ],
+    "publisher": "Scientific Research Publishing",
+    "doi": "10.4236/me.2014.58078",
+    "journal": {
+      "id": "jour.1139949",
+      "title": "Modern Economy"
+    },
+    "title": "Is US Bank Lending Sensitive to Exchange Rates? A Panel Data Investigation",
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "linkout": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=47804",
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "long run",
+      "bank lending",
+      "banks",
+      "growth",
+      "goal",
+      "increase",
+      "transfer risk",
+      "exchange rate",
+      "risk",
+      "innovation",
+      "loans",
+      "international lending",
+      "exchange rate innovations",
+      "movement",
+      "rate sensitivity",
+      "monetary policy shocks",
+      "evidence",
+      "run",
+      "paper",
+      "lending activities",
+      "exchange rate sensitivity",
+      "policy shocks",
+      "small banks",
+      "non-performing loans",
+      "rate",
+      "rate movements",
+      "source",
+      "volatility",
+      "export channels",
+      "exchange rate movements",
+      "shock",
+      "lending",
+      "cross-border banks",
+      "domestic loans",
+      "relationship",
+      "panel"
+    ],
+    "terms": [
+      "long run",
+      "bank lending",
+      "banks",
+      "growth",
+      "goal",
+      "increase",
+      "transfer risk",
+      "exchange rate",
+      "risk",
+      "innovation",
+      "loans",
+      "international lending",
+      "exchange rate innovations",
+      "movement",
+      "rate sensitivity",
+      "monetary policy shocks",
+      "evidence",
+      "run",
+      "paper",
+      "lending activities",
+      "exchange rate sensitivity",
+      "policy shocks",
+      "small banks",
+      "non-performing loans",
+      "rate",
+      "rate movements",
+      "source",
+      "volatility",
+      "export channels",
+      "exchange rate movements",
+      "shock",
+      "lending",
+      "cross-border banks",
+      "domestic loans",
+      "relationship",
+      "panel"
+    ],
+    "year": 2014,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "references": [
+      "pub.1064527092",
+      "pub.1070020846",
+      "pub.1017771956",
+      "pub.1010632196",
+      "pub.1069869282",
+      "pub.1013519831",
+      "pub.1069979767",
+      "pub.1004902196",
+      "pub.1099534237",
+      "pub.1029451329",
+      "pub.1046886913",
+      "pub.1088707434",
+      "pub.1053646457",
+      "pub.1000496705",
+      "pub.1013340604"
+    ],
+    "reference_ids": [
+      "pub.1064527092",
+      "pub.1070020846",
+      "pub.1017771956",
+      "pub.1010632196",
+      "pub.1069869282",
+      "pub.1013519831",
+      "pub.1069979767",
+      "pub.1004902196",
+      "pub.1099534237",
+      "pub.1029451329",
+      "pub.1046886913",
+      "pub.1088707434",
+      "pub.1053646457",
+      "pub.1000496705",
+      "pub.1013340604"
+    ],
+    "volume": "2014",
+    "issue": "08",
+    "dimensions_id": "pub.1019366917",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "linkout": "http://www.cesifo-group.de/DocDL/cesifo1_wp3587.pdf",
+    "recent_citations": 1,
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "title": "Money at the Docks of Tax Havens: A Guide",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      }
+    ],
+    "id": "pub.1016061841",
+    "journal": {
+      "id": "jour.1028912",
+      "title": "FinanzArchiv Public Finance Analysis"
+    },
+    "researchers": [
+      {
+        "id": "ur.015161470513.41",
+        "last_name": "Hebous",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.453811.a",
+          "grid.7839.5"
+        ],
+        "first_name": "Shafik"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "ERIH PLUS",
+      "VABB-SHW"
+    ],
+    "publisher": "Mohr Siebeck",
+    "issn": [
+      "0015-2218",
+      "1614-0974"
+    ],
+    "altmetric_id": 50777555,
+    "pages": "458-485(28)",
+    "field_citation_ratio": 0.53,
+    "authors": [
+      {
+        "first_name": "Shafik",
+        "last_name": "Hebous",
+        "orcid": "",
+        "current_organization_id": "grid.453811.a",
+        "researcher_id": "ur.015161470513.41",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Shafik",
+          "last_name": "Hebous",
+          "orcid": "",
+          "current_organization_id": "grid.453811.a",
+          "researcher_id": "ur.015161470513.41",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2014-01-01",
+    "reference_ids": [
+      "pub.1068329301",
+      "pub.1054958352",
+      "pub.1029622292",
+      "pub.1049024212",
+      "pub.1064526087",
+      "pub.1047784341",
+      "pub.1043764414",
+      "pub.1009781473",
+      "pub.1059967520",
+      "pub.1020886313",
+      "pub.1011156840",
+      "pub.1030250107",
+      "pub.1049262225",
+      "pub.1035346762",
+      "pub.1047732709",
+      "pub.1068328851",
+      "pub.1068329461",
+      "pub.1023812947",
+      "pub.1050270876",
+      "pub.1069868290",
+      "pub.1029587550",
+      "pub.1059459142",
+      "pub.1059459144",
+      "pub.1064530575",
+      "pub.1099558058",
+      "pub.1001663591",
+      "pub.1022543363",
+      "pub.1052108676",
+      "pub.1068329300",
+      "pub.1064530515",
+      "pub.1002650628",
+      "pub.1022437312",
+      "pub.1014201330",
+      "pub.1068329391",
+      "pub.1064532223",
+      "pub.1064527867",
+      "pub.1068329346",
+      "pub.1049795785",
+      "pub.1032992554",
+      "pub.1044450336",
+      "pub.1059967522",
+      "pub.1018383526",
+      "pub.1047283516",
+      "pub.1069768934",
+      "pub.1049521261",
+      "pub.1050079993",
+      "pub.1012661049",
+      "pub.1011130213",
+      "pub.1022012898",
+      "pub.1068329347",
+      "pub.1022423725",
+      "pub.1024778569",
+      "pub.1022949309",
+      "pub.1064530516",
+      "pub.1039322859",
+      "pub.1037323349",
+      "pub.1016693937",
+      "pub.1048017745",
+      "pub.1035910320"
+    ],
+    "references": [
+      "pub.1068329301",
+      "pub.1054958352",
+      "pub.1029622292",
+      "pub.1049024212",
+      "pub.1064526087",
+      "pub.1047784341",
+      "pub.1043764414",
+      "pub.1009781473",
+      "pub.1059967520",
+      "pub.1020886313",
+      "pub.1011156840",
+      "pub.1030250107",
+      "pub.1049262225",
+      "pub.1035346762",
+      "pub.1047732709",
+      "pub.1068328851",
+      "pub.1068329461",
+      "pub.1023812947",
+      "pub.1050270876",
+      "pub.1069868290",
+      "pub.1029587550",
+      "pub.1059459142",
+      "pub.1059459144",
+      "pub.1064530575",
+      "pub.1099558058",
+      "pub.1001663591",
+      "pub.1022543363",
+      "pub.1052108676",
+      "pub.1068329300",
+      "pub.1064530515",
+      "pub.1002650628",
+      "pub.1022437312",
+      "pub.1014201330",
+      "pub.1068329391",
+      "pub.1064532223",
+      "pub.1064527867",
+      "pub.1068329346",
+      "pub.1049795785",
+      "pub.1032992554",
+      "pub.1044450336",
+      "pub.1059967522",
+      "pub.1018383526",
+      "pub.1047283516",
+      "pub.1069768934",
+      "pub.1049521261",
+      "pub.1050079993",
+      "pub.1012661049",
+      "pub.1011130213",
+      "pub.1022012898",
+      "pub.1068329347",
+      "pub.1022423725",
+      "pub.1024778569",
+      "pub.1022949309",
+      "pub.1064530516",
+      "pub.1039322859",
+      "pub.1037323349",
+      "pub.1016693937",
+      "pub.1048017745",
+      "pub.1035910320"
+    ],
+    "doi": "10.1628/001522114x684547",
+    "year": 2014,
+    "type": "article",
+    "volume": "70",
+    "altmetric": 3,
+    "times_cited": 1,
+    "terms": [
+      "future research",
+      "role",
+      "financial assets",
+      "discussion",
+      "data sources",
+      "business",
+      "influence",
+      "regularity",
+      "world economy",
+      "firms",
+      "assets",
+      "information",
+      "analysis",
+      "economy",
+      "source",
+      "issues",
+      "research",
+      "multinational firms",
+      "policy discussions",
+      "tax havens",
+      "essay",
+      "haven",
+      "relevant information"
+    ],
+    "concepts": [
+      "future research",
+      "role",
+      "financial assets",
+      "discussion",
+      "data sources",
+      "business",
+      "influence",
+      "regularity",
+      "world economy",
+      "firms",
+      "assets",
+      "information",
+      "analysis",
+      "economy",
+      "source",
+      "issues",
+      "research",
+      "multinational firms",
+      "policy discussions",
+      "tax havens",
+      "essay",
+      "haven",
+      "relevant information"
+    ],
+    "issue": "3",
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "dimensions_id": "pub.1016061841",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "recent_citations": 14,
+    "title": "The determinants of cross\u2010border bank flows to emerging markets",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "id": "pub.1010632196",
+    "journal": {
+      "id": "jour.1139384",
+      "title": "Economics of Transition"
+    },
+    "researchers": [
+      {
+        "id": "ur.011140323673.18",
+        "last_name": "Herrmann",
+        "first_name": "Sabine"
+      },
+      {
+        "id": "ur.07431301707.90",
+        "last_name": "Mihaljek",
+        "orcid_id": [
+          "0000-0003-4706-9534"
+        ],
+        "research_orgs": [
+          "grid.483231.f"
+        ],
+        "first_name": "Dubravko"
+      }
+    ],
+    "research_org_country_names": [
+      "Switzerland",
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Wiley",
+    "issn": [
+      "0967-0750",
+      "1468-0351"
+    ],
+    "pages": "479-508",
+    "field_citation_ratio": 13.57,
+    "authors": [
+      {
+        "first_name": "Sabine",
+        "last_name": "Herrmann",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011140323673.18",
+        "affiliations": [
+          {
+            "name": "Economics Department of the Deutsche Bundesbank Frankfurt am Main Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "Dubravko",
+        "last_name": "Mihaljek",
+        "orcid": "['0000-0003-4706-9534']",
+        "current_organization_id": "grid.483231.f",
+        "researcher_id": "ur.07431301707.90",
+        "affiliations": [
+          {
+            "name": "Bank for International Settlements Monetary and Economic Department Centralbahnplatz 2 Basel"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Sabine",
+          "last_name": "Herrmann",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011140323673.18",
+          "affiliations": [
+            {
+              "name": "Economics Department of the Deutsche Bundesbank Frankfurt am Main Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Dubravko",
+          "last_name": "Mihaljek",
+          "orcid": "['0000-0003-4706-9534']",
+          "current_organization_id": "grid.483231.f",
+          "researcher_id": "ur.07431301707.90",
+          "affiliations": [
+            {
+              "name": "Bank for International Settlements Monetary and Economic Department Centralbahnplatz 2 Basel"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2661604,
+        "name": "Basel"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2013-07-01",
+    "reference_ids": [
+      "pub.1073431261",
+      "pub.1023056745",
+      "pub.1069640870",
+      "pub.1102206355",
+      "pub.1046321849",
+      "pub.1040312714",
+      "pub.1041837728",
+      "pub.1033281687",
+      "pub.1013666702",
+      "pub.1044022258",
+      "pub.1063348993",
+      "pub.1072575739",
+      "pub.1042349945",
+      "pub.1109732521",
+      "pub.1007917895",
+      "pub.1022461072",
+      "pub.1064524932",
+      "pub.1020632174",
+      "pub.1063352944",
+      "pub.1061835920",
+      "pub.1001912838",
+      "pub.1069869282",
+      "pub.1023060683",
+      "pub.1045414448",
+      "pub.1084813811",
+      "pub.1025796489",
+      "pub.1017776517",
+      "pub.1043510150"
+    ],
+    "references": [
+      "pub.1073431261",
+      "pub.1023056745",
+      "pub.1069640870",
+      "pub.1102206355",
+      "pub.1046321849",
+      "pub.1040312714",
+      "pub.1041837728",
+      "pub.1033281687",
+      "pub.1013666702",
+      "pub.1044022258",
+      "pub.1063348993",
+      "pub.1072575739",
+      "pub.1042349945",
+      "pub.1109732521",
+      "pub.1007917895",
+      "pub.1022461072",
+      "pub.1064524932",
+      "pub.1020632174",
+      "pub.1063352944",
+      "pub.1061835920",
+      "pub.1001912838",
+      "pub.1069869282",
+      "pub.1023060683",
+      "pub.1045414448",
+      "pub.1084813811",
+      "pub.1025796489",
+      "pub.1017776517",
+      "pub.1043510150"
+    ],
+    "doi": "10.1111/ecot.12019",
+    "year": 2013,
+    "type": "article",
+    "volume": "21",
+    "times_cited": 35,
+    "terms": [
+      "gravity model",
+      "countries",
+      "econometric methodology",
+      "creditor countries",
+      "different specifications",
+      "main findings",
+      "empirical framework",
+      "specification",
+      "panel dataset",
+      "market regions",
+      "lending",
+      "methodology",
+      "banking system",
+      "sub-sample",
+      "framework",
+      "sound banking system",
+      "financial flows",
+      "findings",
+      "market economy",
+      "determinants",
+      "Eastern Europe",
+      "economy",
+      "ties",
+      "Europe",
+      "cross-border lending",
+      "model",
+      "paper",
+      "country-specific risk factors",
+      "bank lending",
+      "factors",
+      "cross-border bank lending",
+      "dataset"
+    ],
+    "concepts": [
+      "gravity model",
+      "countries",
+      "econometric methodology",
+      "creditor countries",
+      "different specifications",
+      "main findings",
+      "empirical framework",
+      "specification",
+      "panel dataset",
+      "market regions",
+      "lending",
+      "methodology",
+      "banking system",
+      "sub-sample",
+      "framework",
+      "sound banking system",
+      "financial flows",
+      "findings",
+      "market economy",
+      "determinants",
+      "Eastern Europe",
+      "economy",
+      "ties",
+      "Europe",
+      "cross-border lending",
+      "model",
+      "paper",
+      "country-specific risk factors",
+      "bank lending",
+      "factors",
+      "cross-border bank lending",
+      "dataset"
+    ],
+    "issue": "3",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1010632196",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "recent_citations": 4,
+    "research_org_state_names": [
+      "Ontario"
+    ],
+    "title": "The Monetary and Fiscal Nexus of Neo-Chartalism: A Friendly Critique",
+    "FOR": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.28046.38",
+        "name": "University of Ottawa",
+        "country_name": "Canada"
+      }
+    ],
+    "id": "pub.1007715157",
+    "journal": {
+      "id": "jour.1027567",
+      "title": "Journal of Economic Issues"
+    },
+    "researchers": [
+      {
+        "id": "ur.011543740061.18",
+        "last_name": "Lavoie",
+        "research_orgs": [
+          "grid.258970.1",
+          "grid.11318.3a",
+          "grid.28046.38"
+        ],
+        "first_name": "Marc"
+      }
+    ],
+    "research_org_country_names": [
+      "Canada"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "0021-3624",
+      "1946-326X"
+    ],
+    "altmetric_id": 61991389,
+    "pages": "1-32",
+    "authors": [
+      {
+        "first_name": "Marc",
+        "last_name": "Lavoie",
+        "orcid": "",
+        "current_organization_id": "grid.11318.3a",
+        "researcher_id": "ur.011543740061.18",
+        "affiliations": [
+          {
+            "id": "grid.28046.38",
+            "name": "University of Ottawa",
+            "city": "Ottawa",
+            "city_id": 6094817,
+            "country": "Canada",
+            "country_code": "CA",
+            "state": "Ontario",
+            "state_code": "CA-ON"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Marc",
+          "last_name": "Lavoie",
+          "orcid": "",
+          "current_organization_id": "grid.11318.3a",
+          "researcher_id": "ur.011543740061.18",
+          "affiliations": [
+            {
+              "id": "grid.28046.38",
+              "name": "University of Ottawa",
+              "city": "Ottawa",
+              "city_id": 6094817,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 6094817,
+        "name": "Ottawa"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      }
+    ],
+    "date": "2013-03-01",
+    "reference_ids": [
+      "pub.1015481387",
+      "pub.1102369126",
+      "pub.1028411987",
+      "pub.1009675389",
+      "pub.1105613456",
+      "pub.1044826054",
+      "pub.1102299123",
+      "pub.1043919735",
+      "pub.1005372257",
+      "pub.1017984365",
+      "pub.1102313069",
+      "pub.1059468820",
+      "pub.1003326853",
+      "pub.1059468411",
+      "pub.1034473384",
+      "pub.1105613462",
+      "pub.1102311543",
+      "pub.1026361293",
+      "pub.1027603907",
+      "pub.1018302305",
+      "pub.1105613461",
+      "pub.1073462695",
+      "pub.1040201651",
+      "pub.1102290457",
+      "pub.1029376568",
+      "pub.1105613457",
+      "pub.1028211980",
+      "pub.1017412524",
+      "pub.1001604004",
+      "pub.1013220974",
+      "pub.1102298291",
+      "pub.1022058124",
+      "pub.1020550185"
+    ],
+    "references": [
+      "pub.1015481387",
+      "pub.1102369126",
+      "pub.1028411987",
+      "pub.1009675389",
+      "pub.1105613456",
+      "pub.1044826054",
+      "pub.1102299123",
+      "pub.1043919735",
+      "pub.1005372257",
+      "pub.1017984365",
+      "pub.1102313069",
+      "pub.1059468820",
+      "pub.1003326853",
+      "pub.1059468411",
+      "pub.1034473384",
+      "pub.1105613462",
+      "pub.1102311543",
+      "pub.1026361293",
+      "pub.1027603907",
+      "pub.1018302305",
+      "pub.1105613461",
+      "pub.1073462695",
+      "pub.1040201651",
+      "pub.1102290457",
+      "pub.1029376568",
+      "pub.1105613457",
+      "pub.1028211980",
+      "pub.1017412524",
+      "pub.1001604004",
+      "pub.1013220974",
+      "pub.1102298291",
+      "pub.1022058124",
+      "pub.1020550185"
+    ],
+    "doi": "10.2753/jei0021-3624470101",
+    "year": 2013,
+    "type": "article",
+    "volume": "47",
+    "altmetric": 1,
+    "times_cited": 21,
+    "terms": [
+      "government",
+      "consolidation",
+      "authors",
+      "budget constraints",
+      "constraints",
+      "risk",
+      "paradoxical claim",
+      "currency",
+      "debt",
+      "statement",
+      "government sector",
+      "bank account",
+      "controversial claims",
+      "households",
+      "paper",
+      "economists",
+      "government expenditure",
+      "sovereign debt",
+      "claims",
+      "tax",
+      "one",
+      "central bank",
+      "Eurozone",
+      "deficits",
+      "logic",
+      "high debt",
+      "sovereign currency",
+      "default",
+      "expenditure",
+      "state",
+      "countries",
+      "sector",
+      "entities",
+      "GDP ratio",
+      "banks",
+      "account"
+    ],
+    "concepts": [
+      "government",
+      "consolidation",
+      "authors",
+      "budget constraints",
+      "constraints",
+      "risk",
+      "paradoxical claim",
+      "currency",
+      "debt",
+      "statement",
+      "government sector",
+      "bank account",
+      "controversial claims",
+      "households",
+      "paper",
+      "economists",
+      "government expenditure",
+      "sovereign debt",
+      "claims",
+      "tax",
+      "one",
+      "central bank",
+      "Eurozone",
+      "deficits",
+      "logic",
+      "high debt",
+      "sovereign currency",
+      "default",
+      "expenditure",
+      "state",
+      "countries",
+      "sector",
+      "entities",
+      "GDP ratio",
+      "banks",
+      "account"
+    ],
+    "issue": "1",
+    "research_org_countries": [
+      {
+        "id": "CA",
+        "name": "Canada"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "CA-ON",
+        "name": "Ontario"
+      }
+    ],
+    "dimensions_id": "pub.1007715157",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Rae",
+        "last_name": "Weston",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Rae",
+          "last_name": "Weston",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1003675693",
+    "date": "2013-01-04",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Taylor & Francis",
+    "doi": "10.4324/9780203109199",
+    "title": "Domestic and Multinational Banking (RLE Banking & Finance)",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "monograph",
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "risk",
+      "illustration",
+      "book",
+      "unregulated banks",
+      "move",
+      "survey",
+      "banking",
+      "banks",
+      "financial services",
+      "regulatory constraints",
+      "constraints",
+      "analysis",
+      "fundamental nature",
+      "form",
+      "nature",
+      "multinational banking",
+      "services",
+      "economy",
+      "retailing"
+    ],
+    "terms": [
+      "risk",
+      "illustration",
+      "book",
+      "unregulated banks",
+      "move",
+      "survey",
+      "banking",
+      "banks",
+      "financial services",
+      "regulatory constraints",
+      "constraints",
+      "analysis",
+      "fundamental nature",
+      "form",
+      "nature",
+      "multinational banking",
+      "services",
+      "economy",
+      "retailing"
+    ],
+    "year": 2013,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1003675693",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2013-01-04",
+    "terms": [
+      "strategies",
+      "topic",
+      "options",
+      "book",
+      "financial instruments",
+      "working",
+      "professionals",
+      "issues",
+      "introduction",
+      "capital markets",
+      "market",
+      "international capital markets",
+      "comprehensive introduction",
+      "business",
+      "management",
+      "taxation",
+      "instrument",
+      "key topics",
+      "international taxation",
+      "financial strategies",
+      "financing",
+      "global market",
+      "guide",
+      "financial management",
+      "international business",
+      "international financial management",
+      "complexity",
+      "SWAP"
+    ],
+    "concepts": [
+      "strategies",
+      "topic",
+      "options",
+      "book",
+      "financial instruments",
+      "working",
+      "professionals",
+      "issues",
+      "introduction",
+      "capital markets",
+      "market",
+      "international capital markets",
+      "comprehensive introduction",
+      "business",
+      "management",
+      "taxation",
+      "instrument",
+      "key topics",
+      "international taxation",
+      "financial strategies",
+      "financing",
+      "global market",
+      "guide",
+      "financial management",
+      "international business",
+      "international financial management",
+      "complexity",
+      "SWAP"
+    ],
+    "id": "pub.1010817973",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2013,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "title": "International Corporate Finance (RLE International Business)",
+    "authors": [
+      {
+        "first_name": "Harvey",
+        "last_name": "Poniachek",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Harvey",
+          "last_name": "Poniachek",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Taylor & Francis",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "monograph",
+    "doi": "10.4324/9780203076590",
+    "dimensions_id": "pub.1010817973",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "title": "Macroeconomic Foundations of Macroeconomics",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "id": "pub.1028195433",
+    "publisher": "Taylor & Francis",
+    "altmetric_id": 58884246,
+    "field_citation_ratio": 2.57,
+    "authors": [
+      {
+        "first_name": "Alvaro",
+        "last_name": "Cencini",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Alvaro",
+          "last_name": "Cencini",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2012-10-12",
+    "doi": "10.4324/9780203022788",
+    "year": 2012,
+    "type": "monograph",
+    "altmetric": 1,
+    "times_cited": 5,
+    "terms": [
+      "aggregates",
+      "economic laws",
+      "theory",
+      "law",
+      "behavior",
+      "macroeconomic foundations",
+      "individual behavior",
+      "beliefs",
+      "common belief",
+      "economic agents\u2019 behavior",
+      "agents\u2019 behavior",
+      "macroeconomics",
+      "foundation"
+    ],
+    "concepts": [
+      "aggregates",
+      "economic laws",
+      "theory",
+      "law",
+      "behavior",
+      "macroeconomic foundations",
+      "individual behavior",
+      "beliefs",
+      "common belief",
+      "economic agents\u2019 behavior",
+      "agents\u2019 behavior",
+      "macroeconomics",
+      "foundation"
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1028195433",
+    "related_dataset_name": "External Position of Banks",
+    "related_dataset": "dataset-ce94635bb2109ddf8f24",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

@@ -1,0 +1,7446 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-08-01",
+    "research_orgs": [
+      {
+        "id": "grid.15788.33",
+        "acronym": "WU",
+        "name": "Vienna University of Economics and Business",
+        "country_name": "Austria"
+      }
+    ],
+    "journal": {
+      "id": "jour.1320095",
+      "title": "Long Range Planning"
+    },
+    "terms": [
+      "evidence",
+      "network",
+      "knowledge",
+      "investment incentives",
+      "subsidiaries",
+      "foreign subsidiaries",
+      "incentives",
+      "border",
+      "subsidiary networks",
+      "arbitrage",
+      "host country",
+      "strategies",
+      "MNC",
+      "countries",
+      "opportunity",
+      "multinationality",
+      "technological knowledge",
+      "MNC network",
+      "benefits",
+      "resource flows",
+      "tax rates"
+    ],
+    "concepts": [
+      "evidence",
+      "network",
+      "knowledge",
+      "investment incentives",
+      "subsidiaries",
+      "foreign subsidiaries",
+      "incentives",
+      "border",
+      "subsidiary networks",
+      "arbitrage",
+      "host country",
+      "strategies",
+      "MNC",
+      "countries",
+      "opportunity",
+      "multinationality",
+      "technological knowledge",
+      "MNC network",
+      "benefits",
+      "resource flows",
+      "tax rates"
+    ],
+    "id": "pub.1105682851",
+    "issn": [
+      "0024-6301",
+      "2378-8615"
+    ],
+    "researchers": [
+      {
+        "id": "ur.0600137041.55",
+        "last_name": "Fisch",
+        "research_orgs": [
+          "grid.7307.3",
+          "grid.9464.f",
+          "grid.15788.33",
+          "grid.266842.c"
+        ],
+        "first_name": "Jan Hendrik"
+      },
+      {
+        "id": "ur.016344003551.72",
+        "last_name": "Schmeisser",
+        "research_orgs": [
+          "grid.7307.3",
+          "grid.15788.33"
+        ],
+        "first_name": "Bjoern"
+      }
+    ],
+    "research_org_country_names": [
+      "New Zealand",
+      "Austria"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1068328823",
+      "pub.1028751056",
+      "pub.1027032556",
+      "pub.1029622292",
+      "pub.1037506581",
+      "pub.1017871413",
+      "pub.1083624010",
+      "pub.1036860847",
+      "pub.1041933060",
+      "pub.1043458521",
+      "pub.1021481982",
+      "pub.1009252876",
+      "pub.1011322964",
+      "pub.1049382784",
+      "pub.1026597736",
+      "pub.1014398326",
+      "pub.1013298585",
+      "pub.1064721158",
+      "pub.1026930531",
+      "pub.1038476985",
+      "pub.1047390530",
+      "pub.1014837038",
+      "pub.1045373174",
+      "pub.1069768934",
+      "pub.1007602527",
+      "pub.1011440945",
+      "pub.1019999556",
+      "pub.1025732497",
+      "pub.1032137579",
+      "pub.1031487218",
+      "pub.1030557984",
+      "pub.1022872979",
+      "pub.1034423327",
+      "pub.1012480469",
+      "pub.1045786794",
+      "pub.1009622639",
+      "pub.1069766059",
+      "pub.1036570234",
+      "pub.1009145538",
+      "pub.1041674105",
+      "pub.1024404430",
+      "pub.1070002243",
+      "pub.1069765659",
+      "pub.1039953515",
+      "pub.1011644337",
+      "pub.1050223544",
+      "pub.1019234665",
+      "pub.1044044911",
+      "pub.1026924651",
+      "pub.1052136084",
+      "pub.1046284639",
+      "pub.1024020043",
+      "pub.1014695442",
+      "pub.1038104011",
+      "pub.1053536533",
+      "pub.1039424914",
+      "pub.1014408830",
+      "pub.1050035240",
+      "pub.1010068704",
+      "pub.1013132400",
+      "pub.1064721909",
+      "pub.1007835707",
+      "pub.1029983804",
+      "pub.1037663776",
+      "pub.1015397816",
+      "pub.1021248064",
+      "pub.1008223550",
+      "pub.1040630141",
+      "pub.1023403889",
+      "pub.1025600833",
+      "pub.1013567390",
+      "pub.1040108086",
+      "pub.1046118120",
+      "pub.1069908817",
+      "pub.1064733447",
+      "pub.1048935069",
+      "pub.1069845556",
+      "pub.1051971835",
+      "pub.1045403826",
+      "pub.1039085544",
+      "pub.1052696685",
+      "pub.1068329262",
+      "pub.1003625664",
+      "pub.1019685477",
+      "pub.1021403942",
+      "pub.1008602377",
+      "pub.1006657733",
+      "pub.1035044261",
+      "pub.1036504454",
+      "pub.1088874970",
+      "pub.1048365352",
+      "pub.1064730824",
+      "pub.1064531291",
+      "pub.1020887214",
+      "pub.1005753861",
+      "pub.1045537124",
+      "pub.1049471638",
+      "pub.1034188073",
+      "pub.1049884186",
+      "pub.1072894592",
+      "pub.1011572105",
+      "pub.1069371747",
+      "pub.1017652418",
+      "pub.1030516152",
+      "pub.1050536176",
+      "pub.1017560146",
+      "pub.1018671488",
+      "pub.1068328960",
+      "pub.1047983671",
+      "pub.1040075141",
+      "pub.1073338794",
+      "pub.1030728994",
+      "pub.1084815014",
+      "pub.1030250107",
+      "pub.1043426901"
+    ],
+    "references": [
+      "pub.1068328823",
+      "pub.1028751056",
+      "pub.1027032556",
+      "pub.1029622292",
+      "pub.1037506581",
+      "pub.1017871413",
+      "pub.1083624010",
+      "pub.1036860847",
+      "pub.1041933060",
+      "pub.1043458521",
+      "pub.1021481982",
+      "pub.1009252876",
+      "pub.1011322964",
+      "pub.1049382784",
+      "pub.1026597736",
+      "pub.1014398326",
+      "pub.1013298585",
+      "pub.1064721158",
+      "pub.1026930531",
+      "pub.1038476985",
+      "pub.1047390530",
+      "pub.1014837038",
+      "pub.1045373174",
+      "pub.1069768934",
+      "pub.1007602527",
+      "pub.1011440945",
+      "pub.1019999556",
+      "pub.1025732497",
+      "pub.1032137579",
+      "pub.1031487218",
+      "pub.1030557984",
+      "pub.1022872979",
+      "pub.1034423327",
+      "pub.1012480469",
+      "pub.1045786794",
+      "pub.1009622639",
+      "pub.1069766059",
+      "pub.1036570234",
+      "pub.1009145538",
+      "pub.1041674105",
+      "pub.1024404430",
+      "pub.1070002243",
+      "pub.1069765659",
+      "pub.1039953515",
+      "pub.1011644337",
+      "pub.1050223544",
+      "pub.1019234665",
+      "pub.1044044911",
+      "pub.1026924651",
+      "pub.1052136084",
+      "pub.1046284639",
+      "pub.1024020043",
+      "pub.1014695442",
+      "pub.1038104011",
+      "pub.1053536533",
+      "pub.1039424914",
+      "pub.1014408830",
+      "pub.1050035240",
+      "pub.1010068704",
+      "pub.1013132400",
+      "pub.1064721909",
+      "pub.1007835707",
+      "pub.1029983804",
+      "pub.1037663776",
+      "pub.1015397816",
+      "pub.1021248064",
+      "pub.1008223550",
+      "pub.1040630141",
+      "pub.1023403889",
+      "pub.1025600833",
+      "pub.1013567390",
+      "pub.1040108086",
+      "pub.1046118120",
+      "pub.1069908817",
+      "pub.1064733447",
+      "pub.1048935069",
+      "pub.1069845556",
+      "pub.1051971835",
+      "pub.1045403826",
+      "pub.1039085544",
+      "pub.1052696685",
+      "pub.1068329262",
+      "pub.1003625664",
+      "pub.1019685477",
+      "pub.1021403942",
+      "pub.1008602377",
+      "pub.1006657733",
+      "pub.1035044261",
+      "pub.1036504454",
+      "pub.1088874970",
+      "pub.1048365352",
+      "pub.1064730824",
+      "pub.1064531291",
+      "pub.1020887214",
+      "pub.1005753861",
+      "pub.1045537124",
+      "pub.1049471638",
+      "pub.1034188073",
+      "pub.1049884186",
+      "pub.1072894592",
+      "pub.1011572105",
+      "pub.1069371747",
+      "pub.1017652418",
+      "pub.1030516152",
+      "pub.1050536176",
+      "pub.1017560146",
+      "pub.1018671488",
+      "pub.1068328960",
+      "pub.1047983671",
+      "pub.1040075141",
+      "pub.1073338794",
+      "pub.1030728994",
+      "pub.1084815014",
+      "pub.1030250107",
+      "pub.1043426901"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3364",
+        "name": "1505 Marketing"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "AT",
+        "name": "Austria"
+      },
+      {
+        "id": "NZ",
+        "name": "New Zealand"
+      }
+    ],
+    "date_inserted": "2018-07-20",
+    "volume": "52",
+    "title": "Upgrading local operations for global arbitrage",
+    "authors": [
+      {
+        "first_name": "Jan Hendrik",
+        "last_name": "Fisch",
+        "orcid": "",
+        "current_organization_id": "grid.15788.33",
+        "researcher_id": "ur.0600137041.55",
+        "affiliations": [
+          {
+            "id": "grid.15788.33",
+            "name": "Vienna University of Economics and Business",
+            "city": "Vienna",
+            "city_id": 2761369,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "name": "Waikato Management School, Hamilton, New Zealand"
+          }
+        ]
+      },
+      {
+        "first_name": "Bjoern",
+        "last_name": "Schmeisser",
+        "orcid": "",
+        "current_organization_id": "grid.15788.33",
+        "researcher_id": "ur.016344003551.72",
+        "affiliations": [
+          {
+            "id": "grid.15788.33",
+            "name": "Vienna University of Economics and Business",
+            "city": "Vienna",
+            "city_id": 2761369,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Jan Hendrik",
+          "last_name": "Fisch",
+          "orcid": "",
+          "current_organization_id": "grid.15788.33",
+          "researcher_id": "ur.0600137041.55",
+          "affiliations": [
+            {
+              "id": "grid.15788.33",
+              "name": "Vienna University of Economics and Business",
+              "city": "Vienna",
+              "city_id": 2761369,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "name": "Waikato Management School, Hamilton, New Zealand"
+            }
+          ]
+        },
+        {
+          "first_name": "Bjoern",
+          "last_name": "Schmeisser",
+          "orcid": "",
+          "current_organization_id": "grid.15788.33",
+          "researcher_id": "ur.016344003551.72",
+          "affiliations": [
+            {
+              "id": "grid.15788.33",
+              "name": "Vienna University of Economics and Business",
+              "city": "Vienna",
+              "city_id": 2761369,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2761369,
+        "name": "Vienna"
+      },
+      {
+        "id": 2190324,
+        "name": "Hamilton"
+      }
+    ],
+    "publisher": "Elsevier",
+    "research_org_state_names": [
+      "Waikato"
+    ],
+    "issue": "Weltwirtschaftliches Arch. 116 4 1980",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "101845",
+    "doi": "10.1016/j.lrp.2018.07.001",
+    "dimensions_id": "pub.1105682851",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "altmetric_id": 60468736,
+    "authors": [
+      {
+        "first_name": "Nicolas",
+        "last_name": "Koch",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Mercator Research Institute on Global Commons and Climate Change"
+          }
+        ]
+      },
+      {
+        "first_name": "Houdou Basse",
+        "last_name": "Mama",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.012647666624.80",
+        "affiliations": [
+          {
+            "name": "ESCP Europe Business School"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Nicolas",
+          "last_name": "Koch",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Mercator Research Institute on Global Commons and Climate Change"
+            }
+          ]
+        },
+        {
+          "first_name": "Houdou Basse",
+          "last_name": "Mama",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012647666624.80",
+          "affiliations": [
+            {
+              "name": "ESCP Europe Business School"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2988507,
+        "name": "Paris"
+      },
+      {
+        "id": 2950159,
+        "name": "Berlin"
+      },
+      {
+        "id": 2643743,
+        "name": "London"
+      }
+    ],
+    "id": "pub.1113786572",
+    "research_org_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "FR",
+        "name": "France"
+      }
+    ],
+    "date": "2019-06-01",
+    "pages": "479-492",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0140-9883",
+      "1873-6181"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.eneco.2019.04.018",
+    "journal": {
+      "id": "jour.1137345",
+      "title": "Energy Economics"
+    },
+    "title": "Does the EU Emissions Trading System induce investment leakage? Evidence from German multinational firms",
+    "FOR": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "altmetric": 25,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012647666624.80",
+        "last_name": "Basse Mama",
+        "research_orgs": [
+          "grid.466462.4"
+        ],
+        "first_name": "Houdou"
+      }
+    ],
+    "research_org_country_names": [
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "date_inserted": "2019-04-29",
+    "concepts": [
+      "limited potential",
+      "less capital",
+      "levels",
+      "average treatment effect",
+      "intensive sectors",
+      "decision",
+      "sub-sample",
+      "direct investment",
+      "network structure",
+      "multinational firms",
+      "specification",
+      "counterfactual scenarios",
+      "scenarios",
+      "relocation",
+      "emissions trading system",
+      "ETS",
+      "regulated firm",
+      "share",
+      "future",
+      "participation requirements",
+      "policy",
+      "baseline specification",
+      "investment",
+      "EU ETS",
+      "trading system",
+      "foreign direct investment",
+      "sector",
+      "study",
+      "causal effect",
+      "requirements",
+      "outward foreign direct investment",
+      "German multinational firms",
+      "capital",
+      "changes",
+      "samples",
+      "firms",
+      "EU",
+      "bias",
+      "extensive margin",
+      "footloose firms",
+      "European Union Emissions Trading System",
+      "energy-intensive sectors",
+      "margin",
+      "endeavor",
+      "affiliates"
+    ],
+    "terms": [
+      "limited potential",
+      "less capital",
+      "levels",
+      "average treatment effect",
+      "intensive sectors",
+      "decision",
+      "sub-sample",
+      "direct investment",
+      "network structure",
+      "multinational firms",
+      "specification",
+      "counterfactual scenarios",
+      "scenarios",
+      "relocation",
+      "emissions trading system",
+      "ETS",
+      "regulated firm",
+      "share",
+      "future",
+      "participation requirements",
+      "policy",
+      "baseline specification",
+      "investment",
+      "EU ETS",
+      "trading system",
+      "foreign direct investment",
+      "sector",
+      "study",
+      "causal effect",
+      "requirements",
+      "outward foreign direct investment",
+      "German multinational firms",
+      "capital",
+      "changes",
+      "samples",
+      "firms",
+      "EU",
+      "bias",
+      "extensive margin",
+      "footloose firms",
+      "European Union Emissions Trading System",
+      "energy-intensive sectors",
+      "margin",
+      "endeavor",
+      "affiliates"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2209",
+        "name": "09 Engineering"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2867",
+        "name": "0906 Electrical and Electronic Engineering"
+      },
+      {
+        "id": "2933",
+        "name": "0913 Mechanical Engineering"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "references": [
+      "pub.1061835007",
+      "pub.1004578026",
+      "pub.1041342987",
+      "pub.1017442372",
+      "pub.1102399537",
+      "pub.1010689881",
+      "pub.1052592275",
+      "pub.1024105288",
+      "pub.1013955635",
+      "pub.1007932557",
+      "pub.1092396585",
+      "pub.1106124482",
+      "pub.1040237750",
+      "pub.1027482085",
+      "pub.1034219575",
+      "pub.1046009936"
+    ],
+    "reference_ids": [
+      "pub.1061835007",
+      "pub.1004578026",
+      "pub.1041342987",
+      "pub.1017442372",
+      "pub.1102399537",
+      "pub.1010689881",
+      "pub.1052592275",
+      "pub.1024105288",
+      "pub.1013955635",
+      "pub.1007932557",
+      "pub.1092396585",
+      "pub.1106124482",
+      "pub.1040237750",
+      "pub.1027482085",
+      "pub.1034219575",
+      "pub.1046009936"
+    ],
+    "volume": "81",
+    "dimensions_id": "pub.1113786572",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-05-07",
+    "linkout": "https://openaccess.nhh.no/nhh-xmlui/bitstream/11250/2592998/1/0119.pdf",
+    "research_org_state_names": [
+      "Hordaland"
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "title": "International Debt Shifting: The Value-Maximizing Mix of Internal and External Debt",
+    "FOR": [
+      {
+        "id": "3326",
+        "name": "1501 Accounting, Auditing and Accountability"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.424606.2",
+        "acronym": "NHH",
+        "name": "Norwegian School of Economics",
+        "country_name": "Norway"
+      }
+    ],
+    "id": "pub.1113909432",
+    "journal": {
+      "id": "jour.1140320",
+      "title": "International Journal of the Economics of Business"
+    },
+    "research_org_country_names": [
+      "Norway"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "1357-1516",
+      "1466-1829"
+    ],
+    "pages": "1-35",
+    "funders": [
+      {
+        "id": "grid.424150.6",
+        "acronym": "DFG",
+        "name": "German Research Foundation",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.13985.36",
+        "acronym": "RCN",
+        "name": "The Research Council of Norway",
+        "country_name": "Norway"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "NO",
+        "name": "Norway"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Jarle",
+        "last_name": "M\u00f8en",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.424606.2",
+            "name": "Norwegian School of Economics",
+            "city": "Bergen",
+            "city_id": 3161732,
+            "country": "Norway",
+            "country_code": "NO",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Dirk",
+        "last_name": "Schindler",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.424606.2",
+            "name": "Norwegian School of Economics",
+            "city": "Bergen",
+            "city_id": 3161732,
+            "country": "Norway",
+            "country_code": "NO",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Guttorm",
+        "last_name": "Schjelderup",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.424606.2",
+            "name": "Norwegian School of Economics",
+            "city": "Bergen",
+            "city_id": 3161732,
+            "country": "Norway",
+            "country_code": "NO",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Julia Tropina",
+        "last_name": "Bakke",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "SNF \u2013 Centre for Applied Research at NHH, Bergen, Norway, View further author information"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Jarle",
+          "last_name": "M\u00f8en",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.424606.2",
+              "name": "Norwegian School of Economics",
+              "city": "Bergen",
+              "city_id": 3161732,
+              "country": "Norway",
+              "country_code": "NO",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Dirk",
+          "last_name": "Schindler",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.424606.2",
+              "name": "Norwegian School of Economics",
+              "city": "Bergen",
+              "city_id": 3161732,
+              "country": "Norway",
+              "country_code": "NO",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Guttorm",
+          "last_name": "Schjelderup",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.424606.2",
+              "name": "Norwegian School of Economics",
+              "city": "Bergen",
+              "city_id": 3161732,
+              "country": "Norway",
+              "country_code": "NO",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Julia Tropina",
+          "last_name": "Bakke",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "SNF \u2013 Centre for Applied Research at NHH, Bergen, Norway, View further author information"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3161732,
+        "name": "Bergen"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2019-05-03",
+    "supporting_grant_ids": [
+      "grant.6525250"
+    ],
+    "reference_ids": [
+      "pub.1102256950",
+      "pub.1053328224",
+      "pub.1027679869",
+      "pub.1099558058",
+      "pub.1040261580",
+      "pub.1023779463",
+      "pub.1046239759",
+      "pub.1060005747",
+      "pub.1064524405",
+      "pub.1069768869",
+      "pub.1035346762",
+      "pub.1050144161",
+      "pub.1015705420",
+      "pub.1007181936",
+      "pub.1037341854",
+      "pub.1013739372",
+      "pub.1020581771",
+      "pub.1049208665",
+      "pub.1001663591",
+      "pub.1024837643",
+      "pub.1035442791",
+      "pub.1042365420",
+      "pub.1006512137",
+      "pub.1005086975",
+      "pub.1035957424",
+      "pub.1049999925",
+      "pub.1012073604",
+      "pub.1049668194",
+      "pub.1049283322",
+      "pub.1007663229",
+      "pub.1031512737",
+      "pub.1064532235",
+      "pub.1005355131",
+      "pub.1044584081",
+      "pub.1064530132",
+      "pub.1012970468",
+      "pub.1007498451",
+      "pub.1024655826",
+      "pub.1107181180",
+      "pub.1001904258",
+      "pub.1033632469",
+      "pub.1039322859",
+      "pub.1047283516",
+      "pub.1068329455"
+    ],
+    "references": [
+      "pub.1102256950",
+      "pub.1053328224",
+      "pub.1027679869",
+      "pub.1099558058",
+      "pub.1040261580",
+      "pub.1023779463",
+      "pub.1046239759",
+      "pub.1060005747",
+      "pub.1064524405",
+      "pub.1069768869",
+      "pub.1035346762",
+      "pub.1050144161",
+      "pub.1015705420",
+      "pub.1007181936",
+      "pub.1037341854",
+      "pub.1013739372",
+      "pub.1020581771",
+      "pub.1049208665",
+      "pub.1001663591",
+      "pub.1024837643",
+      "pub.1035442791",
+      "pub.1042365420",
+      "pub.1006512137",
+      "pub.1005086975",
+      "pub.1035957424",
+      "pub.1049999925",
+      "pub.1012073604",
+      "pub.1049668194",
+      "pub.1049283322",
+      "pub.1007663229",
+      "pub.1031512737",
+      "pub.1064532235",
+      "pub.1005355131",
+      "pub.1044584081",
+      "pub.1064530132",
+      "pub.1012970468",
+      "pub.1007498451",
+      "pub.1024655826",
+      "pub.1107181180",
+      "pub.1001904258",
+      "pub.1033632469",
+      "pub.1039322859",
+      "pub.1047283516",
+      "pub.1068329455"
+    ],
+    "doi": "10.1080/13571516.2019.1599189",
+    "year": 2019,
+    "type": "article",
+    "terms": [
+      "capital structure",
+      "external debt",
+      "capital markets",
+      "firm value",
+      "German multinationals",
+      "previous theories",
+      "panel",
+      "international borders",
+      "model",
+      "border",
+      "large panel",
+      "shield effect",
+      "market",
+      "theory",
+      "tax",
+      "tax shield effect",
+      "values",
+      "shifting",
+      "debt",
+      "debt shifting",
+      "importance",
+      "firms",
+      "equal importance",
+      "domestic firms",
+      "advantages",
+      "multinationals",
+      "external capital markets",
+      "tax advantages"
+    ],
+    "concepts": [
+      "capital structure",
+      "external debt",
+      "capital markets",
+      "firm value",
+      "German multinationals",
+      "previous theories",
+      "panel",
+      "international borders",
+      "model",
+      "border",
+      "large panel",
+      "shield effect",
+      "market",
+      "theory",
+      "tax",
+      "tax shield effect",
+      "values",
+      "shifting",
+      "debt",
+      "debt shifting",
+      "importance",
+      "firms",
+      "equal importance",
+      "domestic firms",
+      "advantages",
+      "multinationals",
+      "external capital markets",
+      "tax advantages"
+    ],
+    "research_org_countries": [
+      {
+        "id": "NO",
+        "name": "Norway"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3320",
+        "name": "1499 Other Economics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1113909432",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-01-29",
+    "linkout": "https://www.econstor.eu/bitstream/10419/170715/1/1001210670.pdf",
+    "recent_citations": 1,
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "title": "Service Offshoring and firm Employment",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1111599247",
+    "journal": {
+      "id": "jour.1027659",
+      "title": "Journal of International Economics"
+    },
+    "researchers": [
+      {
+        "id": "ur.07630005111.45",
+        "last_name": "Eppinger",
+        "orcid_id": [
+          "0000-0002-8460-544X"
+        ],
+        "research_orgs": [
+          "grid.10392.39",
+          "grid.435512.4"
+        ],
+        "first_name": "Peter S"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0022-1996",
+      "1873-0353"
+    ],
+    "altmetric_id": 54601479,
+    "pages": "209-228",
+    "funders": [
+      {
+        "id": "grid.424150.6",
+        "acronym": "DFG",
+        "name": "German Research Foundation",
+        "country_name": "Germany"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Peter S.",
+        "last_name": "Eppinger",
+        "orcid": "['0000-0002-8460-544X']",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.07630005111.45",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Peter S.",
+          "last_name": "Eppinger",
+          "orcid": "['0000-0002-8460-544X']",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.07630005111.45",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2019-03-01",
+    "reference_ids": [
+      "pub.1029060416",
+      "pub.1014390860",
+      "pub.1034193317",
+      "pub.1032044127",
+      "pub.1058852976",
+      "pub.1064525172",
+      "pub.1002354513",
+      "pub.1028959858",
+      "pub.1073319806",
+      "pub.1064529087",
+      "pub.1045632401",
+      "pub.1064526098",
+      "pub.1014682844",
+      "pub.1043071967",
+      "pub.1059949045",
+      "pub.1012415843",
+      "pub.1070155007",
+      "pub.1005632218",
+      "pub.1043664479",
+      "pub.1063349145",
+      "pub.1058674470",
+      "pub.1000369124",
+      "pub.1019074406",
+      "pub.1046935288",
+      "pub.1035062991",
+      "pub.1102750489",
+      "pub.1035308190",
+      "pub.1069640134",
+      "pub.1052796234",
+      "pub.1010753985",
+      "pub.1050510113",
+      "pub.1064526234",
+      "pub.1064525301",
+      "pub.1044764755",
+      "pub.1064527848",
+      "pub.1015240354",
+      "pub.1032397799",
+      "pub.1032100953",
+      "pub.1069869282",
+      "pub.1006680116",
+      "pub.1034676408",
+      "pub.1064523858",
+      "pub.1091468128",
+      "pub.1003024114",
+      "pub.1036301279",
+      "pub.1042033346",
+      "pub.1015733727"
+    ],
+    "references": [
+      "pub.1029060416",
+      "pub.1014390860",
+      "pub.1034193317",
+      "pub.1032044127",
+      "pub.1058852976",
+      "pub.1064525172",
+      "pub.1002354513",
+      "pub.1028959858",
+      "pub.1073319806",
+      "pub.1064529087",
+      "pub.1045632401",
+      "pub.1064526098",
+      "pub.1014682844",
+      "pub.1043071967",
+      "pub.1059949045",
+      "pub.1012415843",
+      "pub.1070155007",
+      "pub.1005632218",
+      "pub.1043664479",
+      "pub.1063349145",
+      "pub.1058674470",
+      "pub.1000369124",
+      "pub.1019074406",
+      "pub.1046935288",
+      "pub.1035062991",
+      "pub.1102750489",
+      "pub.1035308190",
+      "pub.1069640134",
+      "pub.1052796234",
+      "pub.1010753985",
+      "pub.1050510113",
+      "pub.1064526234",
+      "pub.1064525301",
+      "pub.1044764755",
+      "pub.1064527848",
+      "pub.1015240354",
+      "pub.1032397799",
+      "pub.1032100953",
+      "pub.1069869282",
+      "pub.1006680116",
+      "pub.1034676408",
+      "pub.1064523858",
+      "pub.1091468128",
+      "pub.1003024114",
+      "pub.1036301279",
+      "pub.1042033346",
+      "pub.1015733727"
+    ],
+    "doi": "10.1016/j.jinteco.2019.01.007",
+    "year": 2019,
+    "type": "article",
+    "volume": "117",
+    "altmetric": 1,
+    "times_cited": 1,
+    "terms": [
+      "theory",
+      "employment",
+      "service workers",
+      "job",
+      "supply shocks",
+      "question",
+      "developed countries",
+      "employment effects",
+      "firm employment",
+      "instrumental variables",
+      "effect",
+      "countries",
+      "panel dataset",
+      "levels",
+      "model",
+      "services",
+      "employment gains",
+      "offshoring",
+      "service offshoring",
+      "technological advances",
+      "partner country",
+      "firms",
+      "job loss",
+      "service type",
+      "workers",
+      "services imports",
+      "efficiency gains",
+      "new wave",
+      "paper",
+      "detailed panel dataset",
+      "higher initial levels",
+      "trade theory",
+      "shock",
+      "dataset",
+      "answers",
+      "imports",
+      "trade",
+      "variables",
+      "initial level",
+      "gain",
+      "entire universe",
+      "net effect"
+    ],
+    "concepts": [
+      "theory",
+      "employment",
+      "service workers",
+      "job",
+      "supply shocks",
+      "question",
+      "developed countries",
+      "employment effects",
+      "firm employment",
+      "instrumental variables",
+      "effect",
+      "countries",
+      "panel dataset",
+      "levels",
+      "model",
+      "services",
+      "employment gains",
+      "offshoring",
+      "service offshoring",
+      "technological advances",
+      "partner country",
+      "firms",
+      "job loss",
+      "service type",
+      "workers",
+      "services imports",
+      "efficiency gains",
+      "new wave",
+      "paper",
+      "detailed panel dataset",
+      "higher initial levels",
+      "trade theory",
+      "shock",
+      "dataset",
+      "answers",
+      "imports",
+      "trade",
+      "variables",
+      "initial level",
+      "gain",
+      "entire universe",
+      "net effect"
+    ],
+    "issue": "Econometrica 76 6 2008",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1111599247",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 3,
+    "authors": [
+      {
+        "first_name": "Stefan",
+        "last_name": "Goldbach",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Arne J.",
+        "last_name": "Nagengast",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.01221304271.92",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Elias",
+        "last_name": "Steinm\u00fcller",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.011344031320.54",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "name": "NoCeT, Norway"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Stefan",
+          "last_name": "Goldbach",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Arne J.",
+          "last_name": "Nagengast",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.01221304271.92",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Elias",
+          "last_name": "Steinm\u00fcller",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.011344031320.54",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "name": "NoCeT, Norway"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      },
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "id": "pub.1107662306",
+    "research_org_countries": [
+      {
+        "id": "NO",
+        "name": "Norway"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2019-01-01",
+    "pages": "58-73",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 2,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0022-1996",
+      "1873-0353"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jinteco.2018.10.001",
+    "journal": {
+      "id": "jour.1027659",
+      "title": "Journal of International Economics"
+    },
+    "title": "The effect of investing abroad on investment at home: On the role of technology, tax savings, and internal capital markets",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.01221304271.92",
+        "last_name": "Nagengast",
+        "research_orgs": [
+          "grid.5335.0",
+          "grid.478692.6"
+        ],
+        "first_name": "Arne J"
+      },
+      {
+        "id": "ur.011344031320.54",
+        "last_name": "Steinm\u00fcller",
+        "research_orgs": [
+          "grid.10392.39"
+        ],
+        "first_name": "Elias"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/158021/1/888104359.pdf",
+    "research_org_country_names": [
+      "Norway",
+      "Germany"
+    ],
+    "date_inserted": "2018-10-18",
+    "concepts": [
+      "investment activity",
+      "real capital",
+      "investment elasticity",
+      "robust results",
+      "opportunity",
+      "approach",
+      "positive relationship",
+      "margin",
+      "margin effect",
+      "analysis",
+      "empirical approach",
+      "upgrading",
+      "multinational enterprises",
+      "tax planning",
+      "home",
+      "financing capital",
+      "Eur",
+      "information",
+      "assets",
+      "additional opportunities",
+      "paper",
+      "production process",
+      "empirical analysis",
+      "affiliates",
+      "process",
+      "foreign affiliates",
+      "enterprises",
+      "planning",
+      "immediate positive effects",
+      "data",
+      "relationship",
+      "capital",
+      "margin variations",
+      "micro data",
+      "German firms",
+      "home investment",
+      "firms",
+      "additional investment",
+      "evidence",
+      "technology upgrading",
+      "intensive margin",
+      "investment",
+      "better access",
+      "positive effect",
+      "intensive margin effect",
+      "elasticity",
+      "access"
+    ],
+    "terms": [
+      "investment activity",
+      "real capital",
+      "investment elasticity",
+      "robust results",
+      "opportunity",
+      "approach",
+      "positive relationship",
+      "margin",
+      "margin effect",
+      "analysis",
+      "empirical approach",
+      "upgrading",
+      "multinational enterprises",
+      "tax planning",
+      "home",
+      "financing capital",
+      "Eur",
+      "information",
+      "assets",
+      "additional opportunities",
+      "paper",
+      "production process",
+      "empirical analysis",
+      "affiliates",
+      "process",
+      "foreign affiliates",
+      "enterprises",
+      "planning",
+      "immediate positive effects",
+      "data",
+      "relationship",
+      "capital",
+      "margin variations",
+      "micro data",
+      "German firms",
+      "home investment",
+      "firms",
+      "additional investment",
+      "evidence",
+      "technology upgrading",
+      "intensive margin",
+      "investment",
+      "better access",
+      "positive effect",
+      "intensive margin effect",
+      "elasticity",
+      "access"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.469877.3",
+        "name": "Ifo Institute for Economic Research",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1064531953",
+      "pub.1064525301",
+      "pub.1064528901",
+      "pub.1069979562",
+      "pub.1064528498",
+      "pub.1070163412",
+      "pub.1064528039",
+      "pub.1030018986",
+      "pub.1002354513",
+      "pub.1013934553",
+      "pub.1041837728",
+      "pub.1039085544",
+      "pub.1046669722",
+      "pub.1086041188",
+      "pub.1063349000",
+      "pub.1052069221",
+      "pub.1026754976",
+      "pub.1061835195",
+      "pub.1037796360",
+      "pub.1070155007",
+      "pub.1035349042",
+      "pub.1069640870",
+      "pub.1059948934",
+      "pub.1092506034",
+      "pub.1084745216",
+      "pub.1069869041",
+      "pub.1006125312",
+      "pub.1015551012",
+      "pub.1009409686",
+      "pub.1013567390",
+      "pub.1001656573",
+      "pub.1064524553",
+      "pub.1068329262",
+      "pub.1058574717",
+      "pub.1105975365",
+      "pub.1015404152",
+      "pub.1103057519",
+      "pub.1043245481",
+      "pub.1064532235",
+      "pub.1064524405",
+      "pub.1027128049",
+      "pub.1037986419",
+      "pub.1001231681",
+      "pub.1033222535",
+      "pub.1061936663",
+      "pub.1092154958",
+      "pub.1023212297",
+      "pub.1015491179",
+      "pub.1069768869",
+      "pub.1068329455",
+      "pub.1010086531",
+      "pub.1064529955",
+      "pub.1000508765",
+      "pub.1064527848",
+      "pub.1004590561",
+      "pub.1027440071"
+    ],
+    "reference_ids": [
+      "pub.1064531953",
+      "pub.1064525301",
+      "pub.1064528901",
+      "pub.1069979562",
+      "pub.1064528498",
+      "pub.1070163412",
+      "pub.1064528039",
+      "pub.1030018986",
+      "pub.1002354513",
+      "pub.1013934553",
+      "pub.1041837728",
+      "pub.1039085544",
+      "pub.1046669722",
+      "pub.1086041188",
+      "pub.1063349000",
+      "pub.1052069221",
+      "pub.1026754976",
+      "pub.1061835195",
+      "pub.1037796360",
+      "pub.1070155007",
+      "pub.1035349042",
+      "pub.1069640870",
+      "pub.1059948934",
+      "pub.1092506034",
+      "pub.1084745216",
+      "pub.1069869041",
+      "pub.1006125312",
+      "pub.1015551012",
+      "pub.1009409686",
+      "pub.1013567390",
+      "pub.1001656573",
+      "pub.1064524553",
+      "pub.1068329262",
+      "pub.1058574717",
+      "pub.1105975365",
+      "pub.1015404152",
+      "pub.1103057519",
+      "pub.1043245481",
+      "pub.1064532235",
+      "pub.1064524405",
+      "pub.1027128049",
+      "pub.1037986419",
+      "pub.1001231681",
+      "pub.1033222535",
+      "pub.1061936663",
+      "pub.1092154958",
+      "pub.1023212297",
+      "pub.1015491179",
+      "pub.1069768869",
+      "pub.1068329455",
+      "pub.1010086531",
+      "pub.1064529955",
+      "pub.1000508765",
+      "pub.1064527848",
+      "pub.1004590561",
+      "pub.1027440071"
+    ],
+    "volume": "116",
+    "issue": "Rev. Financ. Stud. 20 5 2007",
+    "dimensions_id": "pub.1107662306",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Sebastian P. L.",
+        "last_name": "Fourn\u00e9",
+        "orcid": "",
+        "current_organization_id": "grid.268252.9",
+        "researcher_id": "ur.012025432255.20",
+        "affiliations": [
+          {
+            "id": "grid.268252.9",
+            "name": "Wilfrid Laurier University",
+            "city": "Waterloo",
+            "city_id": 6176823,
+            "country": "Canada",
+            "country_code": "CA",
+            "state": "Ontario",
+            "state_code": "CA-ON"
+          }
+        ]
+      },
+      {
+        "first_name": "Miriam",
+        "last_name": "Zschoche",
+        "orcid": "",
+        "current_organization_id": "grid.32801.38",
+        "researcher_id": "ur.015111154430.77",
+        "affiliations": [
+          {
+            "id": "grid.32801.38",
+            "name": "University of Erfurt",
+            "city": "Erfurt",
+            "city_id": 2929670,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Sebastian P. L.",
+          "last_name": "Fourn\u00e9",
+          "orcid": "",
+          "current_organization_id": "grid.268252.9",
+          "researcher_id": "ur.012025432255.20",
+          "affiliations": [
+            {
+              "id": "grid.268252.9",
+              "name": "Wilfrid Laurier University",
+              "city": "Waterloo",
+              "city_id": 6176823,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "Miriam",
+          "last_name": "Zschoche",
+          "orcid": "",
+          "current_organization_id": "grid.32801.38",
+          "researcher_id": "ur.015111154430.77",
+          "affiliations": [
+            {
+              "id": "grid.32801.38",
+              "name": "University of Erfurt",
+              "city": "Erfurt",
+              "city_id": 2929670,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2929670,
+        "name": "Erfurt"
+      },
+      {
+        "id": 6176823,
+        "name": "Waterloo"
+      }
+    ],
+    "category_hra": [
+      {
+        "id": "3903",
+        "name": "Population & Society"
+      }
+    ],
+    "id": "pub.1107894518",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "CA",
+        "name": "Canada"
+      }
+    ],
+    "date": "2018-10-28",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "2042-5791",
+      "2042-5805"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1002/gsj.1331",
+    "journal": {
+      "id": "jour.1045549",
+      "title": "Global Strategy Journal"
+    },
+    "title": "Reducing uncertainty in follow\u2010up FDI: Imitation by family firms",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012025432255.20",
+        "last_name": "Fourn\u00e9",
+        "research_orgs": [
+          "grid.268252.9",
+          "grid.454339.c"
+        ],
+        "first_name": "Sebastian P L"
+      },
+      {
+        "id": "ur.015111154430.77",
+        "last_name": "Zschoche",
+        "research_orgs": [
+          "grid.32801.38"
+        ],
+        "first_name": "Miriam"
+      }
+    ],
+    "research_org_country_names": [
+      "Canada",
+      "Germany"
+    ],
+    "date_inserted": "2018-10-30",
+    "research_org_state_codes": [
+      {
+        "id": "CA-ON",
+        "name": "Ontario"
+      }
+    ],
+    "concepts": [
+      "aspiration",
+      "market",
+      "categories",
+      "German family firms",
+      "imitation",
+      "decision",
+      "peer",
+      "uncertainty",
+      "managers",
+      "isomorphism",
+      "successful peers",
+      "role",
+      "social categories",
+      "right",
+      "social aspirations",
+      "strategies",
+      "competitors",
+      "performance",
+      "mimetic isomorphism",
+      "outside shareholders",
+      "firm managers",
+      "experience",
+      "large sample",
+      "investment strategies",
+      "foreign markets",
+      "study",
+      "nexus",
+      "FDI",
+      "pursuit",
+      "growth",
+      "research",
+      "peer firms",
+      "implications",
+      "investment decisions",
+      "firm's tendency",
+      "article",
+      "tendency",
+      "investment",
+      "shareholders",
+      "foreign investment strategies",
+      "initial years",
+      "behavior",
+      "paper",
+      "investment growth",
+      "family firms",
+      "mimetic behavior",
+      "firms",
+      "own investment"
+    ],
+    "terms": [
+      "aspiration",
+      "market",
+      "categories",
+      "German family firms",
+      "imitation",
+      "decision",
+      "peer",
+      "uncertainty",
+      "managers",
+      "isomorphism",
+      "successful peers",
+      "role",
+      "social categories",
+      "right",
+      "social aspirations",
+      "strategies",
+      "competitors",
+      "performance",
+      "mimetic isomorphism",
+      "outside shareholders",
+      "firm managers",
+      "experience",
+      "large sample",
+      "investment strategies",
+      "foreign markets",
+      "study",
+      "nexus",
+      "FDI",
+      "pursuit",
+      "growth",
+      "research",
+      "peer firms",
+      "implications",
+      "investment decisions",
+      "firm's tendency",
+      "article",
+      "tendency",
+      "investment",
+      "shareholders",
+      "foreign investment strategies",
+      "initial years",
+      "behavior",
+      "paper",
+      "investment growth",
+      "family firms",
+      "mimetic behavior",
+      "firms",
+      "own investment"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.32801.38",
+        "name": "University of Erfurt",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.268252.9",
+        "acronym": "WLU",
+        "name": "Wilfrid Laurier University",
+        "country_name": "Canada"
+      }
+    ],
+    "research_org_state_names": [
+      "Ontario"
+    ],
+    "dimensions_id": "pub.1107894518",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2018-06-01",
+    "research_orgs": [
+      {
+        "id": "grid.5330.5",
+        "acronym": "FAU",
+        "name": "University of Erlangen-Nuremberg",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.6190.e",
+        "name": "University of Cologne",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      }
+    ],
+    "journal": {
+      "id": "jour.1136082",
+      "title": "International Tax and Public Finance"
+    },
+    "terms": [
+      "investment",
+      "direct investment",
+      "rules",
+      "limitations",
+      "subsidiaries",
+      "planning",
+      "tax provisions",
+      "foreign subsidiaries",
+      "rate sensitivity",
+      "high-tax countries",
+      "significant effect",
+      "firms",
+      "provision",
+      "unique dataset",
+      "foreign direct investment",
+      "countries",
+      "deductibility",
+      "transfer pricing",
+      "worldwide activities",
+      "large panel",
+      "tax-rate sensitivity",
+      "tax deductibility",
+      "employment",
+      "paper",
+      "tax planning",
+      "activity",
+      "thin-capitalization rules",
+      "capitalization rules",
+      "panel",
+      "multinational firms",
+      "host country",
+      "pricing",
+      "regulation",
+      "dataset"
+    ],
+    "concepts": [
+      "investment",
+      "direct investment",
+      "rules",
+      "limitations",
+      "subsidiaries",
+      "planning",
+      "tax provisions",
+      "foreign subsidiaries",
+      "rate sensitivity",
+      "high-tax countries",
+      "significant effect",
+      "firms",
+      "provision",
+      "unique dataset",
+      "foreign direct investment",
+      "countries",
+      "deductibility",
+      "transfer pricing",
+      "worldwide activities",
+      "large panel",
+      "tax-rate sensitivity",
+      "tax deductibility",
+      "employment",
+      "paper",
+      "tax planning",
+      "activity",
+      "thin-capitalization rules",
+      "capitalization rules",
+      "panel",
+      "multinational firms",
+      "host country",
+      "pricing",
+      "regulation",
+      "dataset"
+    ],
+    "id": "pub.1086041188",
+    "issn": [
+      "0927-5940",
+      "1573-6970"
+    ],
+    "researchers": [
+      {
+        "id": "ur.010532777753.88",
+        "last_name": "Buettner",
+        "research_orgs": [
+          "grid.410356.5",
+          "grid.469877.3",
+          "grid.266539.d",
+          "grid.5330.5",
+          "grid.13414.33",
+          "grid.5252.0"
+        ],
+        "first_name": "Thiess"
+      },
+      {
+        "id": "ur.013145427540.12",
+        "last_name": "Overesch",
+        "research_orgs": [
+          "grid.5330.5",
+          "grid.6190.e",
+          "grid.5601.2",
+          "grid.13414.33",
+          "grid.7839.5"
+        ],
+        "first_name": "Michael"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1021089651",
+      "pub.1012480469",
+      "pub.1029822183",
+      "pub.1011130213",
+      "pub.1052108676",
+      "pub.1044093440",
+      "pub.1068328960",
+      "pub.1059967524",
+      "pub.1029622292",
+      "pub.1068329455",
+      "pub.1024888047",
+      "pub.1099558058",
+      "pub.1072583182",
+      "pub.1049798597",
+      "pub.1068328895",
+      "pub.1031547683",
+      "pub.1053485653",
+      "pub.1030250107",
+      "pub.1041648000",
+      "pub.1016536557",
+      "pub.1068329580",
+      "pub.1035346762",
+      "pub.1030193174",
+      "pub.1030011114",
+      "pub.1069940819",
+      "pub.1022012898",
+      "pub.1050413381",
+      "pub.1007181936",
+      "pub.1046691162",
+      "pub.1068328851",
+      "pub.1102425371",
+      "pub.1001663591",
+      "pub.1015084510",
+      "pub.1039883569",
+      "pub.1059967522",
+      "pub.1102430481",
+      "pub.1040108086"
+    ],
+    "references": [
+      "pub.1021089651",
+      "pub.1012480469",
+      "pub.1029822183",
+      "pub.1011130213",
+      "pub.1052108676",
+      "pub.1044093440",
+      "pub.1068328960",
+      "pub.1059967524",
+      "pub.1029622292",
+      "pub.1068329455",
+      "pub.1024888047",
+      "pub.1099558058",
+      "pub.1072583182",
+      "pub.1049798597",
+      "pub.1068328895",
+      "pub.1031547683",
+      "pub.1053485653",
+      "pub.1030250107",
+      "pub.1041648000",
+      "pub.1016536557",
+      "pub.1068329580",
+      "pub.1035346762",
+      "pub.1030193174",
+      "pub.1030011114",
+      "pub.1069940819",
+      "pub.1022012898",
+      "pub.1050413381",
+      "pub.1007181936",
+      "pub.1046691162",
+      "pub.1068328851",
+      "pub.1102425371",
+      "pub.1001663591",
+      "pub.1015084510",
+      "pub.1039883569",
+      "pub.1059967522",
+      "pub.1102430481",
+      "pub.1040108086"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "25",
+    "times_cited": 4,
+    "title": "Anti profit-shifting rules and foreign direct investment",
+    "authors": [
+      {
+        "first_name": "Thiess",
+        "last_name": "Buettner",
+        "orcid": "",
+        "current_organization_id": "grid.5330.5",
+        "researcher_id": "ur.010532777753.88",
+        "affiliations": [
+          {
+            "id": "grid.5330.5",
+            "name": "University of Erlangen-Nuremberg",
+            "city": "Erlangen",
+            "city_id": 2929567,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Overesch",
+        "orcid": "",
+        "current_organization_id": "grid.6190.e",
+        "researcher_id": "ur.013145427540.12",
+        "affiliations": [
+          {
+            "id": "grid.6190.e",
+            "name": "University of Cologne",
+            "city": "Cologne",
+            "city_id": 2886242,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Thiess",
+          "last_name": "Buettner",
+          "orcid": "",
+          "current_organization_id": "grid.5330.5",
+          "researcher_id": "ur.010532777753.88",
+          "affiliations": [
+            {
+              "id": "grid.5330.5",
+              "name": "University of Erlangen-Nuremberg",
+              "city": "Erlangen",
+              "city_id": 2929567,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Overesch",
+          "orcid": "",
+          "current_organization_id": "grid.6190.e",
+          "researcher_id": "ur.013145427540.12",
+          "affiliations": [
+            {
+              "id": "grid.6190.e",
+              "name": "University of Cologne",
+              "city": "Cologne",
+              "city_id": 2886242,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2886242,
+        "name": "K\u00f6ln"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      },
+      {
+        "id": 2929567,
+        "name": "Erlangen"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.424150.6",
+        "acronym": "DFG",
+        "name": "German Research Foundation",
+        "country_name": "Germany"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/96908/1/cesifo_wp4710.pdf",
+    "publisher": "Springer Nature",
+    "issue": "3",
+    "recent_citations": 4,
+    "altmetric": 16,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 40701999,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "553-580",
+    "doi": "10.1007/s10797-017-9457-0",
+    "dimensions_id": "pub.1086041188",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 1,
+    "authors": [
+      {
+        "first_name": "Simon",
+        "last_name": "B\u00f6senberg",
+        "orcid": "",
+        "current_organization_id": "grid.483622.9",
+        "researcher_id": "ur.012701343727.80",
+        "affiliations": [
+          {
+            "name": "Researcher, Swiss National Bank Zurich 8022 Switzerland"
+          }
+        ]
+      },
+      {
+        "first_name": "Peter H.",
+        "last_name": "Egger",
+        "orcid": "",
+        "current_organization_id": "grid.5801.c",
+        "researcher_id": "ur.013222552652.60",
+        "affiliations": [
+          {
+            "id": "grid.5801.c",
+            "name": "Swiss Federal Institute of Technology in Zurich",
+            "city": "Zurich",
+            "city_id": 2657896,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Valeria",
+        "last_name": "Merlo",
+        "orcid": "",
+        "current_organization_id": "grid.5801.c",
+        "researcher_id": "ur.016633325143.33",
+        "affiliations": [
+          {
+            "id": "grid.5801.c",
+            "name": "Swiss Federal Institute of Technology in Zurich",
+            "city": "Zurich",
+            "city_id": 2657896,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Simon",
+          "last_name": "B\u00f6senberg",
+          "orcid": "",
+          "current_organization_id": "grid.483622.9",
+          "researcher_id": "ur.012701343727.80",
+          "affiliations": [
+            {
+              "name": "Researcher, Swiss National Bank Zurich 8022 Switzerland"
+            }
+          ]
+        },
+        {
+          "first_name": "Peter H.",
+          "last_name": "Egger",
+          "orcid": "",
+          "current_organization_id": "grid.5801.c",
+          "researcher_id": "ur.013222552652.60",
+          "affiliations": [
+            {
+              "id": "grid.5801.c",
+              "name": "Swiss Federal Institute of Technology in Zurich",
+              "city": "Zurich",
+              "city_id": 2657896,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Valeria",
+          "last_name": "Merlo",
+          "orcid": "",
+          "current_organization_id": "grid.5801.c",
+          "researcher_id": "ur.016633325143.33",
+          "affiliations": [
+            {
+              "id": "grid.5801.c",
+              "name": "Swiss Federal Institute of Technology in Zurich",
+              "city": "Zurich",
+              "city_id": 2657896,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2657896,
+        "name": "Z\u00fcrich"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      }
+    ],
+    "id": "pub.1092506034",
+    "research_org_countries": [
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2018-04-01",
+    "pages": "1064-1088",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 1,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0095-2583",
+      "1465-7295"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1111/ecin.12517",
+    "journal": {
+      "id": "jour.1121986",
+      "title": "Economic Inquiry"
+    },
+    "title": "MEASURING THE INTERDEPENDENCE OF MULTINATIONAL FIRMS' FOREIGN INVESTMENTS",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012701343727.80",
+        "last_name": "B\u00f6senberg",
+        "research_orgs": [
+          "grid.483622.9",
+          "grid.5801.c"
+        ],
+        "first_name": "Simon"
+      },
+      {
+        "id": "ur.013222552652.60",
+        "last_name": "Egger",
+        "research_orgs": [
+          "grid.4991.5",
+          "grid.5718.b",
+          "grid.5771.4",
+          "grid.5801.c",
+          "grid.131063.6",
+          "grid.423174.7",
+          "grid.417588.7",
+          "grid.4563.4",
+          "grid.469877.3",
+          "grid.410315.2",
+          "grid.5252.0"
+        ],
+        "first_name": "Peter H"
+      },
+      {
+        "id": "ur.016633325143.33",
+        "last_name": "Merlo",
+        "research_orgs": [
+          "grid.10392.39",
+          "grid.424606.2",
+          "grid.469877.3",
+          "grid.5801.c"
+        ],
+        "first_name": "Valeria"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany",
+      "Switzerland"
+    ],
+    "date_inserted": "2017-11-04",
+    "concepts": [
+      "mere geography",
+      "F21",
+      "German multinational enterprises",
+      "linkage",
+      "horizontal linkages",
+      "marginal investment",
+      "view",
+      "horizontal competition",
+      "aggregate data level",
+      "industry",
+      "firms",
+      "investment",
+      "one",
+      "mere geographic proximity",
+      "macroeconomic level",
+      "output linkages",
+      "significant interdependence",
+      "direct investment",
+      "output relationship",
+      "foreign affiliates",
+      "levels",
+      "enterprises",
+      "market",
+      "data",
+      "geography",
+      "spillover",
+      "input linkages",
+      "geographic linkages",
+      "input\u2013output relationship",
+      "firm-level data",
+      "interdependence",
+      "F23",
+      "point",
+      "foreign direct investment",
+      "MNE",
+      "extent",
+      "country-pairs",
+      "proximity",
+      "closeness",
+      "information spillovers",
+      "empirical approach",
+      "opposite",
+      "data level",
+      "earlier work",
+      "evidence",
+      "D22",
+      "same MNE",
+      "affiliates",
+      "theoretical point",
+      "C31",
+      "countries",
+      "firm linkage",
+      "vertical linkages",
+      "reasons",
+      "unknown market",
+      "production plants",
+      "earlier findings",
+      "level data",
+      "G31",
+      "competition",
+      "multinational enterprises",
+      "hand",
+      "aggregate foreign direct investment",
+      "relationship",
+      "findings",
+      "geographic proximity",
+      "aggregate level",
+      "H32",
+      "approach",
+      "such linkages",
+      "geographic closeness"
+    ],
+    "terms": [
+      "mere geography",
+      "F21",
+      "German multinational enterprises",
+      "linkage",
+      "horizontal linkages",
+      "marginal investment",
+      "view",
+      "horizontal competition",
+      "aggregate data level",
+      "industry",
+      "firms",
+      "investment",
+      "one",
+      "mere geographic proximity",
+      "macroeconomic level",
+      "output linkages",
+      "significant interdependence",
+      "direct investment",
+      "output relationship",
+      "foreign affiliates",
+      "levels",
+      "enterprises",
+      "market",
+      "data",
+      "geography",
+      "spillover",
+      "input linkages",
+      "geographic linkages",
+      "input\u2013output relationship",
+      "firm-level data",
+      "interdependence",
+      "F23",
+      "point",
+      "foreign direct investment",
+      "MNE",
+      "extent",
+      "country-pairs",
+      "proximity",
+      "closeness",
+      "information spillovers",
+      "empirical approach",
+      "opposite",
+      "data level",
+      "earlier work",
+      "evidence",
+      "D22",
+      "same MNE",
+      "affiliates",
+      "theoretical point",
+      "C31",
+      "countries",
+      "firm linkage",
+      "vertical linkages",
+      "reasons",
+      "unknown market",
+      "production plants",
+      "earlier findings",
+      "level data",
+      "G31",
+      "competition",
+      "multinational enterprises",
+      "hand",
+      "aggregate foreign direct investment",
+      "relationship",
+      "findings",
+      "geographic proximity",
+      "aggregate level",
+      "H32",
+      "approach",
+      "such linkages",
+      "geographic closeness"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.5801.c",
+        "name": "Swiss Federal Institute of Technology in Zurich",
+        "country_name": "Switzerland"
+      }
+    ],
+    "references": [
+      "pub.1046948769",
+      "pub.1063350106",
+      "pub.1006980510",
+      "pub.1064526067",
+      "pub.1064532235",
+      "pub.1003290688",
+      "pub.1012604712",
+      "pub.1041254915",
+      "pub.1064526225",
+      "pub.1063349123",
+      "pub.1020030826",
+      "pub.1008066229",
+      "pub.1059983551",
+      "pub.1036158302",
+      "pub.1060004729",
+      "pub.1029138685",
+      "pub.1050313801",
+      "pub.1064524338",
+      "pub.1010071481",
+      "pub.1038104027",
+      "pub.1012055661",
+      "pub.1018666094",
+      "pub.1064526785",
+      "pub.1064525173",
+      "pub.1034022100",
+      "pub.1031549798",
+      "pub.1064527300",
+      "pub.1004300962",
+      "pub.1051676486"
+    ],
+    "reference_ids": [
+      "pub.1046948769",
+      "pub.1063350106",
+      "pub.1006980510",
+      "pub.1064526067",
+      "pub.1064532235",
+      "pub.1003290688",
+      "pub.1012604712",
+      "pub.1041254915",
+      "pub.1064526225",
+      "pub.1063349123",
+      "pub.1020030826",
+      "pub.1008066229",
+      "pub.1059983551",
+      "pub.1036158302",
+      "pub.1060004729",
+      "pub.1029138685",
+      "pub.1050313801",
+      "pub.1064524338",
+      "pub.1010071481",
+      "pub.1038104027",
+      "pub.1012055661",
+      "pub.1018666094",
+      "pub.1064526785",
+      "pub.1064525173",
+      "pub.1034022100",
+      "pub.1031549798",
+      "pub.1064527300",
+      "pub.1004300962",
+      "pub.1051676486"
+    ],
+    "research_org_state_names": [
+      "Zurich"
+    ],
+    "volume": "56",
+    "issue": "2",
+    "dimensions_id": "pub.1092506034",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "times_cited": 8,
+    "field_citation_ratio": 7.36,
+    "authors": [
+      {
+        "first_name": "Shafik",
+        "last_name": "Hebous",
+        "orcid": "",
+        "current_organization_id": "grid.453811.a",
+        "researcher_id": "ur.015161470513.41",
+        "affiliations": [
+          {
+            "id": "grid.453811.a",
+            "name": "International Monetary Fund",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          },
+          {
+            "id": "grid.7839.5",
+            "name": "Goethe University Frankfurt",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Ruf",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.014011164331.11",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Shafik",
+          "last_name": "Hebous",
+          "orcid": "",
+          "current_organization_id": "grid.453811.a",
+          "researcher_id": "ur.015161470513.41",
+          "affiliations": [
+            {
+              "id": "grid.453811.a",
+              "name": "International Monetary Fund",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            },
+            {
+              "id": "grid.7839.5",
+              "name": "Goethe University Frankfurt",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Martin",
+          "last_name": "Ruf",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.014011164331.11",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 4140963,
+        "name": "Washington, D.C."
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      },
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "id": "pub.1084092085",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date": "2017-12-01",
+    "pages": "131-149",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 6,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0047-2727",
+      "1879-2316"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jpubeco.2017.02.011",
+    "journal": {
+      "id": "jour.1027390",
+      "title": "Journal of Public Economics"
+    },
+    "title": "Evaluating the effects of ACE systems on multinational debt financing and investment",
+    "FOR": [
+      {
+        "id": "3326",
+        "name": "1501 Accounting, Auditing and Accountability"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.015161470513.41",
+        "last_name": "Hebous",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.453811.a",
+          "grid.7839.5"
+        ],
+        "first_name": "Shafik"
+      },
+      {
+        "id": "ur.014011164331.11",
+        "last_name": "Ruf",
+        "research_orgs": [
+          "grid.10392.39",
+          "grid.5601.2",
+          "grid.461827.e"
+        ],
+        "first_name": "Martin"
+      }
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/110862/1/cesifo_wp5360.pdf",
+    "research_org_country_names": [
+      "United States",
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "research_org_state_codes": [
+      {
+        "id": "US-DC",
+        "name": "District of Columbia"
+      }
+    ],
+    "concepts": [
+      "financing",
+      "investment",
+      "lending",
+      "debt",
+      "corporate debt ratio",
+      "debt financing",
+      "multinational firms",
+      "multinationals",
+      "strategies",
+      "form",
+      "equity",
+      "identification strategy",
+      "tax neutrality",
+      "unilateral implementation",
+      "opportunity",
+      "data",
+      "tax treatment",
+      "active investment",
+      "Belgium",
+      "multinational affiliates",
+      "production investment",
+      "neutrality",
+      "benefits",
+      "findings",
+      "countries",
+      "multinational group",
+      "tax planning opportunities",
+      "implementation",
+      "synthetic control method",
+      "ACE system",
+      "interest deductions",
+      "deduction",
+      "firms",
+      "planning opportunities",
+      "passive investment",
+      "affiliates",
+      "group lending",
+      "allowance",
+      "debt ratio",
+      "corporate equity",
+      "theory"
+    ],
+    "terms": [
+      "financing",
+      "investment",
+      "lending",
+      "debt",
+      "corporate debt ratio",
+      "debt financing",
+      "multinational firms",
+      "multinationals",
+      "strategies",
+      "form",
+      "equity",
+      "identification strategy",
+      "tax neutrality",
+      "unilateral implementation",
+      "opportunity",
+      "data",
+      "tax treatment",
+      "active investment",
+      "Belgium",
+      "multinational affiliates",
+      "production investment",
+      "neutrality",
+      "benefits",
+      "findings",
+      "countries",
+      "multinational group",
+      "tax planning opportunities",
+      "implementation",
+      "synthetic control method",
+      "ACE system",
+      "interest deductions",
+      "deduction",
+      "firms",
+      "planning opportunities",
+      "passive investment",
+      "affiliates",
+      "group lending",
+      "allowance",
+      "debt ratio",
+      "corporate equity",
+      "theory"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.7839.5",
+        "name": "Goethe University Frankfurt",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.453811.a",
+        "acronym": "IMF",
+        "name": "International Monetary Fund",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1045581977",
+      "pub.1007498451",
+      "pub.1027397218",
+      "pub.1035346762",
+      "pub.1024837643",
+      "pub.1008968503",
+      "pub.1043829503",
+      "pub.1064200444",
+      "pub.1007860038",
+      "pub.1064524026",
+      "pub.1009299070",
+      "pub.1005880164",
+      "pub.1001663591",
+      "pub.1039322859",
+      "pub.1037341854",
+      "pub.1002726004",
+      "pub.1068329432",
+      "pub.1046135462",
+      "pub.1049304621",
+      "pub.1058574687",
+      "pub.1050297177",
+      "pub.1059459141",
+      "pub.1007217171",
+      "pub.1008783956",
+      "pub.1072580653",
+      "pub.1048240367",
+      "pub.1028338400",
+      "pub.1007297015",
+      "pub.1018868544",
+      "pub.1060005747",
+      "pub.1047283516",
+      "pub.1041520430",
+      "pub.1099558058",
+      "pub.1059967520",
+      "pub.1035442791"
+    ],
+    "reference_ids": [
+      "pub.1045581977",
+      "pub.1007498451",
+      "pub.1027397218",
+      "pub.1035346762",
+      "pub.1024837643",
+      "pub.1008968503",
+      "pub.1043829503",
+      "pub.1064200444",
+      "pub.1007860038",
+      "pub.1064524026",
+      "pub.1009299070",
+      "pub.1005880164",
+      "pub.1001663591",
+      "pub.1039322859",
+      "pub.1037341854",
+      "pub.1002726004",
+      "pub.1068329432",
+      "pub.1046135462",
+      "pub.1049304621",
+      "pub.1058574687",
+      "pub.1050297177",
+      "pub.1059459141",
+      "pub.1007217171",
+      "pub.1008783956",
+      "pub.1072580653",
+      "pub.1048240367",
+      "pub.1028338400",
+      "pub.1007297015",
+      "pub.1018868544",
+      "pub.1060005747",
+      "pub.1047283516",
+      "pub.1041520430",
+      "pub.1099558058",
+      "pub.1059967520",
+      "pub.1035442791"
+    ],
+    "research_org_state_names": [
+      "District of Columbia"
+    ],
+    "volume": "156",
+    "dimensions_id": "pub.1084092085",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2017-12-01",
+    "terms": [
+      "factors",
+      "policy barriers",
+      "such barriers",
+      "trade regulation",
+      "environment",
+      "compliance",
+      "exporters",
+      "destination markets",
+      "trade policy barriers",
+      "trade restrictions",
+      "levels",
+      "destination countries",
+      "supply",
+      "state",
+      "regulation",
+      "Stri",
+      "export",
+      "cost",
+      "Finland",
+      "firm level",
+      "fact",
+      "services trade",
+      "restriction",
+      "outcomes",
+      "United Kingdom",
+      "sales",
+      "services",
+      "experience",
+      "international trade",
+      "services exports",
+      "barriers",
+      "trade costs",
+      "Kingdom",
+      "headquarters",
+      "United States",
+      "regulatory compliance",
+      "international markets",
+      "affiliate sales",
+      "productivity",
+      "decisive factor",
+      "trade barriers",
+      "products",
+      "firms",
+      "Sweden",
+      "SMEs",
+      "Belgium",
+      "border",
+      "market",
+      "Italy",
+      "Foreign",
+      "choice",
+      "service exporters",
+      "export destination countries",
+      "performance",
+      "restrictive regulatory environment",
+      "decision",
+      "manufacturing activities",
+      "trade",
+      "countries",
+      "evidence",
+      "Japan",
+      "link",
+      "manufacturing products",
+      "Germany",
+      "regulatory environment"
+    ],
+    "concepts": [
+      "factors",
+      "policy barriers",
+      "such barriers",
+      "trade regulation",
+      "environment",
+      "compliance",
+      "exporters",
+      "destination markets",
+      "trade policy barriers",
+      "trade restrictions",
+      "levels",
+      "destination countries",
+      "supply",
+      "state",
+      "regulation",
+      "Stri",
+      "export",
+      "cost",
+      "Finland",
+      "firm level",
+      "fact",
+      "services trade",
+      "restriction",
+      "outcomes",
+      "United Kingdom",
+      "sales",
+      "services",
+      "experience",
+      "international trade",
+      "services exports",
+      "barriers",
+      "trade costs",
+      "Kingdom",
+      "headquarters",
+      "United States",
+      "regulatory compliance",
+      "international markets",
+      "affiliate sales",
+      "productivity",
+      "decisive factor",
+      "trade barriers",
+      "products",
+      "firms",
+      "Sweden",
+      "SMEs",
+      "Belgium",
+      "border",
+      "market",
+      "Italy",
+      "Foreign",
+      "choice",
+      "service exporters",
+      "export destination countries",
+      "performance",
+      "restrictive regulatory environment",
+      "decision",
+      "manufacturing activities",
+      "trade",
+      "countries",
+      "evidence",
+      "Japan",
+      "link",
+      "manufacturing products",
+      "Germany",
+      "regulatory environment"
+    ],
+    "id": "pub.1107177913",
+    "issn": [
+      "1816-6873"
+    ],
+    "researchers": [
+      {
+        "id": "ur.011104366614.18",
+        "last_name": "Rouzet",
+        "research_orgs": [
+          "grid.36193.3e"
+        ],
+        "first_name": "Dorothee"
+      },
+      {
+        "id": "ur.011701747214.36",
+        "last_name": "Spinelli",
+        "first_name": "Francesca"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "reference_ids": [
+      "pub.1107163227"
+    ],
+    "references": [
+      "pub.1107163227"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2018-09-25",
+    "times_cited": 2,
+    "title": "Trading firms and trading costs in services: Firm-level analysis",
+    "authors": [
+      {
+        "first_name": "Doroth\u00e9e",
+        "last_name": "Rouzet",
+        "orcid": "",
+        "current_organization_id": "grid.36193.3e",
+        "researcher_id": "ur.011104366614.18",
+        "affiliations": []
+      },
+      {
+        "first_name": "Sebastian",
+        "last_name": "Benz",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Francesca",
+        "last_name": "Spinelli",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011701747214.36",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Doroth\u00e9e",
+          "last_name": "Rouzet",
+          "orcid": "",
+          "current_organization_id": "grid.36193.3e",
+          "researcher_id": "ur.011104366614.18",
+          "affiliations": []
+        },
+        {
+          "first_name": "Sebastian",
+          "last_name": "Benz",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Francesca",
+          "last_name": "Spinelli",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011701747214.36",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.oecd-ilibrary.org/deliver/b1c1a0e9-en.pdf?itemId=%2Fcontent%2Fpaper%2Fb1c1a0e9-en&mimeType=pdf",
+    "recent_citations": 2,
+    "altmetric": 4,
+    "field_citation_ratio": 1.94,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "altmetric_id": 30383943,
+    "type": "article",
+    "doi": "10.1787/b1c1a0e9-en",
+    "dimensions_id": "pub.1107177913",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "times_cited": 4,
+    "field_citation_ratio": 4.36,
+    "authors": [
+      {
+        "first_name": "Julia",
+        "last_name": "Merz",
+        "orcid": "",
+        "current_organization_id": "grid.6190.e",
+        "researcher_id": "ur.013467747327.04",
+        "affiliations": [
+          {
+            "id": "grid.6190.e",
+            "name": "University of Cologne",
+            "city": "Cologne",
+            "city_id": 2886242,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Overesch",
+        "orcid": "",
+        "current_organization_id": "grid.6190.e",
+        "researcher_id": "ur.013145427540.12",
+        "affiliations": [
+          {
+            "id": "grid.6190.e",
+            "name": "University of Cologne",
+            "city": "Cologne",
+            "city_id": 2886242,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Julia",
+          "last_name": "Merz",
+          "orcid": "",
+          "current_organization_id": "grid.6190.e",
+          "researcher_id": "ur.013467747327.04",
+          "affiliations": [
+            {
+              "id": "grid.6190.e",
+              "name": "University of Cologne",
+              "city": "Cologne",
+              "city_id": 2886242,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Overesch",
+          "orcid": "",
+          "current_organization_id": "grid.6190.e",
+          "researcher_id": "ur.013145427540.12",
+          "affiliations": [
+            {
+              "id": "grid.6190.e",
+              "name": "University of Cologne",
+              "city": "Cologne",
+              "city_id": 2886242,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2886242,
+        "name": "K\u00f6ln"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      }
+    ],
+    "id": "pub.1049959153",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2017-05-01",
+    "pages": "14-26",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 3,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jbankfin.2017.01.001",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "title": "The location of financial sector FDI: Tax and regulation policy",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.013467747327.04",
+        "last_name": "Merz",
+        "research_orgs": [
+          "grid.6190.e"
+        ],
+        "first_name": "Julia"
+      },
+      {
+        "id": "ur.013145427540.12",
+        "last_name": "Overesch",
+        "research_orgs": [
+          "grid.5330.5",
+          "grid.6190.e",
+          "grid.5601.2",
+          "grid.13414.33",
+          "grid.7839.5"
+        ],
+        "first_name": "Michael"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "service entities",
+      "host country",
+      "FDI",
+      "regulatory environment",
+      "host location",
+      "taxation",
+      "corporate taxation",
+      "approach",
+      "multinational firms",
+      "policy measures",
+      "location probability",
+      "regulatory requirements",
+      "countries tax",
+      "equity",
+      "information",
+      "empirical approach",
+      "insight",
+      "financial services entities",
+      "effect",
+      "environment",
+      "elasticity",
+      "significant influence",
+      "measures",
+      "paper",
+      "firms",
+      "influence",
+      "tax",
+      "countries",
+      "requirements",
+      "entities",
+      "new insights",
+      "probability",
+      "capital requirements",
+      "example",
+      "negative effects"
+    ],
+    "terms": [
+      "service entities",
+      "host country",
+      "FDI",
+      "regulatory environment",
+      "host location",
+      "taxation",
+      "corporate taxation",
+      "approach",
+      "multinational firms",
+      "policy measures",
+      "location probability",
+      "regulatory requirements",
+      "countries tax",
+      "equity",
+      "information",
+      "empirical approach",
+      "insight",
+      "financial services entities",
+      "effect",
+      "environment",
+      "elasticity",
+      "significant influence",
+      "measures",
+      "paper",
+      "firms",
+      "influence",
+      "tax",
+      "countries",
+      "requirements",
+      "entities",
+      "new insights",
+      "probability",
+      "capital requirements",
+      "example",
+      "negative effects"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.6190.e",
+        "name": "University of Cologne",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1006125312",
+      "pub.1017111382",
+      "pub.1034120648",
+      "pub.1028674159",
+      "pub.1060013077",
+      "pub.1044775901",
+      "pub.1053646457",
+      "pub.1046074411",
+      "pub.1018594388",
+      "pub.1002723324",
+      "pub.1050235990",
+      "pub.1060006080",
+      "pub.1050413381",
+      "pub.1043595398",
+      "pub.1072580986",
+      "pub.1041254915",
+      "pub.1014049314",
+      "pub.1047035903",
+      "pub.1005073062",
+      "pub.1023393138",
+      "pub.1037100804",
+      "pub.1004345957",
+      "pub.1051952181",
+      "pub.1048966544",
+      "pub.1098708499",
+      "pub.1019063017",
+      "pub.1087376594",
+      "pub.1059383948",
+      "pub.1072581210",
+      "pub.1049605196",
+      "pub.1023261510",
+      "pub.1021810301",
+      "pub.1020614378",
+      "pub.1040108086",
+      "pub.1002212527",
+      "pub.1032892059",
+      "pub.1058781020",
+      "pub.1043510150",
+      "pub.1013976175",
+      "pub.1064532236",
+      "pub.1046029987",
+      "pub.1050270876",
+      "pub.1032187624",
+      "pub.1036860847",
+      "pub.1008657530",
+      "pub.1060065580",
+      "pub.1050240063",
+      "pub.1069868223"
+    ],
+    "reference_ids": [
+      "pub.1006125312",
+      "pub.1017111382",
+      "pub.1034120648",
+      "pub.1028674159",
+      "pub.1060013077",
+      "pub.1044775901",
+      "pub.1053646457",
+      "pub.1046074411",
+      "pub.1018594388",
+      "pub.1002723324",
+      "pub.1050235990",
+      "pub.1060006080",
+      "pub.1050413381",
+      "pub.1043595398",
+      "pub.1072580986",
+      "pub.1041254915",
+      "pub.1014049314",
+      "pub.1047035903",
+      "pub.1005073062",
+      "pub.1023393138",
+      "pub.1037100804",
+      "pub.1004345957",
+      "pub.1051952181",
+      "pub.1048966544",
+      "pub.1098708499",
+      "pub.1019063017",
+      "pub.1087376594",
+      "pub.1059383948",
+      "pub.1072581210",
+      "pub.1049605196",
+      "pub.1023261510",
+      "pub.1021810301",
+      "pub.1020614378",
+      "pub.1040108086",
+      "pub.1002212527",
+      "pub.1032892059",
+      "pub.1058781020",
+      "pub.1043510150",
+      "pub.1013976175",
+      "pub.1064532236",
+      "pub.1046029987",
+      "pub.1050270876",
+      "pub.1032187624",
+      "pub.1036860847",
+      "pub.1008657530",
+      "pub.1060065580",
+      "pub.1050240063",
+      "pub.1069868223"
+    ],
+    "volume": "78",
+    "dimensions_id": "pub.1049959153",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2017-04-01",
+    "research_orgs": [
+      {
+        "id": "grid.454339.c",
+        "acronym": "WHU",
+        "name": "WHU-Otto Beisheim School of Management",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.15788.33",
+        "acronym": "WU",
+        "name": "Vienna University of Economics and Business",
+        "country_name": "Austria"
+      }
+    ],
+    "journal": {
+      "id": "jour.1052638",
+      "title": "International Business Review"
+    },
+    "terms": [
+      "position",
+      "sourcing behavior",
+      "service sector",
+      "relationship",
+      "trade",
+      "competition",
+      "competitive position",
+      "sector",
+      "services",
+      "panel",
+      "service industries",
+      "investment",
+      "service firms",
+      "firms",
+      "analysis",
+      "domestic competitors",
+      "international sourcing",
+      "competitors",
+      "industry",
+      "international trade",
+      "sourcing",
+      "empirical analysis",
+      "rivals",
+      "large-scale empirical analysis",
+      "pursuit",
+      "German service firms",
+      "hypothesis",
+      "behavior",
+      "foreign rivals",
+      "importance",
+      "inward investment",
+      "study"
+    ],
+    "concepts": [
+      "position",
+      "sourcing behavior",
+      "service sector",
+      "relationship",
+      "trade",
+      "competition",
+      "competitive position",
+      "sector",
+      "services",
+      "panel",
+      "service industries",
+      "investment",
+      "service firms",
+      "firms",
+      "analysis",
+      "domestic competitors",
+      "international sourcing",
+      "competitors",
+      "industry",
+      "international trade",
+      "sourcing",
+      "empirical analysis",
+      "rivals",
+      "large-scale empirical analysis",
+      "pursuit",
+      "German service firms",
+      "hypothesis",
+      "behavior",
+      "foreign rivals",
+      "importance",
+      "inward investment",
+      "study"
+    ],
+    "id": "pub.1033904855",
+    "issn": [
+      "0969-5931",
+      "0962-9262"
+    ],
+    "researchers": [
+      {
+        "id": "ur.013134555151.49",
+        "last_name": "Gleich",
+        "research_orgs": [
+          "grid.7307.3"
+        ],
+        "first_name": "Wolfgang Markus"
+      },
+      {
+        "id": "ur.016344003551.72",
+        "last_name": "Schmeisser",
+        "research_orgs": [
+          "grid.7307.3",
+          "grid.15788.33"
+        ],
+        "first_name": "Bjoern"
+      },
+      {
+        "id": "ur.011261273545.31",
+        "last_name": "Zschoche",
+        "research_orgs": [
+          "grid.7307.3",
+          "grid.454339.c"
+        ],
+        "first_name": "Miriam"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany",
+      "Austria"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1063977853",
+      "pub.1110291866",
+      "pub.1042266927",
+      "pub.1077607273",
+      "pub.1022093872",
+      "pub.1007640699",
+      "pub.1045470789",
+      "pub.1040630141",
+      "pub.1051394803",
+      "pub.1038543541",
+      "pub.1007752563",
+      "pub.1070196004",
+      "pub.1030445650",
+      "pub.1053160053",
+      "pub.1098687954",
+      "pub.1008412433",
+      "pub.1047638759",
+      "pub.1042396548",
+      "pub.1018752710",
+      "pub.1043668059",
+      "pub.1021669607",
+      "pub.1015397816",
+      "pub.1002906131",
+      "pub.1027660800",
+      "pub.1017322480",
+      "pub.1011032524",
+      "pub.1049918819",
+      "pub.1034335412",
+      "pub.1034962656",
+      "pub.1069415421",
+      "pub.1035423139",
+      "pub.1047459349",
+      "pub.1102198748",
+      "pub.1001983766",
+      "pub.1030991400",
+      "pub.1001660610",
+      "pub.1049471638",
+      "pub.1029294778",
+      "pub.1043857672",
+      "pub.1015673437",
+      "pub.1051709464",
+      "pub.1038731244",
+      "pub.1029459640",
+      "pub.1036471355",
+      "pub.1046406191",
+      "pub.1033732430",
+      "pub.1067466859",
+      "pub.1010142308",
+      "pub.1110434115",
+      "pub.1048923375",
+      "pub.1083621175",
+      "pub.1006961889",
+      "pub.1005621407",
+      "pub.1050071489",
+      "pub.1010559897",
+      "pub.1064717772",
+      "pub.1019721063",
+      "pub.1072899256",
+      "pub.1069757445",
+      "pub.1004640051",
+      "pub.1044531288",
+      "pub.1098758489",
+      "pub.1035044261",
+      "pub.1026580367",
+      "pub.1029819999",
+      "pub.1010721096",
+      "pub.1072895767",
+      "pub.1008114308",
+      "pub.1072900720",
+      "pub.1017158557",
+      "pub.1003742177",
+      "pub.1006580413",
+      "pub.1009621206",
+      "pub.1003350054",
+      "pub.1050223544",
+      "pub.1069417225",
+      "pub.1073300073",
+      "pub.1070010254",
+      "pub.1000798216",
+      "pub.1018790529",
+      "pub.1024894043",
+      "pub.1070145686",
+      "pub.1026180948",
+      "pub.1033188271",
+      "pub.1048365230",
+      "pub.1043363588",
+      "pub.1063722680",
+      "pub.1069653528",
+      "pub.1016798481",
+      "pub.1070051244",
+      "pub.1054936787",
+      "pub.1008953387",
+      "pub.1044245037",
+      "pub.1043949387",
+      "pub.1064025467",
+      "pub.1069417473",
+      "pub.1029205292",
+      "pub.1028285524",
+      "pub.1038396740",
+      "pub.1017958192",
+      "pub.1035931744",
+      "pub.1046327714",
+      "pub.1015359769",
+      "pub.1001110934"
+    ],
+    "references": [
+      "pub.1063977853",
+      "pub.1110291866",
+      "pub.1042266927",
+      "pub.1077607273",
+      "pub.1022093872",
+      "pub.1007640699",
+      "pub.1045470789",
+      "pub.1040630141",
+      "pub.1051394803",
+      "pub.1038543541",
+      "pub.1007752563",
+      "pub.1070196004",
+      "pub.1030445650",
+      "pub.1053160053",
+      "pub.1098687954",
+      "pub.1008412433",
+      "pub.1047638759",
+      "pub.1042396548",
+      "pub.1018752710",
+      "pub.1043668059",
+      "pub.1021669607",
+      "pub.1015397816",
+      "pub.1002906131",
+      "pub.1027660800",
+      "pub.1017322480",
+      "pub.1011032524",
+      "pub.1049918819",
+      "pub.1034335412",
+      "pub.1034962656",
+      "pub.1069415421",
+      "pub.1035423139",
+      "pub.1047459349",
+      "pub.1102198748",
+      "pub.1001983766",
+      "pub.1030991400",
+      "pub.1001660610",
+      "pub.1049471638",
+      "pub.1029294778",
+      "pub.1043857672",
+      "pub.1015673437",
+      "pub.1051709464",
+      "pub.1038731244",
+      "pub.1029459640",
+      "pub.1036471355",
+      "pub.1046406191",
+      "pub.1033732430",
+      "pub.1067466859",
+      "pub.1010142308",
+      "pub.1110434115",
+      "pub.1048923375",
+      "pub.1083621175",
+      "pub.1006961889",
+      "pub.1005621407",
+      "pub.1050071489",
+      "pub.1010559897",
+      "pub.1064717772",
+      "pub.1019721063",
+      "pub.1072899256",
+      "pub.1069757445",
+      "pub.1004640051",
+      "pub.1044531288",
+      "pub.1098758489",
+      "pub.1035044261",
+      "pub.1026580367",
+      "pub.1029819999",
+      "pub.1010721096",
+      "pub.1072895767",
+      "pub.1008114308",
+      "pub.1072900720",
+      "pub.1017158557",
+      "pub.1003742177",
+      "pub.1006580413",
+      "pub.1009621206",
+      "pub.1003350054",
+      "pub.1050223544",
+      "pub.1069417225",
+      "pub.1073300073",
+      "pub.1070010254",
+      "pub.1000798216",
+      "pub.1018790529",
+      "pub.1024894043",
+      "pub.1070145686",
+      "pub.1026180948",
+      "pub.1033188271",
+      "pub.1048365230",
+      "pub.1043363588",
+      "pub.1063722680",
+      "pub.1069653528",
+      "pub.1016798481",
+      "pub.1070051244",
+      "pub.1054936787",
+      "pub.1008953387",
+      "pub.1044245037",
+      "pub.1043949387",
+      "pub.1064025467",
+      "pub.1069417473",
+      "pub.1029205292",
+      "pub.1028285524",
+      "pub.1038396740",
+      "pub.1017958192",
+      "pub.1035931744",
+      "pub.1046327714",
+      "pub.1015359769",
+      "pub.1001110934"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "AT",
+        "name": "Austria"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "26",
+    "times_cited": 6,
+    "title": "The influence of competition on international sourcing strategies in the service sector",
+    "authors": [
+      {
+        "first_name": "Wolfgang",
+        "last_name": "Gleich",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.013134555151.49",
+        "affiliations": [
+          {
+            "name": "Allianz SE, K\u00f6niginstra\u00dfe 28, 80802 Munich, Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "Bjoern",
+        "last_name": "Schmeisser",
+        "orcid": "",
+        "current_organization_id": "grid.15788.33",
+        "researcher_id": "ur.016344003551.72",
+        "affiliations": [
+          {
+            "id": "grid.15788.33",
+            "name": "Vienna University of Economics and Business",
+            "city": "Vienna",
+            "city_id": 2761369,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Miriam",
+        "last_name": "Zschoche",
+        "orcid": "",
+        "current_organization_id": "grid.454339.c",
+        "researcher_id": "ur.011261273545.31",
+        "affiliations": [
+          {
+            "id": "grid.454339.c",
+            "name": "WHU-Otto Beisheim School of Management",
+            "city": "Vallendar",
+            "city_id": 2817909,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Wolfgang",
+          "last_name": "Gleich",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013134555151.49",
+          "affiliations": [
+            {
+              "name": "Allianz SE, K\u00f6niginstra\u00dfe 28, 80802 Munich, Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Bjoern",
+          "last_name": "Schmeisser",
+          "orcid": "",
+          "current_organization_id": "grid.15788.33",
+          "researcher_id": "ur.016344003551.72",
+          "affiliations": [
+            {
+              "id": "grid.15788.33",
+              "name": "Vienna University of Economics and Business",
+              "city": "Vienna",
+              "city_id": 2761369,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Miriam",
+          "last_name": "Zschoche",
+          "orcid": "",
+          "current_organization_id": "grid.454339.c",
+          "researcher_id": "ur.011261273545.31",
+          "affiliations": [
+            {
+              "id": "grid.454339.c",
+              "name": "WHU-Otto Beisheim School of Management",
+              "city": "Vallendar",
+              "city_id": 2817909,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2761369,
+        "name": "Vienna"
+      },
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 2817909,
+        "name": "Vallendar"
+      }
+    ],
+    "publisher": "Elsevier",
+    "research_org_state_names": [
+      "Bavaria"
+    ],
+    "issue": "2",
+    "recent_citations": 6,
+    "altmetric": 1,
+    "field_citation_ratio": 5.52,
+    "FOR": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "altmetric_id": 10803856,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "279-287",
+    "doi": "10.1016/j.ibusrev.2016.07.005",
+    "dimensions_id": "pub.1033904855",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2017-03-01",
+    "research_orgs": [
+      {
+        "id": "grid.424606.2",
+        "acronym": "NHH",
+        "name": "Norwegian School of Economics",
+        "country_name": "Norway"
+      },
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.410315.2",
+        "acronym": "CEPR",
+        "name": "Centre for Economic Policy Research",
+        "country_name": "United Kingdom"
+      },
+      {
+        "id": "grid.5801.c",
+        "name": "Swiss Federal Institute of Technology in Zurich",
+        "country_name": "Switzerland"
+      },
+      {
+        "id": "grid.423174.7",
+        "acronym": "WIFO",
+        "name": "Austrian Institute of Economic Research",
+        "country_name": "Austria"
+      },
+      {
+        "id": "grid.4991.5",
+        "name": "University of Oxford",
+        "country_name": "United Kingdom"
+      },
+      {
+        "id": "grid.4563.4",
+        "name": "University of Nottingham",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "journal": {
+      "id": "jour.1137450",
+      "title": "World Economy"
+    },
+    "terms": [
+      "trade costs",
+      "multinational firms",
+      "Trade Restrictiveness Index",
+      "FDI",
+      "levels",
+      "paper",
+      "firm level",
+      "goods",
+      "investment",
+      "foreign direct investment",
+      "policy drivers",
+      "expense",
+      "services",
+      "firms",
+      "cost",
+      "findings",
+      "restriction",
+      "host country",
+      "services trade restrictions",
+      "index",
+      "key findings",
+      "trade restrictions",
+      "countries",
+      "service activities",
+      "effect",
+      "membership",
+      "consequence",
+      "purpose",
+      "terms",
+      "important host countries",
+      "year 2005",
+      "German FDI",
+      "direct investment",
+      "treaty membership",
+      "important policy driver",
+      "data",
+      "drivers"
+    ],
+    "concepts": [
+      "trade costs",
+      "multinational firms",
+      "Trade Restrictiveness Index",
+      "FDI",
+      "levels",
+      "paper",
+      "firm level",
+      "goods",
+      "investment",
+      "foreign direct investment",
+      "policy drivers",
+      "expense",
+      "services",
+      "firms",
+      "cost",
+      "findings",
+      "restriction",
+      "host country",
+      "services trade restrictions",
+      "index",
+      "key findings",
+      "trade restrictions",
+      "countries",
+      "service activities",
+      "effect",
+      "membership",
+      "consequence",
+      "purpose",
+      "terms",
+      "important host countries",
+      "year 2005",
+      "German FDI",
+      "direct investment",
+      "treaty membership",
+      "important policy driver",
+      "data",
+      "drivers"
+    ],
+    "id": "pub.1001537143",
+    "issn": [
+      "0309-1961",
+      "0378-5920",
+      "1467-9701"
+    ],
+    "researchers": [
+      {
+        "id": "ur.013222552652.60",
+        "last_name": "Egger",
+        "research_orgs": [
+          "grid.4991.5",
+          "grid.5718.b",
+          "grid.5771.4",
+          "grid.5801.c",
+          "grid.131063.6",
+          "grid.423174.7",
+          "grid.417588.7",
+          "grid.4563.4",
+          "grid.469877.3",
+          "grid.410315.2",
+          "grid.5252.0"
+        ],
+        "first_name": "Peter H"
+      },
+      {
+        "id": "ur.016633325143.33",
+        "last_name": "Merlo",
+        "research_orgs": [
+          "grid.10392.39",
+          "grid.424606.2",
+          "grid.469877.3",
+          "grid.5801.c"
+        ],
+        "first_name": "Valeria"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "research_org_country_names": [
+      "United Kingdom",
+      "Austria",
+      "Germany",
+      "Switzerland",
+      "Norway"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1051676486",
+      "pub.1011181618",
+      "pub.1023534856",
+      "pub.1109491887",
+      "pub.1004242818",
+      "pub.1064524173",
+      "pub.1064529087",
+      "pub.1003290688",
+      "pub.1045624629",
+      "pub.1040108086",
+      "pub.1031549798",
+      "pub.1058574717",
+      "pub.1051952181",
+      "pub.1064527300"
+    ],
+    "references": [
+      "pub.1051676486",
+      "pub.1011181618",
+      "pub.1023534856",
+      "pub.1109491887",
+      "pub.1004242818",
+      "pub.1064524173",
+      "pub.1064529087",
+      "pub.1003290688",
+      "pub.1045624629",
+      "pub.1040108086",
+      "pub.1031549798",
+      "pub.1058574717",
+      "pub.1051952181",
+      "pub.1064527300"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "id": "AT",
+        "name": "Austria"
+      },
+      {
+        "id": "NO",
+        "name": "Norway"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "40",
+    "times_cited": 1,
+    "title": "Cross\u2010country Services Versus Manufacturing Activity of Multinational Firms in Response to Services Versus Goods Policy",
+    "authors": [
+      {
+        "first_name": "Peter",
+        "last_name": "Egger",
+        "orcid": "",
+        "current_organization_id": "grid.5801.c",
+        "researcher_id": "ur.013222552652.60",
+        "affiliations": [
+          {
+            "id": "grid.5801.c",
+            "name": "Swiss Federal Institute of Technology in Zurich",
+            "city": "Zurich",
+            "city_id": 2657896,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.410315.2",
+            "name": "Centre for Economic Policy Research",
+            "city": "London",
+            "city_id": 2643743,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "name": "CESifo Munich Germany"
+          },
+          {
+            "id": "grid.4563.4",
+            "name": "University of Nottingham",
+            "city": "Nottingham",
+            "city_id": 2641170,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.4991.5",
+            "name": "University of Oxford",
+            "city": "Oxford",
+            "city_id": 2640729,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.423174.7",
+            "name": "Austrian Institute of Economic Research",
+            "city": "Vienna",
+            "city_id": 2761369,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "name": "ifo Munich Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "Valeria",
+        "last_name": "Merlo",
+        "orcid": "",
+        "current_organization_id": "grid.5801.c",
+        "researcher_id": "ur.016633325143.33",
+        "affiliations": [
+          {
+            "name": "CESifo Munich Germany"
+          },
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.424606.2",
+            "name": "Norwegian School of Economics",
+            "city": "Bergen",
+            "city_id": 3161732,
+            "country": "Norway",
+            "country_code": "NO",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "name": "CESifo Munich Germany"
+          },
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.424606.2",
+            "name": "Norwegian School of Economics",
+            "city": "Bergen",
+            "city_id": 3161732,
+            "country": "Norway",
+            "country_code": "NO",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Peter",
+          "last_name": "Egger",
+          "orcid": "",
+          "current_organization_id": "grid.5801.c",
+          "researcher_id": "ur.013222552652.60",
+          "affiliations": [
+            {
+              "id": "grid.5801.c",
+              "name": "Swiss Federal Institute of Technology in Zurich",
+              "city": "Zurich",
+              "city_id": 2657896,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.410315.2",
+              "name": "Centre for Economic Policy Research",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "name": "CESifo Munich Germany"
+            },
+            {
+              "id": "grid.4563.4",
+              "name": "University of Nottingham",
+              "city": "Nottingham",
+              "city_id": 2641170,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.4991.5",
+              "name": "University of Oxford",
+              "city": "Oxford",
+              "city_id": 2640729,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.423174.7",
+              "name": "Austrian Institute of Economic Research",
+              "city": "Vienna",
+              "city_id": 2761369,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "name": "ifo Munich Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Valeria",
+          "last_name": "Merlo",
+          "orcid": "",
+          "current_organization_id": "grid.5801.c",
+          "researcher_id": "ur.016633325143.33",
+          "affiliations": [
+            {
+              "name": "CESifo Munich Germany"
+            },
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.424606.2",
+              "name": "Norwegian School of Economics",
+              "city": "Bergen",
+              "city_id": 3161732,
+              "country": "Norway",
+              "country_code": "NO",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "name": "CESifo Munich Germany"
+            },
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.424606.2",
+              "name": "Norwegian School of Economics",
+              "city": "Bergen",
+              "city_id": 3161732,
+              "country": "Norway",
+              "country_code": "NO",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 3161732,
+        "name": "Bergen"
+      },
+      {
+        "id": 2657896,
+        "name": "Z\u00fcrich"
+      },
+      {
+        "id": 2641170,
+        "name": "Nottingham"
+      },
+      {
+        "id": 2640729,
+        "name": "Oxford"
+      },
+      {
+        "id": 2761369,
+        "name": "Vienna"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      },
+      {
+        "id": 2643743,
+        "name": "London"
+      }
+    ],
+    "publisher": "Wiley",
+    "research_org_state_names": [
+      "Bavaria"
+    ],
+    "issue": "3",
+    "field_citation_ratio": 1.02,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "490-498",
+    "doi": "10.1111/twec.12332",
+    "dimensions_id": "pub.1001537143",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 4,
+    "field_citation_ratio": 4.08,
+    "authors": [
+      {
+        "first_name": "Mathieu",
+        "last_name": "Couttenier",
+        "orcid": "",
+        "current_organization_id": "grid.8591.5",
+        "researcher_id": "ur.012652541633.15",
+        "affiliations": [
+          {
+            "id": "grid.8591.5",
+            "name": "University of Geneva",
+            "city": "Geneva",
+            "city_id": 2660646,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Farid",
+        "last_name": "Toubal",
+        "orcid": "['0000-0002-9393-2303']",
+        "current_organization_id": "grid.423598.1",
+        "researcher_id": "ur.016421415574.07",
+        "affiliations": [
+          {
+            "name": "Ecole Normale Sup\u00e9rieure de Cachan, CEPII and CREST"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Mathieu",
+          "last_name": "Couttenier",
+          "orcid": "",
+          "current_organization_id": "grid.8591.5",
+          "researcher_id": "ur.012652541633.15",
+          "affiliations": [
+            {
+              "id": "grid.8591.5",
+              "name": "University of Geneva",
+              "city": "Geneva",
+              "city_id": 2660646,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Farid",
+          "last_name": "Toubal",
+          "orcid": "['0000-0002-9393-2303']",
+          "current_organization_id": "grid.423598.1",
+          "researcher_id": "ur.016421415574.07",
+          "affiliations": [
+            {
+              "name": "Ecole Normale Sup\u00e9rieure de Cachan, CEPII and CREST"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3029276,
+        "name": "Cachan"
+      },
+      {
+        "id": 2660646,
+        "name": "Gen\u00e8ve"
+      }
+    ],
+    "id": "pub.1039707348",
+    "research_org_countries": [
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "id": "FR",
+        "name": "France"
+      }
+    ],
+    "date": "2017-02-01",
+    "pages": "56-66",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 4,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0147-5967",
+      "1095-7227"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jce.2016.11.008",
+    "journal": {
+      "id": "jour.1122896",
+      "title": "Journal of Comparative Economics"
+    },
+    "title": "Corruption for sales",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.012652541633.15",
+        "last_name": "Couttenier",
+        "research_orgs": [
+          "grid.8591.5",
+          "grid.9851.5"
+        ],
+        "first_name": "Mathieu"
+      },
+      {
+        "id": "ur.016421415574.07",
+        "last_name": "Toubal",
+        "orcid_id": [
+          "0000-0002-9393-2303"
+        ],
+        "research_orgs": [
+          "grid.423598.1",
+          "grid.9764.c",
+          "grid.424431.4",
+          "grid.6390.c",
+          "grid.5607.4",
+          "grid.7252.2"
+        ],
+        "first_name": "Farid"
+      }
+    ],
+    "research_org_country_names": [
+      "France",
+      "Switzerland"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "German multinationals",
+      "paper",
+      "incumbents",
+      "firm-level dataset",
+      "firm level",
+      "sales",
+      "panel dimensions",
+      "experienced firms",
+      "impact",
+      "dimensions",
+      "unobserved factors",
+      "corruption",
+      "dataset",
+      "firms",
+      "experience",
+      "countries",
+      "level dataset",
+      "levels",
+      "foreign markets",
+      "multinationals",
+      "market",
+      "cost",
+      "factors"
+    ],
+    "terms": [
+      "German multinationals",
+      "paper",
+      "incumbents",
+      "firm-level dataset",
+      "firm level",
+      "sales",
+      "panel dimensions",
+      "experienced firms",
+      "impact",
+      "dimensions",
+      "unobserved factors",
+      "corruption",
+      "dataset",
+      "firms",
+      "experience",
+      "countries",
+      "level dataset",
+      "levels",
+      "foreign markets",
+      "multinationals",
+      "market",
+      "cost",
+      "factors"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.8591.5",
+        "acronym": "UNIGE",
+        "name": "University of Geneva",
+        "country_name": "Switzerland"
+      }
+    ],
+    "references": [
+      "pub.1036405090",
+      "pub.1009285431",
+      "pub.1045077164",
+      "pub.1008520488",
+      "pub.1069768906",
+      "pub.1064526929",
+      "pub.1050739511",
+      "pub.1064523998",
+      "pub.1040312061",
+      "pub.1002832366",
+      "pub.1023134176",
+      "pub.1030507633",
+      "pub.1064528139",
+      "pub.1019274028",
+      "pub.1027258298",
+      "pub.1026204053",
+      "pub.1062061808",
+      "pub.1019781635",
+      "pub.1058795081",
+      "pub.1007341822",
+      "pub.1010833838",
+      "pub.1013597144",
+      "pub.1022474886",
+      "pub.1038931323",
+      "pub.1005157853",
+      "pub.1021803498",
+      "pub.1073363135",
+      "pub.1026041635",
+      "pub.1036835232",
+      "pub.1012550244",
+      "pub.1035654064",
+      "pub.1063348947",
+      "pub.1072575738"
+    ],
+    "reference_ids": [
+      "pub.1036405090",
+      "pub.1009285431",
+      "pub.1045077164",
+      "pub.1008520488",
+      "pub.1069768906",
+      "pub.1064526929",
+      "pub.1050739511",
+      "pub.1064523998",
+      "pub.1040312061",
+      "pub.1002832366",
+      "pub.1023134176",
+      "pub.1030507633",
+      "pub.1064528139",
+      "pub.1019274028",
+      "pub.1027258298",
+      "pub.1026204053",
+      "pub.1062061808",
+      "pub.1019781635",
+      "pub.1058795081",
+      "pub.1007341822",
+      "pub.1010833838",
+      "pub.1013597144",
+      "pub.1022474886",
+      "pub.1038931323",
+      "pub.1005157853",
+      "pub.1021803498",
+      "pub.1073363135",
+      "pub.1026041635",
+      "pub.1036835232",
+      "pub.1012550244",
+      "pub.1035654064",
+      "pub.1063348947",
+      "pub.1072575738"
+    ],
+    "volume": "45",
+    "issue": "1",
+    "dimensions_id": "pub.1039707348",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 2,
+    "field_citation_ratio": 2.04,
+    "authors": [
+      {
+        "first_name": "Deborah",
+        "last_name": "Schanz",
+        "orcid": "",
+        "current_organization_id": "grid.5252.0",
+        "researcher_id": "ur.016147113236.88",
+        "affiliations": [
+          {
+            "id": "grid.5252.0",
+            "name": "Ludwig Maximilian University of Munich",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Andreas",
+        "last_name": "Dinkel",
+        "orcid": "",
+        "current_organization_id": "grid.5252.0",
+        "researcher_id": "ur.011635314535.18",
+        "affiliations": [
+          {
+            "id": "grid.5252.0",
+            "name": "Ludwig Maximilian University of Munich",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Sara",
+        "last_name": "Keller",
+        "orcid": "",
+        "current_organization_id": "grid.454339.c",
+        "researcher_id": "ur.016150044335.56",
+        "affiliations": [
+          {
+            "id": "grid.454339.c",
+            "name": "WHU-Otto Beisheim School of Management",
+            "city": "Vallendar",
+            "city_id": 2817909,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Deborah",
+          "last_name": "Schanz",
+          "orcid": "",
+          "current_organization_id": "grid.5252.0",
+          "researcher_id": "ur.016147113236.88",
+          "affiliations": [
+            {
+              "id": "grid.5252.0",
+              "name": "Ludwig Maximilian University of Munich",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Andreas",
+          "last_name": "Dinkel",
+          "orcid": "",
+          "current_organization_id": "grid.5252.0",
+          "researcher_id": "ur.011635314535.18",
+          "affiliations": [
+            {
+              "id": "grid.5252.0",
+              "name": "Ludwig Maximilian University of Munich",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Sara",
+          "last_name": "Keller",
+          "orcid": "",
+          "current_organization_id": "grid.454339.c",
+          "researcher_id": "ur.016150044335.56",
+          "affiliations": [
+            {
+              "id": "grid.454339.c",
+              "name": "WHU-Otto Beisheim School of Management",
+              "city": "Vallendar",
+              "city_id": 2817909,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 2817909,
+        "name": "Vallendar"
+      }
+    ],
+    "id": "pub.1022035506",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2017-01-01",
+    "pages": "251-297",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 2,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "1863-6683",
+      "1863-6691"
+    ],
+    "publisher": "Springer Nature",
+    "doi": "10.1007/s11846-016-0190-3",
+    "journal": {
+      "id": "jour.1136334",
+      "title": "Review of Managerial Science"
+    },
+    "title": "Tax attractiveness and the location of German-controlled subsidiaries",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.016147113236.88",
+        "last_name": "Schanz",
+        "research_orgs": [
+          "grid.5252.0",
+          "grid.454339.c"
+        ],
+        "first_name": "Deborah Knirsch"
+      },
+      {
+        "id": "ur.011635314535.18",
+        "last_name": "Dinkel",
+        "research_orgs": [
+          "grid.5252.0"
+        ],
+        "first_name": "Andreas"
+      },
+      {
+        "id": "ur.016150044335.56",
+        "last_name": "Keller",
+        "research_orgs": [
+          "grid.454339.c"
+        ],
+        "first_name": "Sara"
+      }
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/72144/1/741276569.pdf",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "German multinational firms",
+      "alternative",
+      "tax effects",
+      "example",
+      "composite measure",
+      "subsidiaries",
+      "treaty network",
+      "gain",
+      "dividends",
+      "novel hand",
+      "tax",
+      "index",
+      "subsidiary location decisions",
+      "rate",
+      "decision",
+      "German",
+      "German multinational enterprises",
+      "count data regression analysis",
+      "disposal",
+      "multinational enterprises",
+      "measures",
+      "location decisions",
+      "explanatory power",
+      "attractiveness index",
+      "paper",
+      "data regression analysis",
+      "tax treaty network",
+      "regression analysis",
+      "firms",
+      "existence",
+      "tax rates",
+      "set",
+      "aggregate measures",
+      "tax environment",
+      "regime",
+      "environment",
+      "multinational firms",
+      "dataset",
+      "variables",
+      "positive effect",
+      "influence",
+      "incentives",
+      "taxation",
+      "thin capitalization rules",
+      "capitalization rules",
+      "analysis",
+      "enterprises",
+      "power",
+      "effect",
+      "statutory tax rates",
+      "tax variables",
+      "capital gains",
+      "rules",
+      "affiliates",
+      "taxation regimes",
+      "companies",
+      "hand",
+      "countries"
+    ],
+    "terms": [
+      "German multinational firms",
+      "alternative",
+      "tax effects",
+      "example",
+      "composite measure",
+      "subsidiaries",
+      "treaty network",
+      "gain",
+      "dividends",
+      "novel hand",
+      "tax",
+      "index",
+      "subsidiary location decisions",
+      "rate",
+      "decision",
+      "German",
+      "German multinational enterprises",
+      "count data regression analysis",
+      "disposal",
+      "multinational enterprises",
+      "measures",
+      "location decisions",
+      "explanatory power",
+      "attractiveness index",
+      "paper",
+      "data regression analysis",
+      "tax treaty network",
+      "regression analysis",
+      "firms",
+      "existence",
+      "tax rates",
+      "set",
+      "aggregate measures",
+      "tax environment",
+      "regime",
+      "environment",
+      "multinational firms",
+      "dataset",
+      "variables",
+      "positive effect",
+      "influence",
+      "incentives",
+      "taxation",
+      "thin capitalization rules",
+      "capitalization rules",
+      "analysis",
+      "enterprises",
+      "power",
+      "effect",
+      "statutory tax rates",
+      "tax variables",
+      "capital gains",
+      "rules",
+      "affiliates",
+      "taxation regimes",
+      "companies",
+      "hand",
+      "countries"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.5252.0",
+        "acronym": "LMU",
+        "name": "Ludwig Maximilian University of Munich",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.454339.c",
+        "acronym": "WHU",
+        "name": "WHU-Otto Beisheim School of Management",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1049208665",
+      "pub.1016245215",
+      "pub.1069765659",
+      "pub.1050079993",
+      "pub.1069765545",
+      "pub.1036596214",
+      "pub.1058574717",
+      "pub.1016536557",
+      "pub.1099558058",
+      "pub.1053671607",
+      "pub.1018706766",
+      "pub.1022423725",
+      "pub.1008368625",
+      "pub.1021764356",
+      "pub.1068329391",
+      "pub.1000601601",
+      "pub.1007827139",
+      "pub.1039914546",
+      "pub.1102331480",
+      "pub.1022290446",
+      "pub.1069869041",
+      "pub.1069768934",
+      "pub.1010782347",
+      "pub.1049798597",
+      "pub.1004924051",
+      "pub.1050270876",
+      "pub.1064527300",
+      "pub.1044212024",
+      "pub.1099498313",
+      "pub.1043595398",
+      "pub.1029799768",
+      "pub.1030607891",
+      "pub.1098669308",
+      "pub.1000753692",
+      "pub.1102395483",
+      "pub.1026413580",
+      "pub.1001682862",
+      "pub.1040108086",
+      "pub.1041986697",
+      "pub.1018913871",
+      "pub.1068328823",
+      "pub.1047283516",
+      "pub.1058940546",
+      "pub.1012546949",
+      "pub.1017292369",
+      "pub.1051819731",
+      "pub.1022489685",
+      "pub.1102425371",
+      "pub.1046328922",
+      "pub.1026629301",
+      "pub.1099560987",
+      "pub.1001663591",
+      "pub.1013604834",
+      "pub.1021810301",
+      "pub.1009216272",
+      "pub.1068329425",
+      "pub.1058563523",
+      "pub.1045862479",
+      "pub.1013626540",
+      "pub.1035346762",
+      "pub.1050413381",
+      "pub.1036860847",
+      "pub.1054958352",
+      "pub.1051298085",
+      "pub.1037544496"
+    ],
+    "reference_ids": [
+      "pub.1049208665",
+      "pub.1016245215",
+      "pub.1069765659",
+      "pub.1050079993",
+      "pub.1069765545",
+      "pub.1036596214",
+      "pub.1058574717",
+      "pub.1016536557",
+      "pub.1099558058",
+      "pub.1053671607",
+      "pub.1018706766",
+      "pub.1022423725",
+      "pub.1008368625",
+      "pub.1021764356",
+      "pub.1068329391",
+      "pub.1000601601",
+      "pub.1007827139",
+      "pub.1039914546",
+      "pub.1102331480",
+      "pub.1022290446",
+      "pub.1069869041",
+      "pub.1069768934",
+      "pub.1010782347",
+      "pub.1049798597",
+      "pub.1004924051",
+      "pub.1050270876",
+      "pub.1064527300",
+      "pub.1044212024",
+      "pub.1099498313",
+      "pub.1043595398",
+      "pub.1029799768",
+      "pub.1030607891",
+      "pub.1098669308",
+      "pub.1000753692",
+      "pub.1102395483",
+      "pub.1026413580",
+      "pub.1001682862",
+      "pub.1040108086",
+      "pub.1041986697",
+      "pub.1018913871",
+      "pub.1068328823",
+      "pub.1047283516",
+      "pub.1058940546",
+      "pub.1012546949",
+      "pub.1017292369",
+      "pub.1051819731",
+      "pub.1022489685",
+      "pub.1102425371",
+      "pub.1046328922",
+      "pub.1026629301",
+      "pub.1099560987",
+      "pub.1001663591",
+      "pub.1013604834",
+      "pub.1021810301",
+      "pub.1009216272",
+      "pub.1068329425",
+      "pub.1058563523",
+      "pub.1045862479",
+      "pub.1013626540",
+      "pub.1035346762",
+      "pub.1050413381",
+      "pub.1036860847",
+      "pub.1054958352",
+      "pub.1051298085",
+      "pub.1037544496"
+    ],
+    "volume": "11",
+    "issue": "1",
+    "dimensions_id": "pub.1022035506",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "times_cited": 4,
+    "authors": [
+      {
+        "first_name": "Alexandra",
+        "last_name": "Schmucker",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.013071205752.51",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      },
+      {
+        "first_name": "Heiko",
+        "last_name": "St\u00fcber",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.014464146752.73",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      },
+      {
+        "first_name": "Silke",
+        "last_name": "Hamann",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.016654470352.43",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Alexandra",
+          "last_name": "Schmucker",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013071205752.51",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Heiko",
+          "last_name": "St\u00fcber",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014464146752.73",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Silke",
+          "last_name": "Hamann",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016654470352.43",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2861650,
+        "name": "N\u00fcrnberg"
+      }
+    ],
+    "id": "pub.1091569886",
+    "book_title": "Handbuch Empirische Organisationsforschung",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2017-01-01",
+    "pages": "17-36",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 1,
+    "publisher": "Springer Nature",
+    "doi": "10.1007/978-3-658-08493-6_2",
+    "title": "Sekund\u00e4rdaten f\u00fcr die Organisationsforschung \u2013 Datenangebot und Nutzungsm\u00f6glichkeiten",
+    "type": "chapter",
+    "researchers": [
+      {
+        "id": "ur.013071205752.51",
+        "last_name": "Schmucker",
+        "first_name": "Alexandra"
+      },
+      {
+        "id": "ur.014464146752.73",
+        "last_name": "St\u00fcber",
+        "first_name": "Heiko"
+      },
+      {
+        "id": "ur.016654470352.43",
+        "last_name": "Hamann",
+        "first_name": "Silke"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-09-15",
+    "book_doi": "10.1007/978-3-658-08493-6",
+    "year": 2017,
+    "references": [
+      "pub.1048040891",
+      "pub.1071419849",
+      "pub.1005630796",
+      "pub.1044108824",
+      "pub.1085712345",
+      "pub.1039712935",
+      "pub.1071419942",
+      "pub.1098661412",
+      "pub.1049957449",
+      "pub.1071419879",
+      "pub.1038268986",
+      "pub.1071419815",
+      "pub.1098667678"
+    ],
+    "reference_ids": [
+      "pub.1048040891",
+      "pub.1071419849",
+      "pub.1005630796",
+      "pub.1044108824",
+      "pub.1085712345",
+      "pub.1039712935",
+      "pub.1071419942",
+      "pub.1098661412",
+      "pub.1049957449",
+      "pub.1071419879",
+      "pub.1038268986",
+      "pub.1071419815",
+      "pub.1098667678"
+    ],
+    "dimensions_id": "pub.1091569886",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-09-15",
+    "title": "Handbuch Empirische Organisationsforschung",
+    "id": "pub.1091572561",
+    "publisher": "Springer Nature",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2017-01-01",
+    "doi": "10.1007/978-3-658-08493-6",
+    "year": 2017,
+    "type": "book",
+    "dimensions_id": "pub.1091572561",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "recent_citations": 4,
+    "title": "Restricted interest deductibility and multinationals\u2019 use of internal debt finance",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.5330.5",
+        "acronym": "FAU",
+        "name": "University of Erlangen-Nuremberg",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.10392.39",
+        "name": "University of T\u00fcbingen",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.469877.3",
+        "name": "Ifo Institute for Economic Research",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.6190.e",
+        "name": "University of Cologne",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1041648000",
+    "journal": {
+      "id": "jour.1136082",
+      "title": "International Tax and Public Finance"
+    },
+    "researchers": [
+      {
+        "id": "ur.010532777753.88",
+        "last_name": "Buettner",
+        "research_orgs": [
+          "grid.410356.5",
+          "grid.469877.3",
+          "grid.266539.d",
+          "grid.5330.5",
+          "grid.13414.33",
+          "grid.5252.0"
+        ],
+        "first_name": "Thiess"
+      },
+      {
+        "id": "ur.013145427540.12",
+        "last_name": "Overesch",
+        "research_orgs": [
+          "grid.5330.5",
+          "grid.6190.e",
+          "grid.5601.2",
+          "grid.13414.33",
+          "grid.7839.5"
+        ],
+        "first_name": "Michael"
+      },
+      {
+        "id": "ur.010130253743.70",
+        "last_name": "Wamser",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.424606.2",
+          "grid.10392.39",
+          "grid.5252.0",
+          "grid.5801.c"
+        ],
+        "first_name": "Georg"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "0927-5940",
+      "1573-6970"
+    ],
+    "pages": "785-797",
+    "funders": [
+      {
+        "id": "grid.424150.6",
+        "acronym": "DFG",
+        "name": "German Research Foundation",
+        "country_name": "Germany"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "field_citation_ratio": 3.79,
+    "authors": [
+      {
+        "first_name": "Thiess",
+        "last_name": "Buettner",
+        "orcid": "",
+        "current_organization_id": "grid.5330.5",
+        "researcher_id": "ur.010532777753.88",
+        "affiliations": [
+          {
+            "id": "grid.5330.5",
+            "name": "University of Erlangen-Nuremberg",
+            "city": "Erlangen",
+            "city_id": 2929567,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Overesch",
+        "orcid": "",
+        "current_organization_id": "grid.6190.e",
+        "researcher_id": "ur.013145427540.12",
+        "affiliations": [
+          {
+            "id": "grid.6190.e",
+            "name": "University of Cologne",
+            "city": "Cologne",
+            "city_id": 2886242,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Georg",
+        "last_name": "Wamser",
+        "orcid": "",
+        "current_organization_id": "grid.10392.39",
+        "researcher_id": "ur.010130253743.70",
+        "affiliations": [
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.10392.39",
+            "name": "University of T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "city_id": 2820860,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Thiess",
+          "last_name": "Buettner",
+          "orcid": "",
+          "current_organization_id": "grid.5330.5",
+          "researcher_id": "ur.010532777753.88",
+          "affiliations": [
+            {
+              "id": "grid.5330.5",
+              "name": "University of Erlangen-Nuremberg",
+              "city": "Erlangen",
+              "city_id": 2929567,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Overesch",
+          "orcid": "",
+          "current_organization_id": "grid.6190.e",
+          "researcher_id": "ur.013145427540.12",
+          "affiliations": [
+            {
+              "id": "grid.6190.e",
+              "name": "University of Cologne",
+              "city": "Cologne",
+              "city_id": 2886242,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Georg",
+          "last_name": "Wamser",
+          "orcid": "",
+          "current_organization_id": "grid.10392.39",
+          "researcher_id": "ur.010130253743.70",
+          "affiliations": [
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.10392.39",
+              "name": "University of T\u00fcbingen",
+              "city": "T\u00fcbingen",
+              "city_id": 2820860,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2867714,
+        "name": "Munich"
+      },
+      {
+        "id": 2820860,
+        "name": "T\u00fcbingen"
+      },
+      {
+        "id": 2886242,
+        "name": "K\u00f6ln"
+      },
+      {
+        "id": 2929567,
+        "name": "Erlangen"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2016-10-01",
+    "reference_ids": [
+      "pub.1035346762",
+      "pub.1039322859",
+      "pub.1069868579",
+      "pub.1049283322",
+      "pub.1001663591",
+      "pub.1049798597",
+      "pub.1007181936",
+      "pub.1072583182",
+      "pub.1046691162",
+      "pub.1030011114",
+      "pub.1011729051",
+      "pub.1021325153",
+      "pub.1044584081",
+      "pub.1069804319",
+      "pub.1049208665",
+      "pub.1053328224"
+    ],
+    "references": [
+      "pub.1035346762",
+      "pub.1039322859",
+      "pub.1069868579",
+      "pub.1049283322",
+      "pub.1001663591",
+      "pub.1049798597",
+      "pub.1007181936",
+      "pub.1072583182",
+      "pub.1046691162",
+      "pub.1030011114",
+      "pub.1011729051",
+      "pub.1021325153",
+      "pub.1044584081",
+      "pub.1069804319",
+      "pub.1049208665",
+      "pub.1053328224"
+    ],
+    "doi": "10.1007/s10797-015-9386-8",
+    "year": 2016,
+    "type": "article",
+    "volume": "23",
+    "times_cited": 5,
+    "terms": [
+      "internal loans",
+      "quasi-experimental evidence",
+      "evidence",
+      "loans",
+      "model",
+      "rules",
+      "thin-capitalization rules",
+      "sample selection model",
+      "corporations",
+      "incentives",
+      "foreign subsidiaries",
+      "tax",
+      "effect",
+      "firms",
+      "paper",
+      "selection model",
+      "role",
+      "multinational corporations",
+      "deductibility",
+      "capital structure",
+      "debt financing",
+      "tax incentives",
+      "restriction",
+      "internal debt financing",
+      "financing",
+      "interest deductibility",
+      "tax sensitivity",
+      "capitalization rules",
+      "subsidiaries"
+    ],
+    "concepts": [
+      "internal loans",
+      "quasi-experimental evidence",
+      "evidence",
+      "loans",
+      "model",
+      "rules",
+      "thin-capitalization rules",
+      "sample selection model",
+      "corporations",
+      "incentives",
+      "foreign subsidiaries",
+      "tax",
+      "effect",
+      "firms",
+      "paper",
+      "selection model",
+      "role",
+      "multinational corporations",
+      "deductibility",
+      "capital structure",
+      "debt financing",
+      "tax incentives",
+      "restriction",
+      "internal debt financing",
+      "financing",
+      "interest deductibility",
+      "tax sensitivity",
+      "capitalization rules",
+      "subsidiaries"
+    ],
+    "issue": "5",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1041648000",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 13,
+    "field_citation_ratio": 9.84,
+    "authors": [
+      {
+        "first_name": "Anna",
+        "last_name": "Gumpert",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "James R.",
+        "last_name": "Hines",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Monika",
+        "last_name": "Schnitzer",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Anna",
+          "last_name": "Gumpert",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "James R.",
+          "last_name": "Hines",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Monika",
+          "last_name": "Schnitzer",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1043667599",
+    "date": "2016-10-01",
+    "pages": "713-727",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "recent_citations": 9,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0034-6535",
+      "1530-9142"
+    ],
+    "publisher": "MIT Press",
+    "doi": "10.1162/rest_a_00591",
+    "journal": {
+      "id": "jour.1122144",
+      "title": "Review of Economics and Statistics"
+    },
+    "title": "Multinational firms and tax havens",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "relationship",
+      "German multinational firms",
+      "haven",
+      "early evidence",
+      "manufacturing firms",
+      "U.S. firms",
+      "percentage points",
+      "tax havens",
+      "taxable income",
+      "greater likelihood",
+      "incentives",
+      "German manufacturing firms",
+      "difficulties",
+      "JEL classification",
+      "affiliates",
+      "countries",
+      "operation",
+      "likelihood",
+      "F23",
+      "income",
+      "tax rates",
+      "multinational firms",
+      "percent",
+      "high-tax countries",
+      "foreign tax rates",
+      "service income",
+      "industry",
+      "H87",
+      "evidence",
+      "firms",
+      "service industries"
+    ],
+    "terms": [
+      "relationship",
+      "German multinational firms",
+      "haven",
+      "early evidence",
+      "manufacturing firms",
+      "U.S. firms",
+      "percentage points",
+      "tax havens",
+      "taxable income",
+      "greater likelihood",
+      "incentives",
+      "German manufacturing firms",
+      "difficulties",
+      "JEL classification",
+      "affiliates",
+      "countries",
+      "operation",
+      "likelihood",
+      "F23",
+      "income",
+      "tax rates",
+      "multinational firms",
+      "percent",
+      "high-tax countries",
+      "foreign tax rates",
+      "service income",
+      "industry",
+      "H87",
+      "evidence",
+      "firms",
+      "service industries"
+    ],
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "references": [
+      "pub.1049208665",
+      "pub.1043023887",
+      "pub.1068329455",
+      "pub.1030250107",
+      "pub.1049668194",
+      "pub.1064531953",
+      "pub.1001663591",
+      "pub.1033222535",
+      "pub.1029622292",
+      "pub.1064524405",
+      "pub.1069768934",
+      "pub.1011156840",
+      "pub.1024404430",
+      "pub.1069804328",
+      "pub.1013567390",
+      "pub.1042414342",
+      "pub.1050079993",
+      "pub.1039085544",
+      "pub.1068329123",
+      "pub.1016536557"
+    ],
+    "reference_ids": [
+      "pub.1049208665",
+      "pub.1043023887",
+      "pub.1068329455",
+      "pub.1030250107",
+      "pub.1049668194",
+      "pub.1064531953",
+      "pub.1001663591",
+      "pub.1033222535",
+      "pub.1029622292",
+      "pub.1064524405",
+      "pub.1069768934",
+      "pub.1011156840",
+      "pub.1024404430",
+      "pub.1069804328",
+      "pub.1013567390",
+      "pub.1042414342",
+      "pub.1050079993",
+      "pub.1039085544",
+      "pub.1068329123",
+      "pub.1016536557"
+    ],
+    "volume": "98",
+    "issue": "4",
+    "dimensions_id": "pub.1043667599",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2016-01-01",
+    "id": "pub.1027280533",
+    "researchers": [
+      {
+        "id": "ur.013071205752.51",
+        "last_name": "Schmucker",
+        "first_name": "Alexandra"
+      },
+      {
+        "id": "ur.014464146752.73",
+        "last_name": "St\u00fcber",
+        "first_name": "Heiko"
+      },
+      {
+        "id": "ur.016654470352.43",
+        "last_name": "Hamann",
+        "first_name": "Silke"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "reference_ids": [
+      "pub.1044108824",
+      "pub.1038268986",
+      "pub.1098661412",
+      "pub.1071419942",
+      "pub.1104642272",
+      "pub.1101735771",
+      "pub.1005630796",
+      "pub.1071419879",
+      "pub.1049957449",
+      "pub.1048040891",
+      "pub.1071419849",
+      "pub.1098667678",
+      "pub.1039712935",
+      "pub.1071419815"
+    ],
+    "references": [
+      "pub.1044108824",
+      "pub.1038268986",
+      "pub.1098661412",
+      "pub.1071419942",
+      "pub.1104642272",
+      "pub.1101735771",
+      "pub.1005630796",
+      "pub.1071419879",
+      "pub.1049957449",
+      "pub.1048040891",
+      "pub.1071419849",
+      "pub.1098667678",
+      "pub.1039712935",
+      "pub.1071419815"
+    ],
+    "year": 2016,
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "title": "Sekund\u00e4rdaten f\u00fcr die Organisationsforschung \u2013 Datenangebot und Nutzungsm\u00f6glichkeiten",
+    "authors": [
+      {
+        "first_name": "Alexandra",
+        "last_name": "Schmucker",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.013071205752.51",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      },
+      {
+        "first_name": "Heiko",
+        "last_name": "St\u00fcber",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.014464146752.73",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      },
+      {
+        "first_name": "Silke",
+        "last_name": "Hamann",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.016654470352.43",
+        "affiliations": [
+          {
+            "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Alexandra",
+          "last_name": "Schmucker",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013071205752.51",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Heiko",
+          "last_name": "St\u00fcber",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014464146752.73",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Silke",
+          "last_name": "Hamann",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016654470352.43",
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB)"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2861650,
+        "name": "N\u00fcrnberg"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://link.springer.com/content/pdf/10.1007%2F978-3-658-08580-3_2-1.pdf",
+    "publisher": "Springer Nature",
+    "type": "chapter",
+    "pages": "1-20",
+    "book_doi": "10.1007/978-3-658-08580-3",
+    "doi": "10.1007/978-3-658-08580-3_2-1",
+    "book_title": "Handbuch Empirische Organisationsforschung",
+    "dimensions_id": "pub.1027280533",
+    "related_dataset_name": "Microdatabase Direct Investment",
+    "related_dataset": "dataset-3b5eb418ba0f080013d9",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

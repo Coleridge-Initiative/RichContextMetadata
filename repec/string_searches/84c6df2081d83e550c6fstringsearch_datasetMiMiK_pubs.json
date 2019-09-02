@@ -1,0 +1,943 @@
+[
+  {
+    "id": "pub.1112050109",
+    "book_title": "Choreografischer Baukasten. Das Buch (2. Aufl.)",
+    "date": "2019-12-31",
+    "pages": "127-154",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839446775-009",
+    "title": "Zusammenarbeit",
+    "type": "chapter",
+    "date_inserted": "2019-02-12",
+    "book_doi": "10.14361/9783839446775",
+    "year": 2019,
+    "dimensions_id": "pub.1112050109",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-02-12",
+    "linkout": "https://doi.org/10.14361/9783839443958-007",
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "title": "Assimilierende versus komplement\u00e4re Adaptivit\u00e4t",
+    "id": "pub.1112049928",
+    "publisher": "Transcript Verlag",
+    "pages": "139-180",
+    "book_title": "Autonome Systeme und Arbeit",
+    "authors": [
+      {
+        "first_name": "Norbert",
+        "last_name": "Huchler",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Norbert",
+          "last_name": "Huchler",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839443958",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_hybrid",
+        "name": "Hybrid",
+        "description": "Version Of Record (VOR) is free under an open licence in a paid-access journal"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839443958-007",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1112049928",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "Wolfram",
+        "last_name": "Nitsch",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Wolfram",
+          "last_name": "Nitsch",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1113146160",
+    "book_title": "Filmische Moderne",
+    "date": "2019-12-31",
+    "pages": "95-102",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839444818-012",
+    "title": "Les choses de la vie (1969)",
+    "type": "chapter",
+    "date_inserted": "2019-04-01",
+    "book_doi": "10.14361/9783839444818",
+    "year": 2019,
+    "dimensions_id": "pub.1113146160",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-12-31",
+    "id": "pub.1114813599",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "date_inserted": "2019-05-21",
+    "title": "3. Miteinander leben in Pflegeoasen \u2013 Effekte auf das Wohlbefinden der Bewohner",
+    "authors": [
+      {
+        "first_name": "Heike",
+        "last_name": "Reggentin",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "J\u00fcrgen",
+        "last_name": "Dettbarn-Reggentin",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Heike",
+          "last_name": "Reggentin",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "J\u00fcrgen",
+          "last_name": "Dettbarn-Reggentin",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "De Gruyter",
+    "type": "chapter",
+    "pages": "33-65",
+    "book_doi": "10.1515/9783748601043",
+    "doi": "10.1515/9783748601043-005",
+    "book_title": "Die Pflegeoase",
+    "dimensions_id": "pub.1114813599",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-03-30",
+    "title": "4. Theorie und Praxis der Erziehung (1923-1939)",
+    "id": "pub.1113071833",
+    "publisher": "Gutersloher Verlaghaus",
+    "pages": "237-370",
+    "book_title": "Theorie und Praxis der Erziehung",
+    "book_doi": "10.14315/9783641247775",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14315/9783641247775-005",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1113071833",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "id": "pub.1113244507",
+    "book_title": "Sanctorum Communio",
+    "date": "2019-12-31",
+    "pages": "200-298",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "publisher": "Gutersloher Verlaghaus",
+    "doi": "10.14315/9783641106959-009",
+    "title": "Anmerkungen Des Herausgebers",
+    "type": "chapter",
+    "linkout": "http://dml.cz/bitstream/handle/10338.dmlcz/400126/Bolzano_21-1836-1_6.pdf",
+    "date_inserted": "2019-04-06",
+    "book_doi": "10.14315/9783641106959",
+    "year": 2019,
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "dimensions_id": "pub.1113244507",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-01-12",
+    "title": "Raum der Fiktion \u2013 Raum der Anerkennung: Theater, Gabe und Wahrheit",
+    "id": "pub.1111354187",
+    "publisher": "Transcript Verlag",
+    "pages": "29-50",
+    "book_title": "Die Kunst der Gabe",
+    "authors": [
+      {
+        "first_name": "Marcel",
+        "last_name": "H\u00e9naff",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Marcel",
+          "last_name": "H\u00e9naff",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839440216",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839440216-004",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1111354187",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-04-01",
+    "title": "Heinrich Drebers Sappho und ihre Darstellungen als Selbstm\u00f6rderin in der Kunst des 19. Jahrhunderts",
+    "id": "pub.1113146423",
+    "publisher": "Transcript Verlag",
+    "pages": "89-104",
+    "book_title": "Okkulte Kunst",
+    "authors": [
+      {
+        "first_name": "Carlos",
+        "last_name": "Idrobo",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Carlos",
+          "last_name": "Idrobo",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839447635",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839447635-004",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1113146423",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-05-21",
+    "title": "6 Pflege plus \u2013 Die Milieutherapie in der Schwerstpflege",
+    "id": "pub.1114813602",
+    "publisher": "De Gruyter",
+    "pages": "137-158",
+    "book_title": "Die Pflegeoase",
+    "authors": [
+      {
+        "first_name": "J\u00fcrgen",
+        "last_name": "Dettbarn-Reggentin",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "J\u00fcrgen",
+          "last_name": "Dettbarn-Reggentin",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.1515/9783748601043",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.1515/9783748601043-008",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1114813602",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-05-21",
+    "title": "1. Demografische und gesellschaftliche Einfl\u00fcsse auf die station\u00e4re Versorgung Schwerstpflegebed\u00fcrftiger",
+    "id": "pub.1114813597",
+    "publisher": "De Gruyter",
+    "pages": "15-24",
+    "book_title": "Die Pflegeoase",
+    "authors": [
+      {
+        "first_name": "J\u00fcrgen",
+        "last_name": "Dettbarn-Reggentin",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Heike",
+        "last_name": "Reggentin",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "J\u00fcrgen",
+          "last_name": "Dettbarn-Reggentin",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Heike",
+          "last_name": "Reggentin",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.1515/9783748601043",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.1515/9783748601043-003",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1114813597",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-02-12",
+    "title": "\u00bbAuf Reisen ist man immer allein\u00ab",
+    "id": "pub.1112049977",
+    "publisher": "Transcript Verlag",
+    "pages": "207-236",
+    "book_title": "Emotionen im Feld",
+    "authors": [
+      {
+        "first_name": "Raoul",
+        "last_name": "Schrott",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Raoul",
+          "last_name": "Schrott",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839445488",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839445488-011",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1112049977",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "Franz",
+        "last_name": "Dotter",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Helene",
+        "last_name": "Jarmer",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Lukas",
+        "last_name": "Huber",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Franz",
+          "last_name": "Dotter",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Helene",
+          "last_name": "Jarmer",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Lukas",
+          "last_name": "Huber",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1113985871",
+    "book_title": "Zwischen Fremdbestimmung und Autonomie",
+    "date": "2019-12-31",
+    "pages": "373-422",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839447161-013",
+    "title": "Die Relikte von Oralismus und Behindertendiskriminierung in \u00d6sterreich",
+    "type": "chapter",
+    "date_inserted": "2019-05-10",
+    "book_doi": "10.14361/9783839447161",
+    "year": 2019,
+    "dimensions_id": "pub.1113985871",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "Renate",
+        "last_name": "Schwarz",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Renate",
+          "last_name": "Schwarz",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1117949160",
+    "book_title": "K\u00f6rper Beratung",
+    "date": "2019-12-31",
+    "pages": "109-122",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839444122-005",
+    "title": "Zwischenleibliche Resonanz und Intersubjektivit\u00e4t in Beratung, Supervision und Coaching",
+    "type": "chapter",
+    "date_inserted": "2019-07-13",
+    "book_doi": "10.14361/9783839444122",
+    "year": 2019,
+    "dimensions_id": "pub.1117949160",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "id": "pub.1112050107",
+    "book_title": "Choreografischer Baukasten. Das Buch (2. Aufl.)",
+    "date": "2019-12-31",
+    "pages": "81-108",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839446775-007",
+    "title": "Formgebung",
+    "type": "chapter",
+    "date_inserted": "2019-02-12",
+    "book_doi": "10.14361/9783839446775",
+    "year": 2019,
+    "dimensions_id": "pub.1112050107",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "authors": [
+      {
+        "first_name": "Katja",
+        "last_name": "Gunkel",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Birgit",
+        "last_name": "Richard",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Katja",
+          "last_name": "Gunkel",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Birgit",
+          "last_name": "Richard",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1113272032",
+    "book_title": "Konsum\u00e4sthetik",
+    "date": "2019-12-31",
+    "pages": "115-134",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "doi": "10.14361/9783839447260-007",
+    "title": "\u00bbFeiern bis das Bild kommt\u00ab",
+    "type": "chapter",
+    "date_inserted": "2019-04-08",
+    "book_doi": "10.14361/9783839447260",
+    "year": 2019,
+    "dimensions_id": "pub.1113272032",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-01-12",
+    "title": "Nichttun als Gabe?",
+    "id": "pub.1111354200",
+    "publisher": "Transcript Verlag",
+    "pages": "259-274",
+    "book_title": "Die Kunst der Gabe",
+    "authors": [
+      {
+        "first_name": "Hanne",
+        "last_name": "Seitz",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Hanne",
+          "last_name": "Seitz",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839440216",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839440216-017",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1111354200",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-12-31",
+    "id": "pub.1117949109",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "date_inserted": "2019-07-13",
+    "title": "Vom Wert der Bewegung in der Musik",
+    "authors": [
+      {
+        "first_name": "Holmrike",
+        "last_name": "Oesterhelt-Leiser",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Holmrike",
+          "last_name": "Oesterhelt-Leiser",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Transcript Verlag",
+    "type": "chapter",
+    "pages": "89-112",
+    "book_doi": "10.14361/9783839443712",
+    "doi": "10.14361/9783839443712-009",
+    "book_title": "Rhythmik - Musik und Bewegung",
+    "dimensions_id": "pub.1117949109",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2019-02-12",
+    "title": "\u00bbDu bist wie ein K\u00fcchlein in mein Haus gekommen, Wei\u00dfer\u2026\u00ab",
+    "id": "pub.1112049943",
+    "researchers": [
+      {
+        "id": "ur.014203573516.15",
+        "last_name": "Fossi",
+        "first_name": "Richard Tsogang"
+      }
+    ],
+    "publisher": "Transcript Verlag",
+    "pages": "111-130",
+    "book_title": "Koloniale Verbindungen - transkulturelle Erinnerungstopografien",
+    "authors": [
+      {
+        "first_name": "Richard Tsogang",
+        "last_name": "Fossi",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.014203573516.15",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Richard Tsogang",
+          "last_name": "Fossi",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014203573516.15",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.14361/9783839445297",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2019-12-31",
+    "doi": "10.14361/9783839445297-007",
+    "year": 2019,
+    "type": "chapter",
+    "dimensions_id": "pub.1112049943",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-12-31",
+    "id": "pub.1117949158",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "date_inserted": "2019-07-13",
+    "title": "Valenzen leiblicher Kommunikation zwischen Macht und Diversit\u00e4t",
+    "authors": [
+      {
+        "first_name": "Barbara",
+        "last_name": "Wolf",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Barbara",
+          "last_name": "Wolf",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Transcript Verlag",
+    "type": "chapter",
+    "pages": "61-86",
+    "book_doi": "10.14361/9783839444122",
+    "doi": "10.14361/9783839444122-003",
+    "book_title": "K\u00f6rper Beratung",
+    "dimensions_id": "pub.1117949158",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2019-12-31",
+    "id": "pub.1117949182",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2019,
+    "date_inserted": "2019-07-13",
+    "title": "Tasten",
+    "authors": [
+      {
+        "first_name": "Shirin",
+        "last_name": "Weigelt",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Shirin",
+          "last_name": "Weigelt",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Transcript Verlag",
+    "type": "chapter",
+    "pages": "107-128",
+    "book_doi": "10.14361/9783839444399",
+    "doi": "10.14361/9783839444399-005",
+    "book_title": "Affekt Macht Netz",
+    "dimensions_id": "pub.1117949182",
+    "related_dataset_name": "MiMiK",
+    "related_dataset": "dataset-b4ccf3bfe5b07c3834ab",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

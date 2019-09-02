@@ -1,0 +1,355 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-08-01",
+    "research_orgs": [
+      {
+        "id": "grid.8217.c",
+        "acronym": "TCD",
+        "name": "Trinity College Dublin",
+        "country_name": "Ireland"
+      }
+    ],
+    "journal": {
+      "id": "jour.1041730",
+      "title": "Journal of Financial Economics"
+    },
+    "terms": [
+      "data",
+      "different financial institutions",
+      "financial institutions",
+      "sector variation",
+      "investment behavior",
+      "past returns",
+      "balance sheet structure",
+      "period returns",
+      "constraints",
+      "statistics",
+      "procyclical manner",
+      "security",
+      "insurance companies",
+      "institutions",
+      "funds",
+      "heterogeneous response",
+      "return",
+      "banks",
+      "pension funds",
+      "debt securities",
+      "investment funds",
+      "companies",
+      "higher returns",
+      "financial constraints",
+      "paper",
+      "level data",
+      "behavior"
+    ],
+    "concepts": [
+      "data",
+      "different financial institutions",
+      "financial institutions",
+      "sector variation",
+      "investment behavior",
+      "past returns",
+      "balance sheet structure",
+      "period returns",
+      "constraints",
+      "statistics",
+      "procyclical manner",
+      "security",
+      "insurance companies",
+      "institutions",
+      "funds",
+      "heterogeneous response",
+      "return",
+      "banks",
+      "pension funds",
+      "debt securities",
+      "investment funds",
+      "companies",
+      "higher returns",
+      "financial constraints",
+      "paper",
+      "level data",
+      "behavior"
+    ],
+    "id": "pub.1103953698",
+    "issn": [
+      "0304-405X",
+      "1879-2774"
+    ],
+    "researchers": [
+      {
+        "id": "ur.011245011526.29",
+        "last_name": "Timmer",
+        "research_orgs": [
+          "grid.8217.c"
+        ],
+        "first_name": "Yannick"
+      }
+    ],
+    "research_org_country_names": [
+      "Ireland"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1037605968",
+      "pub.1018802302",
+      "pub.1103575769",
+      "pub.1072583861",
+      "pub.1085899468",
+      "pub.1102277794",
+      "pub.1022081433",
+      "pub.1060006652",
+      "pub.1103576087",
+      "pub.1064525799",
+      "pub.1060006061",
+      "pub.1102470264",
+      "pub.1043824134",
+      "pub.1064525911",
+      "pub.1072584051",
+      "pub.1008950300",
+      "pub.1016893701",
+      "pub.1090418265",
+      "pub.1064530426",
+      "pub.1060013381",
+      "pub.1042632912",
+      "pub.1038803872",
+      "pub.1064530480",
+      "pub.1102403647",
+      "pub.1058839365",
+      "pub.1064526196",
+      "pub.1064525811",
+      "pub.1084528704",
+      "pub.1016635849",
+      "pub.1102351377",
+      "pub.1006035153",
+      "pub.1070139580",
+      "pub.1009994252",
+      "pub.1026024738",
+      "pub.1017129411",
+      "pub.1026083323",
+      "pub.1009066939",
+      "pub.1030322132",
+      "pub.1092505530",
+      "pub.1060006696",
+      "pub.1018194165",
+      "pub.1060006643",
+      "pub.1058563540",
+      "pub.1061936688",
+      "pub.1030983690",
+      "pub.1052301230",
+      "pub.1001404001",
+      "pub.1042921699",
+      "pub.1027362831",
+      "pub.1058575184",
+      "pub.1084149919",
+      "pub.1064527814",
+      "pub.1102430882",
+      "pub.1023832264",
+      "pub.1069869316",
+      "pub.1058790458",
+      "pub.1014754908",
+      "pub.1021670894",
+      "pub.1102346568",
+      "pub.1013267490"
+    ],
+    "references": [
+      "pub.1037605968",
+      "pub.1018802302",
+      "pub.1103575769",
+      "pub.1072583861",
+      "pub.1085899468",
+      "pub.1102277794",
+      "pub.1022081433",
+      "pub.1060006652",
+      "pub.1103576087",
+      "pub.1064525799",
+      "pub.1060006061",
+      "pub.1102470264",
+      "pub.1043824134",
+      "pub.1064525911",
+      "pub.1072584051",
+      "pub.1008950300",
+      "pub.1016893701",
+      "pub.1090418265",
+      "pub.1064530426",
+      "pub.1060013381",
+      "pub.1042632912",
+      "pub.1038803872",
+      "pub.1064530480",
+      "pub.1102403647",
+      "pub.1058839365",
+      "pub.1064526196",
+      "pub.1064525811",
+      "pub.1084528704",
+      "pub.1016635849",
+      "pub.1102351377",
+      "pub.1006035153",
+      "pub.1070139580",
+      "pub.1009994252",
+      "pub.1026024738",
+      "pub.1017129411",
+      "pub.1026083323",
+      "pub.1009066939",
+      "pub.1030322132",
+      "pub.1092505530",
+      "pub.1060006696",
+      "pub.1018194165",
+      "pub.1060006643",
+      "pub.1058563540",
+      "pub.1061936688",
+      "pub.1030983690",
+      "pub.1052301230",
+      "pub.1001404001",
+      "pub.1042921699",
+      "pub.1027362831",
+      "pub.1058575184",
+      "pub.1084149919",
+      "pub.1064527814",
+      "pub.1102430882",
+      "pub.1023832264",
+      "pub.1069869316",
+      "pub.1058790458",
+      "pub.1014754908",
+      "pub.1021670894",
+      "pub.1102346568",
+      "pub.1013267490"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "date_inserted": "2018-05-13",
+    "volume": "129",
+    "category_hrcs_hc": [
+      {
+        "id": "890",
+        "name": "Generic Health Relevance"
+      }
+    ],
+    "HRCS_HC": [
+      {
+        "id": "890",
+        "name": "Generic Health Relevance"
+      }
+    ],
+    "times_cited": 2,
+    "title": "Cyclical Investment Behavior across Financial Institutions",
+    "authors": [
+      {
+        "first_name": "Yannick",
+        "last_name": "Timmer",
+        "orcid": "",
+        "current_organization_id": "grid.8217.c",
+        "researcher_id": "ur.011245011526.29",
+        "affiliations": [
+          {
+            "id": "grid.8217.c",
+            "name": "Trinity College Dublin",
+            "city": "Dublin",
+            "city_id": 2964574,
+            "country": "Ireland",
+            "country_code": "IE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Yannick",
+          "last_name": "Timmer",
+          "orcid": "",
+          "current_organization_id": "grid.8217.c",
+          "researcher_id": "ur.011245011526.29",
+          "affiliations": [
+            {
+              "id": "grid.8217.c",
+              "name": "Trinity College Dublin",
+              "city": "Dublin",
+              "city_id": 2964574,
+              "country": "Ireland",
+              "country_code": "IE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2964574,
+        "name": "Dublin"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/130754/1/857655078.pdf",
+    "publisher": "Elsevier",
+    "issue": "Journal of Financial Economics 121 2016",
+    "recent_citations": 2,
+    "altmetric": 2,
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "altmetric_id": 42498031,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "268-286",
+    "doi": "10.1016/j.jfineco.2018.04.012",
+    "dimensions_id": "pub.1103953698",
+    "related_dataset_name": "Securities Holdings Statistics - Base",
+    "related_dataset": "dataset-8f0eb980c7e23a771b02",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

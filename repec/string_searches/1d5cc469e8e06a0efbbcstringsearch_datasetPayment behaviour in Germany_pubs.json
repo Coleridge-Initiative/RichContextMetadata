@@ -1,0 +1,5036 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "altmetric_id": 53744389,
+    "category_rcdc": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Manuel",
+        "last_name": "F\u00f6rster",
+        "orcid": "",
+        "current_organization_id": "grid.7359.8",
+        "researcher_id": "ur.013142141533.94",
+        "affiliations": [
+          {
+            "id": "grid.7359.8",
+            "name": "University of Bamberg",
+            "city": "Bamberg",
+            "city_id": 2952984,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Roland",
+        "last_name": "Happ",
+        "orcid": "",
+        "current_organization_id": "grid.5802.f",
+        "researcher_id": "ur.014610042345.14",
+        "affiliations": [
+          {
+            "id": "grid.5802.f",
+            "name": "Johannes Gutenberg University of Mainz",
+            "city": "Mainz",
+            "city_id": 2874225,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "W. B.",
+        "last_name": "Walstad",
+        "orcid": "",
+        "current_organization_id": "grid.24434.35",
+        "researcher_id": "ur.010230546351.11",
+        "affiliations": [
+          {
+            "id": "grid.24434.35",
+            "name": "University of Nebraska\u2013Lincoln",
+            "city": "Lincoln",
+            "city_id": 5072006,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Nebraska",
+            "state_code": "US-NE"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Manuel",
+          "last_name": "F\u00f6rster",
+          "orcid": "",
+          "current_organization_id": "grid.7359.8",
+          "researcher_id": "ur.013142141533.94",
+          "affiliations": [
+            {
+              "id": "grid.7359.8",
+              "name": "University of Bamberg",
+              "city": "Bamberg",
+              "city_id": 2952984,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Roland",
+          "last_name": "Happ",
+          "orcid": "",
+          "current_organization_id": "grid.5802.f",
+          "researcher_id": "ur.014610042345.14",
+          "affiliations": [
+            {
+              "id": "grid.5802.f",
+              "name": "Johannes Gutenberg University of Mainz",
+              "city": "Mainz",
+              "city_id": 2874225,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "W. B.",
+          "last_name": "Walstad",
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.010230546351.11",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2952984,
+        "name": "Bamberg"
+      },
+      {
+        "id": 2874225,
+        "name": "Mainz"
+      },
+      {
+        "id": 5072006,
+        "name": "Lincoln"
+      }
+    ],
+    "id": "pub.1111329741",
+    "research_org_countries": [
+      {
+        "id": "US",
+        "name": "United States"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2019-12-01",
+    "pages": "2",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "ERIH PLUS",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "1877-6337",
+      "1877-6345"
+    ],
+    "publisher": "Springer Nature",
+    "doi": "10.1186/s40461-019-0077-z",
+    "journal": {
+      "id": "jour.1136011",
+      "title": "Empirical Research in Vocational Education and Training"
+    },
+    "title": "Relations between young adults\u2019 knowledge and understanding, experiences, and information behavior in personal finance matters",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "altmetric": 8,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.013142141533.94",
+        "last_name": "F\u00f6rster",
+        "research_orgs": [
+          "grid.7359.8",
+          "grid.5802.f"
+        ],
+        "first_name": "Manuel"
+      },
+      {
+        "id": "ur.014610042345.14",
+        "last_name": "Happ",
+        "research_orgs": [
+          "grid.5802.f"
+        ],
+        "first_name": "Roland"
+      },
+      {
+        "id": "ur.010230546351.11",
+        "last_name": "Walstad",
+        "research_orgs": [
+          "grid.24434.35",
+          "grid.266757.7"
+        ],
+        "first_name": "William B"
+      }
+    ],
+    "linkout": "https://ervet-journal.springeropen.com/track/pdf/10.1186/s40461-019-0077-z",
+    "research_org_country_names": [
+      "Germany",
+      "United States"
+    ],
+    "date_inserted": "2019-01-12",
+    "research_org_state_codes": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska"
+      }
+    ],
+    "concepts": [
+      "credit cards",
+      "multiple imputation",
+      "general secondary education",
+      "literacy",
+      "products",
+      "behavior",
+      "relationship",
+      "plan",
+      "finance",
+      "investment",
+      "banking",
+      "Investing",
+      "cards",
+      "retirement plans",
+      "secondary education",
+      "experience",
+      "dimensions",
+      "credit",
+      "school",
+      "variables",
+      "financial products",
+      "paper",
+      "regression model",
+      "knowledge",
+      "Germany",
+      "financial knowledge",
+      "insurance",
+      "data",
+      "imputation",
+      "finance matters",
+      "information",
+      "account",
+      "matter",
+      "education",
+      "role models",
+      "higher education",
+      "bank account",
+      "parents\u2019 influence",
+      "important influence",
+      "rent",
+      "financial literacy",
+      "countries",
+      "understanding",
+      "financial investing",
+      "personal finances",
+      "findings",
+      "opportunity",
+      "latter variable",
+      "influence",
+      "model",
+      "stock"
+    ],
+    "terms": [
+      "credit cards",
+      "multiple imputation",
+      "general secondary education",
+      "literacy",
+      "products",
+      "behavior",
+      "relationship",
+      "plan",
+      "finance",
+      "investment",
+      "banking",
+      "Investing",
+      "cards",
+      "retirement plans",
+      "secondary education",
+      "experience",
+      "dimensions",
+      "credit",
+      "school",
+      "variables",
+      "financial products",
+      "paper",
+      "regression model",
+      "knowledge",
+      "Germany",
+      "financial knowledge",
+      "insurance",
+      "data",
+      "imputation",
+      "finance matters",
+      "information",
+      "account",
+      "matter",
+      "education",
+      "role models",
+      "higher education",
+      "bank account",
+      "parents\u2019 influence",
+      "important influence",
+      "rent",
+      "financial literacy",
+      "countries",
+      "understanding",
+      "financial investing",
+      "personal finances",
+      "findings",
+      "opportunity",
+      "latter variable",
+      "influence",
+      "model",
+      "stock"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.7359.8",
+        "name": "University of Bamberg",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.24434.35",
+        "acronym": "UNL ",
+        "name": "University of Nebraska\u2013Lincoln",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.5802.f",
+        "name": "Johannes Gutenberg University of Mainz",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1004211450",
+      "pub.1033354923",
+      "pub.1072564260",
+      "pub.1098646819",
+      "pub.1106978121",
+      "pub.1007689830",
+      "pub.1084156380",
+      "pub.1107154152",
+      "pub.1022469931",
+      "pub.1034169839",
+      "pub.1015222954",
+      "pub.1084156378",
+      "pub.1001089350",
+      "pub.1022189929",
+      "pub.1038445969",
+      "pub.1107170420",
+      "pub.1045055163",
+      "pub.1012758752",
+      "pub.1025665583",
+      "pub.1009394144",
+      "pub.1024846278",
+      "pub.1000755889",
+      "pub.1035771425",
+      "pub.1046322909",
+      "pub.1099869652",
+      "pub.1054938036",
+      "pub.1052154210",
+      "pub.1029757976",
+      "pub.1109489390",
+      "pub.1038892424"
+    ],
+    "reference_ids": [
+      "pub.1004211450",
+      "pub.1033354923",
+      "pub.1072564260",
+      "pub.1098646819",
+      "pub.1106978121",
+      "pub.1007689830",
+      "pub.1084156380",
+      "pub.1107154152",
+      "pub.1022469931",
+      "pub.1034169839",
+      "pub.1015222954",
+      "pub.1084156378",
+      "pub.1001089350",
+      "pub.1022189929",
+      "pub.1038445969",
+      "pub.1107170420",
+      "pub.1045055163",
+      "pub.1012758752",
+      "pub.1025665583",
+      "pub.1009394144",
+      "pub.1024846278",
+      "pub.1000755889",
+      "pub.1035771425",
+      "pub.1046322909",
+      "pub.1099869652",
+      "pub.1054938036",
+      "pub.1052154210",
+      "pub.1029757976",
+      "pub.1109489390",
+      "pub.1038892424"
+    ],
+    "research_org_state_names": [
+      "Nebraska"
+    ],
+    "volume": "11",
+    "issue": "1",
+    "dimensions_id": "pub.1111329741",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2018-12-01",
+    "journal": {
+      "id": "jour.1151510",
+      "title": "Lecturas de Econom\u00eda"
+    },
+    "id": "pub.1111614392",
+    "issn": [
+      "0120-2596",
+      "2323-0622"
+    ],
+    "research_org_country_names": [
+      "Colombia"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "year": 2018,
+    "research_org_countries": [
+      {
+        "id": "CO",
+        "name": "Colombia"
+      }
+    ],
+    "date_inserted": "2019-01-29",
+    "volume": "0",
+    "title": "The use of cash and debit cards as payment instruments in Colombia",
+    "authors": [
+      {
+        "first_name": "Constanza Mart\u00ednez",
+        "last_name": "Ventura",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Banco de la Rep\u00fablica"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Constanza Mart\u00ednez",
+          "last_name": "Ventura",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Banco de la Rep\u00fablica"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 3688689,
+        "name": "Bogot\u00e1"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "http://aprendeenlinea.udea.edu.co/revistas/index.php/lecturasdeeconomia/article/download/336847/20792179",
+    "publisher": "Universidad de Antioquia",
+    "issue": "90",
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "SciELO"
+    ],
+    "type": "article",
+    "pages": "71-95",
+    "doi": "10.17533/udea.le.n90a03",
+    "dimensions_id": "pub.1111614392",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "RCDC": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      },
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "category_rcdc": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      },
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "recent_citations": 3,
+    "title": "DRIVERS OF PAYMENT PATTERNS AT THE POINT OF SALE: STABLE OR NOT?",
+    "FOR": [
+      {
+        "id": "3177",
+        "name": "1117 Public Health and Health Services"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.459463.9",
+        "acronym": "DNB",
+        "name": "De Nederlandsche Bank",
+        "country_name": "Netherlands"
+      }
+    ],
+    "id": "pub.1090852667",
+    "journal": {
+      "id": "jour.1027076",
+      "title": "Contemporary Economic Policy"
+    },
+    "researchers": [
+      {
+        "id": "ur.013435007131.21",
+        "last_name": "Van Der Cruijsen",
+        "research_orgs": [
+          "grid.459463.9",
+          "grid.7177.6"
+        ],
+        "first_name": "Carin A B"
+      },
+      {
+        "id": "ur.011770521535.76",
+        "last_name": "Plooij",
+        "research_orgs": [
+          "grid.459463.9",
+          "grid.466644.2"
+        ],
+        "first_name": "Mirjam"
+      }
+    ],
+    "research_org_country_names": [
+      "Netherlands"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "publisher": "Wiley",
+    "issn": [
+      "1074-3529",
+      "1465-7287"
+    ],
+    "pages": "363-380",
+    "authors": [
+      {
+        "first_name": "Carin",
+        "last_name": "van der Cruijsen",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.013435007131.21",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Mirjam",
+        "last_name": "Plooij",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.011770521535.76",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Carin",
+          "last_name": "van der Cruijsen",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.013435007131.21",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Mirjam",
+          "last_name": "Plooij",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.011770521535.76",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2759794,
+        "name": "Amsterdam"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2211",
+        "name": "11 Medical and Health Sciences"
+      }
+    ],
+    "date": "2018-04-01",
+    "reference_ids": [
+      "pub.1069740855",
+      "pub.1000718017",
+      "pub.1020632720",
+      "pub.1000579268",
+      "pub.1026596380",
+      "pub.1004587802",
+      "pub.1007298297",
+      "pub.1033268470",
+      "pub.1047024917",
+      "pub.1002319402",
+      "pub.1017822136",
+      "pub.1026655191",
+      "pub.1016381922",
+      "pub.1041481908",
+      "pub.1040855387",
+      "pub.1042478594",
+      "pub.1000784775",
+      "pub.1033257055",
+      "pub.1072843811",
+      "pub.1052431826",
+      "pub.1068977201"
+    ],
+    "references": [
+      "pub.1069740855",
+      "pub.1000718017",
+      "pub.1020632720",
+      "pub.1000579268",
+      "pub.1026596380",
+      "pub.1004587802",
+      "pub.1007298297",
+      "pub.1033268470",
+      "pub.1047024917",
+      "pub.1002319402",
+      "pub.1017822136",
+      "pub.1026655191",
+      "pub.1016381922",
+      "pub.1041481908",
+      "pub.1040855387",
+      "pub.1042478594",
+      "pub.1000784775",
+      "pub.1033257055",
+      "pub.1072843811",
+      "pub.1052431826",
+      "pub.1068977201"
+    ],
+    "doi": "10.1111/coep.12245",
+    "year": 2018,
+    "type": "article",
+    "volume": "36",
+    "times_cited": 4,
+    "terms": [
+      "date information",
+      "Netherlands",
+      "PO",
+      "instrument",
+      "extent",
+      "safety",
+      "sociodemographic factors",
+      "data",
+      "effect",
+      "factors"
+    ],
+    "concepts": [
+      "date information",
+      "Netherlands",
+      "PO",
+      "instrument",
+      "extent",
+      "safety",
+      "sociodemographic factors",
+      "data",
+      "effect",
+      "factors"
+    ],
+    "issue": "2",
+    "research_org_countries": [
+      {
+        "id": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3416",
+        "name": "1605 Policy and Administration"
+      },
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1090852667",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-11-02",
+    "recent_citations": 5,
+    "research_org_state_names": [
+      "Bogota D.C."
+    ],
+    "title": "Cash remains top-of-wallet! International evidence from payment diaries",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.8767.e",
+        "acronym": "VUB",
+        "name": "Vrije Universiteit Brussel",
+        "country_name": "Belgium"
+      },
+      {
+        "id": "grid.463717.0",
+        "acronym": "ENST",
+        "name": "T\u00e9l\u00e9com ParisTech",
+        "country_name": "France"
+      },
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1092460731",
+    "journal": {
+      "id": "jour.1027798",
+      "title": "Economic Modelling"
+    },
+    "researchers": [
+      {
+        "id": "ur.015071305125.52",
+        "last_name": "Bouhdaoui",
+        "research_orgs": [
+          "grid.463717.0",
+          "grid.8767.e"
+        ],
+        "first_name": "Yassine"
+      },
+      {
+        "id": "ur.07713545221.09",
+        "last_name": "Bounie",
+        "research_orgs": [
+          "grid.463717.0",
+          "grid.4444.0"
+        ],
+        "first_name": "David"
+      },
+      {
+        "id": "ur.016464246125.39",
+        "last_name": "Eschelbach",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Martina"
+      }
+    ],
+    "research_org_country_names": [
+      "Netherlands",
+      "Germany",
+      "Canada",
+      "Colombia",
+      "France",
+      "Belgium"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0264-9993",
+      "1873-6122"
+    ],
+    "altmetric_id": 28228151,
+    "pages": "38-48",
+    "authors": [
+      {
+        "first_name": "Carlos A.",
+        "last_name": "Arango-Arango",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Bank of Canada and Banco de la Rep\u00fablica de Colombia, Calle 16 #6-66, piso 30, p.30, Bogot\u00e1, Columbia"
+          }
+        ]
+      },
+      {
+        "first_name": "Yassine",
+        "last_name": "Bouhdaoui",
+        "orcid": "",
+        "current_organization_id": "grid.8767.e",
+        "researcher_id": "ur.015071305125.52",
+        "affiliations": [
+          {
+            "id": "grid.8767.e",
+            "name": "Vrije Universiteit Brussel",
+            "city": "Brussels",
+            "city_id": 2800866,
+            "country": "Belgium",
+            "country_code": "BE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "David",
+        "last_name": "Bounie",
+        "orcid": "",
+        "current_organization_id": "grid.463717.0",
+        "researcher_id": "ur.07713545221.09",
+        "affiliations": [
+          {
+            "id": "grid.463717.0",
+            "name": "T\u00e9l\u00e9com ParisTech",
+            "city": "Paris",
+            "city_id": 2988507,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Martina",
+        "last_name": "Eschelbach",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.016464246125.39",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Lola",
+        "last_name": "Hernandez",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "European Central Bank and De Nederlandsche Bank, P.O. Box 98, 1000 AB Amsterdam, The Netherlands"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Carlos A.",
+          "last_name": "Arango-Arango",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Bank of Canada and Banco de la Rep\u00fablica de Colombia, Calle 16 #6-66, piso 30, p.30, Bogot\u00e1, Columbia"
+            }
+          ]
+        },
+        {
+          "first_name": "Yassine",
+          "last_name": "Bouhdaoui",
+          "orcid": "",
+          "current_organization_id": "grid.8767.e",
+          "researcher_id": "ur.015071305125.52",
+          "affiliations": [
+            {
+              "id": "grid.8767.e",
+              "name": "Vrije Universiteit Brussel",
+              "city": "Brussels",
+              "city_id": 2800866,
+              "country": "Belgium",
+              "country_code": "BE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Bounie",
+          "orcid": "",
+          "current_organization_id": "grid.463717.0",
+          "researcher_id": "ur.07713545221.09",
+          "affiliations": [
+            {
+              "id": "grid.463717.0",
+              "name": "T\u00e9l\u00e9com ParisTech",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Martina",
+          "last_name": "Eschelbach",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.016464246125.39",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Lola",
+          "last_name": "Hernandez",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "European Central Bank and De Nederlandsche Bank, P.O. Box 98, 1000 AB Amsterdam, The Netherlands"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 6094817,
+        "name": "Ottawa"
+      },
+      {
+        "id": 2800866,
+        "name": "Brussels"
+      },
+      {
+        "id": 3688689,
+        "name": "Bogot\u00e1"
+      },
+      {
+        "id": 2988507,
+        "name": "Paris"
+      },
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-01-01",
+    "reference_ids": [
+      "pub.1017822136",
+      "pub.1008347381",
+      "pub.1069651087",
+      "pub.1033808851",
+      "pub.1012466656",
+      "pub.1063352966",
+      "pub.1041794606",
+      "pub.1035090283",
+      "pub.1090656800",
+      "pub.1018179134",
+      "pub.1032622858",
+      "pub.1039129830",
+      "pub.1000718017",
+      "pub.1043432822",
+      "pub.1002657773",
+      "pub.1069623860",
+      "pub.1069623416",
+      "pub.1005981905",
+      "pub.1070042842",
+      "pub.1102351745",
+      "pub.1034860039",
+      "pub.1000579268",
+      "pub.1058862317",
+      "pub.1035337527",
+      "pub.1041481908",
+      "pub.1016434866",
+      "pub.1043372004",
+      "pub.1026596380",
+      "pub.1069971720",
+      "pub.1045656366",
+      "pub.1052431826",
+      "pub.1068977211",
+      "pub.1025176147",
+      "pub.1052714846",
+      "pub.1058637949"
+    ],
+    "references": [
+      "pub.1017822136",
+      "pub.1008347381",
+      "pub.1069651087",
+      "pub.1033808851",
+      "pub.1012466656",
+      "pub.1063352966",
+      "pub.1041794606",
+      "pub.1035090283",
+      "pub.1090656800",
+      "pub.1018179134",
+      "pub.1032622858",
+      "pub.1039129830",
+      "pub.1000718017",
+      "pub.1043432822",
+      "pub.1002657773",
+      "pub.1069623860",
+      "pub.1069623416",
+      "pub.1005981905",
+      "pub.1070042842",
+      "pub.1102351745",
+      "pub.1034860039",
+      "pub.1000579268",
+      "pub.1058862317",
+      "pub.1035337527",
+      "pub.1041481908",
+      "pub.1016434866",
+      "pub.1043372004",
+      "pub.1026596380",
+      "pub.1069971720",
+      "pub.1045656366",
+      "pub.1052431826",
+      "pub.1068977211",
+      "pub.1025176147",
+      "pub.1052714846",
+      "pub.1058637949"
+    ],
+    "doi": "10.1016/j.econmod.2017.09.002",
+    "year": 2018,
+    "type": "article",
+    "volume": "69",
+    "altmetric": 2,
+    "times_cited": 6,
+    "terms": [
+      "holdings",
+      "recent years",
+      "electronic payments",
+      "cost",
+      "evidence",
+      "cards",
+      "Canada",
+      "withdrawal costs",
+      "cash holdings",
+      "France",
+      "Austria",
+      "Netherlands",
+      "wallet",
+      "years",
+      "model",
+      "factors",
+      "optimal cash holdings",
+      "key factor",
+      "cash",
+      "state",
+      "transactions",
+      "United States",
+      "point",
+      "payment",
+      "economy",
+      "sales transactions",
+      "relative costs",
+      "Germany",
+      "incentives"
+    ],
+    "concepts": [
+      "holdings",
+      "recent years",
+      "electronic payments",
+      "cost",
+      "evidence",
+      "cards",
+      "Canada",
+      "withdrawal costs",
+      "cash holdings",
+      "France",
+      "Austria",
+      "Netherlands",
+      "wallet",
+      "years",
+      "model",
+      "factors",
+      "optimal cash holdings",
+      "key factor",
+      "cash",
+      "state",
+      "transactions",
+      "United States",
+      "point",
+      "payment",
+      "economy",
+      "sales transactions",
+      "relative costs",
+      "Germany",
+      "incentives"
+    ],
+    "issue": "Econometrica 77 2 2009",
+    "research_org_countries": [
+      {
+        "id": "BE",
+        "name": "Belgium"
+      },
+      {
+        "id": "CA",
+        "name": "Canada"
+      },
+      {
+        "id": "FR",
+        "name": "France"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "CO",
+        "name": "Colombia"
+      },
+      {
+        "id": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1092460731",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date": "2018-01-01",
+    "id": "pub.1109699791",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "year": 2018,
+    "date_inserted": "2018-11-09",
+    "title": "Omnichannel Branding, Digitalisierung als Basis erlebnis- und beziehungsorientierter Markenf\u00fchrung",
+    "publisher": "Springer Nature",
+    "type": "book",
+    "doi": "10.1007/978-3-658-21450-0",
+    "dimensions_id": "pub.1109699791",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "altmetric_id": 45956356,
+    "id": "pub.1109711846",
+    "date": "2018-01-01",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "doi": "10.1007/978-3-658-21720-4",
+    "title": "Die Zukunft des Bargelds, Perspektiven aus Wissenschaft und Praxis",
+    "altmetric": 7,
+    "type": "book",
+    "date_inserted": "2018-11-09",
+    "year": 2018,
+    "dimensions_id": "pub.1109711846",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2018-01-01",
+    "terms": [
+      "banks",
+      "payment solutions",
+      "adoption decision",
+      "transactions",
+      "move",
+      "need",
+      "Technology Acceptance Model",
+      "service providers",
+      "concern",
+      "providers",
+      "environment",
+      "foundation",
+      "paper",
+      "gap",
+      "theory",
+      "customer security",
+      "research",
+      "data",
+      "service benefits",
+      "security",
+      "services",
+      "compatibility",
+      "payment",
+      "adoption",
+      "time",
+      "diffusion theory",
+      "acceptance model",
+      "solution",
+      "current payment method",
+      "trust",
+      "students",
+      "payment method",
+      "security risks",
+      "innovation diffusion theory",
+      "mobile payment solutions",
+      "decision",
+      "same time",
+      "mobile lifestyle",
+      "benefits",
+      "system usability",
+      "P2P",
+      "model",
+      "adoption behavior",
+      "topic",
+      "behavior",
+      "awareness",
+      "theoretical foundation",
+      "usability",
+      "mobile payment"
+    ],
+    "concepts": [
+      "banks",
+      "payment solutions",
+      "adoption decision",
+      "transactions",
+      "move",
+      "need",
+      "Technology Acceptance Model",
+      "service providers",
+      "concern",
+      "providers",
+      "environment",
+      "foundation",
+      "paper",
+      "gap",
+      "theory",
+      "customer security",
+      "research",
+      "data",
+      "service benefits",
+      "security",
+      "services",
+      "compatibility",
+      "payment",
+      "adoption",
+      "time",
+      "diffusion theory",
+      "acceptance model",
+      "solution",
+      "current payment method",
+      "trust",
+      "students",
+      "payment method",
+      "security risks",
+      "innovation diffusion theory",
+      "mobile payment solutions",
+      "decision",
+      "same time",
+      "mobile lifestyle",
+      "benefits",
+      "system usability",
+      "P2P",
+      "model",
+      "adoption behavior",
+      "topic",
+      "behavior",
+      "awareness",
+      "theoretical foundation",
+      "usability",
+      "mobile payment"
+    ],
+    "id": "pub.1106524729",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1025888141",
+      "pub.1052931450",
+      "pub.1050636705",
+      "pub.1074125332",
+      "pub.1042334224",
+      "pub.1072958486",
+      "pub.1008104287",
+      "pub.1037913086",
+      "pub.1061599781",
+      "pub.1032360203",
+      "pub.1028082114",
+      "pub.1037099176",
+      "pub.1047097166",
+      "pub.1050548542",
+      "pub.1095462989",
+      "pub.1050077489",
+      "pub.1035208381",
+      "pub.1018612815",
+      "pub.1003623421",
+      "pub.1064711710",
+      "pub.1064720609",
+      "pub.1019346517",
+      "pub.1072683788",
+      "pub.1022269793",
+      "pub.1043314681",
+      "pub.1002962710",
+      "pub.1004371161",
+      "pub.1064711982",
+      "pub.1052254637",
+      "pub.1006251575",
+      "pub.1018059059",
+      "pub.1048821704",
+      "pub.1000975004",
+      "pub.1008649364"
+    ],
+    "references": [
+      "pub.1025888141",
+      "pub.1052931450",
+      "pub.1050636705",
+      "pub.1074125332",
+      "pub.1042334224",
+      "pub.1072958486",
+      "pub.1008104287",
+      "pub.1037913086",
+      "pub.1061599781",
+      "pub.1032360203",
+      "pub.1028082114",
+      "pub.1037099176",
+      "pub.1047097166",
+      "pub.1050548542",
+      "pub.1095462989",
+      "pub.1050077489",
+      "pub.1035208381",
+      "pub.1018612815",
+      "pub.1003623421",
+      "pub.1064711710",
+      "pub.1064720609",
+      "pub.1019346517",
+      "pub.1072683788",
+      "pub.1022269793",
+      "pub.1043314681",
+      "pub.1002962710",
+      "pub.1004371161",
+      "pub.1064711982",
+      "pub.1052254637",
+      "pub.1006251575",
+      "pub.1018059059",
+      "pub.1048821704",
+      "pub.1000975004",
+      "pub.1008649364"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date_inserted": "2018-09-05",
+    "title": "P2P Mobile Payments: Investigating the Factors of Adoption Among Students in Germany",
+    "authors": [
+      {
+        "first_name": "Leif Erik",
+        "last_name": "Kleivene",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Lipis Advisors GmbH"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Leif Erik",
+          "last_name": "Kleivene",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Lipis Advisors GmbH"
+            }
+          ]
+        }
+      ]
+    ],
+    "publisher": "Springer Nature",
+    "FOR": [
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "type": "chapter",
+    "pages": "45-67",
+    "book_doi": "10.1007/978-3-658-21450-0",
+    "doi": "10.1007/978-3-658-21450-0_3",
+    "book_title": "Omnichannel Branding",
+    "dimensions_id": "pub.1106524729",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2018-07-29",
+    "title": "Kaufentscheidungen, psychologische Preise und der Schmerz des Bezahlens \u2013 Erkenntnisse der Verhaltensforschung",
+    "id": "pub.1105875507",
+    "researchers": [
+      {
+        "id": "ur.010257353033.94",
+        "last_name": "Sickmann",
+        "research_orgs": [
+          "grid.6553.5",
+          "grid.449481.4"
+        ],
+        "first_name": "J\u00f6rn"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "publisher": "Springer Nature",
+    "pages": "185-204",
+    "book_title": "Die Zukunft des Bargelds",
+    "authors": [
+      {
+        "first_name": "J\u00f6rn",
+        "last_name": "Sickmann",
+        "orcid": "",
+        "current_organization_id": "grid.449481.4",
+        "researcher_id": "ur.010257353033.94",
+        "affiliations": [
+          {
+            "name": "Hochschule Rhein-Waal"
+          }
+        ]
+      },
+      {
+        "first_name": "Carina",
+        "last_name": "Goldbach",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Hochschule Rhein-Waal"
+          }
+        ]
+      },
+      {
+        "first_name": "Achiel",
+        "last_name": "Fenneman",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Hochschule Rhein-Waal"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "J\u00f6rn",
+          "last_name": "Sickmann",
+          "orcid": "",
+          "current_organization_id": "grid.449481.4",
+          "researcher_id": "ur.010257353033.94",
+          "affiliations": [
+            {
+              "name": "Hochschule Rhein-Waal"
+            }
+          ]
+        },
+        {
+          "first_name": "Carina",
+          "last_name": "Goldbach",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Hochschule Rhein-Waal"
+            }
+          ]
+        },
+        {
+          "first_name": "Achiel",
+          "last_name": "Fenneman",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Hochschule Rhein-Waal"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2887835,
+        "name": "Kleve"
+      }
+    ],
+    "book_doi": "10.1007/978-3-658-21720-4",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2018-01-01",
+    "reference_ids": [
+      "pub.1047012478",
+      "pub.1018789159",
+      "pub.1064721968",
+      "pub.1020060348",
+      "pub.1058847579",
+      "pub.1064525360",
+      "pub.1010452718",
+      "pub.1029223677",
+      "pub.1050120445",
+      "pub.1020298540",
+      "pub.1089476337",
+      "pub.1011774171",
+      "pub.1023465103",
+      "pub.1046215258",
+      "pub.1102473406",
+      "pub.1058529079",
+      "pub.1064712987",
+      "pub.1062646798",
+      "pub.1046409103",
+      "pub.1059746934",
+      "pub.1018954795",
+      "pub.1064712777",
+      "pub.1058606189",
+      "pub.1041249548",
+      "pub.1058528661",
+      "pub.1023637679",
+      "pub.1058529089",
+      "pub.1058804241",
+      "pub.1047024917",
+      "pub.1021590840",
+      "pub.1064713407",
+      "pub.1030600760",
+      "pub.1005399194",
+      "pub.1040889382",
+      "pub.1045659633",
+      "pub.1035033855",
+      "pub.1041481908",
+      "pub.1058528335",
+      "pub.1058716247",
+      "pub.1064713901",
+      "pub.1028775481",
+      "pub.1109737064",
+      "pub.1062510354",
+      "pub.1069651713",
+      "pub.1016832163",
+      "pub.1004989469",
+      "pub.1058794015",
+      "pub.1023477257",
+      "pub.1064524178",
+      "pub.1025570306",
+      "pub.1102470447",
+      "pub.1069641248",
+      "pub.1046955343",
+      "pub.1075122612",
+      "pub.1064530031",
+      "pub.1001214344",
+      "pub.1022826425"
+    ],
+    "references": [
+      "pub.1047012478",
+      "pub.1018789159",
+      "pub.1064721968",
+      "pub.1020060348",
+      "pub.1058847579",
+      "pub.1064525360",
+      "pub.1010452718",
+      "pub.1029223677",
+      "pub.1050120445",
+      "pub.1020298540",
+      "pub.1089476337",
+      "pub.1011774171",
+      "pub.1023465103",
+      "pub.1046215258",
+      "pub.1102473406",
+      "pub.1058529079",
+      "pub.1064712987",
+      "pub.1062646798",
+      "pub.1046409103",
+      "pub.1059746934",
+      "pub.1018954795",
+      "pub.1064712777",
+      "pub.1058606189",
+      "pub.1041249548",
+      "pub.1058528661",
+      "pub.1023637679",
+      "pub.1058529089",
+      "pub.1058804241",
+      "pub.1047024917",
+      "pub.1021590840",
+      "pub.1064713407",
+      "pub.1030600760",
+      "pub.1005399194",
+      "pub.1040889382",
+      "pub.1045659633",
+      "pub.1035033855",
+      "pub.1041481908",
+      "pub.1058528335",
+      "pub.1058716247",
+      "pub.1064713901",
+      "pub.1028775481",
+      "pub.1109737064",
+      "pub.1062510354",
+      "pub.1069651713",
+      "pub.1016832163",
+      "pub.1004989469",
+      "pub.1058794015",
+      "pub.1023477257",
+      "pub.1064524178",
+      "pub.1025570306",
+      "pub.1102470447",
+      "pub.1069641248",
+      "pub.1046955343",
+      "pub.1075122612",
+      "pub.1064530031",
+      "pub.1001214344",
+      "pub.1022826425"
+    ],
+    "doi": "10.1007/978-3-658-21720-4_13",
+    "year": 2018,
+    "type": "chapter",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "dimensions_id": "pub.1105875507",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2017-12-20",
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.459463.9",
+        "acronym": "DNB",
+        "name": "De Nederlandsche Bank",
+        "country_name": "Netherlands"
+      }
+    ],
+    "journal": {
+      "id": "jour.1054186",
+      "title": "Jahrb\u00fccher f\u00fcr National\u00f6konomie und Statistik"
+    },
+    "terms": [
+      "counterfeits",
+      "regression analysis",
+      "banknote circulation",
+      "approach",
+      "effective policy measures",
+      "Netherlands",
+      "claims",
+      "participants",
+      "Germany",
+      "measures",
+      "public",
+      "set",
+      "persons",
+      "policy",
+      "fact",
+      "banknotes",
+      "consumers",
+      "central bank",
+      "levels",
+      "note",
+      "implications",
+      "analysis",
+      "major concern",
+      "area",
+      "science",
+      "policy measures",
+      "general public",
+      "concern",
+      "banks",
+      "theory"
+    ],
+    "concepts": [
+      "counterfeits",
+      "regression analysis",
+      "banknote circulation",
+      "approach",
+      "effective policy measures",
+      "Netherlands",
+      "claims",
+      "participants",
+      "Germany",
+      "measures",
+      "public",
+      "set",
+      "persons",
+      "policy",
+      "fact",
+      "banknotes",
+      "consumers",
+      "central bank",
+      "levels",
+      "note",
+      "implications",
+      "analysis",
+      "major concern",
+      "area",
+      "science",
+      "policy measures",
+      "general public",
+      "concern",
+      "banks",
+      "theory"
+    ],
+    "id": "pub.1099767736",
+    "issn": [
+      "0021-4027",
+      "2366-049X"
+    ],
+    "researchers": [
+      {
+        "id": "ur.010533654364.14",
+        "last_name": "Van Der Horst",
+        "research_orgs": [
+          "grid.459463.9"
+        ],
+        "first_name": "Frank"
+      },
+      {
+        "id": "ur.016464246125.39",
+        "last_name": "Eschelbach",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Martina"
+      },
+      {
+        "id": "ur.016507460364.02",
+        "last_name": "Sieber",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Susann"
+      },
+      {
+        "id": "ur.011377350164.75",
+        "last_name": "Miedema",
+        "research_orgs": [
+          "grid.459463.9"
+        ],
+        "first_name": "Jelle"
+      }
+    ],
+    "research_org_country_names": [
+      "Netherlands",
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1041481908",
+      "pub.1040738210",
+      "pub.1064527862",
+      "pub.1058781460",
+      "pub.1022567151"
+    ],
+    "references": [
+      "pub.1041481908",
+      "pub.1040738210",
+      "pub.1064527862",
+      "pub.1058781460",
+      "pub.1022567151"
+    ],
+    "year": 2017,
+    "category_rcdc": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      },
+      {
+        "id": "558",
+        "name": "Prevention"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      },
+      {
+        "id": "558",
+        "name": "Prevention"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2017-12-22",
+    "volume": "237",
+    "times_cited": 2,
+    "title": "Does Banknote Quality Affect Counterfeit Detection? Experimental Evidence from Germany and the Netherlands",
+    "authors": [
+      {
+        "first_name": "Frank",
+        "last_name": "van der Horst",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.010533654364.14",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Martina",
+        "last_name": "Eschelbach",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.016464246125.39",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Susann",
+        "last_name": "Sieber",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.016507460364.02",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Jelle",
+        "last_name": "Miedema",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.011377350164.75",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Frank",
+          "last_name": "van der Horst",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.010533654364.14",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Martina",
+          "last_name": "Eschelbach",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.016464246125.39",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Susann",
+          "last_name": "Sieber",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.016507460364.02",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Jelle",
+          "last_name": "Miedema",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.011377350164.75",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2759794,
+        "name": "Amsterdam"
+      },
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "linkout": "https://www.dnb.nl/en/binaries/Working%20paper%20499_tcm47-337173.pdf",
+    "publisher": "De Gruyter",
+    "issue": "6",
+    "recent_citations": 1,
+    "field_citation_ratio": 2.04,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "469-497",
+    "doi": "10.1515/jbnst-2017-0122",
+    "dimensions_id": "pub.1099767736",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Tobias",
+        "last_name": "Schmidt",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Deutsche Bundesbank \u2013 Research Centre, Wilhelm-Epstein-Stra\u00dfe 14, 60431, Frankfurt am Main, Germany, ."
+          }
+        ]
+      },
+      {
+        "first_name": "Susann",
+        "last_name": "Sieber",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Deutsche Bundesbank \u2013 Research Centre, Wilhelm-Epstein-Stra\u00dfe 14, 60431, Frankfurt am Main, Germany, ."
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Tobias",
+          "last_name": "Schmidt",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Deutsche Bundesbank \u2013 Research Centre, Wilhelm-Epstein-Stra\u00dfe 14, 60431, Frankfurt am Main, Germany, ."
+            }
+          ]
+        },
+        {
+          "first_name": "Susann",
+          "last_name": "Sieber",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Deutsche Bundesbank \u2013 Research Centre, Wilhelm-Epstein-Stra\u00dfe 14, 60431, Frankfurt am Main, Germany, ."
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "id": "pub.1086012438",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2017-06-01",
+    "pages": "427-454",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_pure",
+        "name": "Pure Gold",
+        "description": "Version Of Record (VOR) is free under an open licence from a full OA journal"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "DOAJ",
+      "ERA 2015",
+      "ERIH PLUS",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0282-423X",
+      "2001-7367"
+    ],
+    "publisher": "De Gruyter",
+    "doi": "10.1515/jos-2017-0021",
+    "journal": {
+      "id": "jour.1007237",
+      "title": "Journal of Official Statistics"
+    },
+    "title": "The Influence of an Up-Front Experiment on Respondents\u2019 Recording Behaviour in Payment Diaries: Evidence from Germany",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "linkout": "https://content.sciendo.com/downloadpdf/journals/jos/33/2/article-p427.pdf",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "risk preferences",
+      "transactions",
+      "basis",
+      "nothing",
+      "negligible impact",
+      "article",
+      "recording behavior",
+      "item nonresponse",
+      "commitment",
+      "week diary",
+      "chance",
+      "representative survey",
+      "nonresponse",
+      "consumers",
+      "measures",
+      "effect",
+      "expenditure",
+      "survey",
+      "aspects",
+      "respondents\u2019",
+      "share",
+      "behavior",
+      "preference",
+      "evidence",
+      "behavioral experiments",
+      "lottery",
+      "quantity",
+      "point",
+      "substantive measures",
+      "incentives",
+      "winner",
+      "outcomes",
+      "part",
+      "individuals",
+      "impact",
+      "consumers\u2019",
+      "one-week diary",
+      "strong commitment",
+      "losers"
+    ],
+    "terms": [
+      "risk preferences",
+      "transactions",
+      "basis",
+      "nothing",
+      "negligible impact",
+      "article",
+      "recording behavior",
+      "item nonresponse",
+      "commitment",
+      "week diary",
+      "chance",
+      "representative survey",
+      "nonresponse",
+      "consumers",
+      "measures",
+      "effect",
+      "expenditure",
+      "survey",
+      "aspects",
+      "respondents\u2019",
+      "share",
+      "behavior",
+      "preference",
+      "evidence",
+      "behavioral experiments",
+      "lottery",
+      "quantity",
+      "point",
+      "substantive measures",
+      "incentives",
+      "winner",
+      "outcomes",
+      "part",
+      "individuals",
+      "impact",
+      "consumers\u2019",
+      "one-week diary",
+      "strong commitment",
+      "losers"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "2216",
+        "name": "16 Studies in Human Society"
+      },
+      {
+        "id": "2201",
+        "name": "01 Mathematical Sciences"
+      },
+      {
+        "id": "3403",
+        "name": "1603 Demography"
+      },
+      {
+        "id": "2358",
+        "name": "0104 Statistics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "references": [
+      "pub.1058641279",
+      "pub.1010509122",
+      "pub.1064525252",
+      "pub.1044108824",
+      "pub.1070213978",
+      "pub.1026794766",
+      "pub.1013479473",
+      "pub.1023217250",
+      "pub.1058580070",
+      "pub.1058622176",
+      "pub.1044357190",
+      "pub.1058579822",
+      "pub.1058579949",
+      "pub.1058579377",
+      "pub.1070055689",
+      "pub.1058579140",
+      "pub.1010057229",
+      "pub.1040068841",
+      "pub.1013294642"
+    ],
+    "reference_ids": [
+      "pub.1058641279",
+      "pub.1010509122",
+      "pub.1064525252",
+      "pub.1044108824",
+      "pub.1070213978",
+      "pub.1026794766",
+      "pub.1013479473",
+      "pub.1023217250",
+      "pub.1058580070",
+      "pub.1058622176",
+      "pub.1044357190",
+      "pub.1058579822",
+      "pub.1058579949",
+      "pub.1058579377",
+      "pub.1070055689",
+      "pub.1058579140",
+      "pub.1010057229",
+      "pub.1040068841",
+      "pub.1013294642"
+    ],
+    "volume": "33",
+    "issue": "2",
+    "dimensions_id": "pub.1086012438",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-09-06",
+    "title": "The Use of Cash in Germany: Status and Outlook",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "id": "pub.1091371947",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "publisher": "Springer Nature",
+    "issn": [
+      "0921-8580",
+      "2197-1889"
+    ],
+    "pages": "133-151",
+    "book_title": "Cash in East Asia",
+    "authors": [
+      {
+        "first_name": "Erwin",
+        "last_name": "Gladisch",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Deutsche Bundesbank"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Erwin",
+          "last_name": "Gladisch",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Deutsche Bundesbank"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "book_doi": "10.1007/978-3-319-59846-8",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2017-01-01",
+    "book_series_title": "Financial and Monetary Policy Studies",
+    "reference_ids": [
+      "pub.1050890059",
+      "pub.1099477952",
+      "pub.1068977211"
+    ],
+    "references": [
+      "pub.1050890059",
+      "pub.1099477952",
+      "pub.1068977211"
+    ],
+    "doi": "10.1007/978-3-319-59846-8_9",
+    "year": 2017,
+    "type": "chapter",
+    "volume": "44",
+    "terms": [
+      "protection",
+      "cash",
+      "financing",
+      "tax evasion",
+      "importance",
+      "banknotes",
+      "terrorism",
+      "political uncertainty",
+      "payment options",
+      "evasion",
+      "options",
+      "assumption",
+      "cost",
+      "connection",
+      "data protection",
+      "transactions",
+      "uncertainty",
+      "younger generation",
+      "high cost",
+      "argument",
+      "Germany",
+      "doubt",
+      "countries",
+      "high circulation",
+      "role",
+      "criminal activity",
+      "payment amount",
+      "external effects",
+      "decline",
+      "reluctance",
+      "older generation",
+      "evidence",
+      "illegal activities",
+      "huge importance",
+      "stop",
+      "substantial arguments",
+      "payment",
+      "chapter"
+    ],
+    "concepts": [
+      "protection",
+      "cash",
+      "financing",
+      "tax evasion",
+      "importance",
+      "banknotes",
+      "terrorism",
+      "political uncertainty",
+      "payment options",
+      "evasion",
+      "options",
+      "assumption",
+      "cost",
+      "connection",
+      "data protection",
+      "transactions",
+      "uncertainty",
+      "younger generation",
+      "high cost",
+      "argument",
+      "Germany",
+      "doubt",
+      "countries",
+      "high circulation",
+      "role",
+      "criminal activity",
+      "payment amount",
+      "external effects",
+      "decline",
+      "reluctance",
+      "older generation",
+      "evidence",
+      "illegal activities",
+      "huge importance",
+      "stop",
+      "substantial arguments",
+      "payment",
+      "chapter"
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1091371947",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 1,
+    "field_citation_ratio": 0.76,
+    "authors": [
+      {
+        "first_name": "Nikolaus",
+        "last_name": "Bartzsch",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.012362406631.05",
+        "affiliations": []
+      },
+      {
+        "first_name": "Franz",
+        "last_name": "Seitz",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.013765074371.21",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Nikolaus",
+          "last_name": "Bartzsch",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012362406631.05",
+          "affiliations": []
+        },
+        {
+          "first_name": "Franz",
+          "last_name": "Seitz",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013765074371.21",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1021138618",
+    "book_title": "Transforming Payment Systems in Europe",
+    "date": "2016-01-01",
+    "pages": "111-148",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "doi": "10.1057/9781137541215_4",
+    "title": "Cash Holdings in Germany and the Demand for \u201cGerman\u201d Banknotes: What Role Is There for Cashless Payments?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "chapter",
+    "researchers": [
+      {
+        "id": "ur.012362406631.05",
+        "last_name": "Bartzsch",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Nikolaus"
+      },
+      {
+        "id": "ur.013765074371.21",
+        "last_name": "Seitz",
+        "first_name": "Franz"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "years",
+      "rate",
+      "central bank",
+      "Euro area",
+      "note",
+      "need",
+      "issuance",
+      "euro cash",
+      "pace",
+      "Euro-area",
+      "stock",
+      "huge surge",
+      "growth",
+      "growth rate",
+      "Deutsche Bundesbank",
+      "show",
+      "launch",
+      "banks",
+      "era",
+      "levels",
+      "currency",
+      "banknotes",
+      "demand",
+      "changeover",
+      "Germany",
+      "area",
+      "hypothetical level",
+      "introduction",
+      "Bundesbank",
+      "effect",
+      "surge",
+      "euro banknotes",
+      "euro notes",
+      "strong growth",
+      "cash",
+      "currency changeover",
+      "national central banks",
+      "foreign demand"
+    ],
+    "terms": [
+      "years",
+      "rate",
+      "central bank",
+      "Euro area",
+      "note",
+      "need",
+      "issuance",
+      "euro cash",
+      "pace",
+      "Euro-area",
+      "stock",
+      "huge surge",
+      "growth",
+      "growth rate",
+      "Deutsche Bundesbank",
+      "show",
+      "launch",
+      "banks",
+      "era",
+      "levels",
+      "currency",
+      "banknotes",
+      "demand",
+      "changeover",
+      "Germany",
+      "area",
+      "hypothetical level",
+      "introduction",
+      "Bundesbank",
+      "effect",
+      "surge",
+      "euro banknotes",
+      "euro notes",
+      "strong growth",
+      "cash",
+      "currency changeover",
+      "national central banks",
+      "foreign demand"
+    ],
+    "book_doi": "10.1057/9781137541215",
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "references": [
+      "pub.1098730911",
+      "pub.1046953377",
+      "pub.1051324391",
+      "pub.1070145991",
+      "pub.1058574532",
+      "pub.1017822136",
+      "pub.1024785506",
+      "pub.1102238870",
+      "pub.1007724817",
+      "pub.1070324649",
+      "pub.1050541045",
+      "pub.1026550763",
+      "pub.1106601067",
+      "pub.1069651087",
+      "pub.1011480577",
+      "pub.1069623860",
+      "pub.1020368664"
+    ],
+    "reference_ids": [
+      "pub.1098730911",
+      "pub.1046953377",
+      "pub.1051324391",
+      "pub.1070145991",
+      "pub.1058574532",
+      "pub.1017822136",
+      "pub.1024785506",
+      "pub.1102238870",
+      "pub.1007724817",
+      "pub.1070324649",
+      "pub.1050541045",
+      "pub.1026550763",
+      "pub.1106601067",
+      "pub.1069651087",
+      "pub.1011480577",
+      "pub.1069623860",
+      "pub.1020368664"
+    ],
+    "dimensions_id": "pub.1021138618",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 1,
+    "field_citation_ratio": 0.76,
+    "authors": [
+      {
+        "first_name": "Janina",
+        "last_name": "Harasim",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.012533014737.18",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Janina",
+          "last_name": "Harasim",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012533014737.18",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1041633709",
+    "book_title": "Transforming Payment Systems in Europe",
+    "date": "2016-01-01",
+    "pages": "28-69",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "doi": "10.1057/9781137541215_2",
+    "title": "Europe: The Shift from Cash to Non-Cash Transactions",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "chapter",
+    "researchers": [
+      {
+        "id": "ur.012533014737.18",
+        "last_name": "Harasim",
+        "first_name": "Janina"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "cash",
+      "short history",
+      "instrument",
+      "payment",
+      "alternative",
+      "history",
+      "payment system",
+      "payment instruments"
+    ],
+    "terms": [
+      "cash",
+      "short history",
+      "instrument",
+      "payment",
+      "alternative",
+      "history",
+      "payment system",
+      "payment instruments"
+    ],
+    "book_doi": "10.1057/9781137541215",
+    "year": 2016,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "references": [
+      "pub.1023658790",
+      "pub.1068977211",
+      "pub.1070154987",
+      "pub.1112891154",
+      "pub.1019446615",
+      "pub.1058575357",
+      "pub.1109734735",
+      "pub.1109447739",
+      "pub.1102392844"
+    ],
+    "reference_ids": [
+      "pub.1023658790",
+      "pub.1068977211",
+      "pub.1070154987",
+      "pub.1112891154",
+      "pub.1019446615",
+      "pub.1058575357",
+      "pub.1109734735",
+      "pub.1109447739",
+      "pub.1102392844"
+    ],
+    "dimensions_id": "pub.1041633709",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2016-01-01",
+    "terms": [
+      "experience",
+      "exchange",
+      "market",
+      "conjure",
+      "approach",
+      "buyers",
+      "services",
+      "place",
+      "terms",
+      "goods",
+      "Michel Callon",
+      "Callon",
+      "price",
+      "demand",
+      "transactions",
+      "supply",
+      "sellers",
+      "marketplace",
+      "street markets",
+      "shopping malls",
+      "mall"
+    ],
+    "concepts": [
+      "experience",
+      "exchange",
+      "market",
+      "conjure",
+      "approach",
+      "buyers",
+      "services",
+      "place",
+      "terms",
+      "goods",
+      "Michel Callon",
+      "Callon",
+      "price",
+      "demand",
+      "transactions",
+      "supply",
+      "sellers",
+      "marketplace",
+      "street markets",
+      "shopping malls",
+      "mall"
+    ],
+    "id": "pub.1020203225",
+    "researchers": [
+      {
+        "id": "ur.07553533751.27",
+        "last_name": "Bott",
+        "first_name": "J\u00fcrgen"
+      },
+      {
+        "id": "ur.011146474751.66",
+        "last_name": "Milkau",
+        "research_orgs": [
+          "grid.7839.5"
+        ],
+        "first_name": "Udo"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1026285998",
+      "pub.1012385303",
+      "pub.1005561923",
+      "pub.1032984833",
+      "pub.1058546994",
+      "pub.1064530441",
+      "pub.1037087187",
+      "pub.1008162245",
+      "pub.1064715554",
+      "pub.1050316581",
+      "pub.1044529874",
+      "pub.1000443863",
+      "pub.1102416649",
+      "pub.1038326732",
+      "pub.1028691641",
+      "pub.1064713901",
+      "pub.1069838931"
+    ],
+    "references": [
+      "pub.1026285998",
+      "pub.1012385303",
+      "pub.1005561923",
+      "pub.1032984833",
+      "pub.1058546994",
+      "pub.1064530441",
+      "pub.1037087187",
+      "pub.1008162245",
+      "pub.1064715554",
+      "pub.1050316581",
+      "pub.1044529874",
+      "pub.1000443863",
+      "pub.1102416649",
+      "pub.1038326732",
+      "pub.1028691641",
+      "pub.1064713901",
+      "pub.1069838931"
+    ],
+    "year": 2016,
+    "category_rcdc": [
+      {
+        "id": "503",
+        "name": "Cancer"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "503",
+        "name": "Cancer"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "times_cited": 1,
+    "title": "A Market for Payments \u2014 Payment Choice in the 21st Century Digital Economy",
+    "authors": [
+      {
+        "first_name": "J\u00fcrgen",
+        "last_name": "Bott",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.07553533751.27",
+        "affiliations": []
+      },
+      {
+        "first_name": "Udo",
+        "last_name": "Milkau",
+        "orcid": "",
+        "current_organization_id": "grid.7839.5",
+        "researcher_id": "ur.011146474751.66",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "J\u00fcrgen",
+          "last_name": "Bott",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.07553533751.27",
+          "affiliations": []
+        },
+        {
+          "first_name": "Udo",
+          "last_name": "Milkau",
+          "orcid": "",
+          "current_organization_id": "grid.7839.5",
+          "researcher_id": "ur.011146474751.66",
+          "affiliations": []
+        }
+      ]
+    ],
+    "publisher": "Springer Nature",
+    "recent_citations": 1,
+    "field_citation_ratio": 0.76,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "chapter",
+    "pages": "1-27",
+    "book_doi": "10.1057/9781137541215",
+    "doi": "10.1057/9781137541215_1",
+    "book_title": "Transforming Payment Systems in Europe",
+    "dimensions_id": "pub.1020203225",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Malte",
+        "last_name": "Krueger",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Department of Business and Law, University of Applied Sciences Aschaffenburg, Wuerzburger Str. 45, D-63743 Aschaffenburg, Germany"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Malte",
+          "last_name": "Krueger",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Business and Law, University of Applied Sciences Aschaffenburg, Wuerzburger Str. 45, D-63743 Aschaffenburg, Germany"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2955272,
+        "name": "Aschaffenburg"
+      }
+    ],
+    "id": "pub.1023187328",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2015-01-01",
+    "pages": "129-154",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 0"
+    ],
+    "issn": [
+      "0948-5139",
+      "2366-035X"
+    ],
+    "publisher": "De Gruyter",
+    "doi": "10.1515/roe-2015-0202",
+    "journal": {
+      "id": "jour.1345462",
+      "title": "Review of Economics"
+    },
+    "title": "Do the Poor Pay for Card Rewards of the Rich?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "linkout": "http://www.rome-net.org/RePEc/rmn/wpaper/rome-wp-2014-08.pdf",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "cash users",
+      "holder",
+      "product differentiation",
+      "fee",
+      "distribution effects",
+      "article",
+      "price",
+      "effect",
+      "reward",
+      "net transfer",
+      "cards",
+      "card payment system",
+      "higher retail prices",
+      "argument",
+      "users",
+      "model",
+      "card-holder",
+      "payment system",
+      "retail price",
+      "card holders",
+      "card users"
+    ],
+    "terms": [
+      "cash users",
+      "holder",
+      "product differentiation",
+      "fee",
+      "distribution effects",
+      "article",
+      "price",
+      "effect",
+      "reward",
+      "net transfer",
+      "cards",
+      "card payment system",
+      "higher retail prices",
+      "argument",
+      "users",
+      "model",
+      "card-holder",
+      "payment system",
+      "retail price",
+      "card holders",
+      "card users"
+    ],
+    "year": 2015,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "references": [
+      "pub.1035419797"
+    ],
+    "reference_ids": [
+      "pub.1035419797"
+    ],
+    "research_org_state_names": [
+      "Bavaria"
+    ],
+    "volume": "66",
+    "issue": "2",
+    "dimensions_id": "pub.1023187328",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "recent_citations": 2,
+    "research_org_state_names": [
+      "Ontario"
+    ],
+    "title": "WHY IS CASH (STILL) SO ENTRENCHED? INSIGHTS FROM CANADIAN SHOPPING DIARIES",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.450504.0",
+        "name": "Bank of Canada",
+        "country_name": "Canada"
+      }
+    ],
+    "id": "pub.1052431826",
+    "journal": {
+      "id": "jour.1027076",
+      "title": "Contemporary Economic Policy"
+    },
+    "researchers": [
+      {
+        "id": "ur.012537325227.50",
+        "last_name": "Arango",
+        "orcid_id": [
+          "0000-0002-2943-6479"
+        ],
+        "research_orgs": [
+          "grid.450504.0"
+        ],
+        "first_name": "Carlos A"
+      }
+    ],
+    "research_org_country_names": [
+      "Canada"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "publisher": "Wiley",
+    "issn": [
+      "1074-3529",
+      "1465-7287"
+    ],
+    "pages": "141-158",
+    "field_citation_ratio": 6.41,
+    "authors": [
+      {
+        "first_name": "Carlos A.",
+        "last_name": "Arango",
+        "orcid": "['0000-0002-2943-6479']",
+        "current_organization_id": "grid.450504.0",
+        "researcher_id": "ur.012537325227.50",
+        "affiliations": [
+          {
+            "id": "grid.450504.0",
+            "name": "Bank of Canada",
+            "city": "Ottawa",
+            "city_id": 6094817,
+            "country": "Canada",
+            "country_code": "CA",
+            "state": "Ontario",
+            "state_code": "CA-ON"
+          }
+        ]
+      },
+      {
+        "first_name": "Dylan",
+        "last_name": "Hogg",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.450504.0",
+            "name": "Bank of Canada",
+            "city": "Ottawa",
+            "city_id": 6094817,
+            "country": "Canada",
+            "country_code": "CA",
+            "state": "Ontario",
+            "state_code": "CA-ON"
+          }
+        ]
+      },
+      {
+        "first_name": "Alyssa",
+        "last_name": "Lee",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.450504.0",
+            "name": "Bank of Canada",
+            "city": "Ottawa",
+            "city_id": 6094817,
+            "country": "Canada",
+            "country_code": "CA",
+            "state": "Ontario",
+            "state_code": "CA-ON"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Carlos A.",
+          "last_name": "Arango",
+          "orcid": "['0000-0002-2943-6479']",
+          "current_organization_id": "grid.450504.0",
+          "researcher_id": "ur.012537325227.50",
+          "affiliations": [
+            {
+              "id": "grid.450504.0",
+              "name": "Bank of Canada",
+              "city": "Ottawa",
+              "city_id": 6094817,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "Dylan",
+          "last_name": "Hogg",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.450504.0",
+              "name": "Bank of Canada",
+              "city": "Ottawa",
+              "city_id": 6094817,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "Alyssa",
+          "last_name": "Lee",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.450504.0",
+              "name": "Bank of Canada",
+              "city": "Ottawa",
+              "city_id": 6094817,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 6094817,
+        "name": "Ottawa"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2015-01-01",
+    "reference_ids": [
+      "pub.1070192756",
+      "pub.1011385289",
+      "pub.1044529874",
+      "pub.1035090283",
+      "pub.1017822136",
+      "pub.1004545102",
+      "pub.1019769132",
+      "pub.1042478594",
+      "pub.1026596380",
+      "pub.1043372004",
+      "pub.1005550208",
+      "pub.1035337527",
+      "pub.1069688360",
+      "pub.1058637949",
+      "pub.1014054157",
+      "pub.1021949176",
+      "pub.1000771156",
+      "pub.1040286988",
+      "pub.1098708499",
+      "pub.1058574599",
+      "pub.1069688729",
+      "pub.1004587802",
+      "pub.1110073612"
+    ],
+    "references": [
+      "pub.1070192756",
+      "pub.1011385289",
+      "pub.1044529874",
+      "pub.1035090283",
+      "pub.1017822136",
+      "pub.1004545102",
+      "pub.1019769132",
+      "pub.1042478594",
+      "pub.1026596380",
+      "pub.1043372004",
+      "pub.1005550208",
+      "pub.1035337527",
+      "pub.1069688360",
+      "pub.1058637949",
+      "pub.1014054157",
+      "pub.1021949176",
+      "pub.1000771156",
+      "pub.1040286988",
+      "pub.1098708499",
+      "pub.1058574599",
+      "pub.1069688729",
+      "pub.1004587802",
+      "pub.1110073612"
+    ],
+    "doi": "10.1111/coep.12066",
+    "year": 2015,
+    "type": "article",
+    "volume": "33",
+    "times_cited": 10,
+    "terms": [
+      "low marginal cost",
+      "shopping diaries",
+      "information",
+      "payment",
+      "merchants",
+      "JEL E41",
+      "choice",
+      "retail payments",
+      "survey",
+      "L81",
+      "hand",
+      "E41",
+      "Canada",
+      "instrument",
+      "low-value transactions",
+      "electronic payments",
+      "payment method",
+      "payment frequency",
+      "banks",
+      "alternative",
+      "terms",
+      "simple model",
+      "wide acceptance",
+      "cost",
+      "value transactions",
+      "economy",
+      "transactions",
+      "payment choice",
+      "model",
+      "use",
+      "payment instruments",
+      "cash",
+      "acceptance",
+      "marginal cost",
+      "D12",
+      "Consumer Payment Choice"
+    ],
+    "concepts": [
+      "low marginal cost",
+      "shopping diaries",
+      "information",
+      "payment",
+      "merchants",
+      "JEL E41",
+      "choice",
+      "retail payments",
+      "survey",
+      "L81",
+      "hand",
+      "E41",
+      "Canada",
+      "instrument",
+      "low-value transactions",
+      "electronic payments",
+      "payment method",
+      "payment frequency",
+      "banks",
+      "alternative",
+      "terms",
+      "simple model",
+      "wide acceptance",
+      "cost",
+      "value transactions",
+      "economy",
+      "transactions",
+      "payment choice",
+      "model",
+      "use",
+      "payment instruments",
+      "cash",
+      "acceptance",
+      "marginal cost",
+      "D12",
+      "Consumer Payment Choice"
+    ],
+    "issue": "1",
+    "research_org_countries": [
+      {
+        "id": "CA",
+        "name": "Canada"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_state_codes": [
+      {
+        "id": "CA-ON",
+        "name": "Ontario"
+      }
+    ],
+    "dimensions_id": "pub.1052431826",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 14,
+    "field_citation_ratio": 7.61,
+    "authors": [
+      {
+        "first_name": "ULF",
+        "last_name": "VON KALCKREUTH",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.015266055357.94",
+        "affiliations": []
+      },
+      {
+        "first_name": "TOBIAS",
+        "last_name": "SCHMIDT",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.016661016357.10",
+        "affiliations": []
+      },
+      {
+        "first_name": "HELMUT",
+        "last_name": "STIX",
+        "orcid": "",
+        "current_organization_id": "grid.453120.1",
+        "researcher_id": "ur.015252711136.42",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "ULF",
+          "last_name": "VON KALCKREUTH",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.015266055357.94",
+          "affiliations": []
+        },
+        {
+          "first_name": "TOBIAS",
+          "last_name": "SCHMIDT",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.016661016357.10",
+          "affiliations": []
+        },
+        {
+          "first_name": "HELMUT",
+          "last_name": "STIX",
+          "orcid": "",
+          "current_organization_id": "grid.453120.1",
+          "researcher_id": "ur.015252711136.42",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1041481908",
+    "date": "2014-12-01",
+    "pages": "1753-1786",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_pub",
+        "name": "Green, Published",
+        "description": "Free copy of published version in an OA repository"
+      }
+    ],
+    "recent_citations": 6,
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0022-2879",
+      "1538-4616"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1111/jmcb.12165",
+    "journal": {
+      "id": "jour.1043489",
+      "title": "Journal of money credit and banking"
+    },
+    "title": "Using Cash to Monitor Liquidity: Implications for Payments, Currency Demand, and Withdrawal Behavior",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.015266055357.94",
+        "last_name": "Von Kalckreuth",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Ulf"
+      },
+      {
+        "id": "ur.016661016357.10",
+        "last_name": "Schmidt",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Tobias"
+      },
+      {
+        "id": "ur.015252711136.42",
+        "last_name": "Stix",
+        "research_orgs": [
+          "grid.453120.1"
+        ],
+        "first_name": "Helmut"
+      }
+    ],
+    "linkout": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecbwp1385.pdf",
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "survey data",
+      "payment",
+      "consumers",
+      "one's pocket",
+      "distinctive features",
+      "instrument",
+      "glance",
+      "cash",
+      "expense",
+      "utility",
+      "budget",
+      "payment instruments",
+      "liquidity",
+      "broad diffusion",
+      "explanation",
+      "cost",
+      "balance",
+      "paper",
+      "transactions",
+      "data",
+      "cash balances"
+    ],
+    "terms": [
+      "survey data",
+      "payment",
+      "consumers",
+      "one's pocket",
+      "distinctive features",
+      "instrument",
+      "glance",
+      "cash",
+      "expense",
+      "utility",
+      "budget",
+      "payment instruments",
+      "liquidity",
+      "broad diffusion",
+      "explanation",
+      "cost",
+      "balance",
+      "paper",
+      "transactions",
+      "data",
+      "cash balances"
+    ],
+    "year": 2014,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - published"
+    ],
+    "references": [
+      "pub.1046215258",
+      "pub.1058622803",
+      "pub.1020632720",
+      "pub.1047725749",
+      "pub.1032622858",
+      "pub.1047024917",
+      "pub.1069623860",
+      "pub.1026596380",
+      "pub.1004587802",
+      "pub.1058606006",
+      "pub.1035337527",
+      "pub.1043372004",
+      "pub.1042478594",
+      "pub.1069651087",
+      "pub.1058637949",
+      "pub.1027638224",
+      "pub.1038371960",
+      "pub.1039359953",
+      "pub.1069688729",
+      "pub.1009504907",
+      "pub.1102233083",
+      "pub.1102250833",
+      "pub.1064717528",
+      "pub.1060013122"
+    ],
+    "reference_ids": [
+      "pub.1046215258",
+      "pub.1058622803",
+      "pub.1020632720",
+      "pub.1047725749",
+      "pub.1032622858",
+      "pub.1047024917",
+      "pub.1069623860",
+      "pub.1026596380",
+      "pub.1004587802",
+      "pub.1058606006",
+      "pub.1035337527",
+      "pub.1043372004",
+      "pub.1042478594",
+      "pub.1069651087",
+      "pub.1058637949",
+      "pub.1027638224",
+      "pub.1038371960",
+      "pub.1039359953",
+      "pub.1069688729",
+      "pub.1009504907",
+      "pub.1102233083",
+      "pub.1102250833",
+      "pub.1064717528",
+      "pub.1060013122"
+    ],
+    "volume": "46",
+    "issue": "8",
+    "dimensions_id": "pub.1041481908",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2014-05-01",
+    "research_orgs": [
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.453120.1",
+        "acronym": "OeNB ",
+        "name": "National Bank of Austria",
+        "country_name": "Austria"
+      }
+    ],
+    "journal": {
+      "id": "jour.1027901",
+      "title": "Empirical Economics"
+    },
+    "terms": [
+      "payment cards",
+      "relative costs",
+      "individuals",
+      "usage",
+      "payment technologies",
+      "transaction characteristics",
+      "older consumers",
+      "ownership",
+      "making",
+      "young consumers",
+      "number",
+      "transactions",
+      "cost",
+      "information",
+      "use",
+      "dataset",
+      "empirical framework",
+      "consumers",
+      "payment transactions",
+      "survey data",
+      "cash",
+      "socio-demographic characteristics",
+      "behavior",
+      "German consumers",
+      "payment",
+      "slow adoption",
+      "more cash",
+      "role",
+      "card usage",
+      "economic decision making",
+      "German",
+      "payment behavior",
+      "characteristics",
+      "two-stage",
+      "data",
+      "demographic characteristics",
+      "cards",
+      "technology",
+      "card ownership",
+      "terms",
+      "payment media",
+      "new payment technology",
+      "decision making",
+      "values",
+      "adoption",
+      "framework",
+      "cash usage",
+      "transaction information"
+    ],
+    "concepts": [
+      "payment cards",
+      "relative costs",
+      "individuals",
+      "usage",
+      "payment technologies",
+      "transaction characteristics",
+      "older consumers",
+      "ownership",
+      "making",
+      "young consumers",
+      "number",
+      "transactions",
+      "cost",
+      "information",
+      "use",
+      "dataset",
+      "empirical framework",
+      "consumers",
+      "payment transactions",
+      "survey data",
+      "cash",
+      "socio-demographic characteristics",
+      "behavior",
+      "German consumers",
+      "payment",
+      "slow adoption",
+      "more cash",
+      "role",
+      "card usage",
+      "economic decision making",
+      "German",
+      "payment behavior",
+      "characteristics",
+      "two-stage",
+      "data",
+      "demographic characteristics",
+      "cards",
+      "technology",
+      "card ownership",
+      "terms",
+      "payment media",
+      "new payment technology",
+      "decision making",
+      "values",
+      "adoption",
+      "framework",
+      "cash usage",
+      "transaction information"
+    ],
+    "id": "pub.1020632720",
+    "issn": [
+      "0377-7332",
+      "1435-8921"
+    ],
+    "researchers": [
+      {
+        "id": "ur.015266055357.94",
+        "last_name": "Von Kalckreuth",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Ulf"
+      },
+      {
+        "id": "ur.016661016357.10",
+        "last_name": "Schmidt",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Tobias"
+      },
+      {
+        "id": "ur.015252711136.42",
+        "last_name": "Stix",
+        "research_orgs": [
+          "grid.453120.1"
+        ],
+        "first_name": "Helmut"
+      }
+    ],
+    "research_org_country_names": [
+      "Austria",
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_pub",
+        "name": "Green, Published",
+        "description": "Free copy of published version in an OA repository"
+      }
+    ],
+    "reference_ids": [
+      "pub.1069623860",
+      "pub.1102199292",
+      "pub.1047725749",
+      "pub.1032622858",
+      "pub.1069740870",
+      "pub.1033322408",
+      "pub.1035090283",
+      "pub.1064198938",
+      "pub.1014054157",
+      "pub.1026596380",
+      "pub.1072843811",
+      "pub.1070053500",
+      "pub.1058637949",
+      "pub.1006676708",
+      "pub.1042478594",
+      "pub.1069651087",
+      "pub.1004545102",
+      "pub.1102232375",
+      "pub.1047841409",
+      "pub.1004587802",
+      "pub.1038371960",
+      "pub.1000651184",
+      "pub.1040286988",
+      "pub.1102220401",
+      "pub.1069688729",
+      "pub.1043372004"
+    ],
+    "references": [
+      "pub.1069623860",
+      "pub.1102199292",
+      "pub.1047725749",
+      "pub.1032622858",
+      "pub.1069740870",
+      "pub.1033322408",
+      "pub.1035090283",
+      "pub.1064198938",
+      "pub.1014054157",
+      "pub.1026596380",
+      "pub.1072843811",
+      "pub.1070053500",
+      "pub.1058637949",
+      "pub.1006676708",
+      "pub.1042478594",
+      "pub.1069651087",
+      "pub.1004545102",
+      "pub.1102232375",
+      "pub.1047841409",
+      "pub.1004587802",
+      "pub.1038371960",
+      "pub.1000651184",
+      "pub.1040286988",
+      "pub.1102220401",
+      "pub.1069688729",
+      "pub.1043372004"
+    ],
+    "year": 2014,
+    "category_rcdc": [
+      {
+        "id": "295",
+        "name": "Aging"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "295",
+        "name": "Aging"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "AT",
+        "name": "Austria"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "46",
+    "times_cited": 11,
+    "title": "Choosing and using payment instruments: evidence from German microdata",
+    "authors": [
+      {
+        "first_name": "Ulf",
+        "last_name": "von Kalckreuth",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.015266055357.94",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Tobias",
+        "last_name": "Schmidt",
+        "orcid": "",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.016661016357.10",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Helmut",
+        "last_name": "Stix",
+        "orcid": "",
+        "current_organization_id": "grid.453120.1",
+        "researcher_id": "ur.015252711136.42",
+        "affiliations": [
+          {
+            "id": "grid.453120.1",
+            "name": "National Bank of Austria",
+            "city": "Vienna",
+            "city_id": 2761369,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Ulf",
+          "last_name": "von Kalckreuth",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.015266055357.94",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Tobias",
+          "last_name": "Schmidt",
+          "orcid": "",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.016661016357.10",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Helmut",
+          "last_name": "Stix",
+          "orcid": "",
+          "current_organization_id": "grid.453120.1",
+          "researcher_id": "ur.015252711136.42",
+          "affiliations": [
+            {
+              "id": "grid.453120.1",
+              "name": "National Bank of Austria",
+              "city": "Vienna",
+              "city_id": 2761369,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2761369,
+        "name": "Vienna"
+      },
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.econstor.eu/bitstream/10419/153578/1/ecbwp1144.pdf",
+    "publisher": "Springer Nature",
+    "issue": "3",
+    "recent_citations": 4,
+    "field_citation_ratio": 5.98,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "1019-1055",
+    "doi": "10.1007/s00181-013-0708-3",
+    "dimensions_id": "pub.1020632720",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2013-12-01",
+    "research_orgs": [
+      {
+        "id": "grid.18098.38",
+        "name": "University of Haifa",
+        "country_name": "Israel"
+      },
+      {
+        "id": "grid.254880.3",
+        "name": "Dartmouth College",
+        "country_name": "United States"
+      }
+    ],
+    "journal": {
+      "id": "jour.1027784",
+      "title": "Journal of Economic Dynamics and Control"
+    },
+    "terms": [
+      "cost",
+      "demand",
+      "consumption",
+      "money",
+      "volatility",
+      "money management",
+      "evidence",
+      "consumption processes",
+      "period",
+      "empirical evidence",
+      "rate",
+      "management",
+      "position",
+      "literature",
+      "cash position",
+      "constant rate",
+      "assumption",
+      "period consumption",
+      "total consumption"
+    ],
+    "concepts": [
+      "cost",
+      "demand",
+      "consumption",
+      "money",
+      "volatility",
+      "money management",
+      "evidence",
+      "consumption processes",
+      "period",
+      "empirical evidence",
+      "rate",
+      "management",
+      "position",
+      "literature",
+      "cash position",
+      "constant rate",
+      "assumption",
+      "period consumption",
+      "total consumption"
+    ],
+    "id": "pub.1005550208",
+    "issn": [
+      "0165-1889",
+      "1879-1743"
+    ],
+    "researchers": [
+      {
+        "id": "ur.011676505342.54",
+        "last_name": "Bar-Ilan",
+        "research_orgs": [
+          "grid.12136.37",
+          "grid.18098.38"
+        ],
+        "first_name": "Avner"
+      },
+      {
+        "id": "ur.010143614617.32",
+        "last_name": "Marion",
+        "research_orgs": [
+          "grid.254880.3"
+        ],
+        "first_name": "Nancy Peregrim"
+      }
+    ],
+    "research_org_country_names": [
+      "United States",
+      "Israel"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1069651087",
+      "pub.1064524046",
+      "pub.1037465846",
+      "pub.1069626351",
+      "pub.1064531965",
+      "pub.1058637949",
+      "pub.1014486329",
+      "pub.1049945989",
+      "pub.1038371960",
+      "pub.1032622858",
+      "pub.1064391785",
+      "pub.1043372004",
+      "pub.1064728920",
+      "pub.1037229373",
+      "pub.1069623860",
+      "pub.1024192703",
+      "pub.1017822136",
+      "pub.1064527492",
+      "pub.1064731356",
+      "pub.1058622118",
+      "pub.1023028019",
+      "pub.1042614667",
+      "pub.1064441650",
+      "pub.1070020945"
+    ],
+    "references": [
+      "pub.1069651087",
+      "pub.1064524046",
+      "pub.1037465846",
+      "pub.1069626351",
+      "pub.1064531965",
+      "pub.1058637949",
+      "pub.1014486329",
+      "pub.1049945989",
+      "pub.1038371960",
+      "pub.1032622858",
+      "pub.1064391785",
+      "pub.1043372004",
+      "pub.1064728920",
+      "pub.1037229373",
+      "pub.1069623860",
+      "pub.1024192703",
+      "pub.1017822136",
+      "pub.1064527492",
+      "pub.1064731356",
+      "pub.1058622118",
+      "pub.1023028019",
+      "pub.1042614667",
+      "pub.1064441650",
+      "pub.1070020945"
+    ],
+    "year": 2013,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "IL",
+        "name": "Israel"
+      },
+      {
+        "id": "US",
+        "name": "United States"
+      }
+    ],
+    "date_inserted": "2017-08-31",
+    "volume": "37",
+    "times_cited": 4,
+    "title": "Demand for cash with intra-period endogenous consumption",
+    "authors": [
+      {
+        "first_name": "Avner",
+        "last_name": "Bar-Ilan",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.011676505342.54",
+        "affiliations": [
+          {
+            "id": "grid.18098.38",
+            "name": "University of Haifa",
+            "city": "Haifa",
+            "city_id": 294801,
+            "country": "Israel",
+            "country_code": "IL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Nancy",
+        "last_name": "Marion",
+        "orcid": "",
+        "current_organization_id": "grid.254880.3",
+        "researcher_id": "ur.010143614617.32",
+        "affiliations": [
+          {
+            "id": "grid.254880.3",
+            "name": "Dartmouth College",
+            "city": "Hanover",
+            "city_id": 5087168,
+            "country": "United States",
+            "country_code": "US",
+            "state": "New Hampshire",
+            "state_code": "US-NH"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Avner",
+          "last_name": "Bar-Ilan",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.011676505342.54",
+          "affiliations": [
+            {
+              "id": "grid.18098.38",
+              "name": "University of Haifa",
+              "city": "Haifa",
+              "city_id": 294801,
+              "country": "Israel",
+              "country_code": "IL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Nancy",
+          "last_name": "Marion",
+          "orcid": "",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.010143614617.32",
+          "affiliations": [
+            {
+              "id": "grid.254880.3",
+              "name": "Dartmouth College",
+              "city": "Hanover",
+              "city_id": 5087168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 5087168,
+        "name": "Hanover"
+      },
+      {
+        "id": 294801,
+        "name": "Haifa"
+      }
+    ],
+    "publisher": "Elsevier",
+    "research_org_state_names": [
+      "New Hampshire"
+    ],
+    "issue": "12",
+    "recent_citations": 1,
+    "field_citation_ratio": 2.12,
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "2668-2678",
+    "research_org_state_codes": [
+      {
+        "id": "US-NH",
+        "name": "New Hampshire"
+      }
+    ],
+    "doi": "10.1016/j.jedc.2013.06.013",
+    "dimensions_id": "pub.1005550208",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "RCDC": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "category_rcdc": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "recent_citations": 3,
+    "title": "Choosing how to pay: The influence of foreign backgrounds",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.459463.9",
+        "acronym": "DNB",
+        "name": "De Nederlandsche Bank",
+        "country_name": "Netherlands"
+      }
+    ],
+    "id": "pub.1000718017",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "researchers": [
+      {
+        "id": "ur.016127156443.05",
+        "last_name": "Kosse",
+        "research_orgs": [
+          "grid.459463.9"
+        ],
+        "first_name": "Anneke"
+      },
+      {
+        "id": "ur.016225012566.78",
+        "last_name": "Jansen",
+        "research_orgs": [
+          "grid.459463.9"
+        ],
+        "first_name": "David-Jan"
+      }
+    ],
+    "research_org_country_names": [
+      "Netherlands"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "pages": "989-998",
+    "field_citation_ratio": 5.29,
+    "authors": [
+      {
+        "first_name": "Anneke",
+        "last_name": "Kosse",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.016127156443.05",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "David-Jan",
+        "last_name": "Jansen",
+        "orcid": "",
+        "current_organization_id": "grid.459463.9",
+        "researcher_id": "ur.016225012566.78",
+        "affiliations": [
+          {
+            "id": "grid.459463.9",
+            "name": "De Nederlandsche Bank",
+            "city": "Amsterdam",
+            "city_id": 2759794,
+            "country": "Netherlands",
+            "country_code": "NL",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Anneke",
+          "last_name": "Kosse",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016127156443.05",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "David-Jan",
+          "last_name": "Jansen",
+          "orcid": "",
+          "current_organization_id": "grid.459463.9",
+          "researcher_id": "ur.016225012566.78",
+          "affiliations": [
+            {
+              "id": "grid.459463.9",
+              "name": "De Nederlandsche Bank",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2759794,
+        "name": "Amsterdam"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2013-03-01",
+    "reference_ids": [
+      "pub.1035337527",
+      "pub.1026596380",
+      "pub.1050541045",
+      "pub.1000579268",
+      "pub.1016434866",
+      "pub.1040286988",
+      "pub.1047024917",
+      "pub.1004587802",
+      "pub.1069740867",
+      "pub.1006676708",
+      "pub.1014054157",
+      "pub.1060065016",
+      "pub.1009801379",
+      "pub.1042478594"
+    ],
+    "references": [
+      "pub.1035337527",
+      "pub.1026596380",
+      "pub.1050541045",
+      "pub.1000579268",
+      "pub.1016434866",
+      "pub.1040286988",
+      "pub.1047024917",
+      "pub.1004587802",
+      "pub.1069740867",
+      "pub.1006676708",
+      "pub.1014054157",
+      "pub.1060065016",
+      "pub.1009801379",
+      "pub.1042478594"
+    ],
+    "doi": "10.1016/j.jbankfin.2012.11.005",
+    "year": 2013,
+    "type": "article",
+    "volume": "37",
+    "times_cited": 10,
+    "terms": [
+      "instrument",
+      "choice",
+      "generation migrants",
+      "findings",
+      "habits",
+      "BACKGROUND",
+      "individuals",
+      "second-generation migrants",
+      "information campaigns",
+      "Netherlands",
+      "factors",
+      "migrants",
+      "foreign background",
+      "purchase",
+      "relevant factors",
+      "benefits",
+      "participants",
+      "diary survey",
+      "question",
+      "survey",
+      "countries",
+      "migration",
+      "evidence"
+    ],
+    "concepts": [
+      "instrument",
+      "choice",
+      "generation migrants",
+      "findings",
+      "habits",
+      "BACKGROUND",
+      "individuals",
+      "second-generation migrants",
+      "information campaigns",
+      "Netherlands",
+      "factors",
+      "migrants",
+      "foreign background",
+      "purchase",
+      "relevant factors",
+      "benefits",
+      "participants",
+      "diary survey",
+      "question",
+      "survey",
+      "countries",
+      "migration",
+      "evidence"
+    ],
+    "issue": "3",
+    "research_org_countries": [
+      {
+        "id": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1000718017",
+    "related_dataset_name": "Payment behaviour in Germany",
+    "related_dataset": "dataset-894fc43e63e736b2d0af",
+    "linkage_source": "dataset_stringsearch"
+  }
+]

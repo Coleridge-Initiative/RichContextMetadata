@@ -1,0 +1,6983 @@
+[
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "date": "2019-11-01",
+    "research_orgs": [
+      {
+        "id": "grid.5110.5",
+        "name": "University of Graz",
+        "country_name": "Austria"
+      }
+    ],
+    "journal": {
+      "id": "jour.1145473",
+      "title": "Energy Strategy Reviews"
+    },
+    "terms": [
+      "Europe",
+      "investor perceptions",
+      "transition costs",
+      "regulation",
+      "effect",
+      "energy sector",
+      "transition analysis",
+      "macroprudential regulation",
+      "fundamental determinants",
+      "relevance",
+      "expectations",
+      "context",
+      "society",
+      "WACC",
+      "macroeconomic outcomes",
+      "determinants",
+      "SETTING",
+      "benefits",
+      "sector",
+      "effective lever",
+      "perception",
+      "literature",
+      "different policy settings",
+      "risk",
+      "lever",
+      "trust",
+      "climate targets",
+      "climate change",
+      "neutrality",
+      "policy settings",
+      "capital",
+      "outcomes",
+      "average cost",
+      "sector transition",
+      "analysis",
+      "technology",
+      "assets",
+      "pricing",
+      "macroeconomic effects",
+      "move",
+      "changes",
+      "developed regions",
+      "renewables",
+      "macroeconomic costs",
+      "macroeconomic benefits",
+      "weighted average cost",
+      "cost"
+    ],
+    "concepts": [
+      "Europe",
+      "investor perceptions",
+      "transition costs",
+      "regulation",
+      "effect",
+      "energy sector",
+      "transition analysis",
+      "macroprudential regulation",
+      "fundamental determinants",
+      "relevance",
+      "expectations",
+      "context",
+      "society",
+      "WACC",
+      "macroeconomic outcomes",
+      "determinants",
+      "SETTING",
+      "benefits",
+      "sector",
+      "effective lever",
+      "perception",
+      "literature",
+      "different policy settings",
+      "risk",
+      "lever",
+      "trust",
+      "climate targets",
+      "climate change",
+      "neutrality",
+      "policy settings",
+      "capital",
+      "outcomes",
+      "average cost",
+      "sector transition",
+      "analysis",
+      "technology",
+      "assets",
+      "pricing",
+      "macroeconomic effects",
+      "move",
+      "changes",
+      "developed regions",
+      "renewables",
+      "macroeconomic costs",
+      "macroeconomic benefits",
+      "weighted average cost",
+      "cost"
+    ],
+    "id": "pub.1117825957",
+    "issn": [
+      "2211-467X",
+      "2211-4688"
+    ],
+    "research_org_country_names": [
+      "Austria"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1023404950",
+      "pub.1041823704",
+      "pub.1041724475",
+      "pub.1110953941",
+      "pub.1092636548",
+      "pub.1047689866",
+      "pub.1110558027",
+      "pub.1086202899",
+      "pub.1045986513",
+      "pub.1027456744",
+      "pub.1107912942",
+      "pub.1019500290",
+      "pub.1085564277",
+      "pub.1109911399",
+      "pub.1107991018",
+      "pub.1072972612",
+      "pub.1048080116",
+      "pub.1111251863",
+      "pub.1092176128",
+      "pub.1014959989",
+      "pub.1069121407",
+      "pub.1040298845",
+      "pub.1041122844",
+      "pub.1072974603",
+      "pub.1048397618",
+      "pub.1061062041",
+      "pub.1032294056",
+      "pub.1007763841",
+      "pub.1045800272",
+      "pub.1043241648",
+      "pub.1101147036",
+      "pub.1051548975",
+      "pub.1039699424",
+      "pub.1084001210",
+      "pub.1037888985",
+      "pub.1112390310",
+      "pub.1043515455",
+      "pub.1020513476",
+      "pub.1037069582",
+      "pub.1013901503",
+      "pub.1038204090",
+      "pub.1104336733",
+      "pub.1032805486",
+      "pub.1100657980",
+      "pub.1107079428",
+      "pub.1110908988",
+      "pub.1084221194",
+      "pub.1034232149",
+      "pub.1038785945",
+      "pub.1024231217",
+      "pub.1006486511",
+      "pub.1026111832",
+      "pub.1034408377",
+      "pub.1108054550",
+      "pub.1107151993",
+      "pub.1050819965",
+      "pub.1052418962",
+      "pub.1020982998"
+    ],
+    "references": [
+      "pub.1023404950",
+      "pub.1041823704",
+      "pub.1041724475",
+      "pub.1110953941",
+      "pub.1092636548",
+      "pub.1047689866",
+      "pub.1110558027",
+      "pub.1086202899",
+      "pub.1045986513",
+      "pub.1027456744",
+      "pub.1107912942",
+      "pub.1019500290",
+      "pub.1085564277",
+      "pub.1109911399",
+      "pub.1107991018",
+      "pub.1072972612",
+      "pub.1048080116",
+      "pub.1111251863",
+      "pub.1092176128",
+      "pub.1014959989",
+      "pub.1069121407",
+      "pub.1040298845",
+      "pub.1041122844",
+      "pub.1072974603",
+      "pub.1048397618",
+      "pub.1061062041",
+      "pub.1032294056",
+      "pub.1007763841",
+      "pub.1045800272",
+      "pub.1043241648",
+      "pub.1101147036",
+      "pub.1051548975",
+      "pub.1039699424",
+      "pub.1084001210",
+      "pub.1037888985",
+      "pub.1112390310",
+      "pub.1043515455",
+      "pub.1020513476",
+      "pub.1037069582",
+      "pub.1013901503",
+      "pub.1038204090",
+      "pub.1104336733",
+      "pub.1032805486",
+      "pub.1100657980",
+      "pub.1107079428",
+      "pub.1110908988",
+      "pub.1084221194",
+      "pub.1034232149",
+      "pub.1038785945",
+      "pub.1024231217",
+      "pub.1006486511",
+      "pub.1026111832",
+      "pub.1034408377",
+      "pub.1108054550",
+      "pub.1107151993",
+      "pub.1050819965",
+      "pub.1052418962",
+      "pub.1020982998"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "AT",
+        "name": "Austria"
+      }
+    ],
+    "date_inserted": "2019-07-10",
+    "volume": "26",
+    "title": "Costs or benefits? Assessing the economy-wide effects of the electricity sector's low carbon transition \u2013 The role of capital costs, divergent risk perceptions and premiums",
+    "authors": [
+      {
+        "first_name": "Gabriel",
+        "last_name": "Bachner",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.5110.5",
+            "name": "University of Graz",
+            "city": "Graz",
+            "city_id": 2778067,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Jakob",
+        "last_name": "Mayer",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.5110.5",
+            "name": "University of Graz",
+            "city": "Graz",
+            "city_id": 2778067,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Karl W.",
+        "last_name": "Steininger",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.5110.5",
+            "name": "University of Graz",
+            "city": "Graz",
+            "city_id": 2778067,
+            "country": "Austria",
+            "country_code": "AT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Gabriel",
+          "last_name": "Bachner",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.5110.5",
+              "name": "University of Graz",
+              "city": "Graz",
+              "city_id": 2778067,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Jakob",
+          "last_name": "Mayer",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.5110.5",
+              "name": "University of Graz",
+              "city": "Graz",
+              "city_id": 2778067,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Karl W.",
+          "last_name": "Steininger",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.5110.5",
+              "name": "University of Graz",
+              "city": "Graz",
+              "city_id": 2778067,
+              "country": "Austria",
+              "country_code": "AT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2778067,
+        "name": "Graz"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.270680.b",
+        "acronym": "EC",
+        "name": "European Commission",
+        "country_name": "Belgium"
+      }
+    ],
+    "publisher": "Elsevier",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1"
+    ],
+    "type": "article",
+    "pages": "100373",
+    "doi": "10.1016/j.esr.2019.100373",
+    "supporting_grant_ids": [
+      "grant.7506227",
+      "grant.4057161"
+    ],
+    "dimensions_id": "pub.1117825957",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-09-01",
+    "research_orgs": [
+      {
+        "id": "grid.469877.3",
+        "name": "Ifo Institute for Economic Research",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.5252.0",
+        "acronym": "LMU",
+        "name": "Ludwig Maximilian University of Munich",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.434949.7",
+        "acronym": "HM",
+        "name": "Munich University of Applied Sciences",
+        "country_name": "Germany"
+      }
+    ],
+    "journal": {
+      "id": "jour.1027901",
+      "title": "Empirical Economics"
+    },
+    "terms": [
+      "interest rates",
+      "model",
+      "financial crisis",
+      "crisis",
+      "policy rate",
+      "mid-2008",
+      "stable relationship",
+      "attempt",
+      "rate",
+      "government bond rates",
+      "bond",
+      "monetary policy transmission",
+      "policy transmission",
+      "paper",
+      "periphery countries",
+      "bond rate",
+      "sovereign bonds",
+      "relationship",
+      "link",
+      "changes",
+      "autoregressive model",
+      "measures",
+      "lending rates",
+      "bank lending rates",
+      "countries",
+      "unconventional measures"
+    ],
+    "concepts": [
+      "interest rates",
+      "model",
+      "financial crisis",
+      "crisis",
+      "policy rate",
+      "mid-2008",
+      "stable relationship",
+      "attempt",
+      "rate",
+      "government bond rates",
+      "bond",
+      "monetary policy transmission",
+      "policy transmission",
+      "paper",
+      "periphery countries",
+      "bond rate",
+      "sovereign bonds",
+      "relationship",
+      "link",
+      "changes",
+      "autoregressive model",
+      "measures",
+      "lending rates",
+      "bank lending rates",
+      "countries",
+      "unconventional measures"
+    ],
+    "id": "pub.1104329429",
+    "issn": [
+      "0377-7332",
+      "1435-8921"
+    ],
+    "researchers": [
+      {
+        "id": "ur.010446133321.33",
+        "last_name": "Hristov",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.5252.0"
+        ],
+        "first_name": "Nikolay"
+      },
+      {
+        "id": "ur.010154471763.50",
+        "last_name": "H\u00fclsewig",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.5252.0",
+          "grid.434949.7"
+        ],
+        "first_name": "Oliver"
+      },
+      {
+        "id": "ur.012041074321.04",
+        "last_name": "Wollmersh\u00e4user",
+        "research_orgs": [
+          "grid.469877.3",
+          "grid.8379.5",
+          "grid.8465.f",
+          "grid.5252.0",
+          "grid.1957.a"
+        ],
+        "first_name": "Timo"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1027066962",
+      "pub.1016714061",
+      "pub.1022719037",
+      "pub.1007620222",
+      "pub.1050091131",
+      "pub.1004033280",
+      "pub.1012577247",
+      "pub.1016068803",
+      "pub.1011731428",
+      "pub.1035519160",
+      "pub.1102466781",
+      "pub.1017118300",
+      "pub.1037141307",
+      "pub.1033085365",
+      "pub.1050614531",
+      "pub.1021832020",
+      "pub.1006898116",
+      "pub.1102399928",
+      "pub.1025217492",
+      "pub.1041908567",
+      "pub.1100097911",
+      "pub.1011189621",
+      "pub.1072582991",
+      "pub.1001196115",
+      "pub.1026768498",
+      "pub.1016381155",
+      "pub.1090933754",
+      "pub.1051920275",
+      "pub.1102381332",
+      "pub.1049913662",
+      "pub.1046463875",
+      "pub.1091589786",
+      "pub.1061936602",
+      "pub.1018978717",
+      "pub.1058803021",
+      "pub.1102378563",
+      "pub.1010428798",
+      "pub.1017640923"
+    ],
+    "references": [
+      "pub.1027066962",
+      "pub.1016714061",
+      "pub.1022719037",
+      "pub.1007620222",
+      "pub.1050091131",
+      "pub.1004033280",
+      "pub.1012577247",
+      "pub.1016068803",
+      "pub.1011731428",
+      "pub.1035519160",
+      "pub.1102466781",
+      "pub.1017118300",
+      "pub.1037141307",
+      "pub.1033085365",
+      "pub.1050614531",
+      "pub.1021832020",
+      "pub.1006898116",
+      "pub.1102399928",
+      "pub.1025217492",
+      "pub.1041908567",
+      "pub.1100097911",
+      "pub.1011189621",
+      "pub.1072582991",
+      "pub.1001196115",
+      "pub.1026768498",
+      "pub.1016381155",
+      "pub.1090933754",
+      "pub.1051920275",
+      "pub.1102381332",
+      "pub.1049913662",
+      "pub.1046463875",
+      "pub.1091589786",
+      "pub.1061936602",
+      "pub.1018978717",
+      "pub.1058803021",
+      "pub.1102378563",
+      "pub.1010428798",
+      "pub.1017640923"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2018-06-02",
+    "volume": "57",
+    "title": "Restoring euro area monetary transmission: Which role for government bond rates?",
+    "authors": [
+      {
+        "first_name": "Nikolay",
+        "last_name": "Hristov",
+        "orcid": "",
+        "current_organization_id": "grid.469877.3",
+        "researcher_id": "ur.010446133321.33",
+        "affiliations": [
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Oliver",
+        "last_name": "H\u00fclsewig",
+        "orcid": "",
+        "current_organization_id": "grid.434949.7",
+        "researcher_id": "ur.010154471763.50",
+        "affiliations": [
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.434949.7",
+            "name": "Munich University of Applied Sciences",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Thomas",
+        "last_name": "Siemsen",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.5252.0",
+            "name": "Ludwig Maximilian University of Munich",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Timo",
+        "last_name": "Wollmersh\u00e4user",
+        "orcid": "",
+        "current_organization_id": "grid.8465.f",
+        "researcher_id": "ur.012041074321.04",
+        "affiliations": [
+          {
+            "id": "grid.469877.3",
+            "name": "Ifo Institute for Economic Research",
+            "city": "Munich",
+            "city_id": 2867714,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Nikolay",
+          "last_name": "Hristov",
+          "orcid": "",
+          "current_organization_id": "grid.469877.3",
+          "researcher_id": "ur.010446133321.33",
+          "affiliations": [
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Oliver",
+          "last_name": "H\u00fclsewig",
+          "orcid": "",
+          "current_organization_id": "grid.434949.7",
+          "researcher_id": "ur.010154471763.50",
+          "affiliations": [
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.434949.7",
+              "name": "Munich University of Applied Sciences",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "Siemsen",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.5252.0",
+              "name": "Ludwig Maximilian University of Munich",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Timo",
+          "last_name": "Wollmersh\u00e4user",
+          "orcid": "",
+          "current_organization_id": "grid.8465.f",
+          "researcher_id": "ur.012041074321.04",
+          "affiliations": [
+            {
+              "id": "grid.469877.3",
+              "name": "Ifo Institute for Economic Research",
+              "city": "Munich",
+              "city_id": 2867714,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2867714,
+        "name": "Munich"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "issue": "3",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "991-1021",
+    "doi": "10.1007/s00181-018-1467-y",
+    "dimensions_id": "pub.1104329429",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2204",
+        "name": "04 Earth Sciences"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Falko",
+        "last_name": "Fecht",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.461612.6",
+            "name": "Frankfurt School of Finance & Management",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Stefan",
+        "last_name": "Thum",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Patrick",
+        "last_name": "Weber",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.478692.6",
+            "name": "German Federal Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Falko",
+          "last_name": "Fecht",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.461612.6",
+              "name": "Frankfurt School of Finance & Management",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Stefan",
+          "last_name": "Thum",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Patrick",
+          "last_name": "Weber",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.478692.6",
+              "name": "German Federal Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "id": "pub.1113938155",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2019-08-01",
+    "pages": "151-165",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_pub",
+        "name": "Green, Published",
+        "description": "Free copy of published version in an OA repository"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jbankfin.2019.05.005",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "title": "Fear, Deposit Insurance Schemes, and Deposit Reallocation in the German Banking System",
+    "FOR": [
+      {
+        "id": "2509",
+        "name": "0403 Geology"
+      }
+    ],
+    "type": "article",
+    "linkout": "https://riunet.upv.es/bitstream/10251/112113/1/8572-23294-1-PB.pdf",
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "date_inserted": "2019-05-10",
+    "concepts": [
+      "findings highlight",
+      "changes",
+      "sector",
+      "deposits",
+      "banks",
+      "reallocation",
+      "coverage"
+    ],
+    "terms": [
+      "findings highlight",
+      "changes",
+      "sector",
+      "deposits",
+      "banks",
+      "reallocation",
+      "coverage"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2344",
+        "name": "0102 Applied Mathematics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      },
+      {
+        "id": "2201",
+        "name": "01 Mathematical Sciences"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - published"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.461612.6",
+        "acronym": "HFB",
+        "name": "Frankfurt School of Finance & Management",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.478692.6",
+        "name": "German Federal Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1032803796",
+      "pub.1028161598",
+      "pub.1106029882",
+      "pub.1044046265",
+      "pub.1016182488",
+      "pub.1083489979",
+      "pub.1040923731",
+      "pub.1050395285",
+      "pub.1028050456",
+      "pub.1015704803",
+      "pub.1027413148",
+      "pub.1030222311",
+      "pub.1031015446",
+      "pub.1102469680",
+      "pub.1102275441",
+      "pub.1041760767",
+      "pub.1003931429",
+      "pub.1029631670",
+      "pub.1060006290",
+      "pub.1086278690",
+      "pub.1009540728",
+      "pub.1004845818",
+      "pub.1039907100",
+      "pub.1048098266",
+      "pub.1046072054"
+    ],
+    "reference_ids": [
+      "pub.1032803796",
+      "pub.1028161598",
+      "pub.1106029882",
+      "pub.1044046265",
+      "pub.1016182488",
+      "pub.1083489979",
+      "pub.1040923731",
+      "pub.1050395285",
+      "pub.1028050456",
+      "pub.1015704803",
+      "pub.1027413148",
+      "pub.1030222311",
+      "pub.1031015446",
+      "pub.1102469680",
+      "pub.1102275441",
+      "pub.1041760767",
+      "pub.1003931429",
+      "pub.1029631670",
+      "pub.1060006290",
+      "pub.1086278690",
+      "pub.1009540728",
+      "pub.1004845818",
+      "pub.1039907100",
+      "pub.1048098266",
+      "pub.1046072054"
+    ],
+    "volume": "105",
+    "dimensions_id": "pub.1113938155",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2019-06-01",
+    "research_orgs": [
+      {
+        "id": "grid.466309.e",
+        "acronym": "HSBA",
+        "name": "Hamburg School of Business Administration",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.445630.0",
+        "name": "Andr\u00e1ssy University Budapest",
+        "country_name": "Hungary"
+      }
+    ],
+    "journal": {
+      "id": "jour.1135954",
+      "title": "Journal of Banking Regulation"
+    },
+    "terms": [
+      "liquidity",
+      "business models",
+      "cost risk",
+      "banking system",
+      "diversification",
+      "set",
+      "rating shifts",
+      "bank business models",
+      "risk",
+      "banks",
+      "Pillar 1",
+      "regulation",
+      "equity risk",
+      "data sets",
+      "balance sheet positions",
+      "liquidity regulation",
+      "Basel framework",
+      "model",
+      "shift",
+      "retail banks",
+      "prudential regulation",
+      "position",
+      "maturity",
+      "trading banks",
+      "framework",
+      "sheet position"
+    ],
+    "concepts": [
+      "liquidity",
+      "business models",
+      "cost risk",
+      "banking system",
+      "diversification",
+      "set",
+      "rating shifts",
+      "bank business models",
+      "risk",
+      "banks",
+      "Pillar 1",
+      "regulation",
+      "equity risk",
+      "data sets",
+      "balance sheet positions",
+      "liquidity regulation",
+      "Basel framework",
+      "model",
+      "shift",
+      "retail banks",
+      "prudential regulation",
+      "position",
+      "maturity",
+      "trading banks",
+      "framework",
+      "sheet position"
+    ],
+    "id": "pub.1106900036",
+    "issn": [
+      "1465-4830",
+      "1745-6452",
+      "1750-2071"
+    ],
+    "research_org_country_names": [
+      "Hungary",
+      "Germany"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1007077550",
+      "pub.1068977733",
+      "pub.1058574636",
+      "pub.1106522786",
+      "pub.1017797559",
+      "pub.1020073828",
+      "pub.1102267431",
+      "pub.1090419223",
+      "pub.1069650030",
+      "pub.1032048558",
+      "pub.1071600021",
+      "pub.1022539363",
+      "pub.1009644824",
+      "pub.1019494659",
+      "pub.1101733497",
+      "pub.1102416563",
+      "pub.1012120178",
+      "pub.1072584357",
+      "pub.1002696998",
+      "pub.1071559066",
+      "pub.1102461560",
+      "pub.1000401735",
+      "pub.1107032336",
+      "pub.1072583585",
+      "pub.1085868104",
+      "pub.1107030160",
+      "pub.1099762355",
+      "pub.1012534257"
+    ],
+    "references": [
+      "pub.1007077550",
+      "pub.1068977733",
+      "pub.1058574636",
+      "pub.1106522786",
+      "pub.1017797559",
+      "pub.1020073828",
+      "pub.1102267431",
+      "pub.1090419223",
+      "pub.1069650030",
+      "pub.1032048558",
+      "pub.1071600021",
+      "pub.1022539363",
+      "pub.1009644824",
+      "pub.1019494659",
+      "pub.1101733497",
+      "pub.1102416563",
+      "pub.1012120178",
+      "pub.1072584357",
+      "pub.1002696998",
+      "pub.1071559066",
+      "pub.1102461560",
+      "pub.1000401735",
+      "pub.1107032336",
+      "pub.1072583585",
+      "pub.1085868104",
+      "pub.1107030160",
+      "pub.1099762355",
+      "pub.1012534257"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "HU",
+        "name": "Hungary"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date_inserted": "2018-09-13",
+    "volume": "20",
+    "title": "The golden rule of banking: funding cost risks of bank business models",
+    "authors": [
+      {
+        "first_name": "David",
+        "last_name": "Grossmann",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.445630.0",
+            "name": "Andr\u00e1ssy University Budapest",
+            "city": "Budapest",
+            "city_id": 3054643,
+            "country": "Hungary",
+            "country_code": "HU",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.466309.e",
+            "name": "Hamburg School of Business Administration",
+            "city": "Hamburg",
+            "city_id": 2911298,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Peter",
+        "last_name": "Scholz",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.466309.e",
+            "name": "Hamburg School of Business Administration",
+            "city": "Hamburg",
+            "city_id": 2911298,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "David",
+          "last_name": "Grossmann",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.445630.0",
+              "name": "Andr\u00e1ssy University Budapest",
+              "city": "Budapest",
+              "city_id": 3054643,
+              "country": "Hungary",
+              "country_code": "HU",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.466309.e",
+              "name": "Hamburg School of Business Administration",
+              "city": "Hamburg",
+              "city_id": 2911298,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Peter",
+          "last_name": "Scholz",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.466309.e",
+              "name": "Hamburg School of Business Administration",
+              "city": "Hamburg",
+              "city_id": 2911298,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2911298,
+        "name": "Hamburg"
+      },
+      {
+        "id": 3054643,
+        "name": "Budapest"
+      }
+    ],
+    "publisher": "Springer Nature",
+    "issue": "2",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "type": "article",
+    "pages": "174-196",
+    "doi": "10.1057/s41261-018-0080-5",
+    "dimensions_id": "pub.1106900036",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "David",
+        "last_name": "Byrne",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Central Bank of Ireland, Dublin, Ireland"
+          }
+        ]
+      },
+      {
+        "first_name": "Robert",
+        "last_name": "Kelly",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "name": "Central Bank of Ireland, Dublin, Ireland, CorrespondenceRobert.Kelly@centralbank.ie"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "David",
+          "last_name": "Byrne",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Central Bank of Ireland, Dublin, Ireland"
+            }
+          ]
+        },
+        {
+          "first_name": "Robert",
+          "last_name": "Kelly",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Central Bank of Ireland, Dublin, Ireland, CorrespondenceRobert.Kelly@centralbank.ie"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2964574,
+        "name": "Dublin"
+      }
+    ],
+    "id": "pub.1110274956",
+    "research_org_countries": [
+      {
+        "id": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "date": "2019-05-15",
+    "pages": "1-21",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "issn": [
+      "0003-6846",
+      "1466-4283"
+    ],
+    "publisher": "Taylor & Francis",
+    "doi": "10.1080/00036846.2018.1546953",
+    "journal": {
+      "id": "jour.1027307",
+      "title": "Applied Economics"
+    },
+    "title": "Bank asset quality & monetary policy pass-through",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "linkout": "https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/11rt17---bank-asset-quality-and-monetary-policy-pass-through-(byrne-and-kelly).pdf?sfvrsn=4",
+    "research_org_country_names": [
+      "Ireland"
+    ],
+    "date_inserted": "2018-12-01",
+    "concepts": [
+      "funding mix",
+      "financial crisis",
+      "policy rate",
+      "crisis",
+      "Euro area",
+      "measures",
+      "monetary policy actions",
+      "credit",
+      "cost",
+      "role",
+      "point increase",
+      "problem",
+      "action",
+      "profitability",
+      "area",
+      "balance sheet",
+      "importance",
+      "implications",
+      "policy actions",
+      "lending rates",
+      "firms",
+      "post-crisis",
+      "bank credit",
+      "bank-level data",
+      "pricing",
+      "asset quality",
+      "level data",
+      "loan problem",
+      "lending",
+      "loan pricing",
+      "impaired loans",
+      "hangover",
+      "mix",
+      "parsimonious model",
+      "gap",
+      "model",
+      "percentage point increase",
+      "bad loan problem",
+      "loans",
+      "highlights",
+      "changes",
+      "European firms",
+      "banks",
+      "paper",
+      "direct implications",
+      "data",
+      "Through",
+      "quality",
+      "book",
+      "bank's ability",
+      "significant role",
+      "pass-through",
+      "loan book"
+    ],
+    "terms": [
+      "funding mix",
+      "financial crisis",
+      "policy rate",
+      "crisis",
+      "Euro area",
+      "measures",
+      "monetary policy actions",
+      "credit",
+      "cost",
+      "role",
+      "point increase",
+      "problem",
+      "action",
+      "profitability",
+      "area",
+      "balance sheet",
+      "importance",
+      "implications",
+      "policy actions",
+      "lending rates",
+      "firms",
+      "post-crisis",
+      "bank credit",
+      "bank-level data",
+      "pricing",
+      "asset quality",
+      "level data",
+      "loan problem",
+      "lending",
+      "loan pricing",
+      "impaired loans",
+      "hangover",
+      "mix",
+      "parsimonious model",
+      "gap",
+      "model",
+      "percentage point increase",
+      "bad loan problem",
+      "loans",
+      "highlights",
+      "changes",
+      "European firms",
+      "banks",
+      "paper",
+      "direct implications",
+      "data",
+      "Through",
+      "quality",
+      "book",
+      "bank's ability",
+      "significant role",
+      "pass-through",
+      "loan book"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "references": [
+      "pub.1021570730",
+      "pub.1105859763",
+      "pub.1004033280",
+      "pub.1105611956",
+      "pub.1049913662",
+      "pub.1019125235",
+      "pub.1050319801",
+      "pub.1058575607",
+      "pub.1064526969",
+      "pub.1026787938",
+      "pub.1092868804",
+      "pub.1084085177",
+      "pub.1034681368",
+      "pub.1017118300",
+      "pub.1064525821",
+      "pub.1068260989",
+      "pub.1037827577",
+      "pub.1017640923",
+      "pub.1000496705",
+      "pub.1070020846",
+      "pub.1022569745",
+      "pub.1053048026",
+      "pub.1036879758",
+      "pub.1039002922",
+      "pub.1064524491",
+      "pub.1043706061",
+      "pub.1025217492",
+      "pub.1064527092",
+      "pub.1012883228",
+      "pub.1036377936",
+      "pub.1051563708"
+    ],
+    "reference_ids": [
+      "pub.1021570730",
+      "pub.1105859763",
+      "pub.1004033280",
+      "pub.1105611956",
+      "pub.1049913662",
+      "pub.1019125235",
+      "pub.1050319801",
+      "pub.1058575607",
+      "pub.1064526969",
+      "pub.1026787938",
+      "pub.1092868804",
+      "pub.1084085177",
+      "pub.1034681368",
+      "pub.1017118300",
+      "pub.1064525821",
+      "pub.1068260989",
+      "pub.1037827577",
+      "pub.1017640923",
+      "pub.1000496705",
+      "pub.1070020846",
+      "pub.1022569745",
+      "pub.1053048026",
+      "pub.1036879758",
+      "pub.1039002922",
+      "pub.1064524491",
+      "pub.1043706061",
+      "pub.1025217492",
+      "pub.1064527092",
+      "pub.1012883228",
+      "pub.1036377936",
+      "pub.1051563708"
+    ],
+    "research_org_state_names": [
+      "Leinster"
+    ],
+    "volume": "51",
+    "issue": "23",
+    "dimensions_id": "pub.1110274956",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "date": "2019-05-01",
+    "research_orgs": [
+      {
+        "id": "grid.483231.f",
+        "acronym": "BIS",
+        "name": "Bank for International Settlements",
+        "country_name": "Switzerland"
+      },
+      {
+        "id": "grid.4563.4",
+        "name": "University of Nottingham",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "journal": {
+      "id": "jour.1052483",
+      "title": "Journal of International Money and Finance"
+    },
+    "terms": [
+      "lending rates",
+      "crisis",
+      "finance crisis",
+      "policy rate",
+      "policymakers",
+      "decline",
+      "model",
+      "funding costs",
+      "weighted average cost",
+      "global finance crisis",
+      "panel data methods",
+      "relationship",
+      "central bank",
+      "advantages",
+      "approach",
+      "dynamics",
+      "bank liabilities",
+      "banks",
+      "levels",
+      "bank lending rates",
+      "dynamic panel data methods",
+      "crisis transmission",
+      "monetary policymakers",
+      "average cost",
+      "structural breaks",
+      "puzzle",
+      "policy",
+      "cost",
+      "rate",
+      "data methods",
+      "break",
+      "liability",
+      "monetary policy",
+      "major puzzle",
+      "traditional approach",
+      "interest rates"
+    ],
+    "concepts": [
+      "lending rates",
+      "crisis",
+      "finance crisis",
+      "policy rate",
+      "policymakers",
+      "decline",
+      "model",
+      "funding costs",
+      "weighted average cost",
+      "global finance crisis",
+      "panel data methods",
+      "relationship",
+      "central bank",
+      "advantages",
+      "approach",
+      "dynamics",
+      "bank liabilities",
+      "banks",
+      "levels",
+      "bank lending rates",
+      "dynamic panel data methods",
+      "crisis transmission",
+      "monetary policymakers",
+      "average cost",
+      "structural breaks",
+      "puzzle",
+      "policy",
+      "cost",
+      "rate",
+      "data methods",
+      "break",
+      "liability",
+      "monetary policy",
+      "major puzzle",
+      "traditional approach",
+      "interest rates"
+    ],
+    "id": "pub.1111490216",
+    "issn": [
+      "0261-5606",
+      "1873-0639"
+    ],
+    "researchers": [
+      {
+        "id": "ur.07600357513.81",
+        "last_name": "Illes",
+        "research_orgs": [
+          "grid.483231.f"
+        ],
+        "first_name": "Anamaria"
+      },
+      {
+        "id": "ur.010155032775.16",
+        "last_name": "Lombardi",
+        "orcid_id": [
+          "0000-0002-3336-4965"
+        ],
+        "research_orgs": [
+          "grid.4708.b",
+          "grid.6093.c",
+          "grid.434554.7",
+          "grid.424907.c",
+          "grid.455754.2",
+          "grid.5395.a",
+          "grid.5335.0",
+          "grid.483231.f",
+          "grid.438037.b"
+        ],
+        "first_name": "Marco Jacopo"
+      },
+      {
+        "id": "ur.015541056421.66",
+        "last_name": "Mizen",
+        "orcid_id": [
+          "0000-0002-6193-0872"
+        ],
+        "research_orgs": [
+          "grid.410315.2",
+          "grid.465255.5",
+          "grid.4563.4",
+          "grid.5475.3"
+        ],
+        "first_name": "Paul"
+      }
+    ],
+    "research_org_country_names": [
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "reference_ids": [
+      "pub.1000729350",
+      "pub.1069740731",
+      "pub.1011189621",
+      "pub.1022719037",
+      "pub.1017640923",
+      "pub.1110073546",
+      "pub.1102405146",
+      "pub.1036175047",
+      "pub.1001912838",
+      "pub.1041908567",
+      "pub.1070154990",
+      "pub.1060005144",
+      "pub.1064524423",
+      "pub.1102215232",
+      "pub.1035519160",
+      "pub.1058305605",
+      "pub.1018337638",
+      "pub.1069626124",
+      "pub.1102472291",
+      "pub.1050351457",
+      "pub.1018978717",
+      "pub.1011361187",
+      "pub.1034322336",
+      "pub.1016381155",
+      "pub.1064524207",
+      "pub.1033805827",
+      "pub.1016201632",
+      "pub.1019438941",
+      "pub.1050319801",
+      "pub.1006163713",
+      "pub.1046463875",
+      "pub.1028432294",
+      "pub.1004854383",
+      "pub.1036187289",
+      "pub.1021008629",
+      "pub.1039127771",
+      "pub.1008093922",
+      "pub.1069768983",
+      "pub.1064531441",
+      "pub.1026787938"
+    ],
+    "references": [
+      "pub.1000729350",
+      "pub.1069740731",
+      "pub.1011189621",
+      "pub.1022719037",
+      "pub.1017640923",
+      "pub.1110073546",
+      "pub.1102405146",
+      "pub.1036175047",
+      "pub.1001912838",
+      "pub.1041908567",
+      "pub.1070154990",
+      "pub.1060005144",
+      "pub.1064524423",
+      "pub.1102215232",
+      "pub.1035519160",
+      "pub.1058305605",
+      "pub.1018337638",
+      "pub.1069626124",
+      "pub.1102472291",
+      "pub.1050351457",
+      "pub.1018978717",
+      "pub.1011361187",
+      "pub.1034322336",
+      "pub.1016381155",
+      "pub.1064524207",
+      "pub.1033805827",
+      "pub.1016201632",
+      "pub.1019438941",
+      "pub.1050319801",
+      "pub.1006163713",
+      "pub.1046463875",
+      "pub.1028432294",
+      "pub.1004854383",
+      "pub.1036187289",
+      "pub.1021008629",
+      "pub.1039127771",
+      "pub.1008093922",
+      "pub.1069768983",
+      "pub.1064531441",
+      "pub.1026787938"
+    ],
+    "year": 2019,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "date_inserted": "2019-01-21",
+    "volume": "93",
+    "title": "The Divergence of Bank Lending Rates from Policy Rates After the Financial Crisis: The Role of Bank Funding Costs",
+    "authors": [
+      {
+        "first_name": "Anamaria",
+        "last_name": "Illes",
+        "orcid": "",
+        "current_organization_id": "grid.483231.f",
+        "researcher_id": "ur.07600357513.81",
+        "affiliations": [
+          {
+            "id": "grid.483231.f",
+            "name": "Bank for International Settlements",
+            "city": "Basel",
+            "city_id": 2661604,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Marco",
+        "last_name": "Lombardi",
+        "orcid": "['0000-0002-3336-4965']",
+        "current_organization_id": "grid.483231.f",
+        "researcher_id": "ur.010155032775.16",
+        "affiliations": [
+          {
+            "id": "grid.483231.f",
+            "name": "Bank for International Settlements",
+            "city": "Basel",
+            "city_id": 2661604,
+            "country": "Switzerland",
+            "country_code": "CH",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Paul",
+        "last_name": "Mizen",
+        "orcid": "['0000-0002-6193-0872']",
+        "current_organization_id": "grid.4563.4",
+        "researcher_id": "ur.015541056421.66",
+        "affiliations": [
+          {
+            "id": "grid.4563.4",
+            "name": "University of Nottingham",
+            "city": "Nottingham",
+            "city_id": 2641170,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Anamaria",
+          "last_name": "Illes",
+          "orcid": "",
+          "current_organization_id": "grid.483231.f",
+          "researcher_id": "ur.07600357513.81",
+          "affiliations": [
+            {
+              "id": "grid.483231.f",
+              "name": "Bank for International Settlements",
+              "city": "Basel",
+              "city_id": 2661604,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Marco",
+          "last_name": "Lombardi",
+          "orcid": "['0000-0002-3336-4965']",
+          "current_organization_id": "grid.483231.f",
+          "researcher_id": "ur.010155032775.16",
+          "affiliations": [
+            {
+              "id": "grid.483231.f",
+              "name": "Bank for International Settlements",
+              "city": "Basel",
+              "city_id": 2661604,
+              "country": "Switzerland",
+              "country_code": "CH",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Mizen",
+          "orcid": "['0000-0002-6193-0872']",
+          "current_organization_id": "grid.4563.4",
+          "researcher_id": "ur.015541056421.66",
+          "affiliations": [
+            {
+              "id": "grid.4563.4",
+              "name": "University of Nottingham",
+              "city": "Nottingham",
+              "city_id": 2641170,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2641170,
+        "name": "Nottingham"
+      },
+      {
+        "id": 2661604,
+        "name": "Basel"
+      }
+    ],
+    "funders": [
+      {
+        "id": "grid.450921.b",
+        "acronym": "BA",
+        "name": "British Academy",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "publisher": "Elsevier",
+    "issue": "Journal of Banking and Finance 46 2014",
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "pages": "117-141",
+    "doi": "10.1016/j.jimonfin.2019.01.003",
+    "supporting_grant_ids": [
+      "grant.6846155"
+    ],
+    "dimensions_id": "pub.1111490216",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2018-08-30",
+    "recent_citations": 1,
+    "title": "Interest Rate Pass-through since the Euro Area Crisis",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.466644.2",
+        "acronym": "ECB",
+        "name": "European Central Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1106391174",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "researchers": [
+      {
+        "id": "ur.012707522411.24",
+        "last_name": "D'Acri",
+        "research_orgs": [
+          "grid.13063.37",
+          "grid.466644.2"
+        ],
+        "first_name": "Costanza Rodriguez"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "pages": "277-291",
+    "authors": [
+      {
+        "first_name": "Sarah",
+        "last_name": "Holton",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.466644.2",
+            "name": "European Central Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Costanza Rodriguez",
+        "last_name": "d\u2019Acri",
+        "orcid": "",
+        "current_organization_id": "grid.466644.2",
+        "researcher_id": "ur.012707522411.24",
+        "affiliations": [
+          {
+            "id": "grid.466644.2",
+            "name": "European Central Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Sarah",
+          "last_name": "Holton",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.466644.2",
+              "name": "European Central Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Costanza Rodriguez",
+          "last_name": "d\u2019Acri",
+          "orcid": "",
+          "current_organization_id": "grid.466644.2",
+          "researcher_id": "ur.012707522411.24",
+          "affiliations": [
+            {
+              "id": "grid.466644.2",
+              "name": "European Central Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-11-01",
+    "reference_ids": [
+      "pub.1024381944",
+      "pub.1102447773",
+      "pub.1027456616",
+      "pub.1084085177",
+      "pub.1072582801",
+      "pub.1064525821",
+      "pub.1102408935",
+      "pub.1102404529",
+      "pub.1102437318",
+      "pub.1026787938",
+      "pub.1015305160",
+      "pub.1010614236",
+      "pub.1039598216",
+      "pub.1017640923",
+      "pub.1102384620",
+      "pub.1017118300",
+      "pub.1058606494",
+      "pub.1064527092",
+      "pub.1050319801",
+      "pub.1102332233",
+      "pub.1102356442",
+      "pub.1059967639",
+      "pub.1019787122",
+      "pub.1004854383",
+      "pub.1028045303",
+      "pub.1070020846",
+      "pub.1102325016",
+      "pub.1013093969",
+      "pub.1022569745"
+    ],
+    "references": [
+      "pub.1024381944",
+      "pub.1102447773",
+      "pub.1027456616",
+      "pub.1084085177",
+      "pub.1072582801",
+      "pub.1064525821",
+      "pub.1102408935",
+      "pub.1102404529",
+      "pub.1102437318",
+      "pub.1026787938",
+      "pub.1015305160",
+      "pub.1010614236",
+      "pub.1039598216",
+      "pub.1017640923",
+      "pub.1102384620",
+      "pub.1017118300",
+      "pub.1058606494",
+      "pub.1064527092",
+      "pub.1050319801",
+      "pub.1102332233",
+      "pub.1102356442",
+      "pub.1059967639",
+      "pub.1019787122",
+      "pub.1004854383",
+      "pub.1028045303",
+      "pub.1070020846",
+      "pub.1102325016",
+      "pub.1013093969",
+      "pub.1022569745"
+    ],
+    "doi": "10.1016/j.jbankfin.2018.08.012",
+    "year": 2018,
+    "type": "article",
+    "volume": "96",
+    "times_cited": 1,
+    "terms": [
+      "framework",
+      "funding access",
+      "drivers",
+      "loans",
+      "liquidity",
+      "heterogeneity",
+      "only driver",
+      "quality",
+      "monetary policy",
+      "lending rates",
+      "cost",
+      "funding",
+      "proxy",
+      "policy rate",
+      "Though",
+      "asset impairments",
+      "money market rates",
+      "central bank",
+      "correction framework",
+      "asset quality",
+      "countries",
+      "macroeconomic variation",
+      "power",
+      "firms",
+      "financial crisis",
+      "incomplete pass",
+      "risk",
+      "pricing",
+      "bond yields",
+      "policy",
+      "sovereign bond yields",
+      "individual bank data",
+      "reliance",
+      "start",
+      "access",
+      "market rates",
+      "regard",
+      "finance",
+      "bank size",
+      "area countries",
+      "variables",
+      "bank data",
+      "market structure",
+      "data",
+      "characteristics",
+      "small loans",
+      "euro area countries",
+      "macroeconomic differences",
+      "decades",
+      "balance sheet characteristics",
+      "stressed countries",
+      "bank loans",
+      "interest rates",
+      "error correction framework",
+      "market concentration",
+      "bank characteristics",
+      "capital",
+      "crisis",
+      "size",
+      "share",
+      "banks",
+      "larger loans",
+      "changes",
+      "bank funding",
+      "document",
+      "market power",
+      "area firms",
+      "sheet characteristics"
+    ],
+    "concepts": [
+      "framework",
+      "funding access",
+      "drivers",
+      "loans",
+      "liquidity",
+      "heterogeneity",
+      "only driver",
+      "quality",
+      "monetary policy",
+      "lending rates",
+      "cost",
+      "funding",
+      "proxy",
+      "policy rate",
+      "Though",
+      "asset impairments",
+      "money market rates",
+      "central bank",
+      "correction framework",
+      "asset quality",
+      "countries",
+      "macroeconomic variation",
+      "power",
+      "firms",
+      "financial crisis",
+      "incomplete pass",
+      "risk",
+      "pricing",
+      "bond yields",
+      "policy",
+      "sovereign bond yields",
+      "individual bank data",
+      "reliance",
+      "start",
+      "access",
+      "market rates",
+      "regard",
+      "finance",
+      "bank size",
+      "area countries",
+      "variables",
+      "bank data",
+      "market structure",
+      "data",
+      "characteristics",
+      "small loans",
+      "euro area countries",
+      "macroeconomic differences",
+      "decades",
+      "balance sheet characteristics",
+      "stressed countries",
+      "bank loans",
+      "interest rates",
+      "error correction framework",
+      "market concentration",
+      "bank characteristics",
+      "capital",
+      "crisis",
+      "size",
+      "share",
+      "banks",
+      "larger loans",
+      "changes",
+      "bank funding",
+      "document",
+      "market power",
+      "area firms",
+      "sheet characteristics"
+    ],
+    "issue": "Journal of Banking Finance 26 11 2002",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3286",
+        "name": "1401 Economic Theory"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "dimensions_id": "pub.1106391174",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "DIANA",
+        "last_name": "BONFIM",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "CARLA",
+        "last_name": "SOARES",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "DIANA",
+          "last_name": "BONFIM",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "CARLA",
+          "last_name": "SOARES",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1104290576",
+    "date": "2018-10-01",
+    "pages": "1507-1541",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 2",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0022-2879",
+      "1538-4616"
+    ],
+    "publisher": "Wiley",
+    "doi": "10.1111/jmcb.12500",
+    "journal": {
+      "id": "jour.1043489",
+      "title": "Journal of money credit and banking"
+    },
+    "title": "The Risk\u2010Taking Channel of Monetary Policy: Exploring All Avenues",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "linkout": "https://www.bportugal.pt/sites/default/files/anexos/papers/wp20142.pdf",
+    "date_inserted": "2018-06-01",
+    "concepts": [
+      "detailed information",
+      "ex post performance",
+      "information",
+      "borrowers",
+      "levels",
+      "more funding",
+      "post performance",
+      "evidence",
+      "origination",
+      "extensive margin",
+      "funding",
+      "incentives",
+      "riskier borrowers",
+      "default rate",
+      "performance",
+      "period",
+      "loans",
+      "managerial incentives",
+      "monetary policy",
+      "banks",
+      "literature",
+      "capital ratio",
+      "stable interest rates",
+      "loan origination",
+      "margin",
+      "high default rate",
+      "policy",
+      "lower capital ratios",
+      "interest rates"
+    ],
+    "terms": [
+      "detailed information",
+      "ex post performance",
+      "information",
+      "borrowers",
+      "levels",
+      "more funding",
+      "post performance",
+      "evidence",
+      "origination",
+      "extensive margin",
+      "funding",
+      "incentives",
+      "riskier borrowers",
+      "default rate",
+      "performance",
+      "period",
+      "loans",
+      "managerial incentives",
+      "monetary policy",
+      "banks",
+      "literature",
+      "capital ratio",
+      "stable interest rates",
+      "loan origination",
+      "margin",
+      "high default rate",
+      "policy",
+      "lower capital ratios",
+      "interest rates"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "references": [
+      "pub.1102282728",
+      "pub.1029097094",
+      "pub.1018746892",
+      "pub.1074219684",
+      "pub.1023607854",
+      "pub.1102300209",
+      "pub.1008829151",
+      "pub.1084862977",
+      "pub.1102301176",
+      "pub.1019164623",
+      "pub.1026754433",
+      "pub.1047724256",
+      "pub.1021674638",
+      "pub.1025555740",
+      "pub.1109734701",
+      "pub.1045286928",
+      "pub.1064525821",
+      "pub.1005355131",
+      "pub.1058851036",
+      "pub.1036377936",
+      "pub.1064527092",
+      "pub.1027717924",
+      "pub.1031068065",
+      "pub.1071225216",
+      "pub.1058575256",
+      "pub.1037471991",
+      "pub.1064200892",
+      "pub.1064524491",
+      "pub.1006076750",
+      "pub.1025714990",
+      "pub.1044855420",
+      "pub.1042921699",
+      "pub.1047284656"
+    ],
+    "reference_ids": [
+      "pub.1102282728",
+      "pub.1029097094",
+      "pub.1018746892",
+      "pub.1074219684",
+      "pub.1023607854",
+      "pub.1102300209",
+      "pub.1008829151",
+      "pub.1084862977",
+      "pub.1102301176",
+      "pub.1019164623",
+      "pub.1026754433",
+      "pub.1047724256",
+      "pub.1021674638",
+      "pub.1025555740",
+      "pub.1109734701",
+      "pub.1045286928",
+      "pub.1064525821",
+      "pub.1005355131",
+      "pub.1058851036",
+      "pub.1036377936",
+      "pub.1064527092",
+      "pub.1027717924",
+      "pub.1031068065",
+      "pub.1071225216",
+      "pub.1058575256",
+      "pub.1037471991",
+      "pub.1064200892",
+      "pub.1064524491",
+      "pub.1006076750",
+      "pub.1025714990",
+      "pub.1044855420",
+      "pub.1042921699",
+      "pub.1047284656"
+    ],
+    "volume": "50",
+    "issue": "7",
+    "dimensions_id": "pub.1104290576",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-09-01",
+    "terms": [
+      "crisis",
+      "aggregate investment",
+      "insolvency reforms",
+      "foreign investment",
+      "product market competition",
+      "economic recovery",
+      "regulation",
+      "policy",
+      "paper",
+      "integration",
+      "term strategy",
+      "strategies",
+      "barriers",
+      "chain",
+      "sector",
+      "key policy",
+      "innovation systems",
+      "long-term strategy",
+      "competition",
+      "quality",
+      "standard",
+      "living standards",
+      "value chain",
+      "survey",
+      "investment",
+      "market competition",
+      "Working Paper",
+      "Economic Survey",
+      "problem",
+      "environment",
+      "reform",
+      "business environment",
+      "OECD Economic Surveys",
+      "global value chains",
+      "public investment",
+      "Greece",
+      "banking sector"
+    ],
+    "concepts": [
+      "crisis",
+      "aggregate investment",
+      "insolvency reforms",
+      "foreign investment",
+      "product market competition",
+      "economic recovery",
+      "regulation",
+      "policy",
+      "paper",
+      "integration",
+      "term strategy",
+      "strategies",
+      "barriers",
+      "chain",
+      "sector",
+      "key policy",
+      "innovation systems",
+      "long-term strategy",
+      "competition",
+      "quality",
+      "standard",
+      "living standards",
+      "value chain",
+      "survey",
+      "investment",
+      "market competition",
+      "Working Paper",
+      "Economic Survey",
+      "problem",
+      "environment",
+      "reform",
+      "business environment",
+      "OECD Economic Surveys",
+      "global value chains",
+      "public investment",
+      "Greece",
+      "banking sector"
+    ],
+    "id": "pub.1107174313",
+    "issn": [
+      "1815-1973"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "reference_ids": [
+      "pub.1107152215",
+      "pub.1107165597",
+      "pub.1023059553",
+      "pub.1072583516",
+      "pub.1107154467",
+      "pub.1046005188",
+      "pub.1045009481",
+      "pub.1107152682",
+      "pub.1107150999",
+      "pub.1107161691",
+      "pub.1107173450",
+      "pub.1054936292",
+      "pub.1107171251",
+      "pub.1047274793",
+      "pub.1107161020",
+      "pub.1107154132",
+      "pub.1107178246",
+      "pub.1102443911",
+      "pub.1107157143",
+      "pub.1019543666",
+      "pub.1012133950",
+      "pub.1040917378",
+      "pub.1107170975",
+      "pub.1091633343",
+      "pub.1107173801",
+      "pub.1086965813",
+      "pub.1107161049",
+      "pub.1107162746",
+      "pub.1107183374",
+      "pub.1107150316",
+      "pub.1107158569",
+      "pub.1026058189",
+      "pub.1058575521"
+    ],
+    "references": [
+      "pub.1107152215",
+      "pub.1107165597",
+      "pub.1023059553",
+      "pub.1072583516",
+      "pub.1107154467",
+      "pub.1046005188",
+      "pub.1045009481",
+      "pub.1107152682",
+      "pub.1107150999",
+      "pub.1107161691",
+      "pub.1107173450",
+      "pub.1054936292",
+      "pub.1107171251",
+      "pub.1047274793",
+      "pub.1107161020",
+      "pub.1107154132",
+      "pub.1107178246",
+      "pub.1102443911",
+      "pub.1107157143",
+      "pub.1019543666",
+      "pub.1012133950",
+      "pub.1040917378",
+      "pub.1107170975",
+      "pub.1091633343",
+      "pub.1107173801",
+      "pub.1086965813",
+      "pub.1107161049",
+      "pub.1107162746",
+      "pub.1107183374",
+      "pub.1107150316",
+      "pub.1107158569",
+      "pub.1026058189",
+      "pub.1058575521"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date_inserted": "2018-09-25",
+    "title": "Boosting investment in Greece",
+    "authors": [
+      {
+        "first_name": "Panagiotis",
+        "last_name": "Barkas",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      },
+      {
+        "first_name": "Mauro",
+        "last_name": "Pisu",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Panagiotis",
+          "last_name": "Barkas",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Mauro",
+          "last_name": "Pisu",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://www.oecd-ilibrary.org/deliver/53961c92-en.pdf?itemId=%2Fcontent%2Fpaper%2F53961c92-en&mimeType=pdf",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "doi": "10.1787/53961c92-en",
+    "dimensions_id": "pub.1107174313",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-08-05",
+    "research_orgs": [
+      {
+        "id": "grid.9835.7",
+        "name": "Lancaster University",
+        "country_name": "United Kingdom"
+      },
+      {
+        "id": "grid.16299.35",
+        "acronym": "AUEB",
+        "name": "Athens University of Economics and Business",
+        "country_name": "Greece"
+      },
+      {
+        "id": "grid.13063.37",
+        "acronym": "LSE",
+        "name": "London School of Economics and Political Science",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "journal": {
+      "id": "jour.1139925",
+      "title": "International Journal of Finance & Economics"
+    },
+    "terms": [
+      "resolution policies",
+      "NPL",
+      "findings",
+      "periphery",
+      "Euro area",
+      "effect",
+      "hypothesis",
+      "chi\u2010square test",
+      "aspects",
+      "macroeconomic conditions",
+      "macroprudential",
+      "upwards",
+      "square",
+      "macroeconomic factors",
+      "shift",
+      "least squares",
+      "autoregression technique",
+      "banking markets",
+      "vector autoregression technique",
+      "OBJECTIVE",
+      "equality",
+      "ordinary least squares",
+      "Such findings",
+      "long\u2010run effects",
+      "factors",
+      "FMOLS",
+      "financial fragmentation",
+      "loans",
+      "policy",
+      "area",
+      "market"
+    ],
+    "concepts": [
+      "resolution policies",
+      "NPL",
+      "findings",
+      "periphery",
+      "Euro area",
+      "effect",
+      "hypothesis",
+      "chi\u2010square test",
+      "aspects",
+      "macroeconomic conditions",
+      "macroprudential",
+      "upwards",
+      "square",
+      "macroeconomic factors",
+      "shift",
+      "least squares",
+      "autoregression technique",
+      "banking markets",
+      "vector autoregression technique",
+      "OBJECTIVE",
+      "equality",
+      "ordinary least squares",
+      "Such findings",
+      "long\u2010run effects",
+      "factors",
+      "FMOLS",
+      "financial fragmentation",
+      "loans",
+      "policy",
+      "area",
+      "market"
+    ],
+    "id": "pub.1106012471",
+    "issn": [
+      "1076-9307",
+      "1099-1158"
+    ],
+    "researchers": [
+      {
+        "id": "ur.014310547072.83",
+        "last_name": "Anastasiou",
+        "research_orgs": [
+          "grid.16299.35"
+        ],
+        "first_name": "Dimitrios"
+      },
+      {
+        "id": "ur.015445705213.19",
+        "last_name": "Louri",
+        "research_orgs": [
+          "grid.13063.37",
+          "grid.16299.35"
+        ],
+        "first_name": "Helen"
+      },
+      {
+        "id": "ur.012704062433.43",
+        "last_name": "Tsionas",
+        "orcid_id": [
+          "0000-0003-3761-8106"
+        ],
+        "research_orgs": [
+          "grid.9835.7",
+          "grid.16299.35",
+          "grid.5216.0"
+        ],
+        "first_name": "Mike G"
+      }
+    ],
+    "research_org_country_names": [
+      "United Kingdom",
+      "Greece"
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_bronze",
+        "name": "Bronze",
+        "description": "Freely available on publisher page, but without an open licence"
+      }
+    ],
+    "reference_ids": [
+      "pub.1026244115",
+      "pub.1051613370",
+      "pub.1072582721",
+      "pub.1025244946",
+      "pub.1013202820",
+      "pub.1024077409",
+      "pub.1029486074",
+      "pub.1036667221",
+      "pub.1005535743",
+      "pub.1069868946",
+      "pub.1044534798",
+      "pub.1029636657",
+      "pub.1031546456",
+      "pub.1059419818",
+      "pub.1102458585",
+      "pub.1072580307",
+      "pub.1005517562",
+      "pub.1019940186",
+      "pub.1006700145",
+      "pub.1008084492",
+      "pub.1072582454",
+      "pub.1090359001",
+      "pub.1025705739",
+      "pub.1025277309",
+      "pub.1084808940",
+      "pub.1070146832",
+      "pub.1003220080",
+      "pub.1064198960",
+      "pub.1027847135",
+      "pub.1072580813",
+      "pub.1022488234"
+    ],
+    "references": [
+      "pub.1026244115",
+      "pub.1051613370",
+      "pub.1072582721",
+      "pub.1025244946",
+      "pub.1013202820",
+      "pub.1024077409",
+      "pub.1029486074",
+      "pub.1036667221",
+      "pub.1005535743",
+      "pub.1069868946",
+      "pub.1044534798",
+      "pub.1029636657",
+      "pub.1031546456",
+      "pub.1059419818",
+      "pub.1102458585",
+      "pub.1072580307",
+      "pub.1005517562",
+      "pub.1019940186",
+      "pub.1006700145",
+      "pub.1008084492",
+      "pub.1072582454",
+      "pub.1090359001",
+      "pub.1025705739",
+      "pub.1025277309",
+      "pub.1084808940",
+      "pub.1070146832",
+      "pub.1003220080",
+      "pub.1064198960",
+      "pub.1027847135",
+      "pub.1072580813",
+      "pub.1022488234"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_org_countries": [
+      {
+        "id": "GR",
+        "name": "Greece"
+      },
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "date_inserted": "2018-08-08",
+    "title": "Nonperforming loans in the euro area: Are core\u2013periphery banking markets fragmented?",
+    "authors": [
+      {
+        "first_name": "Dimitrios",
+        "last_name": "Anastasiou",
+        "orcid": "",
+        "current_organization_id": "grid.16299.35",
+        "researcher_id": "ur.014310547072.83",
+        "affiliations": [
+          {
+            "id": "grid.16299.35",
+            "name": "Athens University of Economics and Business",
+            "city": "Athens",
+            "city_id": 264371,
+            "country": "Greece",
+            "country_code": "GR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Helen",
+        "last_name": "Louri",
+        "orcid": "",
+        "current_organization_id": "grid.16299.35",
+        "researcher_id": "ur.015445705213.19",
+        "affiliations": [
+          {
+            "name": "Department of Economics, Athens University of Economics and Business"
+          },
+          {
+            "id": "grid.13063.37",
+            "name": "London School of Economics and Political Science",
+            "city": "London",
+            "city_id": 2643743,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Mike",
+        "last_name": "Tsionas",
+        "orcid": "['0000-0003-3761-8106']",
+        "current_organization_id": "grid.9835.7",
+        "researcher_id": "ur.012704062433.43",
+        "affiliations": [
+          {
+            "name": "Department of Economics, Athens University of Economics and Business"
+          },
+          {
+            "id": "grid.9835.7",
+            "name": "Lancaster University",
+            "city": "Lancaster",
+            "city_id": 2644972,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Dimitrios",
+          "last_name": "Anastasiou",
+          "orcid": "",
+          "current_organization_id": "grid.16299.35",
+          "researcher_id": "ur.014310547072.83",
+          "affiliations": [
+            {
+              "id": "grid.16299.35",
+              "name": "Athens University of Economics and Business",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Helen",
+          "last_name": "Louri",
+          "orcid": "",
+          "current_organization_id": "grid.16299.35",
+          "researcher_id": "ur.015445705213.19",
+          "affiliations": [
+            {
+              "name": "Department of Economics, Athens University of Economics and Business"
+            },
+            {
+              "id": "grid.13063.37",
+              "name": "London School of Economics and Political Science",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Mike",
+          "last_name": "Tsionas",
+          "orcid": "['0000-0003-3761-8106']",
+          "current_organization_id": "grid.9835.7",
+          "researcher_id": "ur.012704062433.43",
+          "affiliations": [
+            {
+              "name": "Department of Economics, Athens University of Economics and Business"
+            },
+            {
+              "id": "grid.9835.7",
+              "name": "Lancaster University",
+              "city": "Lancaster",
+              "city_id": 2644972,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 264371,
+        "name": "Athens"
+      },
+      {
+        "id": 2644972,
+        "name": "Lancaster"
+      },
+      {
+        "id": 2643743,
+        "name": "London"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijfe.1651",
+    "publisher": "Wiley",
+    "altmetric": 11,
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "altmetric_id": 57828530,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "type": "article",
+    "doi": "10.1002/ijfe.1651",
+    "dimensions_id": "pub.1106012471",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2018-08-14",
+    "title": "Principaux \u00e9clairages sur l'action publique",
+    "id": "pub.1106127657",
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "issn": [
+      "1999-0812",
+      "19990812"
+    ],
+    "pages": "15-59",
+    "book_title": "\u00c9tudes \u00e9conomiques de l'OCDE : Zone Euro 2018",
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "book_doi": "10.1787/eco_surveys-euz-2018-fr",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "date": "2018-06-19",
+    "book_series_title": "\u00c9tudes \u00e9conomiques de l'OCDE : Zone Euro",
+    "doi": "10.1787/eco_surveys-euz-2018-3-fr",
+    "year": 2018,
+    "type": "chapter",
+    "dimensions_id": "pub.1106127657",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2018-03-20",
+    "RCDC": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      }
+    ],
+    "category_rcdc": [
+      {
+        "id": "498",
+        "name": "Behavioral and Social Science"
+      }
+    ],
+    "recent_citations": 1,
+    "title": "Borrowing constraints and housing price expectations in the euro area",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.466509.8",
+        "name": "Bank of Spain",
+        "country_name": "Spain"
+      },
+      {
+        "id": "grid.466644.2",
+        "acronym": "ECB",
+        "name": "European Central Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1101524764",
+    "journal": {
+      "id": "jour.1027798",
+      "title": "Economic Modelling"
+    },
+    "researchers": [
+      {
+        "id": "ur.011476041146.40",
+        "last_name": "Ampudia",
+        "research_orgs": [
+          "grid.466644.2"
+        ],
+        "first_name": "Miguel"
+      },
+      {
+        "id": "ur.016360775171.15",
+        "last_name": "Mayordomo",
+        "orcid_id": [
+          "0000-0001-8363-5500"
+        ],
+        "research_orgs": [
+          "grid.466509.8",
+          "grid.5924.a"
+        ],
+        "first_name": "Sergio"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany",
+      "Spain"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "0264-9993",
+      "1873-6122"
+    ],
+    "pages": "410-421",
+    "authors": [
+      {
+        "first_name": "Miguel",
+        "last_name": "Ampudia",
+        "orcid": "",
+        "current_organization_id": "grid.466644.2",
+        "researcher_id": "ur.011476041146.40",
+        "affiliations": [
+          {
+            "id": "grid.466644.2",
+            "name": "European Central Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Sergio",
+        "last_name": "Mayordomo",
+        "orcid": "['0000-0001-8363-5500']",
+        "current_organization_id": "grid.466509.8",
+        "researcher_id": "ur.016360775171.15",
+        "affiliations": [
+          {
+            "id": "grid.466509.8",
+            "name": "Bank of Spain",
+            "city": "Madrid",
+            "city_id": 3117735,
+            "country": "Spain",
+            "country_code": "ES",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Miguel",
+          "last_name": "Ampudia",
+          "orcid": "",
+          "current_organization_id": "grid.466644.2",
+          "researcher_id": "ur.011476041146.40",
+          "affiliations": [
+            {
+              "id": "grid.466644.2",
+              "name": "European Central Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Sergio",
+          "last_name": "Mayordomo",
+          "orcid": "['0000-0001-8363-5500']",
+          "current_organization_id": "grid.466509.8",
+          "researcher_id": "ur.016360775171.15",
+          "affiliations": [
+            {
+              "id": "grid.466509.8",
+              "name": "Bank of Spain",
+              "city": "Madrid",
+              "city_id": 3117735,
+              "country": "Spain",
+              "country_code": "ES",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      },
+      {
+        "id": 3117735,
+        "name": "Madrid"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-06-01",
+    "reference_ids": [
+      "pub.1012096241",
+      "pub.1061936734",
+      "pub.1044589583",
+      "pub.1026221081",
+      "pub.1050330184",
+      "pub.1060006109",
+      "pub.1012722110",
+      "pub.1053241974",
+      "pub.1035205855",
+      "pub.1070145991",
+      "pub.1007405603",
+      "pub.1017288911",
+      "pub.1058575553",
+      "pub.1060005789",
+      "pub.1020264867"
+    ],
+    "references": [
+      "pub.1012096241",
+      "pub.1061936734",
+      "pub.1044589583",
+      "pub.1026221081",
+      "pub.1050330184",
+      "pub.1060006109",
+      "pub.1012722110",
+      "pub.1053241974",
+      "pub.1035205855",
+      "pub.1070145991",
+      "pub.1007405603",
+      "pub.1017288911",
+      "pub.1058575553",
+      "pub.1060005789",
+      "pub.1020264867"
+    ],
+    "doi": "10.1016/j.econmod.2018.02.015",
+    "year": 2018,
+    "type": "article",
+    "volume": "72",
+    "times_cited": 1,
+    "terms": [
+      "upward trend",
+      "effect",
+      "constraints",
+      "European households",
+      "expectations",
+      "key drivers",
+      "income constraints",
+      "trend",
+      "financial constraints",
+      "ownership decisions",
+      "period",
+      "paper",
+      "positive expectations",
+      "importance",
+      "wealth constraints",
+      "housing prices",
+      "drivers",
+      "price",
+      "households",
+      "homeownership decision",
+      "scenarios",
+      "differential effects",
+      "decision"
+    ],
+    "concepts": [
+      "upward trend",
+      "effect",
+      "constraints",
+      "European households",
+      "expectations",
+      "key drivers",
+      "income constraints",
+      "trend",
+      "financial constraints",
+      "ownership decisions",
+      "period",
+      "paper",
+      "positive expectations",
+      "importance",
+      "wealth constraints",
+      "housing prices",
+      "drivers",
+      "price",
+      "households",
+      "homeownership decision",
+      "scenarios",
+      "differential effects",
+      "decision"
+    ],
+    "issue": "J.\u00a0Hous. Econ. 24 2014",
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "ES",
+        "name": "Spain"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1101524764",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "",
+        "last_name": "OECD",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": []
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "",
+          "last_name": "OECD",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ]
+    ],
+    "id": "pub.1103731209",
+    "book_series_title": "OECD Economic Surveys: Greece",
+    "book_title": "OECD Economic Surveys: Greece 2018",
+    "date": "2018-04-30",
+    "pages": "79-129",
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "issn": [
+      "1999-0286",
+      "19990286"
+    ],
+    "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+    "doi": "10.1787/eco_surveys-grc-2018-5-en",
+    "title": "Boosting investment",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "chapter",
+    "date_inserted": "2018-05-02",
+    "concepts": [
+      "economic recovery",
+      "market competition",
+      "foreign investment",
+      "aggregate investment",
+      "crisis",
+      "public investment",
+      "value chain",
+      "barriers",
+      "regulation",
+      "key policy",
+      "competition",
+      "insolvency reforms",
+      "strategies",
+      "integration",
+      "investment",
+      "standard",
+      "innovation systems",
+      "living standards",
+      "environment",
+      "quality",
+      "banking sector",
+      "sector",
+      "business environment",
+      "long-term strategy",
+      "product market competition",
+      "term strategy",
+      "reform",
+      "problem",
+      "global value chains",
+      "policy",
+      "chain"
+    ],
+    "terms": [
+      "economic recovery",
+      "market competition",
+      "foreign investment",
+      "aggregate investment",
+      "crisis",
+      "public investment",
+      "value chain",
+      "barriers",
+      "regulation",
+      "key policy",
+      "competition",
+      "insolvency reforms",
+      "strategies",
+      "integration",
+      "investment",
+      "standard",
+      "innovation systems",
+      "living standards",
+      "environment",
+      "quality",
+      "banking sector",
+      "sector",
+      "business environment",
+      "long-term strategy",
+      "product market competition",
+      "term strategy",
+      "reform",
+      "problem",
+      "global value chains",
+      "policy",
+      "chain"
+    ],
+    "book_doi": "10.1787/eco_surveys-grc-2018-en",
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1103731209",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-10-15",
+    "recent_citations": 3,
+    "title": "Post Keynesian endogenous money theory: A theoretical and empirical investigation of the credit demand schedule",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "id": "pub.1092213283",
+    "journal": {
+      "id": "jour.1028184",
+      "title": "Journal of Post Keynesian Economics"
+    },
+    "researchers": [
+      {
+        "id": "ur.012301773722.24",
+        "last_name": "Deleidi",
+        "research_orgs": [
+          "grid.8509.4",
+          "grid.83440.3b"
+        ],
+        "first_name": "Matteo"
+      }
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Taylor & Francis",
+    "issn": [
+      "0160-3477",
+      "1557-7821"
+    ],
+    "altmetric_id": 43798352,
+    "pages": "1-25",
+    "funders": [
+      {
+        "id": "grid.270680.b",
+        "acronym": "EC",
+        "name": "European Commission",
+        "country_name": "Belgium"
+      }
+    ],
+    "funder_countries": [
+      {
+        "id": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Matteo",
+        "last_name": "Deleidi",
+        "orcid": "",
+        "current_organization_id": "grid.8509.4",
+        "researcher_id": "ur.012301773722.24",
+        "affiliations": [
+          {
+            "name": "View further author information"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Matteo",
+          "last_name": "Deleidi",
+          "orcid": "",
+          "current_organization_id": "grid.8509.4",
+          "researcher_id": "ur.012301773722.24",
+          "affiliations": [
+            {
+              "name": "View further author information"
+            }
+          ]
+        }
+      ]
+    ],
+    "open_access_categories": [
+      {
+        "id": "closed",
+        "name": "Closed",
+        "description": "No freely available copy has been identified"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2018-04-03",
+    "supporting_grant_ids": [
+      "grant.3938306"
+    ],
+    "reference_ids": [
+      "pub.1049689353",
+      "pub.1069868250",
+      "pub.1028945979",
+      "pub.1001452466",
+      "pub.1069979562",
+      "pub.1067485176",
+      "pub.1044872629",
+      "pub.1013505787",
+      "pub.1039714982",
+      "pub.1035638267",
+      "pub.1040623764",
+      "pub.1052422369",
+      "pub.1069979472",
+      "pub.1069640597",
+      "pub.1050557762",
+      "pub.1059419818",
+      "pub.1108568701",
+      "pub.1012061744",
+      "pub.1069979553",
+      "pub.1070139958",
+      "pub.1011396023",
+      "pub.1051342354",
+      "pub.1051262489",
+      "pub.1006860587",
+      "pub.1010824803",
+      "pub.1011977896",
+      "pub.1069839895",
+      "pub.1107174280",
+      "pub.1049179305",
+      "pub.1025120001",
+      "pub.1004436354",
+      "pub.1070145928",
+      "pub.1041546140",
+      "pub.1069979453",
+      "pub.1028422981",
+      "pub.1083609415",
+      "pub.1027595311",
+      "pub.1083609416",
+      "pub.1031494268"
+    ],
+    "references": [
+      "pub.1049689353",
+      "pub.1069868250",
+      "pub.1028945979",
+      "pub.1001452466",
+      "pub.1069979562",
+      "pub.1067485176",
+      "pub.1044872629",
+      "pub.1013505787",
+      "pub.1039714982",
+      "pub.1035638267",
+      "pub.1040623764",
+      "pub.1052422369",
+      "pub.1069979472",
+      "pub.1069640597",
+      "pub.1050557762",
+      "pub.1059419818",
+      "pub.1108568701",
+      "pub.1012061744",
+      "pub.1069979553",
+      "pub.1070139958",
+      "pub.1011396023",
+      "pub.1051342354",
+      "pub.1051262489",
+      "pub.1006860587",
+      "pub.1010824803",
+      "pub.1011977896",
+      "pub.1069839895",
+      "pub.1107174280",
+      "pub.1049179305",
+      "pub.1025120001",
+      "pub.1004436354",
+      "pub.1070145928",
+      "pub.1041546140",
+      "pub.1069979453",
+      "pub.1028422981",
+      "pub.1083609415",
+      "pub.1027595311",
+      "pub.1083609416",
+      "pub.1031494268"
+    ],
+    "doi": "10.1080/01603477.2017.1338967",
+    "year": 2018,
+    "type": "article",
+    "volume": "41",
+    "altmetric": 2,
+    "times_cited": 3,
+    "terms": [
+      "autoregression",
+      "corresponding interest rates",
+      "advocates",
+      "empirical validation",
+      "enterprises",
+      "different types",
+      "operation",
+      "negative relationship",
+      "demand",
+      "vector autoregression",
+      "article",
+      "influence",
+      "co-operation",
+      "economists",
+      "model",
+      "organization",
+      "central bank",
+      "hand",
+      "degree",
+      "heterodox economists",
+      "certain degree",
+      "main results",
+      "significant relationship",
+      "goods",
+      "vector error-correction model",
+      "error-correction model",
+      "empirical perspective",
+      "perspective",
+      "firms",
+      "purchase",
+      "theoretical premises",
+      "credit demand",
+      "premise",
+      "scholars",
+      "European Central Bank",
+      "development data",
+      "commercial banks",
+      "households",
+      "banks",
+      "house",
+      "Economic Co-operation",
+      "loan amount",
+      "consumption goods",
+      "data",
+      "correction model",
+      "interest rates",
+      "loans",
+      "methodology",
+      "credit",
+      "Eurozone",
+      "effect",
+      "relationship"
+    ],
+    "concepts": [
+      "autoregression",
+      "corresponding interest rates",
+      "advocates",
+      "empirical validation",
+      "enterprises",
+      "different types",
+      "operation",
+      "negative relationship",
+      "demand",
+      "vector autoregression",
+      "article",
+      "influence",
+      "co-operation",
+      "economists",
+      "model",
+      "organization",
+      "central bank",
+      "hand",
+      "degree",
+      "heterodox economists",
+      "certain degree",
+      "main results",
+      "significant relationship",
+      "goods",
+      "vector error-correction model",
+      "error-correction model",
+      "empirical perspective",
+      "perspective",
+      "firms",
+      "purchase",
+      "theoretical premises",
+      "credit demand",
+      "premise",
+      "scholars",
+      "European Central Bank",
+      "development data",
+      "commercial banks",
+      "households",
+      "banks",
+      "house",
+      "Economic Co-operation",
+      "loan amount",
+      "consumption goods",
+      "data",
+      "correction model",
+      "interest rates",
+      "loans",
+      "methodology",
+      "credit",
+      "Eurozone",
+      "effect",
+      "relationship"
+    ],
+    "issue": "2",
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1092213283",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-08-31",
+    "linkout": "https://doi.org/10.1016/j.jfs.2017.06.005",
+    "recent_citations": 14,
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "title": "Identifying excessive credit growth and leverage",
+    "FOR": [
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.434554.7",
+        "acronym": "JRC",
+        "name": "Joint Research Centre",
+        "country_name": "Italy"
+      },
+      {
+        "id": "grid.466644.2",
+        "acronym": "ECB",
+        "name": "European Central Bank",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1090352897",
+    "journal": {
+      "id": "jour.1140797",
+      "title": "Journal of Financial Stability"
+    },
+    "researchers": [
+      {
+        "id": "ur.015205431445.44",
+        "last_name": "Alessi",
+        "research_orgs": [
+          "grid.466644.2",
+          "grid.434554.7"
+        ],
+        "first_name": "Lucia"
+      },
+      {
+        "id": "ur.014720045271.13",
+        "last_name": "Detken",
+        "research_orgs": [
+          "grid.466644.2"
+        ],
+        "first_name": "Carsten"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany",
+      "Italy"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "publisher": "Elsevier",
+    "issn": [
+      "1572-3089",
+      "1878-0962"
+    ],
+    "altmetric_id": 30495599,
+    "pages": "215-225",
+    "authors": [
+      {
+        "first_name": "Lucia",
+        "last_name": "Alessi",
+        "orcid": "",
+        "current_organization_id": "grid.434554.7",
+        "researcher_id": "ur.015205431445.44",
+        "affiliations": [
+          {
+            "id": "grid.434554.7",
+            "name": "Joint Research Centre",
+            "city": "Ispra",
+            "city_id": 3175406,
+            "country": "Italy",
+            "country_code": "IT",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Carsten",
+        "last_name": "Detken",
+        "orcid": "",
+        "current_organization_id": "grid.466644.2",
+        "researcher_id": "ur.014720045271.13",
+        "affiliations": [
+          {
+            "id": "grid.466644.2",
+            "name": "European Central Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Lucia",
+          "last_name": "Alessi",
+          "orcid": "",
+          "current_organization_id": "grid.434554.7",
+          "researcher_id": "ur.015205431445.44",
+          "affiliations": [
+            {
+              "id": "grid.434554.7",
+              "name": "Joint Research Centre",
+              "city": "Ispra",
+              "city_id": 3175406,
+              "country": "Italy",
+              "country_code": "IT",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Carsten",
+          "last_name": "Detken",
+          "orcid": "",
+          "current_organization_id": "grid.466644.2",
+          "researcher_id": "ur.014720045271.13",
+          "affiliations": [
+            {
+              "id": "grid.466644.2",
+              "name": "European Central Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      },
+      {
+        "id": 3175406,
+        "name": "Ispra"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_hybrid",
+        "name": "Hybrid",
+        "description": "Version Of Record (VOR) is free under an open licence in a paid-access journal"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "date": "2018-04-01",
+    "reference_ids": [
+      "pub.1003321884",
+      "pub.1072579974",
+      "pub.1039965300",
+      "pub.1024739340",
+      "pub.1028782972",
+      "pub.1072577966",
+      "pub.1069976418",
+      "pub.1034900984",
+      "pub.1102374139",
+      "pub.1039078771",
+      "pub.1016656915",
+      "pub.1006653455",
+      "pub.1016729644",
+      "pub.1016025294",
+      "pub.1064525628",
+      "pub.1036530239",
+      "pub.1064526893",
+      "pub.1009277733",
+      "pub.1039881018",
+      "pub.1026403258",
+      "pub.1102184002",
+      "pub.1102289409",
+      "pub.1073436594",
+      "pub.1102326825",
+      "pub.1006013158"
+    ],
+    "references": [
+      "pub.1003321884",
+      "pub.1072579974",
+      "pub.1039965300",
+      "pub.1024739340",
+      "pub.1028782972",
+      "pub.1072577966",
+      "pub.1069976418",
+      "pub.1034900984",
+      "pub.1102374139",
+      "pub.1039078771",
+      "pub.1016656915",
+      "pub.1006653455",
+      "pub.1016729644",
+      "pub.1016025294",
+      "pub.1064525628",
+      "pub.1036530239",
+      "pub.1064526893",
+      "pub.1009277733",
+      "pub.1039881018",
+      "pub.1026403258",
+      "pub.1102184002",
+      "pub.1102289409",
+      "pub.1073436594",
+      "pub.1102326825",
+      "pub.1006013158"
+    ],
+    "doi": "10.1016/j.jfs.2017.06.005",
+    "year": 2018,
+    "type": "article",
+    "volume": "35",
+    "altmetric": 1,
+    "times_cited": 22,
+    "terms": [
+      "credit",
+      "challenges",
+      "build-up",
+      "hand",
+      "warning system",
+      "credit development",
+      "real estate variables",
+      "variables",
+      "development",
+      "leverage",
+      "credit growth",
+      "early warning system",
+      "risk",
+      "excessive credit growth",
+      "banking crises",
+      "systemic risk",
+      "crisis",
+      "aggregate leverage",
+      "financial stability",
+      "growth"
+    ],
+    "concepts": [
+      "credit",
+      "challenges",
+      "build-up",
+      "hand",
+      "warning system",
+      "credit development",
+      "real estate variables",
+      "variables",
+      "development",
+      "leverage",
+      "credit growth",
+      "early warning system",
+      "risk",
+      "excessive credit growth",
+      "banking crises",
+      "systemic risk",
+      "crisis",
+      "aggregate leverage",
+      "financial stability",
+      "growth"
+    ],
+    "issue": "Econ. J. 125 585 2014",
+    "research_org_countries": [
+      {
+        "id": "IT",
+        "name": "Italy"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "dimensions_id": "pub.1090352897",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "times_cited": 2,
+    "altmetric_id": 26596945,
+    "authors": [
+      {
+        "first_name": "Franziska",
+        "last_name": "Bremus",
+        "orcid": "",
+        "current_organization_id": "grid.8465.f",
+        "researcher_id": "ur.015212470107.20",
+        "affiliations": [
+          {
+            "id": "grid.8465.f",
+            "name": "German Institute for Economic Research",
+            "city": "Berlin",
+            "city_id": 2950159,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Katja",
+        "last_name": "Neugebauer",
+        "orcid": "",
+        "current_organization_id": "grid.483674.a",
+        "researcher_id": "ur.016504366766.42",
+        "affiliations": [
+          {
+            "id": "grid.483674.a",
+            "name": "Systemic Risk Centre",
+            "city": "London",
+            "city_id": 2643743,
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Franziska",
+          "last_name": "Bremus",
+          "orcid": "",
+          "current_organization_id": "grid.8465.f",
+          "researcher_id": "ur.015212470107.20",
+          "affiliations": [
+            {
+              "id": "grid.8465.f",
+              "name": "German Institute for Economic Research",
+              "city": "Berlin",
+              "city_id": 2950159,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Katja",
+          "last_name": "Neugebauer",
+          "orcid": "",
+          "current_organization_id": "grid.483674.a",
+          "researcher_id": "ur.016504366766.42",
+          "affiliations": [
+            {
+              "id": "grid.483674.a",
+              "name": "Systemic Risk Centre",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2643743,
+        "name": "London"
+      },
+      {
+        "id": 2950159,
+        "name": "Berlin"
+      }
+    ],
+    "id": "pub.1091910649",
+    "research_org_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2018-02-01",
+    "pages": "35-58",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "gold_hybrid",
+        "name": "Hybrid",
+        "description": "Version Of Record (VOR) is free under an open licence in a paid-access journal"
+      }
+    ],
+    "recent_citations": 2,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0261-5606",
+      "1873-0639"
+    ],
+    "publisher": "Elsevier",
+    "funder_countries": [
+      {
+        "id": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "doi": "10.1016/j.jimonfin.2017.09.006",
+    "journal": {
+      "id": "jour.1052483",
+      "title": "Journal of International Money and Finance"
+    },
+    "title": "Reduced cross-border lending and financing costs of SMEs",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      }
+    ],
+    "altmetric": 3,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.015212470107.20",
+        "last_name": "Bremus",
+        "research_orgs": [
+          "grid.8465.f"
+        ],
+        "first_name": "Franziska Maria"
+      },
+      {
+        "id": "ur.016504366766.42",
+        "last_name": "Neugebauer",
+        "research_orgs": [
+          "grid.483674.a"
+        ],
+        "first_name": "Katja"
+      }
+    ],
+    "linkout": "https://doi.org/10.1016/j.jimonfin.2017.09.006",
+    "funders": [
+      {
+        "id": "grid.452969.5",
+        "acronym": "VolkswagenStiftung",
+        "name": "Volkswagen Foundation",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.434257.3",
+        "acronym": "ESRC",
+        "name": "Economic and Social Research Council",
+        "country_name": "United Kingdom"
+      }
+    ],
+    "research_org_country_names": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "date_inserted": "2017-09-28",
+    "supporting_grant_ids": [
+      "grant.2751763"
+    ],
+    "concepts": [
+      "likelihood",
+      "cost",
+      "inflow",
+      "data",
+      "cross-border business",
+      "business",
+      "more pronounced reductions",
+      "survey data",
+      "external financing costs",
+      "credit",
+      "role",
+      "real sector",
+      "level survey data",
+      "information",
+      "firm-level survey data",
+      "financing costs",
+      "rise",
+      "borrowing conditions",
+      "shock",
+      "cross-border lending",
+      "border",
+      "aggregate information",
+      "paper",
+      "small firms",
+      "European firms",
+      "crisis",
+      "firms",
+      "banks",
+      "decline",
+      "lending",
+      "crucial role",
+      "sector",
+      "borrowing costs",
+      "countries"
+    ],
+    "terms": [
+      "likelihood",
+      "cost",
+      "inflow",
+      "data",
+      "cross-border business",
+      "business",
+      "more pronounced reductions",
+      "survey data",
+      "external financing costs",
+      "credit",
+      "role",
+      "real sector",
+      "level survey data",
+      "information",
+      "firm-level survey data",
+      "financing costs",
+      "rise",
+      "borrowing conditions",
+      "shock",
+      "cross-border lending",
+      "border",
+      "aggregate information",
+      "paper",
+      "small firms",
+      "European firms",
+      "crisis",
+      "firms",
+      "banks",
+      "decline",
+      "lending",
+      "crucial role",
+      "sector",
+      "borrowing costs",
+      "countries"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3342",
+        "name": "1503 Business and Management"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - publisher",
+      "Open Access - published"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.483674.a",
+        "acronym": "SRC",
+        "name": "Systemic Risk Centre",
+        "country_name": "United Kingdom"
+      },
+      {
+        "id": "grid.8465.f",
+        "acronym": "DIW Berlin",
+        "name": "German Institute for Economic Research",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1050825098",
+      "pub.1036733831",
+      "pub.1040229901",
+      "pub.1060004827",
+      "pub.1099108436",
+      "pub.1023779412",
+      "pub.1060064794",
+      "pub.1069991709",
+      "pub.1013345017",
+      "pub.1047035903",
+      "pub.1051235155",
+      "pub.1037347438",
+      "pub.1047581409",
+      "pub.1007545861",
+      "pub.1030726943",
+      "pub.1006850166",
+      "pub.1033159311",
+      "pub.1032882197",
+      "pub.1047518359",
+      "pub.1063349052",
+      "pub.1006940082",
+      "pub.1018635704",
+      "pub.1071225216",
+      "pub.1060013077",
+      "pub.1002660550",
+      "pub.1030054477",
+      "pub.1063348798",
+      "pub.1008766671",
+      "pub.1110073754",
+      "pub.1059568703",
+      "pub.1064527660",
+      "pub.1003712213",
+      "pub.1043510150",
+      "pub.1090553854",
+      "pub.1060006684",
+      "pub.1102191250",
+      "pub.1043082280",
+      "pub.1032312305",
+      "pub.1070400299"
+    ],
+    "reference_ids": [
+      "pub.1050825098",
+      "pub.1036733831",
+      "pub.1040229901",
+      "pub.1060004827",
+      "pub.1099108436",
+      "pub.1023779412",
+      "pub.1060064794",
+      "pub.1069991709",
+      "pub.1013345017",
+      "pub.1047035903",
+      "pub.1051235155",
+      "pub.1037347438",
+      "pub.1047581409",
+      "pub.1007545861",
+      "pub.1030726943",
+      "pub.1006850166",
+      "pub.1033159311",
+      "pub.1032882197",
+      "pub.1047518359",
+      "pub.1063349052",
+      "pub.1006940082",
+      "pub.1018635704",
+      "pub.1071225216",
+      "pub.1060013077",
+      "pub.1002660550",
+      "pub.1030054477",
+      "pub.1063348798",
+      "pub.1008766671",
+      "pub.1110073754",
+      "pub.1059568703",
+      "pub.1064527660",
+      "pub.1003712213",
+      "pub.1043510150",
+      "pub.1090553854",
+      "pub.1060006684",
+      "pub.1102191250",
+      "pub.1043082280",
+      "pub.1032312305",
+      "pub.1070400299"
+    ],
+    "volume": "80",
+    "dimensions_id": "pub.1091910649",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 2,
+    "category_rcdc": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "RCDC": [
+      {
+        "id": "507",
+        "name": "Clinical Research"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Elias",
+        "last_name": "Bengtsson",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.73638.39",
+            "name": "Halmstad University",
+            "city": "Halmstad",
+            "city_id": 2708365,
+            "country": "Sweden",
+            "country_code": "SE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Magdalena",
+        "last_name": "Grothe",
+        "orcid": "",
+        "current_organization_id": "grid.466644.2",
+        "researcher_id": "ur.014452571573.47",
+        "affiliations": [
+          {
+            "id": "grid.466644.2",
+            "name": "European Central Bank",
+            "city": "Frankfurt am Main",
+            "city_id": 2925533,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "Etienne",
+        "last_name": "Lepers",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "",
+        "affiliations": [
+          {
+            "id": "grid.36193.3e",
+            "name": "Organisation For Economic Co-Operation and Development",
+            "city": "Paris",
+            "city_id": 2988507,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Elias",
+          "last_name": "Bengtsson",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.73638.39",
+              "name": "Halmstad University",
+              "city": "Halmstad",
+              "city_id": 2708365,
+              "country": "Sweden",
+              "country_code": "SE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Magdalena",
+          "last_name": "Grothe",
+          "orcid": "",
+          "current_organization_id": "grid.466644.2",
+          "researcher_id": "ur.014452571573.47",
+          "affiliations": [
+            {
+              "id": "grid.466644.2",
+              "name": "European Central Bank",
+              "city": "Frankfurt am Main",
+              "city_id": 2925533,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Etienne",
+          "last_name": "Lepers",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.36193.3e",
+              "name": "Organisation For Economic Co-Operation and Development",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      },
+      {
+        "id": 2988507,
+        "name": "Paris"
+      },
+      {
+        "id": 2708365,
+        "name": "Halmstad"
+      }
+    ],
+    "id": "pub.1100769578",
+    "research_org_countries": [
+      {
+        "id": "FR",
+        "name": "France"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      },
+      {
+        "id": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "date": "2018-02-01",
+    "pages": "105268",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 2,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jbankfin.2017.12.006",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "title": "Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.014452571573.47",
+        "last_name": "Grothe",
+        "research_orgs": [
+          "grid.466644.2"
+        ],
+        "first_name": "Magdalena"
+      }
+    ],
+    "linkout": "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp2096.en.pdf",
+    "research_org_country_names": [
+      "Germany",
+      "France",
+      "Sweden"
+    ],
+    "date_inserted": "2018-02-03",
+    "concepts": [
+      "forecasting performance",
+      "valuation",
+      "measures",
+      "warning signal",
+      "purpose",
+      "performance",
+      "free way",
+      "framework",
+      "crisis",
+      "early warning signals",
+      "model-free way",
+      "way",
+      "estate sector",
+      "credit cycle",
+      "vulnerability measures",
+      "paper",
+      "real estate sector",
+      "household indebtedness",
+      "residential real estate sector",
+      "indebtedness",
+      "dimensions",
+      "cycles",
+      "vulnerability",
+      "real estate crisis",
+      "sector",
+      "indicators",
+      "sector\u2019s vulnerability",
+      "better forecasting performance",
+      "model",
+      "policy purposes"
+    ],
+    "terms": [
+      "forecasting performance",
+      "valuation",
+      "measures",
+      "warning signal",
+      "purpose",
+      "performance",
+      "free way",
+      "framework",
+      "crisis",
+      "early warning signals",
+      "model-free way",
+      "way",
+      "estate sector",
+      "credit cycle",
+      "vulnerability measures",
+      "paper",
+      "real estate sector",
+      "household indebtedness",
+      "residential real estate sector",
+      "indebtedness",
+      "dimensions",
+      "cycles",
+      "vulnerability",
+      "real estate crisis",
+      "sector",
+      "indicators",
+      "sector\u2019s vulnerability",
+      "better forecasting performance",
+      "model",
+      "policy purposes"
+    ],
+    "year": 2018,
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.466644.2",
+        "acronym": "ECB",
+        "name": "European Central Bank",
+        "country_name": "Germany"
+      },
+      {
+        "id": "grid.36193.3e",
+        "acronym": "OECD",
+        "name": "Organisation For Economic Co-Operation and Development",
+        "country_name": "France"
+      },
+      {
+        "id": "grid.73638.39",
+        "name": "Halmstad University",
+        "country_name": "Sweden"
+      }
+    ],
+    "references": [
+      "pub.1102289409",
+      "pub.1073453864",
+      "pub.1011036217",
+      "pub.1026403258",
+      "pub.1045609017",
+      "pub.1019056117",
+      "pub.1073275397",
+      "pub.1011034147",
+      "pub.1027322050",
+      "pub.1102287779",
+      "pub.1099493355",
+      "pub.1035156365",
+      "pub.1064525054",
+      "pub.1020264867",
+      "pub.1072584261",
+      "pub.1016285556",
+      "pub.1036892979",
+      "pub.1102257704",
+      "pub.1064525537",
+      "pub.1110073262",
+      "pub.1047766074",
+      "pub.1064530703",
+      "pub.1025842608"
+    ],
+    "reference_ids": [
+      "pub.1102289409",
+      "pub.1073453864",
+      "pub.1011036217",
+      "pub.1026403258",
+      "pub.1045609017",
+      "pub.1019056117",
+      "pub.1073275397",
+      "pub.1011034147",
+      "pub.1027322050",
+      "pub.1102287779",
+      "pub.1099493355",
+      "pub.1035156365",
+      "pub.1064525054",
+      "pub.1020264867",
+      "pub.1072584261",
+      "pub.1016285556",
+      "pub.1036892979",
+      "pub.1102257704",
+      "pub.1064525537",
+      "pub.1110073262",
+      "pub.1047766074",
+      "pub.1064530703",
+      "pub.1025842608"
+    ],
+    "issue": "J. Hous. Econ. 20 2011",
+    "dimensions_id": "pub.1100769578",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "date_inserted": "2017-11-17",
+    "linkout": "https://www.econstor.eu/bitstream/10419/149646/1/877995389.pdf",
+    "recent_citations": 2,
+    "research_org_state_names": [
+      "Hesse"
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "title": "WILL GERMAN BANKS EARN THEIR COST OF CAPITAL?",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.434239.b",
+        "acronym": "ESMT",
+        "name": "European School of Management and Technology",
+        "country_name": "Germany"
+      }
+    ],
+    "id": "pub.1092706764",
+    "journal": {
+      "id": "jour.1027076",
+      "title": "Contemporary Economic Policy"
+    },
+    "researchers": [
+      {
+        "id": "ur.07621020132.59",
+        "last_name": "Dombret",
+        "research_orgs": [
+          "grid.478692.6"
+        ],
+        "first_name": "Andreas"
+      },
+      {
+        "id": "ur.014026724501.23",
+        "last_name": "G\u00fcnd\u00fcz",
+        "orcid_id": [
+          "0000-0003-4173-3625"
+        ],
+        "research_orgs": [
+          "grid.478692.6",
+          "grid.7892.4"
+        ],
+        "first_name": "Yalin"
+      },
+      {
+        "id": "ur.016202426112.71",
+        "last_name": "Rocholl",
+        "research_orgs": [
+          "grid.434239.b"
+        ],
+        "first_name": "J\u00f6rg"
+      }
+    ],
+    "research_org_country_names": [
+      "Germany"
+    ],
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015"
+    ],
+    "publisher": "Wiley",
+    "issn": [
+      "1074-3529",
+      "1465-7287"
+    ],
+    "field_citation_ratio": 3.06,
+    "authors": [
+      {
+        "first_name": "Andreas",
+        "last_name": "Dombret",
+        "orcid": "",
+        "current_organization_id": "",
+        "researcher_id": "ur.07621020132.59",
+        "affiliations": [
+          {
+            "name": "Member of the Executive Board, Deutsche Bundesbank Frankfurt 60431 Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "Yalin",
+        "last_name": "G\u00fcnd\u00fcz",
+        "orcid": "['0000-0003-4173-3625']",
+        "current_organization_id": "grid.478692.6",
+        "researcher_id": "ur.014026724501.23",
+        "affiliations": [
+          {
+            "name": "Senior Research Economist, Deutsche Bundesbank Frankfurt 60431 Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "J\u00f6rg",
+        "last_name": "Rocholl",
+        "orcid": "",
+        "current_organization_id": "grid.434239.b",
+        "researcher_id": "ur.016202426112.71",
+        "affiliations": [
+          {
+            "id": "grid.434239.b",
+            "name": "European School of Management and Technology",
+            "city": "Berlin",
+            "city_id": 2950159,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Andreas",
+          "last_name": "Dombret",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.07621020132.59",
+          "affiliations": [
+            {
+              "name": "Member of the Executive Board, Deutsche Bundesbank Frankfurt 60431 Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Yalin",
+          "last_name": "G\u00fcnd\u00fcz",
+          "orcid": "['0000-0003-4173-3625']",
+          "current_organization_id": "grid.478692.6",
+          "researcher_id": "ur.014026724501.23",
+          "affiliations": [
+            {
+              "name": "Senior Research Economist, Deutsche Bundesbank Frankfurt 60431 Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "J\u00f6rg",
+          "last_name": "Rocholl",
+          "orcid": "",
+          "current_organization_id": "grid.434239.b",
+          "researcher_id": "ur.016202426112.71",
+          "affiliations": [
+            {
+              "id": "grid.434239.b",
+              "name": "European School of Management and Technology",
+              "city": "Berlin",
+              "city_id": 2950159,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2925533,
+        "name": "Frankfurt am Main"
+      },
+      {
+        "id": 2950159,
+        "name": "Berlin"
+      }
+    ],
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "date": "2017-11-15",
+    "reference_ids": [
+      "pub.1039327800",
+      "pub.1040268216",
+      "pub.1105003898",
+      "pub.1041692212",
+      "pub.1037141307",
+      "pub.1086066193",
+      "pub.1052014421",
+      "pub.1067433886",
+      "pub.1042064374",
+      "pub.1036275721",
+      "pub.1092594200",
+      "pub.1050287225",
+      "pub.1030062504",
+      "pub.1091658604",
+      "pub.1030388777"
+    ],
+    "references": [
+      "pub.1039327800",
+      "pub.1040268216",
+      "pub.1105003898",
+      "pub.1041692212",
+      "pub.1037141307",
+      "pub.1086066193",
+      "pub.1052014421",
+      "pub.1067433886",
+      "pub.1042064374",
+      "pub.1036275721",
+      "pub.1092594200",
+      "pub.1050287225",
+      "pub.1030062504",
+      "pub.1091658604",
+      "pub.1030388777"
+    ],
+    "doi": "10.1111/coep.12266",
+    "year": 2017,
+    "type": "article",
+    "times_cited": 3,
+    "terms": [
+      "challenges",
+      "capital",
+      "interest rate margins",
+      "accounting standards",
+      "sector",
+      "determinants",
+      "particular determinants",
+      "specific challenges",
+      "global financial crisis",
+      "major challenge",
+      "German banking sector",
+      "Term Adjustment",
+      "G21",
+      "paper",
+      "future outlook",
+      "adjustment",
+      "Rate Margins",
+      "income",
+      "banking sector",
+      "open reserves",
+      "special features",
+      "recent developments",
+      "scenarios",
+      "tool",
+      "G28",
+      "German accounting standards",
+      "medium-term adjustment",
+      "crisis",
+      "extent",
+      "decline",
+      "rate scenario",
+      "reserves",
+      "European debt crisis",
+      "rate",
+      "considerable period",
+      "interest rate scenarios",
+      "outlook",
+      "such levels",
+      "interest rates",
+      "JEL G21",
+      "cost",
+      "years",
+      "cushion",
+      "different interest rate scenarios",
+      "period",
+      "decades",
+      "low levels",
+      "standard",
+      "financial crisis",
+      "margin",
+      "banks",
+      "debt crisis",
+      "levels",
+      "development",
+      "German banks",
+      "further narrowing",
+      "short-",
+      "fact",
+      "recent years",
+      "interest income",
+      "effect"
+    ],
+    "concepts": [
+      "challenges",
+      "capital",
+      "interest rate margins",
+      "accounting standards",
+      "sector",
+      "determinants",
+      "particular determinants",
+      "specific challenges",
+      "global financial crisis",
+      "major challenge",
+      "German banking sector",
+      "Term Adjustment",
+      "G21",
+      "paper",
+      "future outlook",
+      "adjustment",
+      "Rate Margins",
+      "income",
+      "banking sector",
+      "open reserves",
+      "special features",
+      "recent developments",
+      "scenarios",
+      "tool",
+      "G28",
+      "German accounting standards",
+      "medium-term adjustment",
+      "crisis",
+      "extent",
+      "decline",
+      "rate scenario",
+      "reserves",
+      "European debt crisis",
+      "rate",
+      "considerable period",
+      "interest rate scenarios",
+      "outlook",
+      "such levels",
+      "interest rates",
+      "JEL G21",
+      "cost",
+      "years",
+      "cushion",
+      "different interest rate scenarios",
+      "period",
+      "decades",
+      "low levels",
+      "standard",
+      "financial crisis",
+      "margin",
+      "banks",
+      "debt crisis",
+      "levels",
+      "development",
+      "German banks",
+      "further narrowing",
+      "short-",
+      "fact",
+      "recent years",
+      "interest income",
+      "effect"
+    ],
+    "research_org_countries": [
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "category_for": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "dimensions_id": "pub.1092706764",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      }
+    ],
+    "times_cited": 5,
+    "field_citation_ratio": 4.92,
+    "authors": [
+      {
+        "first_name": "Ekkehard",
+        "last_name": "Ernst",
+        "orcid": "",
+        "current_organization_id": "grid.6612.3",
+        "researcher_id": "ur.016324050622.97",
+        "affiliations": [
+          {
+            "name": "Research Department, International Labor Organization, Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "first_name": "Willi",
+        "last_name": "Semmler",
+        "orcid": "",
+        "current_organization_id": "grid.264933.9",
+        "researcher_id": "ur.011161140055.15",
+        "affiliations": [
+          {
+            "id": "grid.264933.9",
+            "name": "New School",
+            "city": "New York",
+            "city_id": 5128581,
+            "country": "United States",
+            "country_code": "US",
+            "state": "New York",
+            "state_code": "US-NY"
+          },
+          {
+            "id": "grid.7491.b",
+            "name": "Bielefeld University",
+            "city": "Bielefeld",
+            "city_id": 2949186,
+            "country": "Germany",
+            "country_code": "DE",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "name": "ZEW Mannheim, Germany"
+          }
+        ]
+      },
+      {
+        "first_name": "Alexander",
+        "last_name": "Haider",
+        "orcid": "['0000-0003-1820-8099']",
+        "current_organization_id": "grid.264933.9",
+        "researcher_id": "ur.011472305655.28",
+        "affiliations": [
+          {
+            "id": "grid.264933.9",
+            "name": "New School",
+            "city": "New York",
+            "city_id": 5128581,
+            "country": "United States",
+            "country_code": "US",
+            "state": "New York",
+            "state_code": "US-NY"
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "Ekkehard",
+          "last_name": "Ernst",
+          "orcid": "",
+          "current_organization_id": "grid.6612.3",
+          "researcher_id": "ur.016324050622.97",
+          "affiliations": [
+            {
+              "name": "Research Department, International Labor Organization, Geneva, Switzerland"
+            }
+          ]
+        },
+        {
+          "first_name": "Willi",
+          "last_name": "Semmler",
+          "orcid": "",
+          "current_organization_id": "grid.264933.9",
+          "researcher_id": "ur.011161140055.15",
+          "affiliations": [
+            {
+              "id": "grid.264933.9",
+              "name": "New School",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            },
+            {
+              "id": "grid.7491.b",
+              "name": "Bielefeld University",
+              "city": "Bielefeld",
+              "city_id": 2949186,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "name": "ZEW Mannheim, Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Haider",
+          "orcid": "['0000-0003-1820-8099']",
+          "current_organization_id": "grid.264933.9",
+          "researcher_id": "ur.011472305655.28",
+          "affiliations": [
+            {
+              "id": "grid.264933.9",
+              "name": "New School",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2949186,
+        "name": "Bielefeld"
+      },
+      {
+        "id": 2873891,
+        "name": "Mannheim"
+      },
+      {
+        "id": 5128581,
+        "name": "New York City"
+      },
+      {
+        "id": 2660646,
+        "name": "Gen\u00e8ve"
+      }
+    ],
+    "id": "pub.1084845637",
+    "research_org_countries": [
+      {
+        "id": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "id": "US",
+        "name": "United States"
+      },
+      {
+        "id": "DE",
+        "name": "Germany"
+      }
+    ],
+    "date": "2017-08-01",
+    "pages": "115-139",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 4,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0165-1889",
+      "1879-1743"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jedc.2017.03.013",
+    "journal": {
+      "id": "jour.1027784",
+      "title": "Journal of Economic Dynamics and Control"
+    },
+    "title": "Debt-deflation, financial market stress and regime change \u2013 Evidence from Europe using MRVAR",
+    "FOR": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      }
+    ],
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.016324050622.97",
+        "last_name": "Ernst",
+        "research_orgs": [
+          "grid.6612.3"
+        ],
+        "first_name": "Ekkehard"
+      },
+      {
+        "id": "ur.011161140055.15",
+        "last_name": "Semmler",
+        "research_orgs": [
+          "grid.117476.2",
+          "grid.5329.d",
+          "grid.15788.33",
+          "grid.11951.3d",
+          "grid.7491.b",
+          "grid.75276.31",
+          "grid.264933.9",
+          "grid.212340.6"
+        ],
+        "first_name": "Willi"
+      },
+      {
+        "id": "ur.011472305655.28",
+        "last_name": "Haider",
+        "orcid_id": [
+          "0000-0003-1820-8099"
+        ],
+        "research_orgs": [
+          "grid.264933.9"
+        ],
+        "first_name": "Alexander"
+      }
+    ],
+    "linkout": "https://ub-madoc.bib.uni-mannheim.de/40957/1/dp16030.pdf",
+    "research_org_country_names": [
+      "Germany",
+      "United States",
+      "Switzerland"
+    ],
+    "date_inserted": "2017-08-31",
+    "research_org_state_codes": [
+      {
+        "id": "US-NY",
+        "name": "New York"
+      }
+    ],
+    "concepts": [
+      "regime",
+      "model variants",
+      "GIRF",
+      "real interest rates",
+      "new measure",
+      "measures",
+      "euro area countries",
+      "high financial stress",
+      "growth",
+      "dynamics",
+      "overhang",
+      "financial market stress",
+      "drivers",
+      "disinflation",
+      "interest rates",
+      "unstable dynamics",
+      "EU countries",
+      "market",
+      "countries",
+      "Northern EU countries",
+      "new solution procedure",
+      "econometric results",
+      "deflation",
+      "economic meltdown",
+      "risk",
+      "problem",
+      "linkage",
+      "downward spiral",
+      "income decline",
+      "meltdown",
+      "Linear Model Predictive Control",
+      "debt-deflation",
+      "market stress",
+      "debt overhang",
+      "solution procedure",
+      "labor",
+      "Non-linear Model Predictive Control",
+      "matching mechanism",
+      "var",
+      "area countries",
+      "financial stress",
+      "impulse-response functions",
+      "change model",
+      "financial markets",
+      "large debt overhang",
+      "risk drivers",
+      "feedback loop",
+      "model",
+      "theoretical model",
+      "output",
+      "economy",
+      "credit spreads",
+      "spread",
+      "response function",
+      "steady-state dynamics",
+      "insolvency risk",
+      "higher insolvency risk",
+      "inflation rate",
+      "consequence"
+    ],
+    "terms": [
+      "regime",
+      "model variants",
+      "GIRF",
+      "real interest rates",
+      "new measure",
+      "measures",
+      "euro area countries",
+      "high financial stress",
+      "growth",
+      "dynamics",
+      "overhang",
+      "financial market stress",
+      "drivers",
+      "disinflation",
+      "interest rates",
+      "unstable dynamics",
+      "EU countries",
+      "market",
+      "countries",
+      "Northern EU countries",
+      "new solution procedure",
+      "econometric results",
+      "deflation",
+      "economic meltdown",
+      "risk",
+      "problem",
+      "linkage",
+      "downward spiral",
+      "income decline",
+      "meltdown",
+      "Linear Model Predictive Control",
+      "debt-deflation",
+      "market stress",
+      "debt overhang",
+      "solution procedure",
+      "labor",
+      "Non-linear Model Predictive Control",
+      "matching mechanism",
+      "var",
+      "area countries",
+      "financial stress",
+      "impulse-response functions",
+      "change model",
+      "financial markets",
+      "large debt overhang",
+      "risk drivers",
+      "feedback loop",
+      "model",
+      "theoretical model",
+      "output",
+      "economy",
+      "credit spreads",
+      "spread",
+      "response function",
+      "steady-state dynamics",
+      "insolvency risk",
+      "higher insolvency risk",
+      "inflation rate",
+      "consequence"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2215",
+        "name": "15 Commerce, Management, Tourism and Services"
+      },
+      {
+        "id": "3335",
+        "name": "1502 Banking, Finance and Investment"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.264933.9",
+        "name": "New School",
+        "country_name": "United States"
+      },
+      {
+        "id": "grid.7491.b",
+        "name": "Bielefeld University",
+        "country_name": "Germany"
+      }
+    ],
+    "references": [
+      "pub.1064524346",
+      "pub.1034381957",
+      "pub.1033970459",
+      "pub.1019563515",
+      "pub.1005416382",
+      "pub.1102371144",
+      "pub.1064527802",
+      "pub.1021580827",
+      "pub.1050674928",
+      "pub.1009085508",
+      "pub.1051002956",
+      "pub.1050930866",
+      "pub.1090418393",
+      "pub.1030350269",
+      "pub.1042416090",
+      "pub.1098729045",
+      "pub.1072583881",
+      "pub.1064531454",
+      "pub.1069623846",
+      "pub.1010648572",
+      "pub.1016043993",
+      "pub.1069636798",
+      "pub.1048680967",
+      "pub.1016676329",
+      "pub.1009428964",
+      "pub.1042524778",
+      "pub.1000466364",
+      "pub.1050976081",
+      "pub.1045520708",
+      "pub.1064526196",
+      "pub.1051099289",
+      "pub.1010044261",
+      "pub.1045807916",
+      "pub.1049331734",
+      "pub.1037884490",
+      "pub.1072584305",
+      "pub.1003219863",
+      "pub.1019820879",
+      "pub.1102406665",
+      "pub.1037268378"
+    ],
+    "reference_ids": [
+      "pub.1064524346",
+      "pub.1034381957",
+      "pub.1033970459",
+      "pub.1019563515",
+      "pub.1005416382",
+      "pub.1102371144",
+      "pub.1064527802",
+      "pub.1021580827",
+      "pub.1050674928",
+      "pub.1009085508",
+      "pub.1051002956",
+      "pub.1050930866",
+      "pub.1090418393",
+      "pub.1030350269",
+      "pub.1042416090",
+      "pub.1098729045",
+      "pub.1072583881",
+      "pub.1064531454",
+      "pub.1069623846",
+      "pub.1010648572",
+      "pub.1016043993",
+      "pub.1069636798",
+      "pub.1048680967",
+      "pub.1016676329",
+      "pub.1009428964",
+      "pub.1042524778",
+      "pub.1000466364",
+      "pub.1050976081",
+      "pub.1045520708",
+      "pub.1064526196",
+      "pub.1051099289",
+      "pub.1010044261",
+      "pub.1045807916",
+      "pub.1049331734",
+      "pub.1037884490",
+      "pub.1072584305",
+      "pub.1003219863",
+      "pub.1019820879",
+      "pub.1102406665",
+      "pub.1037268378"
+    ],
+    "research_org_state_names": [
+      "Geneva",
+      "New York"
+    ],
+    "volume": "81",
+    "dimensions_id": "pub.1084845637",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  },
+  {
+    "FOR_first": [
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "times_cited": 5,
+    "altmetric_id": 19787749,
+    "field_citation_ratio": 4.54,
+    "authors": [
+      {
+        "first_name": "S.",
+        "last_name": "Avouyi-Dovi",
+        "orcid": "",
+        "current_organization_id": "grid.466529.a",
+        "researcher_id": "ur.016171311066.57",
+        "affiliations": [
+          {
+            "id": "grid.466529.a",
+            "name": "Banque de France",
+            "city": "Paris",
+            "city_id": 2988507,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          },
+          {
+            "id": "grid.11024.36",
+            "name": "Paris Dauphine University",
+            "city": "Paris",
+            "city_id": 2988507,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "G.",
+        "last_name": "Horny",
+        "orcid": "['0000-0002-3506-208X']",
+        "current_organization_id": "grid.466529.a",
+        "researcher_id": "ur.011545333326.94",
+        "affiliations": [
+          {
+            "id": "grid.466529.a",
+            "name": "Banque de France",
+            "city": "Paris",
+            "city_id": 2988507,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      },
+      {
+        "first_name": "P.",
+        "last_name": "Sevestre",
+        "orcid": "",
+        "current_organization_id": "grid.5399.6",
+        "researcher_id": "ur.015511376756.28",
+        "affiliations": [
+          {
+            "id": "grid.5399.6",
+            "name": "Aix-Marseille University",
+            "city": "Marseille",
+            "city_id": 2995469,
+            "country": "France",
+            "country_code": "FR",
+            "state": null,
+            "state_code": null
+          }
+        ]
+      }
+    ],
+    "author_affiliations": [
+      [
+        {
+          "first_name": "S.",
+          "last_name": "Avouyi-Dovi",
+          "orcid": "",
+          "current_organization_id": "grid.466529.a",
+          "researcher_id": "ur.016171311066.57",
+          "affiliations": [
+            {
+              "id": "grid.466529.a",
+              "name": "Banque de France",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.11024.36",
+              "name": "Paris Dauphine University",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "G.",
+          "last_name": "Horny",
+          "orcid": "['0000-0002-3506-208X']",
+          "current_organization_id": "grid.466529.a",
+          "researcher_id": "ur.011545333326.94",
+          "affiliations": [
+            {
+              "id": "grid.466529.a",
+              "name": "Banque de France",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "P.",
+          "last_name": "Sevestre",
+          "orcid": "",
+          "current_organization_id": "grid.5399.6",
+          "researcher_id": "ur.015511376756.28",
+          "affiliations": [
+            {
+              "id": "grid.5399.6",
+              "name": "Aix-Marseille University",
+              "city": "Marseille",
+              "city_id": 2995469,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ]
+    ],
+    "research_org_cities": [
+      {
+        "id": 2988507,
+        "name": "Paris"
+      },
+      {
+        "id": 2995469,
+        "name": "Marseille"
+      }
+    ],
+    "id": "pub.1084085177",
+    "research_org_countries": [
+      {
+        "id": "FR",
+        "name": "France"
+      }
+    ],
+    "date": "2017-06-01",
+    "pages": "74-94",
+    "open_access_categories": [
+      {
+        "id": "oa_all",
+        "name": "All OA",
+        "description": "Article is freely available"
+      },
+      {
+        "id": "green_sub",
+        "name": "Green, Submitted",
+        "description": "Free copy of submitted version, or where version is unknown, in an OA repository"
+      }
+    ],
+    "recent_citations": 3,
+    "journal_lists": [
+      "Norwegian register level 1",
+      "ERA 2015",
+      "VABB-SHW"
+    ],
+    "issn": [
+      "0378-4266",
+      "1872-6372"
+    ],
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jbankfin.2015.04.020",
+    "journal": {
+      "id": "jour.1048342",
+      "title": "Journal of Banking & Finance"
+    },
+    "title": "The stability of short-term interest rates pass-through in the euro area during the financial market and sovereign debt crises",
+    "FOR": [
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      }
+    ],
+    "altmetric": 2,
+    "type": "article",
+    "researchers": [
+      {
+        "id": "ur.016171311066.57",
+        "last_name": "Avouyi-Dovi",
+        "research_orgs": [
+          "grid.11024.36",
+          "grid.433068.a",
+          "grid.466529.a"
+        ],
+        "first_name": "Sanvi"
+      },
+      {
+        "id": "ur.011545333326.94",
+        "last_name": "Horny",
+        "orcid_id": [
+          "0000-0002-3506-208X"
+        ],
+        "research_orgs": [
+          "grid.7942.8",
+          "grid.466529.a"
+        ],
+        "first_name": "Guillaume"
+      },
+      {
+        "id": "ur.015511376756.28",
+        "last_name": "Sevestre",
+        "research_orgs": [
+          "grid.5399.6"
+        ],
+        "first_name": "Patrick"
+      }
+    ],
+    "linkout": "https://basepub.dauphine.fr//bitstream/123456789/15030/1/DT-547_01.pdf",
+    "research_org_country_names": [
+      "France"
+    ],
+    "date_inserted": "2017-08-31",
+    "concepts": [
+      "banks",
+      "area",
+      "Portugal",
+      "model",
+      "monthly database",
+      "dynamics",
+      "long-run relationship",
+      "analysis",
+      "contrary",
+      "VAR model",
+      "large firms",
+      "new ones",
+      "run relationships",
+      "bank lending rates",
+      "new deposits",
+      "slowdown",
+      "Spain",
+      "approach",
+      "small firms",
+      "Germany",
+      "risk",
+      "firms",
+      "non-financial corporations",
+      "variance",
+      "banks\u2019 risk",
+      "loans",
+      "effect",
+      "correction approach",
+      "France",
+      "framework",
+      "Markov chain Monte Carlo methods",
+      "development",
+      "cost",
+      "stochastic volatility",
+      "pass-through",
+      "financial corporations",
+      "unexpected variances",
+      "debt crisis",
+      "interest rates",
+      "view",
+      "short-term loans",
+      "money market rates",
+      "impediments",
+      "Bayesian framework",
+      "heterogeneity",
+      "transmission mechanism",
+      "countries",
+      "lending rates",
+      "literature",
+      "Italy",
+      "banks\u2019 lending rates",
+      "term loans",
+      "Through",
+      "error-correction approach",
+      "crisis",
+      "marginal cost",
+      "monetary rates",
+      "relationship",
+      "corporations",
+      "market rates",
+      "volatility",
+      "Euro area",
+      "sovereign debt crisis",
+      "shock",
+      "new loans",
+      "Greece",
+      "one"
+    ],
+    "terms": [
+      "banks",
+      "area",
+      "Portugal",
+      "model",
+      "monthly database",
+      "dynamics",
+      "long-run relationship",
+      "analysis",
+      "contrary",
+      "VAR model",
+      "large firms",
+      "new ones",
+      "run relationships",
+      "bank lending rates",
+      "new deposits",
+      "slowdown",
+      "Spain",
+      "approach",
+      "small firms",
+      "Germany",
+      "risk",
+      "firms",
+      "non-financial corporations",
+      "variance",
+      "banks\u2019 risk",
+      "loans",
+      "effect",
+      "correction approach",
+      "France",
+      "framework",
+      "Markov chain Monte Carlo methods",
+      "development",
+      "cost",
+      "stochastic volatility",
+      "pass-through",
+      "financial corporations",
+      "unexpected variances",
+      "debt crisis",
+      "interest rates",
+      "view",
+      "short-term loans",
+      "money market rates",
+      "impediments",
+      "Bayesian framework",
+      "heterogeneity",
+      "transmission mechanism",
+      "countries",
+      "lending rates",
+      "literature",
+      "Italy",
+      "banks\u2019 lending rates",
+      "term loans",
+      "Through",
+      "error-correction approach",
+      "crisis",
+      "marginal cost",
+      "monetary rates",
+      "relationship",
+      "corporations",
+      "market rates",
+      "volatility",
+      "Euro area",
+      "sovereign debt crisis",
+      "shock",
+      "new loans",
+      "Greece",
+      "one"
+    ],
+    "year": 2017,
+    "category_for": [
+      {
+        "id": "3313",
+        "name": "1403 Econometrics"
+      },
+      {
+        "id": "3292",
+        "name": "1402 Applied Economics"
+      },
+      {
+        "id": "2214",
+        "name": "14 Economics"
+      }
+    ],
+    "open_access": [
+      "Open Access - all",
+      "Open Access - repository",
+      "Open Access - submitted"
+    ],
+    "research_orgs": [
+      {
+        "id": "grid.5399.6",
+        "acronym": "AMU",
+        "name": "Aix-Marseille University",
+        "country_name": "France"
+      },
+      {
+        "id": "grid.11024.36",
+        "name": "Paris Dauphine University",
+        "country_name": "France"
+      },
+      {
+        "id": "grid.466529.a",
+        "name": "Banque de France",
+        "country_name": "France"
+      }
+    ],
+    "references": [
+      "pub.1027456616",
+      "pub.1017118300",
+      "pub.1064525821",
+      "pub.1068000539",
+      "pub.1022719037",
+      "pub.1017640923",
+      "pub.1068672108",
+      "pub.1001404001",
+      "pub.1071466613",
+      "pub.1039598216",
+      "pub.1015305160",
+      "pub.1028669604",
+      "pub.1041908567",
+      "pub.1048142396",
+      "pub.1110457983",
+      "pub.1039606491",
+      "pub.1070466527",
+      "pub.1035519160",
+      "pub.1044273826",
+      "pub.1004033280",
+      "pub.1061936602",
+      "pub.1070020846",
+      "pub.1013093969",
+      "pub.1059420588",
+      "pub.1064527153",
+      "pub.1069869292",
+      "pub.1025217492",
+      "pub.1058575332",
+      "pub.1050351457",
+      "pub.1058303992",
+      "pub.1064199022",
+      "pub.1034322336",
+      "pub.1069869310",
+      "pub.1001919930",
+      "pub.1070163288",
+      "pub.1064729469",
+      "pub.1024921942",
+      "pub.1044782947",
+      "pub.1021278620",
+      "pub.1069687393",
+      "pub.1047288536",
+      "pub.1001754041",
+      "pub.1070145992",
+      "pub.1064527092",
+      "pub.1043706061",
+      "pub.1046463875",
+      "pub.1049548241",
+      "pub.1061835012",
+      "pub.1004173581",
+      "pub.1064391669",
+      "pub.1069892749",
+      "pub.1020924780",
+      "pub.1053852049",
+      "pub.1070145898",
+      "pub.1029488311",
+      "pub.1041653914",
+      "pub.1026787938"
+    ],
+    "reference_ids": [
+      "pub.1027456616",
+      "pub.1017118300",
+      "pub.1064525821",
+      "pub.1068000539",
+      "pub.1022719037",
+      "pub.1017640923",
+      "pub.1068672108",
+      "pub.1001404001",
+      "pub.1071466613",
+      "pub.1039598216",
+      "pub.1015305160",
+      "pub.1028669604",
+      "pub.1041908567",
+      "pub.1048142396",
+      "pub.1110457983",
+      "pub.1039606491",
+      "pub.1070466527",
+      "pub.1035519160",
+      "pub.1044273826",
+      "pub.1004033280",
+      "pub.1061936602",
+      "pub.1070020846",
+      "pub.1013093969",
+      "pub.1059420588",
+      "pub.1064527153",
+      "pub.1069869292",
+      "pub.1025217492",
+      "pub.1058575332",
+      "pub.1050351457",
+      "pub.1058303992",
+      "pub.1064199022",
+      "pub.1034322336",
+      "pub.1069869310",
+      "pub.1001919930",
+      "pub.1070163288",
+      "pub.1064729469",
+      "pub.1024921942",
+      "pub.1044782947",
+      "pub.1021278620",
+      "pub.1069687393",
+      "pub.1047288536",
+      "pub.1001754041",
+      "pub.1070145992",
+      "pub.1064527092",
+      "pub.1043706061",
+      "pub.1046463875",
+      "pub.1049548241",
+      "pub.1061835012",
+      "pub.1004173581",
+      "pub.1064391669",
+      "pub.1069892749",
+      "pub.1020924780",
+      "pub.1053852049",
+      "pub.1070145898",
+      "pub.1029488311",
+      "pub.1041653914",
+      "pub.1026787938"
+    ],
+    "volume": "79",
+    "dimensions_id": "pub.1084085177",
+    "related_dataset_name": "MFI Interest Rate Statistics",
+    "related_dataset": "dataset-a27bcfd3792f56c70f09",
+    "linkage_source": "dataset_stringsearch"
+  }
+]
