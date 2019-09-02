@@ -66,40 +66,62 @@ def get_repec_handle (title):
 
 
 def get_repec_meta (token, handle):
-    api_url = "https://api.repec.org/call.cgi?code={}&getref={}".format(token, handle)
-    response = requests.get(api_url).text
-    meta = json.loads(response)
-    return meta
+    try:
+        api_url = "https://api.repec.org/call.cgi?code={}&getref={}".format(token, handle)
+        response = requests.get(api_url).text
+
+        meta = json.loads(response)
+        return meta
+
+    except:
+        print(traceback.format_exc())
+        print("ERROR: {}".format(handle))
+        return None
 
 
 if __name__ == "__main__":
-    pubs = []
+    mode = sys.argv[1]
 
-    ## load the Dimensions API results
-    for filename in glob.glob("string_searches/*.json"):
-        with open(filename) as f:
-            count = 0
+    if mode == "1":
+        pubs = []
 
-            for elem in json.load(f):
-                #print(elem)
-                view = extract_view(elem, count)
-                view["repec_handle"] = get_repec_handle(view["title"])
+        ## load the Dimensions API results
+        for filename in glob.glob("string_searches/*.json"):
+            with open(filename) as f:
+                count = 0
 
-                pubs.append(view)
-                count += 1
+                for elem in json.load(f):
+                    #print(elem)
+                    view = extract_view(elem, count)
+                    view["repec_handle"] = get_repec_handle(view["title"])
 
-    ## persist the results to a file
-    with open("pub_handles.json", "w") as f:
-        json.dump(pubs, f, indent=2, sort_keys=True)
+                    pubs.append(view)
+                    count += 1
+
+        ## persist the results to a file
+        with open("pub_handles.json", "w") as f:
+            json.dump(pubs, f, indent=2, sort_keys=True)
 
 
-    sys.exit(0)
+    else:
+        repec_token = CONFIG["DEFAULT"]["repec_token"]
+        pubs = []
 
-    ## call RePEc API to get author metadata
-    repec_token = CONFIG["DEFAULT"]["repec_token"]
-    handle = "RePEc:eee:ijrema:v:34:y:2017:i:3:p:604-621"
+        ## call RePEc API to get author metadata        
+        with open("pub_handles.json", "r") as f:
+            for view in json.load(f):
+                if view["repec_handle"]:
+                    #print(view)
+                    results = get_repec_meta(repec_token, view["repec_handle"])
 
-    meta = get_repec_meta (repec_token, handle)
+                    if results and len(results) > 0:
+                        meta = results[0]
 
-    print(meta[0]["author"].split(" & "))
-    print(json.dumps(meta, indent=2))
+                        if view["title"].lower() == meta["bibliographic"]["name"].lower():
+                            view["repec_authors"] = meta["author"].split(" & ")
+                            view["repec_biblio"] = meta["bibliographic"]
+                            pubs.append(view)
+
+        ## persist the results to a file
+        with open("pub_authors.json", "w") as f:
+            json.dump(pubs, f, indent=2, sort_keys=True)
