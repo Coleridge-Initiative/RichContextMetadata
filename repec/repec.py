@@ -3,6 +3,7 @@
 
 from bs4 import BeautifulSoup
 import configparser
+import copy
 import glob
 import json
 import requests
@@ -103,7 +104,7 @@ if __name__ == "__main__":
             json.dump(pubs, f, indent=2, sort_keys=True)
 
 
-    else:
+    elif mode == "2":
         repec_token = CONFIG["DEFAULT"]["repec_token"]
         pubs = []
 
@@ -125,3 +126,30 @@ if __name__ == "__main__":
         ## persist the results to a file
         with open("pub_authors.json", "w") as f:
             json.dump(pubs, f, indent=2, sort_keys=True)
+
+
+    elif mode == "3":
+        ## prepare the data to send to RePEc for author confirmation
+        pubs = []
+
+        with open("pub_authors.json", "r") as f:
+            for view in json.load(f):
+                meta = {}
+                meta["repec_handle"] = view["repec_handle"]
+                meta["related_dataset_name"] = view["related_dataset_name"]
+                meta["title"] = view["title"]
+
+                if view["journal"]:
+                    meta["journal"] = view["journal"]["title"]
+                else:
+                    meta["journal"] = ""
+
+                for author in set(view["repec_authors"]):
+                    print(author)
+                    auth_meta = copy.deepcopy(meta)
+                    auth_meta["author"] = author
+                    pubs.append(auth_meta)
+
+        ## persist the results to a file
+        with open("send_repec.json", "w", encoding="utf8") as f:
+            json.dump(pubs, f, indent=2, sort_keys=True, ensure_ascii=False)
