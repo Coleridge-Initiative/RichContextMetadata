@@ -84,6 +84,7 @@ def main():
         fields_to_hash_all = ['title','data_steward','data_provider']
         fields_to_hash_final = [f for f in fields_to_hash_all if f in i.keys()]
         hash_fields = [k for k,v in i.items() if k in fields_to_hash_final and not pd.isnull(v)]
+        # hash_fields = ['title']
         i = assign_id(dataset_entry = i,fields_to_hash = hash_fields)
         try:
             if isinstance(i['temporal_coverage_end'], datetime.date):
@@ -117,7 +118,7 @@ def main():
 
 
 dd_dict = main()    
-dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata']} for d in dd_dict]
+dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','data_steward']} for d in dd_dict]
 
 # dd_dict_lim = [{k: v for k, v in d.items() if k in ['title','dataset_id','alias','dataset_id_metadata','dataset_id_history','data_steward','data_provider']} for d in dd_dict]
 

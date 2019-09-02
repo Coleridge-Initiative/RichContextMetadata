@@ -1,0 +1,307 @@
+[{
+    "title": "IRI InfoScan",
+    "alias": [
+      "IRI Infoscan panel",
+      "IRI Infoscan data",
+      "IRI retail scanner data",
+      "InfoScan database",
+      "retail scanner data"
+    ],
+    "dataset_id": "dataset-e9cc0d475b4948f46e28",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-e9cc0d475b4948f46e28",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "title": "National Household Food Acquisition and Purchase Survey",
+    "alias": "FoodAPS",
+    "dataset_id": "dataset-658cc33843664f56954d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-658cc33843664f56954d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },{
+    "title": "Women, Infants and Children",
+    "alias": "WIC",
+    "dataset_id": "dataset-a1c7111f5bec6dc79461",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a1c7111f5bec6dc79461",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+   {
+    "title": "Supplemental Nutrition Assistance Program",
+    "alias": "SNAP",
+    "dataset_id": "dataset-604f7ba29a12987ae532",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-604f7ba29a12987ae532",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "title": "IRI Consumer Network",
+    "alias": [
+      "IRI consumer network data",
+      "Proprietary household scanner data",
+      "IRI household scanner data",
+      "IRI consumer panel data",
+      "IRI consumer network panel"
+    ],
+    "dataset_id": "dataset-bc66222aacfbecf3aab9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-bc66222aacfbecf3aab9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  [
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "External Position of Banks",
+    "alias": "AUSTA",
+    "dataset_id": "dataset-ce94635bb2109ddf8f24",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-ce94635bb2109ddf8f24",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Quarterly borrower statistics",
+    "alias": "VJKRE",
+    "dataset_id": "dataset-0b6bccac59c6fd49e116",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-0b6bccac59c6fd49e116",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Corporate balance sheets",
+    "alias": "USTAN",
+    "dataset_id": "dataset-88aebc53e2717d69814c",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-88aebc53e2717d69814c",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Securities Holdings Statistics - Base",
+    "alias": "SHS-BASE",
+    "dataset_id": "dataset-8f0eb980c7e23a771b02",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8f0eb980c7e23a771b02",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Schmidt, Tobias (Deutsche Bundesbank)",
+    "title": "Panel on Household Finances",
+    "alias": "PHF",
+    "dataset_id": "dataset-fc8091b6b9de518b5aa0",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-fc8091b6b9de518b5aa0",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Investment Funds Statistics - Base",
+    "alias": "IFS-BASE",
+    "dataset_id": "dataset-7f57c2d31986bf60288d",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-7f57c2d31986bf60288d",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "MFI Interest Rate Statistics",
+    "alias": "ZISTA",
+    "dataset_id": "dataset-a27bcfd3792f56c70f09",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-a27bcfd3792f56c70f09",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Organisation for Economic Co-operation and Development (OECD)",
+    "title": "OECD Survey on Adult Financial Literacy in Germany",
+    "alias": "0",
+    "dataset_id": "dataset-460da93fed153759b20f",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-460da93fed153759b20f",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "BAKIS-M",
+    "alias": "BAKIS",
+    "dataset_id": "dataset-8532f03e4f0ce8fa88f5",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8532f03e4f0ce8fa88f5",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Monthly balance sheet statistics",
+    "alias": "BISTA",
+    "dataset_id": "dataset-b53e35ff375ad5b52c6e",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-b53e35ff375ad5b52c6e",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Statistics of the banks\u2019 profit and loss accounts",
+    "alias": "GUV",
+    "dataset_id": "dataset-76452104be2983188734",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-76452104be2983188734",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Microdatabase Direct Investment",
+    "alias": "MIDI",
+    "dataset_id": "dataset-3b5eb418ba0f080013d9",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-3b5eb418ba0f080013d9",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Statistics on International Trade in Services",
+    "alias": "SITS",
+    "dataset_id": "dataset-15463a41beb6ae1cb5cd",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-15463a41beb6ae1cb5cd",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Deutsche Bundesbank",
+    "title": "Zentralkartei Banken",
+    "alias": "ZentK",
+    "dataset_id": "dataset-812b784f2046d9ac9b63",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-812b784f2046d9ac9b63",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  },
+  {
+    "data_steward": "Bank Lending Survey Group in Vo-1",
+    "title": "Bank Lending Survey",
+    "alias": "BLS",
+    "dataset_id": "dataset-8dedf0ea8ec0a59a241a",
+    "dataset_id_metadata": {
+      "dataset_id": "dataset-8dedf0ea8ec0a59a241a",
+      "hashed_columns": [
+        "data_provider",
+        "data_steward",
+        "title"
+      ],
+      "date_created": "2019-09-01"
+    }
+  }]

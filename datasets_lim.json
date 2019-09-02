@@ -1,5 +1,6 @@
 [
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "External Position of Banks",
     "alias": "AUSTA",
     "dataset_id": "dataset-ce94635bb2109ddf8f24",
@@ -10,10 +11,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Quarterly borrower statistics",
     "alias": "VJKRE",
     "dataset_id": "dataset-0b6bccac59c6fd49e116",
@@ -24,10 +26,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Corporate balance sheets",
     "alias": "USTAN",
     "dataset_id": "dataset-88aebc53e2717d69814c",
@@ -38,10 +41,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Securities Holdings Statistics - Base",
     "alias": "SHS-BASE",
     "dataset_id": "dataset-8f0eb980c7e23a771b02",
@@ -52,10 +56,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Schmidt, Tobias (Deutsche Bundesbank)",
     "title": "Panel on Household Finances",
     "alias": "PHF",
     "dataset_id": "dataset-fc8091b6b9de518b5aa0",
@@ -66,10 +71,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Investment Funds Statistics - Base",
     "alias": "IFS-BASE",
     "dataset_id": "dataset-7f57c2d31986bf60288d",
@@ -80,10 +86,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "MFI Interest Rate Statistics",
     "alias": "ZISTA",
     "dataset_id": "dataset-a27bcfd3792f56c70f09",
@@ -94,10 +101,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Organisation for Economic Co-operation and Development (OECD)",
     "title": "OECD Survey on Adult Financial Literacy in Germany",
     "alias": "0",
     "dataset_id": "dataset-460da93fed153759b20f",
@@ -108,10 +116,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "BAKIS-M",
     "alias": "BAKIS",
     "dataset_id": "dataset-8532f03e4f0ce8fa88f5",
@@ -122,10 +131,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Monthly balance sheet statistics",
     "alias": "BISTA",
     "dataset_id": "dataset-b53e35ff375ad5b52c6e",
@@ -136,10 +146,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Statistics of the banks\u2019 profit and loss accounts",
     "alias": "GUV",
     "dataset_id": "dataset-76452104be2983188734",
@@ -150,10 +161,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Microdatabase Direct Investment",
     "alias": "MIDI",
     "dataset_id": "dataset-3b5eb418ba0f080013d9",
@@ -164,10 +176,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Statistics on International Trade in Services",
     "alias": "SITS",
     "dataset_id": "dataset-15463a41beb6ae1cb5cd",
@@ -178,10 +191,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Zentralkartei Banken",
     "alias": "ZentK",
     "dataset_id": "dataset-812b784f2046d9ac9b63",
@@ -192,10 +206,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Bank Lending Survey Group in Vo-1",
     "title": "Bank Lending Survey",
     "alias": "BLS",
     "dataset_id": "dataset-8dedf0ea8ec0a59a241a",
@@ -206,10 +221,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "MiMiK",
     "alias": NaN,
     "dataset_id": "dataset-b4ccf3bfe5b07c3834ab",
@@ -220,10 +236,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Payment behaviour in Germany",
     "alias": "PaymentSurvey",
     "dataset_id": "dataset-894fc43e63e736b2d0af",
@@ -234,10 +251,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "European System of Central Banks (ESCB)",
     "title": "Centralised Securities Database",
     "alias": "CSDB",
     "dataset_id": "dataset-5cd04272a226fdc5dbd9",
@@ -247,10 +265,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "European Central Bank (ECB)",
     "title": "TARGET2",
     "alias": NaN,
     "dataset_id": "dataset-8cc28757066c6a9badfd",
@@ -261,10 +280,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Deutsche Bundesbank",
     "title": "Annual Distress Database of the Deutsche Bundesbank",
     "alias": "SRP",
     "dataset_id": "dataset-25408a872364ccb80bb1",
@@ -275,10 +295,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Corrections (DOC) Inmate Admissions 1990-2015",
     "alias": "Illinois Department of Corrections DOC Inmate Admissions",
     "dataset_id": "dataset-273ce538e108c4489950",
@@ -289,10 +310,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Corrections (DOC) Inmate Exits - 1990-2015",
     "alias": "Illinois Department of Corrections DOC Inmate Exits",
     "dataset_id": "dataset-77b0762b57700e543382",
@@ -303,10 +325,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Employment Security (IDES) Unemployment Insurance (UI) wage records - 2005-2015",
     "alias": "Illinois Department of Employment Security IDES Unemployment Insurance UI wage records",
     "dataset_id": "dataset-2a812c58e32cafc14411",
@@ -317,10 +340,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Individuals: Illinois",
     "alias": "US Department of Housing and Urban Development Program Microdata Individuals Illinois",
     "dataset_id": "dataset-88eab91be3061a1c2c1b",
@@ -331,10 +355,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Employment Security (IDES) Employer records - 2005-2015",
     "alias": "Illinois Department of Employment Security IDES Employer records",
     "dataset_id": "dataset-6784a47390e87fffc618",
@@ -345,10 +370,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Employment Security (IDES) establishment data addendum to employer records - 2012-2015",
     "alias": "Illinois Department of Employment Security IDES establishment data addendum to employer records",
     "dataset_id": "dataset-b277d27112fc84fcc37d",
@@ -359,10 +385,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Corrections (DOC) Parolee address data - 2009-2015",
     "alias": "Illinois Department of Corrections DOC Parolee address data",
     "dataset_id": "dataset-828c9b26fa8d7f0837f9",
@@ -373,10 +400,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Households: Illinois",
     "alias": "US Department of Housing and Urban Development Program Microdata Households Illinois",
     "dataset_id": "dataset-7c3252db6b0f7b7bbc81",
@@ -387,10 +415,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "IL Corrections Industries Training dataset",
     "alias": NaN,
     "dataset_id": "dataset-99486e3e40ad83632b50",
@@ -401,10 +430,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Corrections (IDOC) SPSS Holding Codes (HCLASS) and Education Level (EDUCLVL)",
     "alias": "Illinois Department of Corrections IDOC SPSS Holding Codes HCLASS and Education Level EDUCLVL",
     "dataset_id": "dataset-76b1e92edc389f70b3f4",
@@ -415,10 +445,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Corrections Person Relation Table",
     "alias": NaN,
     "dataset_id": "dataset-5d3529dba74b7417c2e7",
@@ -429,10 +460,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Human Services (IDHS) Point-In-Time Files: Time Invariant Characteristics",
     "alias": "Illinois Department of Human Services IDHS PointInTime Files Time Invariant Characteristics",
     "dataset_id": "dataset-749a684655cc48be355b",
@@ -443,10 +475,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Human Services (IDHS) Head of Household Files",
     "alias": "Illinois Department of Human Services IDHS Head of Household Files",
     "dataset_id": "dataset-9f28002c1d16b66dcdf1",
@@ -457,10 +490,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Human Services (IDHS) Spell Files: Time-Varying Characteristics",
     "alias": "Illinois Department of Human Services IDHS Spell Files TimeVarying Characteristics",
     "dataset_id": "dataset-cc1f2ace6f8e56a78cf1",
@@ -471,10 +505,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Understanding the Transition from Cash Assistance Receipt to Employment",
     "alias": NaN,
     "dataset_id": "dataset-0cd5a0696edd28abc975",
@@ -485,10 +520,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Individuals: New York",
     "alias": "US Department of Housing and Urban Development Program Microdata Individuals New York",
     "dataset_id": "dataset-6488de6525c479983e37",
@@ -499,10 +535,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "US Department of Housing and Urban Development Program Microdata 2004-2016 - Households: New York",
     "alias": "US Department of Housing and Urban Development Program Microdata Households New York",
     "dataset_id": "dataset-7704bda561b2670a37ce",
@@ -513,10 +550,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Illinois Department of Human Services (IDHS) Cases Cancelled Due to Earnings and Newly Employed ",
     "alias": "Illinois Department of Human Services IDHS Cases Cancelled Due to Earnings and Newly Employed",
     "dataset_id": "dataset-51d83dd4f37d9176b65a",
@@ -527,10 +565,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Unemployment Insurance (UI) wage 2006-2016",
     "alias": "Missouri Unemployment Insurance UI wage",
     "dataset_id": "dataset-7a884694adcb69209d10",
@@ -541,10 +580,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Census LEHD Employer records - 2006-2016",
     "alias": "Missouri Census LEHD Employer records",
     "dataset_id": "dataset-9aeee508d6ecf818e847",
@@ -555,10 +595,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Kansas City, Missouri Water Customer Data",
     "alias": "Kansas City Missouri Water Customer Data",
     "dataset_id": "dataset-883b6c992fbde5ca23e9",
@@ -569,10 +610,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Drew Gordon",
     "title": "The Kansas City Star Full Text Business Section Articles - May 2016 - April 2018",
     "alias": "The Kansas City Star Full Text Business Section Articles May April",
     "dataset_id": "dataset-1b07bff83cd281e26468",
@@ -583,10 +625,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Clayton Hunter",
     "title": "Kansas City Missouri census tracts with flag for East or West of Troost Street",
     "alias": NaN,
     "dataset_id": "dataset-61cd9d70187a21cc39fb",
@@ -597,10 +640,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Drew Gordon",
     "title": "Kansas City Police Department Crime Data 2009-2018",
     "alias": "Kansas City Police Department Crime Data",
     "dataset_id": "dataset-4f7e607affc329acf5e9",
@@ -611,10 +655,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Indiana wage records by quarter 2005-2018",
     "alias": "Indiana wage records by quarter",
     "dataset_id": "dataset-de87d1828c09c899a61c",
@@ -625,10 +670,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Indiana wage records by employer 2005-2018",
     "alias": "Indiana wage records by employer",
     "dataset_id": "dataset-8c5c35b2c85e1165cb1c",
@@ -639,10 +685,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Indiana Public Higher Education Enrollments, 2005-2006 Through 2017-2018",
     "alias": "Indiana Public Higher Education Enrollments Through",
     "dataset_id": "dataset-3f4fa207db9812d11670",
@@ -653,10 +700,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Indiana Public Higher Education Degree Completions 2005-2006 Through 2017-2018",
     "alias": "Indiana Public Higher Education Degree Completions Through",
     "dataset_id": "dataset-b475a81f387d3c741af0",
@@ -667,10 +715,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Unemployment Insurance (UI) wage 2006-2017",
     "alias": "Missouri Unemployment Insurance UI wage",
     "dataset_id": "dataset-6786d68a032fa473b50b",
@@ -681,10 +730,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Census LEHD Employer records - 2006-2017",
     "alias": "Missouri Census LEHD Employer records",
     "dataset_id": "dataset-d1d5e97011a57c6baa52",
@@ -695,10 +745,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Higher Education (DHE) - Term Registrations, 2006-2017",
     "alias": "Missouri Department of Higher Education DHE Term Registrations",
     "dataset_id": "dataset-2fd39487c70927030e69",
@@ -709,10 +760,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Higher Education (DHE) - Enrollments, 2006-2016",
     "alias": "Missouri Department of Higher Education DHE Enrollments",
     "dataset_id": "dataset-9e879f0790372e817f95",
@@ -723,10 +775,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Higher Education (DHE) - Completions, 2006-2017",
     "alias": "Missouri Department of Higher Education DHE Completions",
     "dataset_id": "dataset-dee226c153b1423d9842",
@@ -737,10 +790,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Corrections (DOC) - Classes",
     "alias": "Missouri Department of Corrections DOC Classes",
     "dataset_id": "dataset-584fe651bc8e332a922d",
@@ -751,10 +805,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Corrections (DOC) - Releases",
     "alias": "Missouri Department of Corrections DOC Releases",
     "dataset_id": "dataset-91c445834f852f33db99",
@@ -765,10 +820,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Corrections (DOC) - Hashed SSN to Hashed MO DOC ID Crosswalk",
     "alias": "Missouri Department of Corrections DOC Hashed SSN to Hashed MO DOC ID Crosswalk",
     "dataset_id": "dataset-44f9ea359c752a3e5272",
@@ -779,10 +835,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Labor and Industrial Relations (DOLIR) Unemployment Insurance Claims",
     "alias": "Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Claims",
     "dataset_id": "dataset-819847dd32ee1bc73707",
@@ -793,10 +850,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Missouri Department of Labor and Industrial Relations (DOLIR) Unemployment Insurance Payments",
     "alias": "Missouri Department of Labor and Industrial Relations DOLIR Unemployment Insurance Payments",
     "dataset_id": "dataset-3dd7b87bb85e6f260a02",
@@ -807,10 +865,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "IRI Consumer Network",
     "alias": [
       "IRI consumer network data",
@@ -827,10 +886,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "IRI InfoScan",
     "alias": [
       "IRI Infoscan panel",
@@ -847,10 +907,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "National Household Food Acquisition and Purchase Survey",
     "alias": "FoodAPS",
     "dataset_id": "dataset-658cc33843664f56954d",
@@ -861,10 +922,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Women, Infants and Children",
     "alias": "WIC",
     "dataset_id": "dataset-a1c7111f5bec6dc79461",
@@ -875,10 +937,11 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
+    "data_steward": "Julia Lane",
     "title": "Supplemental Nutrition Assistance Program",
     "alias": "SNAP",
     "dataset_id": "dataset-604f7ba29a12987ae532",
@@ -889,7 +952,7 @@
         "data_steward",
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -906,7 +969,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -923,7 +986,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -938,7 +1001,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -955,7 +1018,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -967,7 +1030,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -984,7 +1047,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -999,7 +1062,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1013,7 +1076,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1024,7 +1087,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1039,7 +1102,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1050,7 +1113,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1061,7 +1124,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1072,7 +1135,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1091,7 +1154,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1106,7 +1169,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1121,7 +1184,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1138,7 +1201,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1153,7 +1216,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1168,7 +1231,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1183,7 +1246,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1200,7 +1263,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1217,7 +1280,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1232,7 +1295,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1249,7 +1312,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1263,7 +1326,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1278,7 +1341,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1295,7 +1358,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1312,7 +1375,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1329,7 +1392,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1346,7 +1409,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1362,7 +1425,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1377,7 +1440,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1392,7 +1455,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1409,7 +1472,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1424,7 +1487,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1436,7 +1499,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1453,7 +1516,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1465,7 +1528,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1481,7 +1544,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1496,7 +1559,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1511,7 +1574,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1526,7 +1589,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1541,7 +1604,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1556,7 +1619,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1571,7 +1634,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1586,7 +1649,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1599,7 +1662,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1610,7 +1673,7 @@
       "hashed_columns": [
         "title"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1625,7 +1688,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1640,7 +1703,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1655,7 +1718,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1670,7 +1733,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1687,7 +1750,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1702,7 +1765,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1717,7 +1780,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1734,7 +1797,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1749,7 +1812,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1761,7 +1824,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1773,7 +1836,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1785,7 +1848,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1802,7 +1865,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1819,7 +1882,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1836,7 +1899,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1853,7 +1916,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1870,7 +1933,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1885,7 +1948,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1900,7 +1963,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1915,7 +1978,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1930,7 +1993,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1947,7 +2010,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1962,7 +2025,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1977,7 +2040,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -1994,7 +2057,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2011,7 +2074,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2028,7 +2091,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2045,7 +2108,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2062,7 +2125,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2077,7 +2140,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2092,7 +2155,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2109,7 +2172,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2126,7 +2189,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2143,7 +2206,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2160,7 +2223,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2177,7 +2240,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   },
   {
@@ -2194,7 +2257,7 @@
         "title",
         "data_provider"
       ],
-      "date_created": "2019-08-30"
+      "date_created": "2019-09-01"
     }
   }
 ]
