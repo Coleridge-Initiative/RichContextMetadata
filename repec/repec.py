@@ -80,6 +80,21 @@ def get_repec_meta (token, handle):
         return None
 
 
+def get_repec_authors (token, handle):
+    try:
+        api_url = "https://api.repec.org/call.cgi?code={}&getauthorsforitem={}".format(token, handle)
+
+        response = requests.get(api_url).text
+
+        authors = json.loads(response)
+        return authors
+
+    except:
+        print(traceback.format_exc())
+        print("ERROR: {}".format(handle))
+        return None
+
+
 if __name__ == "__main__":
     mode = sys.argv[1]
 
@@ -119,8 +134,14 @@ if __name__ == "__main__":
                         meta = results[0]
 
                         if view["title"].lower() == meta["bibliographic"]["name"].lower():
-                            view["repec_authors"] = meta["author"].split(" & ")
                             view["repec_biblio"] = meta["bibliographic"]
+
+                            view["repec_authors_fallback"] = meta["author"].split(" & ")
+                            authors = get_repec_authors(repec_token, view["repec_handle"])
+
+                            if authors and "error" not in authors[0]:
+                                view["repec_authors"] = authors
+
                             pubs.append(view)
 
         ## persist the results to a file

@@ -14,6 +14,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Constanza",
+        "name-last": "Mart\u00ednez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pma865"
+      }
+    ],
+    "repec_authors_fallback": [
       "Constanza Mart\u00ednez Ventura"
     ],
     "repec_biblio": {
@@ -48,6 +57,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Carin",
+        "name-last": "Cruijsen",
+        "name-middle": "Van Der",
+        "name-suffix": null,
+        "shortid": "pcr51"
+      }
+    ],
+    "repec_authors_fallback": [
       "Carin van der Cruijsen",
       "Mirjam Plooij"
     ],
@@ -95,6 +113,29 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Yassine",
+        "name-last": "Bouhdaoui",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo777"
+      },
+      {
+        "name-first": "Lola",
+        "name-last": "Hernandez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe439"
+      },
+      {
+        "name-first": "Carlos",
+        "name-last": "Arango",
+        "name-middle": "A.",
+        "name-suffix": null,
+        "shortid": "par113"
+      }
+    ],
+    "repec_authors_fallback": [
       "Arango-Arango, Carlos A.",
       "Bouhdaoui, Yassine",
       "Bounie, David",
@@ -141,6 +182,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Frank",
+        "name-last": "van der Horst",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva722"
+      }
+    ],
+    "repec_authors_fallback": [
       "van der Horst, Frank",
       "Eschelbach, Martina",
       "Sieber, Susann",
@@ -170,6 +220,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Malte",
+        "name-last": "Krueger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pkr35"
+      }
+    ],
+    "repec_authors_fallback": [
       "Krueger Malte"
     ],
     "repec_biblio": {
@@ -208,6 +267,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Carlos",
+        "name-last": "Arango",
+        "name-middle": "A.",
+        "name-suffix": null,
+        "shortid": "par113"
+      }
+    ],
+    "repec_authors_fallback": [
       "Carlos A. Arango",
       "Dylan Hogg",
       "Alyssa Lee"
@@ -248,6 +316,29 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Ulf",
+        "name-last": "von Kalckreuth",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pvo78"
+      },
+      {
+        "name-first": "Helmut",
+        "name-last": "Stix",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pst5"
+      },
+      {
+        "name-first": "Tobias",
+        "name-last": "Schmidt",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc143"
+      }
+    ],
+    "repec_authors_fallback": [
       "Von Kalckreuth, Ulf",
       "Schmidt, Tobias",
       "Stix, Helmut"
@@ -280,6 +371,22 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Avner",
+        "name-last": "Bar-ilan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pba154"
+      },
+      {
+        "name-first": "Nancy",
+        "name-last": "Marion",
+        "name-middle": "P.",
+        "name-suffix": null,
+        "shortid": "pma1464"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bar-Ilan, Avner",
       "Marion, Nancy"
     ],
@@ -311,6 +418,22 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Anneke",
+        "name-last": "Kosse",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko407"
+      },
+      {
+        "name-first": "David-Jan",
+        "name-last": "Jansen",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pja40"
+      }
+    ],
+    "repec_authors_fallback": [
       "Kosse, Anneke",
       "Jansen, David-Jan"
     ],
@@ -341,7 +464,7 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Securities Holdings Statistics - Base",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
     "repec_biblio": {
@@ -372,6 +495,15 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Martijn",
+        "name-last": "Boermans",
+        "name-middle": "Adriaan",
+        "name-suffix": null,
+        "shortid": "pbo396"
+      }
+    ],
+    "repec_authors_fallback": [
       "Boermans, Martijn A.",
       "Galema, Rients"
     ],
@@ -419,6 +551,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Anne-Caroline",
+        "name-last": "H\u00fcser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phs43"
+      },
+      {
+        "name-first": "Christoffer",
+        "name-last": "Kok",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko232"
+      },
+      {
+        "name-first": "Grzegorz",
+        "name-last": "Halaj",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pha267"
+      }
+    ],
+    "repec_authors_fallback": [
       "Kok, Christoffer",
       "Ha\u0142aj, Grzegorz",
       "H\u00fcser, Anne-Caroline",
@@ -461,6 +616,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Johannes",
+        "name-last": "Breckenfelder",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbr643"
+      },
+      {
+        "name-first": "Hamid",
+        "name-last": "Boustanifar",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo730"
+      },
+      {
+        "name-first": "Patrick",
+        "name-last": "Augustin",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pau92"
+      }
+    ],
+    "repec_authors_fallback": [
       "Augustin, Patrick",
       "Boustanifar, Hamid",
       "Breckenfelder, Johannes",
@@ -498,6 +676,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Jana",
+        "name-last": "Ohls",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "poh42"
+      },
+      {
+        "name-first": "Michael",
+        "name-last": "Koetter",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko215"
+      },
+      {
+        "name-first": "Claudia",
+        "name-last": "Buch",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pbu78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Buch, Claudia M.",
       "Koetter, Michael",
       "Ohls, Jana"
@@ -533,7 +734,7 @@
       "title": "IMF Economic Review"
     },
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Serkan Arslanalp",
       "Takahiro Tsuda"
     ],
@@ -561,7 +762,7 @@
     "doi": "10.1787/5kg3h0jssnq6-en",
     "journal": null,
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Mich\u00e8le Chavoix-Mannato"
     ],
     "repec_biblio": {
@@ -587,7 +788,7 @@
       "title": "Economic & Labour Market Review"
     },
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Graeme Walker"
     ],
     "repec_biblio": {
@@ -629,7 +830,7 @@
       "title": "Journal of Family and Economic Issues"
     },
     "related_dataset_name": "TARGET2",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Yoko Mimura",
       "Yi Cai",
       "Holli Tonyan",
@@ -671,6 +872,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Rainer",
+        "name-last": "Frey",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr409"
+      },
+      {
+        "name-first": "Alexander",
+        "name-last": "Lipponer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pli326"
+      }
+    ],
+    "repec_authors_fallback": [
       "Rainer Frey",
       "Cornelia Kerl",
       "Alexander Lipponer"
@@ -707,6 +924,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Enzo",
+        "name-last": "Dia",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pdi228"
+      },
+      {
+        "name-first": "David",
+        "name-last": "VanHoose",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva216"
+      }
+    ],
+    "repec_authors_fallback": [
       "Dia, Enzo",
       "VanHoose, David"
     ],
@@ -742,6 +975,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Friederike",
+        "name-last": "Niepmann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pni188"
+      }
+    ],
+    "repec_authors_fallback": [
       "Friederike Niepmann",
       "Cornelia Kerl"
     ],
@@ -773,6 +1015,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Florencio",
+        "name-last": "Lopez-de-Silanes",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "plo137"
+      },
+      {
+        "name-first": "Alberto",
+        "name-last": "Chong",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pch86"
+      }
+    ],
+    "repec_authors_fallback": [
       "Alberto Chong",
       "Florencio Lopez-de-Silanes"
     ],
@@ -808,6 +1066,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Jean-Marc",
+        "name-last": "Figuet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfi169"
+      },
+      {
+        "name-first": "Delphine",
+        "name-last": "Lahet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pla455"
+      }
+    ],
+    "repec_authors_fallback": [
       "Figuet, Jean-Marc",
       "Humblot, Thomas",
       "Lahet, Delphine"
@@ -844,6 +1118,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Saskia",
+        "name-last": "de Vries-van Ewijk",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva531"
+      },
+      {
+        "name-first": "Ivo",
+        "name-last": "Arnold",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "par144"
+      }
+    ],
+    "repec_authors_fallback": [
       "van Ewijk, Saskia E.",
       "Arnold, Ivo J.M."
     ],
@@ -883,6 +1173,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Roy W. L.",
+        "name-last": "Khong",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pkh106"
+      },
+      {
+        "name-first": "Hui-Boon",
+        "name-last": "Tan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pta253"
+      }
+    ],
+    "repec_authors_fallback": [
       "Priscilla Yin-Pheng Lim*",
       "Roy W. L. Khong",
       "Hui-Boon Tan"
@@ -936,6 +1242,29 @@
     "journal": null,
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Sebastien",
+        "name-last": "Miroudot",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pmi184"
+      },
+      {
+        "name-first": "Doroth\u00e9e",
+        "name-last": "Rouzet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro887"
+      },
+      {
+        "name-first": "Hildegunn",
+        "name-last": "Nord\u00e5s",
+        "name-middle": "Kyvik",
+        "name-suffix": null,
+        "shortid": "pno116"
+      }
+    ],
+    "repec_authors_fallback": [
       "Doroth\u00e9e Rouzet",
       "Hildegunn Kyvik Nord\u00e5s",
       "Fr\u00e9d\u00e9ric Gonzales",
@@ -968,6 +1297,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Karl",
+        "name-last": "Whelan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwh23"
+      }
+    ],
+    "repec_authors_fallback": [
       "Karl Whelan"
     ],
     "repec_biblio": {
@@ -994,6 +1332,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Shafik",
+        "name-last": "Hebous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe288"
+      }
+    ],
+    "repec_authors_fallback": [
       "Shafik Hebous"
     ],
     "repec_biblio": {
@@ -1024,6 +1371,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Marc",
+        "name-last": "Lavoie",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pla338"
+      }
+    ],
+    "repec_authors_fallback": [
       "Marc Lavoie"
     ],
     "repec_biblio": {
@@ -1049,7 +1405,7 @@
       "title": "Empirica"
     },
     "related_dataset_name": "Quarterly borrower statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Andreas Worms"
     ],
     "repec_biblio": {
@@ -1083,7 +1439,7 @@
       "title": "European Economic Review"
     },
     "related_dataset_name": "Corporate balance sheets",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Kuvshinov, Dmitry",
       "Zimmermann, Kaspar"
     ],
@@ -1115,6 +1471,15 @@
     },
     "related_dataset_name": "Corporate balance sheets",
     "repec_authors": [
+      {
+        "name-first": "Mariusz",
+        "name-last": "Jarmuzek",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pja192"
+      }
+    ],
+    "repec_authors_fallback": [
       "Mariusz Jarmuzek",
       "Rossen Rozenov"
     ],
@@ -1149,7 +1514,7 @@
       "title": "Journal of International Money and Finance"
     },
     "related_dataset_name": "Corporate balance sheets",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Iacoviello, Matteo",
       "Navarro, Gaston"
     ],
@@ -1180,7 +1545,7 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Securities Holdings Statistics - Base",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
     "repec_biblio": {
@@ -1207,6 +1572,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Metzger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme694"
+      }
+    ],
+    "repec_authors_fallback": [
       "Metzger, Christoph"
     ],
     "repec_biblio": {
@@ -1249,6 +1623,29 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Markus",
+        "name-last": "Grabka",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pgr144"
+      },
+      {
+        "name-first": "Carsten",
+        "name-last": "Schr\u00f6der",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc151"
+      },
+      {
+        "name-first": "Timm",
+        "name-last": "B\u00f6nke",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbn4"
+      }
+    ],
+    "repec_authors_fallback": [
       "Timm B\u00f6nke",
       "Markus M. Grabka",
       "Carsten Schr\u00f6der",
@@ -1282,7 +1679,7 @@
       "title": "Perspektiven der Wirtschaftspolitik"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Lerbs, Oliver",
       "Voigtl\u00e4nder, Michael"
     ],
@@ -1314,6 +1711,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Kai",
+        "name-last": "Schmid",
+        "name-middle": "Daniel",
+        "name-suffix": null,
+        "shortid": "psc401"
+      }
+    ],
+    "repec_authors_fallback": [
       "Jochen Sp\u00e4th",
       "Kai Daniel Schmid"
     ],
@@ -1341,6 +1747,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Metzger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme694"
+      }
+    ],
+    "repec_authors_fallback": [
       "Metzger, Christoph"
     ],
     "repec_biblio": {
@@ -1370,7 +1785,7 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Editorial - Anonymous"
     ],
     "repec_biblio": {
@@ -1404,7 +1819,7 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Oscar A. Stolper",
       "Andreas Walter"
     ],
@@ -1448,6 +1863,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Thomas",
+        "name-last": "Siemsen",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psi540"
+      },
+      {
+        "name-first": "Oliver",
+        "name-last": "H\u00fclsewig",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phl10"
+      }
+    ],
+    "repec_authors_fallback": [
       "Nikolay Hristov",
       "Oliver H\u00fclsewig",
       "Thomas Siemsen",
@@ -1489,6 +1920,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Falko",
+        "name-last": "Fecht",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfe38"
+      }
+    ],
+    "repec_authors_fallback": [
       "Fecht, Falko",
       "Thum, Stefan",
       "Weber, Patrick"
@@ -1520,7 +1960,7 @@
       "title": "Journal of Banking Regulation"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "David Grossmann",
       "Peter Scholz"
     ],
@@ -1560,6 +2000,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Paul",
+        "name-last": "Mizen",
+        "name-middle": "David",
+        "name-suffix": null,
+        "shortid": "pmi38"
+      },
+      {
+        "name-first": "Marco",
+        "name-last": "Lombardi",
+        "name-middle": "Jacopo",
+        "name-suffix": null,
+        "shortid": "plo54"
+      }
+    ],
+    "repec_authors_fallback": [
       "Illes, Anamaria",
       "Lombardi, Marco J.",
       "Mizen, Paul"
@@ -1595,7 +2051,7 @@
       "title": "Journal of Banking & Finance"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Holton, Sarah",
       "Rodriguez d\u2019Acri, Costanza"
     ],
@@ -1628,6 +2084,15 @@
     "journal": null,
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Mauro",
+        "name-last": "Pisu",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ppi200"
+      }
+    ],
+    "repec_authors_fallback": [
       "Panagiotis Barkas",
       "Mauro Pisu"
     ],
@@ -1659,6 +2124,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Miguel",
+        "name-last": "Ampudia Fraile",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pam147"
+      },
+      {
+        "name-first": "Sergio",
+        "name-last": "Mayordomo",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pma1884"
+      }
+    ],
+    "repec_authors_fallback": [
       "Ampudia, Miguel",
       "Mayordomo, Sergio"
     ],
@@ -1690,6 +2171,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Matteo",
+        "name-last": "Deleidi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pde912"
+      }
+    ],
+    "repec_authors_fallback": [
       "Matteo Deleidi"
     ],
     "repec_biblio": {
@@ -1723,7 +2213,7 @@
       "title": "Journal of Financial Stability"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Alessi, Lucia"
     ],
     "repec_biblio": {
@@ -1758,6 +2248,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Katja",
+        "name-last": "Neugebauer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pne146"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bremus, Franziska",
       "Neugebauer, Katja"
     ],
@@ -1797,6 +2296,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Etienne",
+        "name-last": "Lepers",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ple960"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bengtsson, Elias",
       "Grothe, Magdalena",
       "Lepers, Etienne"
@@ -1833,6 +2341,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Yalin",
+        "name-last": "G\u00fcnd\u00fcz",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pgn13"
+      }
+    ],
+    "repec_authors_fallback": [
       "Dombret, Andreas",
       "G\u00fcnd\u00fcz, Yalin",
       "Rocholl, J\u00f6rg"
@@ -1869,6 +2386,29 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Sanvi",
+        "name-last": "Avouyi-Dovi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pav21"
+      },
+      {
+        "name-first": "Guillaume",
+        "name-last": "Horny",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pho296"
+      },
+      {
+        "name-first": "Patrick",
+        "name-last": "Sevestre",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pse179"
+      }
+    ],
+    "repec_authors_fallback": [
       "S. Avouyi-Dovi",
       "G. Horny",
       "Patrick Sevestre"
@@ -1909,6 +2449,29 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "S\u00f3nia",
+        "name-last": "Costa",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco533"
+      },
+      {
+        "name-first": "Diana",
+        "name-last": "Bonfim",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo418"
+      },
+      {
+        "name-first": "Mary",
+        "name-last": "Everett",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pev61"
+      }
+    ],
+    "repec_authors_fallback": [
       "Barbosa, Luciana",
       "Bonfim, Diana",
       "Costa, S\u00f3nia",
@@ -1946,6 +2509,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Puriya",
+        "name-last": "Abbassi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pab289"
+      }
+    ],
+    "repec_authors_fallback": [
       "Abbassi, Puriya",
       "Schmidt, Michael"
     ],
@@ -1972,7 +2544,7 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
     "repec_biblio": {
@@ -2007,6 +2579,22 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Rainer",
+        "name-last": "Frey",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr409"
+      },
+      {
+        "name-first": "Alexander",
+        "name-last": "Lipponer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pli326"
+      }
+    ],
+    "repec_authors_fallback": [
       "Rainer Frey",
       "Cornelia Kerl",
       "Alexander Lipponer"
@@ -2047,6 +2635,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Claudia",
+        "name-last": "Buch",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pbu78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Claudia M. Buch",
       "Bj\u00f6rn Hilberg",
       "Lena Tonzer"
@@ -2087,6 +2684,29 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Francesc",
+        "name-last": "Rodr\u00edguez Tous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro923"
+      },
+      {
+        "name-first": "Jose-Luis",
+        "name-last": "Peydro",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ppe481"
+      },
+      {
+        "name-first": "Puriya",
+        "name-last": "Abbassi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pab289"
+      }
+    ],
+    "repec_authors_fallback": [
       "Puriya Abbassi",
       "Rajkamal Iyer",
       "Jos\u00e9-Luis Peydr\u00f3",
@@ -2120,6 +2740,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Catherine",
+        "name-last": "Koch",
+        "name-middle": "Tahmee",
+        "name-suffix": null,
+        "shortid": "pko519"
+      }
+    ],
+    "repec_authors_fallback": [
       "Cornelia Kerl",
       "Cath\u00e9rine Koch"
     ],
@@ -2155,6 +2784,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Friederike",
+        "name-last": "Niepmann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pni188"
+      }
+    ],
+    "repec_authors_fallback": [
       "Friederike Niepmann",
       "Cornelia Kerl"
     ],
@@ -2194,6 +2832,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Memmel",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme230"
+      }
+    ],
+    "repec_authors_fallback": [
       "Entrop, Oliver",
       "Memmel, Christoph",
       "Ruprecht, Benedikt",
@@ -2231,6 +2878,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Falko",
+        "name-last": "Fecht",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfe38"
+      }
+    ],
+    "repec_authors_fallback": [
       "Craig, Ben R.",
       "Fecht, Falko",
       "T\u00fcmer-Alkan, G\u00fcnseli"
@@ -2263,6 +2919,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Catherine",
+        "name-last": "Koch",
+        "name-middle": "Tahmee",
+        "name-suffix": null,
+        "shortid": "pko519"
+      }
+    ],
+    "repec_authors_fallback": [
       "Koch, Cath\u00e9rine Tahmee"
     ],
     "repec_biblio": {
@@ -2297,6 +2962,22 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Andrea",
+        "name-last": "Schertler",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc144"
+      },
+      {
+        "name-first": "Christoph",
+        "name-last": "Memmel",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme230"
+      }
+    ],
+    "repec_authors_fallback": [
       "Christoph Memmel",
       "Andrea Schertler"
     ],
@@ -2335,7 +3016,7 @@
       "title": "European Financial Management"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Oliver Entrop",
       "Marco Wilkens",
       "Alexander Zeisler"
@@ -2368,6 +3049,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Peter",
+        "name-last": "Eppinger",
+        "name-middle": "S.",
+        "name-suffix": null,
+        "shortid": "pep16"
+      }
+    ],
+    "repec_authors_fallback": [
       "Eppinger, Peter S."
     ],
     "repec_biblio": {
@@ -2406,6 +3096,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Arne",
+        "name-last": "Nagengast",
+        "name-middle": "J.",
+        "name-suffix": null,
+        "shortid": "pna379"
+      },
+      {
+        "name-first": "Stefan",
+        "name-last": "Goldbach",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pgo495"
+      }
+    ],
+    "repec_authors_fallback": [
       "Goldbach, Stefan",
       "Nagengast, Arne J.",
       "Steinm\u00fcller, Elias",
@@ -2447,6 +3153,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Thiess",
+        "name-last": "B\u00fcttner",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbu38"
+      },
+      {
+        "name-first": "Georg",
+        "name-last": "Wamser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwa353"
+      }
+    ],
+    "repec_authors_fallback": [
       "Thiess Buettner",
       "Michael Overesch",
       "Georg Wamser"
@@ -2483,6 +3205,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Shafik",
+        "name-last": "Hebous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe288"
+      }
+    ],
+    "repec_authors_fallback": [
       "Hebous, Shafik",
       "Ruf, Martin"
     ],
@@ -2515,6 +3246,22 @@
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Doroth\u00e9e",
+        "name-last": "Rouzet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro887"
+      },
+      {
+        "name-first": "Sebastian",
+        "name-last": "Benz",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbe496"
+      }
+    ],
+    "repec_authors_fallback": [
       "Doroth\u00e9e Rouzet",
       "Sebastian Benz",
       "Francesca Spinelli"
@@ -2551,6 +3298,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Georg",
+        "name-last": "Wamser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwa353"
+      }
+    ],
+    "repec_authors_fallback": [
       "Merz, Julia",
       "Overesch, Michael",
       "Wamser, Georg"
@@ -2590,7 +3346,7 @@
       "title": "International Business Review"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Gleich, Wolfgang",
       "Schmeisser, Bjoern",
       "Zschoche, Miriam"
@@ -2627,6 +3383,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Mathieu",
+        "name-last": "Couttenier",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco498"
+      },
+      {
+        "name-first": "Farid",
+        "name-last": "Toubal",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pto82"
+      }
+    ],
+    "repec_authors_fallback": [
       "Couttenier, Mathieu",
       "Toubal, Farid"
     ],
@@ -2665,7 +3437,7 @@
       "title": "Review of Managerial Science"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Keller, Sara",
       "Schanz, Deborah"
     ],
@@ -2684,7 +3456,7 @@
     "doi": "10.1007/978-3-658-08493-6",
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Wann\u00f6ffel Manfred"
     ],
     "repec_biblio": {
@@ -2723,6 +3495,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Monika",
+        "name-last": "Schnitzer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc60"
+      },
+      {
+        "name-first": "James",
+        "name-last": "Hines",
+        "name-middle": "R.",
+        "name-suffix": "Jr.",
+        "shortid": "phi111"
+      }
+    ],
+    "repec_authors_fallback": [
       "Gumpert, Anna",
       "Hines Jr, James R",
       "Schnitzer, Monika"
@@ -2751,6 +3539,15 @@
     },
     "related_dataset_name": "Statistics on International Trade in Services",
     "repec_authors": [
+      {
+        "name-first": "Peter",
+        "name-last": "Eppinger",
+        "name-middle": "S.",
+        "name-suffix": null,
+        "shortid": "pep16"
+      }
+    ],
+    "repec_authors_fallback": [
       "Eppinger, Peter S."
     ],
     "repec_biblio": {
@@ -2773,7 +3570,7 @@
     "doi": "10.1787/ad3fc87c-en",
     "journal": null,
     "related_dataset_name": "Statistics on International Trade in Services",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Dragos Salagean"
     ],
     "repec_biblio": {
@@ -2812,6 +3609,22 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Paul",
+        "name-last": "Mizen",
+        "name-middle": "David",
+        "name-suffix": null,
+        "shortid": "pmi38"
+      },
+      {
+        "name-first": "Marco",
+        "name-last": "Lombardi",
+        "name-middle": "Jacopo",
+        "name-suffix": null,
+        "shortid": "plo54"
+      }
+    ],
+    "repec_authors_fallback": [
       "Illes, Anamaria",
       "Lombardi, Marco J.",
       "Mizen, Paul"
@@ -2844,6 +3657,15 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Simone",
+        "name-last": "Auer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme587"
+      }
+    ],
+    "repec_authors_fallback": [
       "Auer, Simone"
     ],
     "repec_biblio": {
@@ -2882,6 +3704,15 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "David",
+        "name-last": "Sondermann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pso343"
+      }
+    ],
+    "repec_authors_fallback": [
       "Agostino Consolo",
       "Marco Langiulli",
       "David Sondermann"
@@ -2911,6 +3742,15 @@
     "journal": null,
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Andreea",
+        "name-last": "Dragoi",
+        "name-middle": "Emanuela",
+        "name-suffix": null,
+        "shortid": "pdr149"
+      }
+    ],
+    "repec_authors_fallback": [
       "Andreea-Emanuela Dragoi"
     ],
     "repec_biblio": {
@@ -2957,6 +3797,29 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Olivier",
+        "name-last": "De Jonghe",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pde200"
+      },
+      {
+        "name-first": "Klaas",
+        "name-last": "Mulier",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pmu434"
+      },
+      {
+        "name-first": "Glenn",
+        "name-last": "Schepens",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc554"
+      }
+    ],
+    "repec_authors_fallback": [
       "Hans Degryse",
       "Olivier De Jonghe",
       "Sanja Jakovljevic",
@@ -2987,6 +3850,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Constanza",
+        "name-last": "Mart\u00ednez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pma865"
+      }
+    ],
+    "repec_authors_fallback": [
       "Constanza Mart\u00ednez Ventura"
     ],
     "repec_biblio": {
@@ -3021,6 +3893,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Carin",
+        "name-last": "Cruijsen",
+        "name-middle": "Van Der",
+        "name-suffix": null,
+        "shortid": "pcr51"
+      }
+    ],
+    "repec_authors_fallback": [
       "Carin van der Cruijsen",
       "Mirjam Plooij"
     ],
@@ -3068,6 +3949,29 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Yassine",
+        "name-last": "Bouhdaoui",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo777"
+      },
+      {
+        "name-first": "Lola",
+        "name-last": "Hernandez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe439"
+      },
+      {
+        "name-first": "Carlos",
+        "name-last": "Arango",
+        "name-middle": "A.",
+        "name-suffix": null,
+        "shortid": "par113"
+      }
+    ],
+    "repec_authors_fallback": [
       "Arango-Arango, Carlos A.",
       "Bouhdaoui, Yassine",
       "Bounie, David",
@@ -3114,6 +4018,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Frank",
+        "name-last": "van der Horst",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva722"
+      }
+    ],
+    "repec_authors_fallback": [
       "van der Horst, Frank",
       "Eschelbach, Martina",
       "Sieber, Susann",
@@ -3143,6 +4056,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Malte",
+        "name-last": "Krueger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pkr35"
+      }
+    ],
+    "repec_authors_fallback": [
       "Krueger Malte"
     ],
     "repec_biblio": {
@@ -3181,6 +4103,15 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Carlos",
+        "name-last": "Arango",
+        "name-middle": "A.",
+        "name-suffix": null,
+        "shortid": "par113"
+      }
+    ],
+    "repec_authors_fallback": [
       "Carlos A. Arango",
       "Dylan Hogg",
       "Alyssa Lee"
@@ -3221,6 +4152,29 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Ulf",
+        "name-last": "von Kalckreuth",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pvo78"
+      },
+      {
+        "name-first": "Helmut",
+        "name-last": "Stix",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pst5"
+      },
+      {
+        "name-first": "Tobias",
+        "name-last": "Schmidt",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc143"
+      }
+    ],
+    "repec_authors_fallback": [
       "Von Kalckreuth, Ulf",
       "Schmidt, Tobias",
       "Stix, Helmut"
@@ -3253,6 +4207,22 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Avner",
+        "name-last": "Bar-ilan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pba154"
+      },
+      {
+        "name-first": "Nancy",
+        "name-last": "Marion",
+        "name-middle": "P.",
+        "name-suffix": null,
+        "shortid": "pma1464"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bar-Ilan, Avner",
       "Marion, Nancy"
     ],
@@ -3284,6 +4254,22 @@
     },
     "related_dataset_name": "Payment behaviour in Germany",
     "repec_authors": [
+      {
+        "name-first": "Anneke",
+        "name-last": "Kosse",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko407"
+      },
+      {
+        "name-first": "David-Jan",
+        "name-last": "Jansen",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pja40"
+      }
+    ],
+    "repec_authors_fallback": [
       "Kosse, Anneke",
       "Jansen, David-Jan"
     ],
@@ -3319,6 +4305,15 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Martijn",
+        "name-last": "Boermans",
+        "name-middle": "Adriaan",
+        "name-suffix": null,
+        "shortid": "pbo396"
+      }
+    ],
+    "repec_authors_fallback": [
       "Boermans, Martijn A.",
       "Galema, Rients"
     ],
@@ -3366,6 +4361,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Anne-Caroline",
+        "name-last": "H\u00fcser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phs43"
+      },
+      {
+        "name-first": "Christoffer",
+        "name-last": "Kok",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko232"
+      },
+      {
+        "name-first": "Grzegorz",
+        "name-last": "Halaj",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pha267"
+      }
+    ],
+    "repec_authors_fallback": [
       "Kok, Christoffer",
       "Ha\u0142aj, Grzegorz",
       "H\u00fcser, Anne-Caroline",
@@ -3408,6 +4426,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Johannes",
+        "name-last": "Breckenfelder",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbr643"
+      },
+      {
+        "name-first": "Hamid",
+        "name-last": "Boustanifar",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo730"
+      },
+      {
+        "name-first": "Patrick",
+        "name-last": "Augustin",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pau92"
+      }
+    ],
+    "repec_authors_fallback": [
       "Augustin, Patrick",
       "Boustanifar, Hamid",
       "Breckenfelder, Johannes",
@@ -3445,6 +4486,29 @@
     },
     "related_dataset_name": "Centralised Securities Database",
     "repec_authors": [
+      {
+        "name-first": "Jana",
+        "name-last": "Ohls",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "poh42"
+      },
+      {
+        "name-first": "Michael",
+        "name-last": "Koetter",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko215"
+      },
+      {
+        "name-first": "Claudia",
+        "name-last": "Buch",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pbu78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Buch, Claudia M.",
       "Koetter, Michael",
       "Ohls, Jana"
@@ -3480,7 +4544,7 @@
       "title": "IMF Economic Review"
     },
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Serkan Arslanalp",
       "Takahiro Tsuda"
     ],
@@ -3508,7 +4572,7 @@
     "doi": "10.1787/5kg3h0jssnq6-en",
     "journal": null,
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Mich\u00e8le Chavoix-Mannato"
     ],
     "repec_biblio": {
@@ -3534,7 +4598,7 @@
       "title": "Economic & Labour Market Review"
     },
     "related_dataset_name": "Centralised Securities Database",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Graeme Walker"
     ],
     "repec_biblio": {
@@ -3576,7 +4640,7 @@
       "title": "Journal of Family and Economic Issues"
     },
     "related_dataset_name": "TARGET2",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Yoko Mimura",
       "Yi Cai",
       "Holli Tonyan",
@@ -3629,7 +4693,7 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI Consumer Network",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
       "Abigail Okrent",
@@ -3669,6 +4733,22 @@
     },
     "related_dataset_name": "IRI Consumer Network",
     "repec_authors": [
+      {
+        "name-first": "Annemarie",
+        "name-last": "Kuhns",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pku371"
+      },
+      {
+        "name-first": "Matthew",
+        "name-last": "Freedman",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr223"
+      }
+    ],
+    "repec_authors_fallback": [
       "Matthew Freedman",
       "Annemarie Kuhns"
     ],
@@ -3695,7 +4775,7 @@
       "title": "Review of Marketing Science"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Shi Yuying"
     ],
     "repec_biblio": {
@@ -3745,7 +4825,7 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
       "Abigail Okrent",
@@ -3785,6 +4865,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Ornella",
+        "name-last": "Maietta",
+        "name-middle": "Wanda",
+        "name-suffix": null,
+        "shortid": "pma1719"
+      }
+    ],
+    "repec_authors_fallback": [
       "Moritz Bosbach",
       "Ornella Wanda Maietta"
     ],
@@ -3819,7 +4908,7 @@
       "title": "Social Sciences"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Hugo Ferrer-P\u00e9rez",
       "Filippo Arfini",
       "Jos\u00e9 M. Gil"
@@ -3860,6 +4949,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Marco",
+        "name-last": "Costanigro",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco560"
+      }
+    ],
+    "repec_authors_fallback": [
       "Costanigro, Marco",
       "Scozzafava, Gabriele",
       "Casini, Leonardo"
@@ -3900,6 +4998,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Rigoberto",
+        "name-last": "Lopez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "plo240"
+      }
+    ],
+    "repec_authors_fallback": [
       "Stefan Hirsch",
       "Giulia Tiboldo",
       "Rigoberto A. Lopez"
@@ -3944,6 +5051,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Linlin",
+        "name-last": "Fan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfa544"
+      }
+    ],
+    "repec_authors_fallback": [
       "Fan, Linlin",
       "Baylis, Kathy",
       "Gundersen, Craig",
@@ -3976,7 +5092,7 @@
       "title": "Journal of Retailing"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Yonezawa, Koichi",
       "Richards, Timothy J."
     ],
@@ -4016,6 +5132,22 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Jeffrey",
+        "name-last": "Perloff",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "ppe67"
+      },
+      {
+        "name-first": "William",
+        "name-last": "Horrace",
+        "name-middle": "C.",
+        "name-suffix": null,
+        "shortid": "pho33"
+      }
+    ],
+    "repec_authors_fallback": [
       "Horrace, William C.",
       "Huang, Rui",
       "Perloff, Jeffrey M."
@@ -4059,7 +5191,7 @@
       "title": "Applied Economic Perspectives and Policy"
     },
     "related_dataset_name": "National Household Food Acquisition and Purchase Survey",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Dorfman, Jeffrey H.",
       "Gregory, Christian A.",
       "Huo, Ran",
@@ -4097,6 +5229,15 @@
     },
     "related_dataset_name": "Supplemental Nutrition Assistance Program",
     "repec_authors": [
+      {
+        "name-first": "Beata",
+        "name-last": "Javorcik",
+        "name-middle": "Smarzynska",
+        "name-suffix": null,
+        "shortid": "pja78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Brucal, Arlan",
       "Javorcik, Beata",
       "Love, Inessa"
@@ -4125,6 +5266,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Metzger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme694"
+      }
+    ],
+    "repec_authors_fallback": [
       "Metzger, Christoph"
     ],
     "repec_biblio": {
@@ -4167,6 +5317,29 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Markus",
+        "name-last": "Grabka",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pgr144"
+      },
+      {
+        "name-first": "Carsten",
+        "name-last": "Schr\u00f6der",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc151"
+      },
+      {
+        "name-first": "Timm",
+        "name-last": "B\u00f6nke",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbn4"
+      }
+    ],
+    "repec_authors_fallback": [
       "Timm B\u00f6nke",
       "Markus M. Grabka",
       "Carsten Schr\u00f6der",
@@ -4200,7 +5373,7 @@
       "title": "Perspektiven der Wirtschaftspolitik"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Lerbs, Oliver",
       "Voigtl\u00e4nder, Michael"
     ],
@@ -4232,6 +5405,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Kai",
+        "name-last": "Schmid",
+        "name-middle": "Daniel",
+        "name-suffix": null,
+        "shortid": "psc401"
+      }
+    ],
+    "repec_authors_fallback": [
       "Jochen Sp\u00e4th",
       "Kai Daniel Schmid"
     ],
@@ -4259,6 +5441,15 @@
     },
     "related_dataset_name": "Panel on Household Finances",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Metzger",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme694"
+      }
+    ],
+    "repec_authors_fallback": [
       "Metzger, Christoph"
     ],
     "repec_biblio": {
@@ -4288,7 +5479,7 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Editorial - Anonymous"
     ],
     "repec_biblio": {
@@ -4322,7 +5513,7 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Oscar A. Stolper",
       "Andreas Walter"
     ],
@@ -4366,6 +5557,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Thomas",
+        "name-last": "Siemsen",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psi540"
+      },
+      {
+        "name-first": "Oliver",
+        "name-last": "H\u00fclsewig",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phl10"
+      }
+    ],
+    "repec_authors_fallback": [
       "Nikolay Hristov",
       "Oliver H\u00fclsewig",
       "Thomas Siemsen",
@@ -4407,6 +5614,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Falko",
+        "name-last": "Fecht",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfe38"
+      }
+    ],
+    "repec_authors_fallback": [
       "Fecht, Falko",
       "Thum, Stefan",
       "Weber, Patrick"
@@ -4438,7 +5654,7 @@
       "title": "Journal of Banking Regulation"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "David Grossmann",
       "Peter Scholz"
     ],
@@ -4478,6 +5694,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Paul",
+        "name-last": "Mizen",
+        "name-middle": "David",
+        "name-suffix": null,
+        "shortid": "pmi38"
+      },
+      {
+        "name-first": "Marco",
+        "name-last": "Lombardi",
+        "name-middle": "Jacopo",
+        "name-suffix": null,
+        "shortid": "plo54"
+      }
+    ],
+    "repec_authors_fallback": [
       "Illes, Anamaria",
       "Lombardi, Marco J.",
       "Mizen, Paul"
@@ -4513,7 +5745,7 @@
       "title": "Journal of Banking & Finance"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Holton, Sarah",
       "Rodriguez d\u2019Acri, Costanza"
     ],
@@ -4546,6 +5778,15 @@
     "journal": null,
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Mauro",
+        "name-last": "Pisu",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ppi200"
+      }
+    ],
+    "repec_authors_fallback": [
       "Panagiotis Barkas",
       "Mauro Pisu"
     ],
@@ -4577,6 +5818,22 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Miguel",
+        "name-last": "Ampudia Fraile",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pam147"
+      },
+      {
+        "name-first": "Sergio",
+        "name-last": "Mayordomo",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pma1884"
+      }
+    ],
+    "repec_authors_fallback": [
       "Ampudia, Miguel",
       "Mayordomo, Sergio"
     ],
@@ -4608,6 +5865,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Matteo",
+        "name-last": "Deleidi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pde912"
+      }
+    ],
+    "repec_authors_fallback": [
       "Matteo Deleidi"
     ],
     "repec_biblio": {
@@ -4641,7 +5907,7 @@
       "title": "Journal of Financial Stability"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Alessi, Lucia"
     ],
     "repec_biblio": {
@@ -4676,6 +5942,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Katja",
+        "name-last": "Neugebauer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pne146"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bremus, Franziska",
       "Neugebauer, Katja"
     ],
@@ -4715,6 +5990,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Etienne",
+        "name-last": "Lepers",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ple960"
+      }
+    ],
+    "repec_authors_fallback": [
       "Bengtsson, Elias",
       "Grothe, Magdalena",
       "Lepers, Etienne"
@@ -4751,6 +6035,15 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Yalin",
+        "name-last": "G\u00fcnd\u00fcz",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pgn13"
+      }
+    ],
+    "repec_authors_fallback": [
       "Dombret, Andreas",
       "G\u00fcnd\u00fcz, Yalin",
       "Rocholl, J\u00f6rg"
@@ -4787,6 +6080,29 @@
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
     "repec_authors": [
+      {
+        "name-first": "Sanvi",
+        "name-last": "Avouyi-Dovi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pav21"
+      },
+      {
+        "name-first": "Guillaume",
+        "name-last": "Horny",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pho296"
+      },
+      {
+        "name-first": "Patrick",
+        "name-last": "Sevestre",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pse179"
+      }
+    ],
+    "repec_authors_fallback": [
       "S. Avouyi-Dovi",
       "G. Horny",
       "Patrick Sevestre"
@@ -4814,7 +6130,7 @@
       "title": "Empirica"
     },
     "related_dataset_name": "Quarterly borrower statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Andreas Worms"
     ],
     "repec_biblio": {
@@ -4845,6 +6161,15 @@
     },
     "related_dataset_name": "Statistics on International Trade in Services",
     "repec_authors": [
+      {
+        "name-first": "Peter",
+        "name-last": "Eppinger",
+        "name-middle": "S.",
+        "name-suffix": null,
+        "shortid": "pep16"
+      }
+    ],
+    "repec_authors_fallback": [
       "Eppinger, Peter S."
     ],
     "repec_biblio": {
@@ -4867,7 +6192,7 @@
     "doi": "10.1787/ad3fc87c-en",
     "journal": null,
     "related_dataset_name": "Statistics on International Trade in Services",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Dragos Salagean"
     ],
     "repec_biblio": {
@@ -4909,7 +6234,7 @@
       "title": "Applied Economic Perspectives and Policy"
     },
     "related_dataset_name": "National Household Food Acquisition and Purchase Survey",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Dorfman, Jeffrey H.",
       "Gregory, Christian A.",
       "Huo, Ran",
@@ -4958,7 +6283,7 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI Consumer Network",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
       "Abigail Okrent",
@@ -4998,6 +6323,22 @@
     },
     "related_dataset_name": "IRI Consumer Network",
     "repec_authors": [
+      {
+        "name-first": "Annemarie",
+        "name-last": "Kuhns",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pku371"
+      },
+      {
+        "name-first": "Matthew",
+        "name-last": "Freedman",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr223"
+      }
+    ],
+    "repec_authors_fallback": [
       "Matthew Freedman",
       "Annemarie Kuhns"
     ],
@@ -5037,6 +6378,29 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "S\u00f3nia",
+        "name-last": "Costa",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco533"
+      },
+      {
+        "name-first": "Diana",
+        "name-last": "Bonfim",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbo418"
+      },
+      {
+        "name-first": "Mary",
+        "name-last": "Everett",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pev61"
+      }
+    ],
+    "repec_authors_fallback": [
       "Barbosa, Luciana",
       "Bonfim, Diana",
       "Costa, S\u00f3nia",
@@ -5074,6 +6438,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Puriya",
+        "name-last": "Abbassi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pab289"
+      }
+    ],
+    "repec_authors_fallback": [
       "Abbassi, Puriya",
       "Schmidt, Michael"
     ],
@@ -5100,7 +6473,7 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
     "repec_biblio": {
@@ -5135,6 +6508,22 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Rainer",
+        "name-last": "Frey",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr409"
+      },
+      {
+        "name-first": "Alexander",
+        "name-last": "Lipponer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pli326"
+      }
+    ],
+    "repec_authors_fallback": [
       "Rainer Frey",
       "Cornelia Kerl",
       "Alexander Lipponer"
@@ -5175,6 +6564,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Claudia",
+        "name-last": "Buch",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "pbu78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Claudia M. Buch",
       "Bj\u00f6rn Hilberg",
       "Lena Tonzer"
@@ -5215,6 +6613,29 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Francesc",
+        "name-last": "Rodr\u00edguez Tous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro923"
+      },
+      {
+        "name-first": "Jose-Luis",
+        "name-last": "Peydro",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "ppe481"
+      },
+      {
+        "name-first": "Puriya",
+        "name-last": "Abbassi",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pab289"
+      }
+    ],
+    "repec_authors_fallback": [
       "Puriya Abbassi",
       "Rajkamal Iyer",
       "Jos\u00e9-Luis Peydr\u00f3",
@@ -5248,6 +6669,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Catherine",
+        "name-last": "Koch",
+        "name-middle": "Tahmee",
+        "name-suffix": null,
+        "shortid": "pko519"
+      }
+    ],
+    "repec_authors_fallback": [
       "Cornelia Kerl",
       "Cath\u00e9rine Koch"
     ],
@@ -5283,6 +6713,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Friederike",
+        "name-last": "Niepmann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pni188"
+      }
+    ],
+    "repec_authors_fallback": [
       "Friederike Niepmann",
       "Cornelia Kerl"
     ],
@@ -5322,6 +6761,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Christoph",
+        "name-last": "Memmel",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme230"
+      }
+    ],
+    "repec_authors_fallback": [
       "Entrop, Oliver",
       "Memmel, Christoph",
       "Ruprecht, Benedikt",
@@ -5359,6 +6807,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Falko",
+        "name-last": "Fecht",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfe38"
+      }
+    ],
+    "repec_authors_fallback": [
       "Craig, Ben R.",
       "Fecht, Falko",
       "T\u00fcmer-Alkan, G\u00fcnseli"
@@ -5391,6 +6848,15 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Catherine",
+        "name-last": "Koch",
+        "name-middle": "Tahmee",
+        "name-suffix": null,
+        "shortid": "pko519"
+      }
+    ],
+    "repec_authors_fallback": [
       "Koch, Cath\u00e9rine Tahmee"
     ],
     "repec_biblio": {
@@ -5425,6 +6891,22 @@
     },
     "related_dataset_name": "Monthly balance sheet statistics",
     "repec_authors": [
+      {
+        "name-first": "Andrea",
+        "name-last": "Schertler",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc144"
+      },
+      {
+        "name-first": "Christoph",
+        "name-last": "Memmel",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme230"
+      }
+    ],
+    "repec_authors_fallback": [
       "Christoph Memmel",
       "Andrea Schertler"
     ],
@@ -5463,7 +6945,7 @@
       "title": "European Financial Management"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Oliver Entrop",
       "Marco Wilkens",
       "Alexander Zeisler"
@@ -5504,6 +6986,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Rainer",
+        "name-last": "Frey",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfr409"
+      },
+      {
+        "name-first": "Alexander",
+        "name-last": "Lipponer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pli326"
+      }
+    ],
+    "repec_authors_fallback": [
       "Rainer Frey",
       "Cornelia Kerl",
       "Alexander Lipponer"
@@ -5540,6 +7038,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Enzo",
+        "name-last": "Dia",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pdi228"
+      },
+      {
+        "name-first": "David",
+        "name-last": "VanHoose",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva216"
+      }
+    ],
+    "repec_authors_fallback": [
       "Dia, Enzo",
       "VanHoose, David"
     ],
@@ -5575,6 +7089,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Friederike",
+        "name-last": "Niepmann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pni188"
+      }
+    ],
+    "repec_authors_fallback": [
       "Friederike Niepmann",
       "Cornelia Kerl"
     ],
@@ -5606,6 +7129,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Florencio",
+        "name-last": "Lopez-de-Silanes",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "plo137"
+      },
+      {
+        "name-first": "Alberto",
+        "name-last": "Chong",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pch86"
+      }
+    ],
+    "repec_authors_fallback": [
       "Alberto Chong",
       "Florencio Lopez-de-Silanes"
     ],
@@ -5641,6 +7180,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Jean-Marc",
+        "name-last": "Figuet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfi169"
+      },
+      {
+        "name-first": "Delphine",
+        "name-last": "Lahet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pla455"
+      }
+    ],
+    "repec_authors_fallback": [
       "Figuet, Jean-Marc",
       "Humblot, Thomas",
       "Lahet, Delphine"
@@ -5677,6 +7232,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Saskia",
+        "name-last": "de Vries-van Ewijk",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pva531"
+      },
+      {
+        "name-first": "Ivo",
+        "name-last": "Arnold",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "par144"
+      }
+    ],
+    "repec_authors_fallback": [
       "van Ewijk, Saskia E.",
       "Arnold, Ivo J.M."
     ],
@@ -5716,6 +7287,22 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Roy W. L.",
+        "name-last": "Khong",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pkh106"
+      },
+      {
+        "name-first": "Hui-Boon",
+        "name-last": "Tan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pta253"
+      }
+    ],
+    "repec_authors_fallback": [
       "Priscilla Yin-Pheng Lim*",
       "Roy W. L. Khong",
       "Hui-Boon Tan"
@@ -5769,6 +7356,29 @@
     "journal": null,
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Sebastien",
+        "name-last": "Miroudot",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pmi184"
+      },
+      {
+        "name-first": "Doroth\u00e9e",
+        "name-last": "Rouzet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro887"
+      },
+      {
+        "name-first": "Hildegunn",
+        "name-last": "Nord\u00e5s",
+        "name-middle": "Kyvik",
+        "name-suffix": null,
+        "shortid": "pno116"
+      }
+    ],
+    "repec_authors_fallback": [
       "Doroth\u00e9e Rouzet",
       "Hildegunn Kyvik Nord\u00e5s",
       "Fr\u00e9d\u00e9ric Gonzales",
@@ -5801,6 +7411,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Karl",
+        "name-last": "Whelan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwh23"
+      }
+    ],
+    "repec_authors_fallback": [
       "Karl Whelan"
     ],
     "repec_biblio": {
@@ -5827,6 +7446,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Shafik",
+        "name-last": "Hebous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe288"
+      }
+    ],
+    "repec_authors_fallback": [
       "Shafik Hebous"
     ],
     "repec_biblio": {
@@ -5857,6 +7485,15 @@
     },
     "related_dataset_name": "External Position of Banks",
     "repec_authors": [
+      {
+        "name-first": "Marc",
+        "name-last": "Lavoie",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pla338"
+      }
+    ],
+    "repec_authors_fallback": [
       "Marc Lavoie"
     ],
     "repec_biblio": {
@@ -5891,6 +7528,22 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Paul",
+        "name-last": "Mizen",
+        "name-middle": "David",
+        "name-suffix": null,
+        "shortid": "pmi38"
+      },
+      {
+        "name-first": "Marco",
+        "name-last": "Lombardi",
+        "name-middle": "Jacopo",
+        "name-suffix": null,
+        "shortid": "plo54"
+      }
+    ],
+    "repec_authors_fallback": [
       "Illes, Anamaria",
       "Lombardi, Marco J.",
       "Mizen, Paul"
@@ -5923,6 +7576,15 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Simone",
+        "name-last": "Auer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pme587"
+      }
+    ],
+    "repec_authors_fallback": [
       "Auer, Simone"
     ],
     "repec_biblio": {
@@ -5961,6 +7623,15 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "David",
+        "name-last": "Sondermann",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pso343"
+      }
+    ],
+    "repec_authors_fallback": [
       "Agostino Consolo",
       "Marco Langiulli",
       "David Sondermann"
@@ -5990,6 +7661,15 @@
     "journal": null,
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Andreea",
+        "name-last": "Dragoi",
+        "name-middle": "Emanuela",
+        "name-suffix": null,
+        "shortid": "pdr149"
+      }
+    ],
+    "repec_authors_fallback": [
       "Andreea-Emanuela Dragoi"
     ],
     "repec_biblio": {
@@ -6036,6 +7716,29 @@
     },
     "related_dataset_name": "Bank Lending Survey",
     "repec_authors": [
+      {
+        "name-first": "Olivier",
+        "name-last": "De Jonghe",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pde200"
+      },
+      {
+        "name-first": "Klaas",
+        "name-last": "Mulier",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pmu434"
+      },
+      {
+        "name-first": "Glenn",
+        "name-last": "Schepens",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc554"
+      }
+    ],
+    "repec_authors_fallback": [
       "Hans Degryse",
       "Olivier De Jonghe",
       "Sanja Jakovljevic",
@@ -6066,6 +7769,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Peter",
+        "name-last": "Eppinger",
+        "name-middle": "S.",
+        "name-suffix": null,
+        "shortid": "pep16"
+      }
+    ],
+    "repec_authors_fallback": [
       "Eppinger, Peter S."
     ],
     "repec_biblio": {
@@ -6104,6 +7816,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Arne",
+        "name-last": "Nagengast",
+        "name-middle": "J.",
+        "name-suffix": null,
+        "shortid": "pna379"
+      },
+      {
+        "name-first": "Stefan",
+        "name-last": "Goldbach",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pgo495"
+      }
+    ],
+    "repec_authors_fallback": [
       "Goldbach, Stefan",
       "Nagengast, Arne J.",
       "Steinm\u00fcller, Elias",
@@ -6145,6 +7873,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Thiess",
+        "name-last": "B\u00fcttner",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbu38"
+      },
+      {
+        "name-first": "Georg",
+        "name-last": "Wamser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwa353"
+      }
+    ],
+    "repec_authors_fallback": [
       "Thiess Buettner",
       "Michael Overesch",
       "Georg Wamser"
@@ -6181,6 +7925,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Shafik",
+        "name-last": "Hebous",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "phe288"
+      }
+    ],
+    "repec_authors_fallback": [
       "Hebous, Shafik",
       "Ruf, Martin"
     ],
@@ -6213,6 +7966,22 @@
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Doroth\u00e9e",
+        "name-last": "Rouzet",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pro887"
+      },
+      {
+        "name-first": "Sebastian",
+        "name-last": "Benz",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pbe496"
+      }
+    ],
+    "repec_authors_fallback": [
       "Doroth\u00e9e Rouzet",
       "Sebastian Benz",
       "Francesca Spinelli"
@@ -6249,6 +8018,15 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Georg",
+        "name-last": "Wamser",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pwa353"
+      }
+    ],
+    "repec_authors_fallback": [
       "Merz, Julia",
       "Overesch, Michael",
       "Wamser, Georg"
@@ -6288,7 +8066,7 @@
       "title": "International Business Review"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Gleich, Wolfgang",
       "Schmeisser, Bjoern",
       "Zschoche, Miriam"
@@ -6325,6 +8103,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Mathieu",
+        "name-last": "Couttenier",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco498"
+      },
+      {
+        "name-first": "Farid",
+        "name-last": "Toubal",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pto82"
+      }
+    ],
+    "repec_authors_fallback": [
       "Couttenier, Mathieu",
       "Toubal, Farid"
     ],
@@ -6363,7 +8157,7 @@
       "title": "Review of Managerial Science"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Keller, Sara",
       "Schanz, Deborah"
     ],
@@ -6382,7 +8176,7 @@
     "doi": "10.1007/978-3-658-08493-6",
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Wann\u00f6ffel Manfred"
     ],
     "repec_biblio": {
@@ -6421,6 +8215,22 @@
     },
     "related_dataset_name": "Microdatabase Direct Investment",
     "repec_authors": [
+      {
+        "name-first": "Monika",
+        "name-last": "Schnitzer",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "psc60"
+      },
+      {
+        "name-first": "James",
+        "name-last": "Hines",
+        "name-middle": "R.",
+        "name-suffix": "Jr.",
+        "shortid": "phi111"
+      }
+    ],
+    "repec_authors_fallback": [
       "Gumpert, Anna",
       "Hines Jr, James R",
       "Schnitzer, Monika"
@@ -6452,7 +8262,7 @@
       "title": "European Economic Review"
     },
     "related_dataset_name": "Corporate balance sheets",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Kuvshinov, Dmitry",
       "Zimmermann, Kaspar"
     ],
@@ -6484,6 +8294,15 @@
     },
     "related_dataset_name": "Corporate balance sheets",
     "repec_authors": [
+      {
+        "name-first": "Mariusz",
+        "name-last": "Jarmuzek",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pja192"
+      }
+    ],
+    "repec_authors_fallback": [
       "Mariusz Jarmuzek",
       "Rossen Rozenov"
     ],
@@ -6518,7 +8337,7 @@
       "title": "Journal of International Money and Finance"
     },
     "related_dataset_name": "Corporate balance sheets",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Iacoviello, Matteo",
       "Navarro, Gaston"
     ],
@@ -6558,6 +8377,15 @@
     },
     "related_dataset_name": "Supplemental Nutrition Assistance Program",
     "repec_authors": [
+      {
+        "name-first": "Beata",
+        "name-last": "Javorcik",
+        "name-middle": "Smarzynska",
+        "name-suffix": null,
+        "shortid": "pja78"
+      }
+    ],
+    "repec_authors_fallback": [
       "Brucal, Arlan",
       "Javorcik, Beata",
       "Love, Inessa"
@@ -6585,7 +8413,7 @@
       "title": "Review of Marketing Science"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Shi Yuying"
     ],
     "repec_biblio": {
@@ -6635,7 +8463,7 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
       "Abigail Okrent",
@@ -6675,6 +8503,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Ornella",
+        "name-last": "Maietta",
+        "name-middle": "Wanda",
+        "name-suffix": null,
+        "shortid": "pma1719"
+      }
+    ],
+    "repec_authors_fallback": [
       "Moritz Bosbach",
       "Ornella Wanda Maietta"
     ],
@@ -6709,7 +8546,7 @@
       "title": "Social Sciences"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Hugo Ferrer-P\u00e9rez",
       "Filippo Arfini",
       "Jos\u00e9 M. Gil"
@@ -6750,6 +8587,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Marco",
+        "name-last": "Costanigro",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pco560"
+      }
+    ],
+    "repec_authors_fallback": [
       "Costanigro, Marco",
       "Scozzafava, Gabriele",
       "Casini, Leonardo"
@@ -6790,6 +8636,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Rigoberto",
+        "name-last": "Lopez",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "plo240"
+      }
+    ],
+    "repec_authors_fallback": [
       "Stefan Hirsch",
       "Giulia Tiboldo",
       "Rigoberto A. Lopez"
@@ -6834,6 +8689,15 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Linlin",
+        "name-last": "Fan",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pfa544"
+      }
+    ],
+    "repec_authors_fallback": [
       "Fan, Linlin",
       "Baylis, Kathy",
       "Gundersen, Craig",
@@ -6866,7 +8730,7 @@
       "title": "Journal of Retailing"
     },
     "related_dataset_name": "IRI InfoScan",
-    "repec_authors": [
+    "repec_authors_fallback": [
       "Yonezawa, Koichi",
       "Richards, Timothy J."
     ],
@@ -6906,6 +8770,22 @@
     },
     "related_dataset_name": "IRI InfoScan",
     "repec_authors": [
+      {
+        "name-first": "Jeffrey",
+        "name-last": "Perloff",
+        "name-middle": "M.",
+        "name-suffix": null,
+        "shortid": "ppe67"
+      },
+      {
+        "name-first": "William",
+        "name-last": "Horrace",
+        "name-middle": "C.",
+        "name-suffix": null,
+        "shortid": "pho33"
+      }
+    ],
+    "repec_authors_fallback": [
       "Horrace, William C.",
       "Huang, Rui",
       "Perloff, Jeffrey M."
