@@ -464,6 +464,11 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Securities Holdings Statistics - Base",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
@@ -684,18 +689,18 @@
         "shortid": "poh42"
       },
       {
-        "name-first": "Michael",
-        "name-last": "Koetter",
-        "name-middle": null,
-        "name-suffix": null,
-        "shortid": "pko215"
-      },
-      {
         "name-first": "Claudia",
         "name-last": "Buch",
         "name-middle": "M.",
         "name-suffix": null,
         "shortid": "pbu78"
+      },
+      {
+        "name-first": "Michael",
+        "name-last": "Koetter",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko215"
       }
     ],
     "repec_authors_fallback": [
@@ -734,6 +739,11 @@
       "title": "IMF Economic Review"
     },
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Serkan Arslanalp",
       "Takahiro Tsuda"
@@ -762,6 +772,11 @@
     "doi": "10.1787/5kg3h0jssnq6-en",
     "journal": null,
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Mich\u00e8le Chavoix-Mannato"
     ],
@@ -788,6 +803,11 @@
       "title": "Economic & Labour Market Review"
     },
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Graeme Walker"
     ],
@@ -830,6 +850,11 @@
       "title": "Journal of Family and Economic Issues"
     },
     "related_dataset_name": "TARGET2",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Yoko Mimura",
       "Yi Cai",
@@ -1405,6 +1430,11 @@
       "title": "Empirica"
     },
     "related_dataset_name": "Quarterly borrower statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Andreas Worms"
     ],
@@ -1439,6 +1469,11 @@
       "title": "European Economic Review"
     },
     "related_dataset_name": "Corporate balance sheets",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Kuvshinov, Dmitry",
       "Zimmermann, Kaspar"
@@ -1514,6 +1549,11 @@
       "title": "Journal of International Money and Finance"
     },
     "related_dataset_name": "Corporate balance sheets",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Iacoviello, Matteo",
       "Navarro, Gaston"
@@ -1545,6 +1585,11 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Securities Holdings Statistics - Base",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
@@ -1679,6 +1724,11 @@
       "title": "Perspektiven der Wirtschaftspolitik"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Lerbs, Oliver",
       "Voigtl\u00e4nder, Michael"
@@ -1785,6 +1835,11 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Editorial - Anonymous"
     ],
@@ -1819,6 +1874,11 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Oscar A. Stolper",
       "Andreas Walter"
@@ -1960,6 +2020,11 @@
       "title": "Journal of Banking Regulation"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "David Grossmann",
       "Peter Scholz"
@@ -2051,6 +2116,11 @@
       "title": "Journal of Banking & Finance"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Holton, Sarah",
       "Rodriguez d\u2019Acri, Costanza"
@@ -2213,6 +2283,11 @@
       "title": "Journal of Financial Stability"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Alessi, Lucia"
     ],
@@ -2544,6 +2619,11 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
@@ -3016,6 +3096,11 @@
       "title": "European Financial Management"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Oliver Entrop",
       "Marco Wilkens",
@@ -3346,6 +3431,11 @@
       "title": "International Business Review"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Gleich, Wolfgang",
       "Schmeisser, Bjoern",
@@ -3437,6 +3527,11 @@
       "title": "Review of Managerial Science"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Keller, Sara",
       "Schanz, Deborah"
@@ -3456,6 +3551,11 @@
     "doi": "10.1007/978-3-658-08493-6",
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Wann\u00f6ffel Manfred"
     ],
@@ -3570,6 +3670,11 @@
     "doi": "10.1787/ad3fc87c-en",
     "journal": null,
     "related_dataset_name": "Statistics on International Trade in Services",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Dragos Salagean"
     ],
@@ -4494,18 +4599,18 @@
         "shortid": "poh42"
       },
       {
-        "name-first": "Michael",
-        "name-last": "Koetter",
-        "name-middle": null,
-        "name-suffix": null,
-        "shortid": "pko215"
-      },
-      {
         "name-first": "Claudia",
         "name-last": "Buch",
         "name-middle": "M.",
         "name-suffix": null,
         "shortid": "pbu78"
+      },
+      {
+        "name-first": "Michael",
+        "name-last": "Koetter",
+        "name-middle": null,
+        "name-suffix": null,
+        "shortid": "pko215"
       }
     ],
     "repec_authors_fallback": [
@@ -4544,6 +4649,11 @@
       "title": "IMF Economic Review"
     },
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Serkan Arslanalp",
       "Takahiro Tsuda"
@@ -4572,6 +4682,11 @@
     "doi": "10.1787/5kg3h0jssnq6-en",
     "journal": null,
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Mich\u00e8le Chavoix-Mannato"
     ],
@@ -4598,6 +4713,11 @@
       "title": "Economic & Labour Market Review"
     },
     "related_dataset_name": "Centralised Securities Database",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Graeme Walker"
     ],
@@ -4640,6 +4760,11 @@
       "title": "Journal of Family and Economic Issues"
     },
     "related_dataset_name": "TARGET2",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Yoko Mimura",
       "Yi Cai",
@@ -4693,6 +4818,11 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI Consumer Network",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
@@ -4775,6 +4905,11 @@
       "title": "Review of Marketing Science"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Shi Yuying"
     ],
@@ -4825,6 +4960,11 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
@@ -4908,6 +5048,11 @@
       "title": "Social Sciences"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Hugo Ferrer-P\u00e9rez",
       "Filippo Arfini",
@@ -5092,6 +5237,11 @@
       "title": "Journal of Retailing"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Yonezawa, Koichi",
       "Richards, Timothy J."
@@ -5191,6 +5341,11 @@
       "title": "Applied Economic Perspectives and Policy"
     },
     "related_dataset_name": "National Household Food Acquisition and Purchase Survey",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Dorfman, Jeffrey H.",
       "Gregory, Christian A.",
@@ -5373,6 +5528,11 @@
       "title": "Perspektiven der Wirtschaftspolitik"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Lerbs, Oliver",
       "Voigtl\u00e4nder, Michael"
@@ -5479,6 +5639,11 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Editorial - Anonymous"
     ],
@@ -5513,6 +5678,11 @@
       "title": "Journal of Business Economics"
     },
     "related_dataset_name": "Panel on Household Finances",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Oscar A. Stolper",
       "Andreas Walter"
@@ -5654,6 +5824,11 @@
       "title": "Journal of Banking Regulation"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "David Grossmann",
       "Peter Scholz"
@@ -5745,6 +5920,11 @@
       "title": "Journal of Banking & Finance"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Holton, Sarah",
       "Rodriguez d\u2019Acri, Costanza"
@@ -5907,6 +6087,11 @@
       "title": "Journal of Financial Stability"
     },
     "related_dataset_name": "MFI Interest Rate Statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Alessi, Lucia"
     ],
@@ -6130,6 +6315,11 @@
       "title": "Empirica"
     },
     "related_dataset_name": "Quarterly borrower statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Andreas Worms"
     ],
@@ -6192,6 +6382,11 @@
     "doi": "10.1787/ad3fc87c-en",
     "journal": null,
     "related_dataset_name": "Statistics on International Trade in Services",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Dragos Salagean"
     ],
@@ -6234,6 +6429,11 @@
       "title": "Applied Economic Perspectives and Policy"
     },
     "related_dataset_name": "National Household Food Acquisition and Purchase Survey",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Dorfman, Jeffrey H.",
       "Gregory, Christian A.",
@@ -6283,6 +6483,11 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI Consumer Network",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
@@ -6473,6 +6678,11 @@
       "title": "Journal of Financial Economics"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Timmer, Yannick"
     ],
@@ -6945,6 +7155,11 @@
       "title": "European Financial Management"
     },
     "related_dataset_name": "Monthly balance sheet statistics",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Oliver Entrop",
       "Marco Wilkens",
@@ -8066,6 +8281,11 @@
       "title": "International Business Review"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Gleich, Wolfgang",
       "Schmeisser, Bjoern",
@@ -8157,6 +8377,11 @@
       "title": "Review of Managerial Science"
     },
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Keller, Sara",
       "Schanz, Deborah"
@@ -8176,6 +8401,11 @@
     "doi": "10.1007/978-3-658-08493-6",
     "journal": null,
     "related_dataset_name": "Microdatabase Direct Investment",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Wann\u00f6ffel Manfred"
     ],
@@ -8262,6 +8492,11 @@
       "title": "European Economic Review"
     },
     "related_dataset_name": "Corporate balance sheets",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Kuvshinov, Dmitry",
       "Zimmermann, Kaspar"
@@ -8337,6 +8572,11 @@
       "title": "Journal of International Money and Finance"
     },
     "related_dataset_name": "Corporate balance sheets",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Iacoviello, Matteo",
       "Navarro, Gaston"
@@ -8413,6 +8653,11 @@
       "title": "Review of Marketing Science"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Shi Yuying"
     ],
@@ -8463,6 +8708,11 @@
       "title": "Health Economics"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Chen Zhen",
       "Mary Muth",
@@ -8546,6 +8796,11 @@
       "title": "Social Sciences"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Hugo Ferrer-P\u00e9rez",
       "Filippo Arfini",
@@ -8730,6 +8985,11 @@
       "title": "Journal of Retailing"
     },
     "related_dataset_name": "IRI InfoScan",
+    "repec_authors": [
+      {
+        "error": 44
+      }
+    ],
     "repec_authors_fallback": [
       "Yonezawa, Koichi",
       "Richards, Timothy J."

@@ -129,17 +129,16 @@ if __name__ == "__main__":
                 if view["repec_handle"]:
                     #print(view)
                     results = get_repec_meta(repec_token, view["repec_handle"])
+                    authors = get_repec_authors(repec_token, view["repec_handle"])
 
                     if results and len(results) > 0:
                         meta = results[0]
 
                         if view["title"].lower() == meta["bibliographic"]["name"].lower():
                             view["repec_biblio"] = meta["bibliographic"]
-
                             view["repec_authors_fallback"] = meta["author"].split(" & ")
-                            authors = get_repec_authors(repec_token, view["repec_handle"])
 
-                            if authors and "error" not in authors[0]:
+                            if authors:
                                 view["repec_authors"] = authors
 
                             pubs.append(view)
