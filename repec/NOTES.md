@@ -7,19 +7,19 @@
 
 ## Usage
 
-To pull RePEc handles for matching publications from the Dimensions API:
+1. Pull RePEc handles for matching publications from the Dimensions API:
 
 ```
 ./repec.py 1
 ```
 
-To access metadata (authors, etc.) from the RePEc API:
+2. Access metadata (authors, etc.) from the RePEc API:
 
 ```
 ./repec.py 2
 ```
 
-To generate the data to send to RePEc for author confirmation:
+3. Generate the data to send to RePEc for author confirmation:
 
 ```
 ./repec.py 3

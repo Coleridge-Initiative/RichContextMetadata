@@ -164,12 +164,28 @@ if __name__ == "__main__":
                 else:
                     meta["journal"] = ""
 
-                for author in set(view["repec_authors"]):
-                    print(author)
-                    auth_meta = copy.deepcopy(meta)
-                    auth_meta["author"] = author
-                    pubs.append(auth_meta)
+                ## enumerate the authors and align their metadata
+                if "repec_authors" not in view:
+                    print(view)
+                    print("ERROR: MISSING AUTHORS")
+                elif "error" in view["repec_authors"][0]:
+                    ## this case had `"error": 44`
+                    for author in set(view["repec_authors_fallback"]):
+                        auth_meta = copy.deepcopy(meta)
+                        auth_meta["shortid"] = None
+                        auth_meta["author"] = author
+                        pubs.append(auth_meta)
+                else:
+                    for author in view["repec_authors"]:
+                        auth_meta = copy.deepcopy(meta)
+                        auth_meta["shortid"] = author["shortid"]
+                        del author["shortid"]
+                        auth_meta["author"] = author
+                        pubs.append(auth_meta)
 
         ## persist the results to a file
         with open("send_repec.json", "w", encoding="utf8") as f:
             json.dump(pubs, f, indent=2, sort_keys=True, ensure_ascii=False)
+
+        print("processed {} author records".format(len(pubs)))
+
