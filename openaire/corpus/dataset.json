@@ -167,17 +167,20 @@
       "rcc_cite": []
     },
     {
-      "uuid": "dataset-3c575fa6e18c6d130c4f",
+      "uuid": "dataset-0a7b604ab2e52411d45a",
       "publisher": "Centers for Disease Control and Prevention",
-      "title": "National Health and Nutrition Examination Survey 1971-1974",
+      "title": "National Health and Nutrition Examination Survey",
       "alt_title": [
-        "NHANES I"
+        "NHANES",
+        "NHANES I",
+        "NHANES II",
+        "NHANES III"
 	],
-      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes1/default.aspx",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/",
       "doi": "doi:10.3886/ICPSR07987",
       "date": "1992-02-16 00:00:00+00:00",
       "description": "The National Health and Nutrition Examination Surveys (Cycle I) were designed to measure the nutritional status and health of the U.S. population aged 1-74 years and to obtain more detailed information on the health status and medical care needs of adults aged 25-74 years in the civilian noninstitutionalized population.",
-      "rcc_cite": ["261", "379"]
+      "rcc_cite": ["261", "379", "481", "482", "483", "484", "542"]
     },
     {
       "uuid": "dataset-555eb8a443bf5f1d1a4a",
@@ -191,26 +194,6 @@
       "date": "2006-01-18 00:00:00+00:00",
       "description": "The National Health and Nutrition Examination Survey I Epidemiologic Followup Study (NHEFS) originated as a joint project between the National Center for Health Statistics (NCHS) and the National Institute on Aging (NIA). The design of NHEFS, which contains follow-up data on the NHANES I cohort, consisted of five steps. The first step focused on tracing and locating all subjects in the cohort or their proxies and determining their vital status. The second step involved the obtaining of death certificates for subjects who were deceased. Interviews with the participants or their proxies constituted the third phase of the follow-up. The fourth phase of the follow-up included measurements of pulse, blood pressure, and weight for interviewed respondents, and the fifth step was the acquisition of relevant hospital and nursing home records, including pathology reports and electrocardiograms. The respondent interview was designed to gather information on selected aspects of the subject's health history since the time of the NHANES I exam. This information included a history of the occurrence or recurrence of selected medical conditions, an assessment of behavioral, social, nutritional, and medical risk factors believed to be associated with these conditions, and an assessment of various aspects of functional status. Whenever possible, the questionnaire was designed to retain item comparability between NHANES I and NHEFS in order to measure change over time. However, questionnaire items were modified, added, or deleted when necessary to take advantage of recent improvements in questionnaire methodology. The Vital and Tracing Status file is a master file containing tracing, vital status, and demographic data for all NHEFS respondents. In addition, it provides users with information on the availability of different survey components for each respondent. For example, variables have been created to indicate whether a death certificate was received for a deceased subject, hospital records were received, or a follow-up interview was completed. The Health Care Facility Record file offers data on respondents who had reported an overnight stay in a health care facility after 1970. Information on the name and address of the facility, the date of the stay, and the reason for the stay was recorded. The Mortality Data file contains death certificate information for 1,935 NHEFS decedents. The death certificate information is for deaths occurring from 1971 to 1983.",
       "rcc_cite": ["380"]
-    },
-    {
-      "uuid": "dataset-265b411623409ff9de3b",
-      "publisher": "Centers for Disease Control and Prevention",
-      "title": "National Health and Nutrition Examination Survey 1976-1980",
-      "alt_title": [
-        "NHANES II"
-	],
-      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes2/default.aspx",
-      "rcc_cite": []
-    },
-    {
-      "uuid": "dataset-54ba00ce9ce7a8f91c75",
-      "publisher": "Centers for Disease Control and Prevention",
-      "title": "National Health and Nutrition Examination Survey 1988-1994",
-      "alt_title": [
-        "NHANES III"
-	],
-      "url": "https://wwwn.cdc.gov/nchs/nhanes/nhanes1/default.aspx",
-      "rcc_cite": []
     },
     {
       "uuid": "dataset-3c87692e90a2461f83a5",
@@ -228,5 +211,52 @@
         "doi:10.7910/DVN/1ERQJX"
 	],
       "rcc_cite": ["381", "829"]
-    }
+    },
+    {
+      "uuid": "dataset-af96c479278ffcab091f",
+      "publisher": "ICPSR",
+      "title": "Elections to the United States House of Representatives",
+      "alt_title": [
+	],
+      "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6311",
+      "doi": "doi:10.3886/ICPSR06311",
+      "date": "2006-01-12 00:00:00+00:00",
+      "description": "This data collection, designed to facilitate analysis of voting behavior at the district level and the effect of party incumbency on election outcomes, contains election returns for elections to the United States House of Representatives from 1898 to 1992. Votes from each biennial election are tallied by Democratic and Republican candidate and are further grouped by state and congressional district. The party of the incumbent is also indicated. These data are arranged by election year in 48 separate files. An additional file, Part 49, Exceptions Data, contains data for unusual elections, such as when the winning candidate was from a minor party or there was no Democratic-Republican pairing. These data are grouped by state and district and include the year of the election, the party of the winning candidate, and the number of votes received by the winning candidate where available.",
+      "alt_ids": [
+	],
+      "rcc_cite": ["717"]
+    },
+    {
+      "uuid": "dataset-8b19c7c2ef65f00bd51a",
+      "publisher": "ICPSR",
+      "title": "The Anatomical Tracings of Lesions after Stroke",
+      "alt_title": [
+        "ATLAS"
+	],
+      "url": "https://www.icpsr.umich.edu/icpsrweb/ADDEP/studies/36684",
+      "doi": "doi:10.3886/ICPSR36684",
+      "date": "2018-11-27 00:00:00+00:00",
+      "description": "The Anatomical Tracings of Lesions After Stroke (ATLAS) Dataset - Release 1.2 is an open-source data collection consisting a total of 304 T1-weighted MRIs (Magnetic Resonance Imaging) with manually segmented diverse lesions and metadata. The goal of ATLAS is to provide the research community with a standardized training and testing dataset for lesion segmentation algorithms on T1-weighted MRIs.",
+      "alt_ids": [
+	],
+      "rcc_cite": ["1217"]
+    },
+    {
+      "uuid": "dataset-d623648d0332068886e3",
+      "publisher": "ICPSR",
+      "title": "Johns Hopkins University Prevention Research Center - Risks for Transitions in Drug Use Among Urban Adults, Baltimore City, 2008-2011",
+      "alt_title": [
+        "JHU PRC",
+        "PRC",
+	"Prevention Research Study"
+	],
+      "url": "https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/36622",
+      "doi": "doi:10.3886/ICPSR36622",
+      "date": "2017-10-13 00:00:00+00:00",
+      "description": "The Johns Hopkins University Prevention Research center - Risks for Transitions, Baltimore city, 2008-2011 study (JHU PRC Risks for Transition in Drug Use among Urban Adults) represents data collected for a 25 years follow-up from the original JHU PRC study. At the start of the data collection, a cohort of 2,311 youth were randomly assigned to two classroom-based universal preventive interventions implemented in 43 classrooms of 19 public schools located in 5 socio-demographically distinct areas in Eastern Baltimore. This collection includes data from 1,434 respondents from the original cohort collected in 2008-2012. The mean age of the respondents was 30-32 years old.",
+      "alt_ids": [
+	],
+      "rcc_cite": ["1207"]
+    }    
+
 ]

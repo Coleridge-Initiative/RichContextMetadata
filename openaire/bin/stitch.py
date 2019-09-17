@@ -146,6 +146,7 @@ if __name__ == "__main__":
     suggest_work(todo, set([MISSING_PDF]), "only the PDF is missing")
     suggest_work(todo, set([MISSING_URL]), "only the URL is missing")
     suggest_work(todo, set([MISSING_PUB]), "only the publisher is unknown")
+    suggest_work(todo, set([MISSING_PDF, MISSING_PUB]), "missing PDF and publisher")
 
     for elem in todo:
         if len(elem["flags"]) <= 1:

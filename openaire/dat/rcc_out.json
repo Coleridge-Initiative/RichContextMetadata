@@ -566,6 +566,7 @@
   "title": "Disparities in health care utilization by smoking status--NHANES 1999-2004",
   "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC2672402",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2672402&blobtype=pdf",
   "rcc_cite": [
     481,
     482,
@@ -712,6 +713,7 @@
   "title": "An examination of the association of selected toxic metals with total and central obesity indices: NHANES 99-02",
   "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC2954548",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2954548&blobtype=pdf",
   "rcc_cite": [
     481,
     482
@@ -733,8 +735,9 @@
   "pub_id": 406,
   "doi": "doi:10.2337/dc07-2010",
   "title": "Mitigating case mix factors by choice of glycemic control performance measure threshold",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2518340",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2518340&blobtype=pdf",
   "rcc_cite": [
     481,
     482
@@ -747,6 +750,7 @@
   "title": "Consistency between education reported in health survey and recorded in death certificate",
   "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC2175513",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2175513&blobtype=pdf",
   "rcc_cite": [
     481,
     482
@@ -952,6 +956,7 @@
   "title": "Does perception equal reality? Weight misperception in relation to weight-related attitudes and behaviors among overweight and obese US adults",
   "publisher": "Springer Nature",
   "url": "http://europepmc.org/articles/PMC3073863",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3073863&blobtype=pdf",
   "rcc_cite": [
     483,
     484
@@ -1001,6 +1006,7 @@
   "title": "Diet quality is positively associated with 100% fruit juice consumption in children and adults in the United States: NHANES 2003-2006",
   "publisher": "Springer Nature",
   "url": "http://www.nutritionj.com/content/10/1/17",
+  "pdf": "https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-10-17",
   "rcc_cite": [
     483,
     484
@@ -1197,6 +1203,7 @@
   "title": "Associations between organochlorine pesticides and vitamin D deficiency in the U.S. population",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3266254",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3266254&blobtype=pdf",
   "rcc_cite": [
     483
   ]
@@ -1259,7 +1266,8 @@
   "doi": "doi:10.5402/2012/691486",
   "title": "Factors associated with vitamin D deficiency and inadequacy among women of childbearing age in the United States",
   "publisher": "International Scholarly Research Network",
-  "url": "http://dx.doi.org/10.5402/2012/691486",
+  "url": "https://www.hindawi.com/journals/isrn/2012/691486/",
+  "pdf": "http://downloads.hindawi.com/archive/2012/691486.pdf",
   "rcc_cite": [
     483,
     484
@@ -1272,6 +1280,7 @@
   "title": "Hypertension in women of reproductive age in the United States: NHANES 1999-2008",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3340351",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3340351&blobtype=pdf",
   "rcc_cite": [
     481,
     482,
@@ -1439,6 +1448,7 @@
   "title": "Trends in low-density lipoprotein cholesterol goal achievement in high risk United States adults: Longitudinal findings from the 1999-2008 National Health and Nutrition Examination Surveys",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3615020",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3615020&blobtype=pdf",
   "rcc_cite": [
     481,
     482,
@@ -1977,8 +1987,9 @@
   "pub_id": 582,
   "doi": "doi:10.1038/sdata.2016.96",
   "title": "A database of human exposomes and phenomes from the US National Health and Nutrition Examination Survey",
-  "publisher": "Nature Publishing Group",
-  "url": "http://dx.doi.org/10.1038/sdata.2016.96",
+  "publisher": "Scientific Data",
+  "url": "https://www.nature.com/articles/sdata201696",
+  "pdf": "https://www.nature.com/articles/sdata201696.pdf",
   "rcc_cite": [
     481,
     482,
@@ -2101,8 +2112,9 @@
   "pub_id": 606,
   "doi": "doi:10.1038/sdata.2017.108",
   "title": "Spatiotemporal database of US congressional elections, 1896--2014",
-  "publisher": "Nature Publishing Group",
-  "url": "http://dx.doi.org/10.1038/sdata.2017.108",
+  "publisher": "Scientific Data",
+  "url": "https://www.nature.com/articles/sdata2017108",
+  "pdf": "https://www.nature.com/articles/sdata2017108.pdf",
   "rcc_cite": [
     717
   ]
@@ -4429,6 +4441,7 @@
   "title": "Application of support vector machine modeling for prediction of common diseases: The case of diabetes and pre-diabetes",
   "publisher": "BMC Med Inform Decis Mak",
   "url": "http://europepmc.org/articles/PMC2850872",
+  "pdf": "http://europepmc.org/articles/PMC2850872?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4442,6 +4455,7 @@
   "title": "Morbid obesity as a risk factor for hospitalization and death due to 2009 pandemic influenza A(H1N1) disease",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC2837749",
+  "pdf": "http://europepmc.org/articles/PMC2837749?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -4463,8 +4477,9 @@
   "pub_id": 1449,
   "doi": "doi:10.1186/1472-6963-10-68",
   "title": "Cholesterol treatment with statins: Who is left out and who makes it to goal?",
-  "publisher": "BMC",
+  "publisher": "BMC Health Serv Res",
   "url": "http://europepmc.org/articles/PMC2846927",
+  "pdf": "http://europepmc.org/articles/PMC2846927?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4490,6 +4505,7 @@
   "title": "Lack of association between dietary fructose and hyperuricemia risk in adults",
   "publisher": "Nutrition & Metabolism",
   "url": "http://www.nutritionandmetabolism.com/content/7/1/16",
+  "pdf": "https://nutritionandmetabolism.biomedcentral.com/track/pdf/10.1186/1743-7075-7-16",
   "rcc_cite": [
     481,
     482,
@@ -4528,6 +4544,7 @@
   "title": "Association of urinary bisphenol a concentration with heart disease: Evidence from NHANES 2003/06",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC2800195",
+  "pdf": "http://europepmc.org/articles/PMC2800195?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -4614,7 +4631,8 @@
   "doi": "doi:10.1001/archgenpsychiatry.2009.164",
   "title": "Blood lead levels and major depressive disorder, panic disorder, and generalized anxiety disorder in US young adults",
   "publisher": "Arch Gen Psychiatry",
-  "url": "https://europepmc.org/articles/PMC2917196/",
+  "url": "https://europepmc.org/articles/PMC2917196",
+  "pdf": "https://europepmc.org/articles/PMC2917196?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4661,6 +4679,7 @@
   "title": "Inverse association between insulin resistance and gait speed in nondiabetic older men: Results from the U.S. National Health and Nutrition Examination Survey (NHANES) 1999-2002",
   "publisher": "BMC Geriatr",
   "url": "http://europepmc.org/articles/PMC2784762",
+  "pdf": "http://europepmc.org/articles/PMC2784762?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -4756,6 +4775,7 @@
   "title": "Public health impact of antiviral therapy for hepatitis C in the United States",
   "publisher": "Hepatology",
   "url": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep.23220",
+  "pdf": "https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.23220",
   "rcc_cite": [
     482,
     483,
@@ -4770,6 +4790,7 @@
   "title": "A cross-sectional study of food group intake and C-reactive protein among children",
   "publisher": "Nutrition & Metabolism",
   "url": "http://www.nutritionandmetabolism.com/content/6/1/40",
+  "pdf": "https://nutritionandmetabolism.biomedcentral.com/track/pdf/10.1186/1743-7075-6-40",
   "rcc_cite": [
     481,
     482
@@ -4805,6 +4826,7 @@
   "title": "Diabetes prevalence and diagnosis in US states: Analysis of health surveys",
   "publisher": "BioMed Central",
   "url": "http://europepmc.org/articles/PMC2764564",
+  "pdf": "http://europepmc.org/articles/PMC2764564?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -4817,6 +4839,7 @@
   "title": "Dual energy X-Ray absorptiometry body composition reference values from NHANES",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC2737140",
+  "pdf": "http://europepmc.org/articles/PMC2737140?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4896,6 +4919,7 @@
   "title": "Serum selenium concentrations and diabetes in U.S. adults: National Health and Nutrition Examination Survey (NHANES) 2003-2004",
   "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2737018",
+  "pdf": "http://europepmc.org/articles/PMC2737018?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -4907,6 +4931,7 @@
   "title": "Tobacco smoke exposure and levels of urinary metals in the U.S. youth and adult population: The National Health and Nutrition Examination Survey (NHANES) 1999-2004",
   "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC2738890",
+  "pdf": "http://europepmc.org/articles/PMC2738890?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5069,6 +5094,7 @@
   "title": "The 'fit but fat' concept revisited: Population-based estimates using NHANES",
   "publisher": "Int J Behav Nutr Phys Act",
   "url": "http://europepmc.org/articles/PMC2885314",
+  "pdf": "http://europepmc.org/articles/PMC2885314?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -5256,6 +5282,7 @@
   "title": "The association of biomarkers of iron status with peripheral arterial disease in US adults",
   "publisher": "BMC Cardiovascular Disorders",
   "url": "https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/1471-2261-9-34",
+  "pdf": "https://bmccardiovascdisord.biomedcentral.com/track/pdf/10.1186/1471-2261-9-34",
   "rcc_cite": [
     481,
     482
@@ -5444,6 +5471,7 @@
   "title": "Age-related associations of hypertension and diabetes mellitus with chronic kidney disease",
   "publisher": "BMC Nephrol",
   "url": "http://europepmc.org/articles/PMC2714514",
+  "pdf": "http://europepmc.org/articles/PMC2714514?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5455,8 +5483,9 @@
   "pub_id": 1599,
   "doi": "doi:10.3390/ijerph6051633",
   "title": "Who is exposed to secondhand smoke? Self-reported and serum cotinine measured exposure in the U.S., 1999-2006",
-  "publisher": "MDPI AG",
+  "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC2697933",
+  "pdf": "http://europepmc.org/articles/PMC2697933?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5486,6 +5515,7 @@
   "title": "Objectively measured physical activity of USA adults by sex, age, and racial/ethnic groups: A cross-sectional study",
   "publisher": "Int J Behav Nutr Phys Act",
   "url": "http://europepmc.org/articles/PMC2701914",
+  "pdf": "http://europepmc.org/articles/PMC2701914?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -5574,6 +5604,7 @@
   "title": "Comparison of adult oral health in Australia, the USA, Germany and the UK",
   "publisher": "Aust Dent J",
   "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1834-7819.2009.01108.x",
+  "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1834-7819.2009.01108.x",
   "rcc_cite": [
     483
   ]
@@ -5621,6 +5652,7 @@
   "title": "Changes in inflammatory biomarkers across weight classes in a representative US population: A link between obesity and inflammation",
   "publisher": "J Gastrointest Surg",
   "url": "http://www.escholarship.org/uc/item/94q4t57k",
+  "pdf": "https://escholarship.org/content/qt94q4t57k/qt94q4t57k.pdf?t=l7nx9c",
   "rcc_cite": [
     481,
     482,
@@ -5881,8 +5913,9 @@
   "pub_id": 1672,
   "doi": "doi:10.1186/1471-2288-9-7",
   "title": "An illustration of and programs estimating attributable fractions in large scale surveys considering multiple risk factors",
-  "publisher": "Springer Nature",
+  "publisher": "BMC Med Res Methodol",
   "url": "http://europepmc.org/articles/PMC2636839",
+  "pdf": "http://europepmc.org/articles/PMC2636839?pdf=render",
   "rcc_cite": [
     484
   ]
@@ -5927,6 +5960,7 @@
   "title": "Fitness versus fatness and insulin resistance in U.S. adolescents",
   "publisher": "J Obes",
   "url": "http://europepmc.org/articles/PMC2911600",
+  "pdf": "http://europepmc.org/articles/PMC2911600?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -5949,8 +5983,9 @@
   "pub_id": 1685,
   "doi": "doi:10.1186/1479-5868-7-60",
   "title": "Accelerometer profiles of physical activity and inactivity in normal weight, overweight, and obese U.S. men and women",
-  "publisher": "Springer Nature",
+  "publisher": "Int J Behav Nutr Phys Act",
   "url": "http://europepmc.org/articles/PMC2924256",
+  "pdf": "http://europepmc.org/articles/PMC2924256?pdf=render",
   "rcc_cite": [
     484
   ]
@@ -6012,6 +6047,7 @@
   "title": "Endocrine disruptors and obesity: An examination of selected persistent organic pollutants in the NHANES 1999-2002 data",
   "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC2922741",
+  "pdf": "http://europepmc.org/articles/PMC2922741?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6091,6 +6127,7 @@
   "title": "Active play and screen time in US children aged 4 to 11 years in relation to sociodemographic and weight status characteristics: A nationally representative cross-sectional analysis",
   "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC2605460",
+  "pdf": "http://europepmc.org/articles/PMC2605460?pdf=render",
   "rcc_cite": [
     482,
     483
@@ -6103,6 +6140,7 @@
   "title": "Sugary soda consumption and albuminuria: Results from the National Health and Nutrition Examination Survey, 1999-2004",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC2562987",
+  "pdf": "http://europepmc.org/articles/PMC2562987?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6419,8 +6457,9 @@
   "pub_id": 1760,
   "doi": "doi:10.1186/1471-2334-10-359",
   "title": "Herpes simplex virus type 2 seropositivity and relationship status among U.S. adults age 20 to 49: A population-based analysis",
-  "publisher": "Springer Nature",
+  "publisher": "BMC Infect Dis",
   "url": "http://europepmc.org/articles/PMC3020161",
+  "pdf": "http://europepmc.org/articles/PMC3020161?pdf=render",
   "rcc_cite": [
     482,
     483,
@@ -6533,6 +6572,7 @@
   "title": "Obesity and undiagnosed diabetes in the U.S.",
   "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2518350",
+  "pdf": "http://europepmc.org/articles/PMC2518350?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6607,6 +6647,7 @@
   "title": "Factors and common conditions associated with adolescent dietary supplement use: an analysis of the National Health and Nutrition Examination Survey (NHANES)",
   "publisher": "BMC Complement Altern Med",
   "url": "http://europepmc.org/articles/PMC2330139",
+  "pdf": "http://europepmc.org/articles/PMC2330139?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6721,6 +6762,7 @@
   "title": "Prevalence of self-reported diagnosis of diabetes mellitus and associated risk factors in a national survey in the US population: SHIELD (Study to Help Improve Early evaluation and management of risk factors Leading to Diabetes)",
   "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC2222165",
+  "pdf": "http://europepmc.org/articles/PMC2222165?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6755,6 +6797,7 @@
   "title": "Association between the metabolic syndrome and its components and gait speed among U.S. adults aged 50 years and older: A cross-sectional analysis",
   "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC1654157",
+  "pdf": "http://europepmc.org/articles/PMC1654157?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6767,6 +6810,7 @@
   "title": "Satisfied or unaware? Racial differences in perceived weight status",
   "publisher": "Int J Behav Nutr Phys Act",
   "url": "http://europepmc.org/articles/PMC1684255",
+  "pdf": "http://europepmc.org/articles/PMC1684255?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6871,6 +6915,7 @@
   "title": "Toxoplasma gondii infection in the United States, 1999-2000",
   "publisher": "Emerg Infect Dis",
   "url": "http://europepmc.org/articles/PMC3035540",
+  "pdf": "http://europepmc.org/articles/PMC3035540?pdf=render",
   "rcc_cite": [
     481
   ]
@@ -6881,7 +6926,7 @@
   "doi": "doi:10.1542/peds.2009-0892",
   "title": "Association between sexually transmitted diseases and young adults' self-reported abstinence",
   "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3387859/",
+  "url": "https://europepmc.org/articles/PMC3387859",
   "rcc_cite": [
     438
   ]
@@ -7098,8 +7143,9 @@
   "pub_id": 1931,
   "doi": "doi:10.1186/1471-2458-11-274",
   "title": "Volume, patterns, and types of sedentary behavior and cardio-metabolic health in children and adolescents: A cross-sectional study",
-  "publisher": "BMC",
+  "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC3112118",
+  "pdf": "http://europepmc.org/articles/PMC3112118?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7380,6 +7426,7 @@
   "title": "Urinary concentrations of dialkylphosphate metabolites of organophosphorus pesticides: National Health and Nutrition Examination Survey 1999-2004",
   "publisher": "Int J Environ Res Public Health",
   "url": "http://europepmc.org/articles/PMC3166728",
+  "pdf": "http://europepmc.org/articles/PMC3166728?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -7391,8 +7438,9 @@
   "pub_id": 1977,
   "doi": "doi:10.1186/1476-069X-10-81",
   "title": "Associations between respiratory illnesses and secondhand smoke exposure in flight attendants: A cross-sectional analysis of the Flight Attendant Medical Research Institute Survey",
-  "publisher": "BMC",
+  "publisher": "Environmental Health",
   "url": "http://www.escholarship.org/uc/item/3j0414zg",
+  "pdf": "https://escholarship.org/content/qt3j0414zg/qt3j0414zg.pdf?t=lsvwcm",
   "rcc_cite": [
     484
   ]
@@ -7415,6 +7463,7 @@
   "title": "Evidence for a peak shift in a humoral response to helminths: Age profiles of IgE in the Shuar of Ecuador, the Tsimane of Bolivia, and the U.S. NHANES",
   "publisher": "PLoS ONE",
   "url": "http://www.escholarship.org/uc/item/71n168kd",
+  "pdf": "https://escholarship.org/content/qt71n168kd/qt71n168kd.pdf?t=ntzx8z",
   "rcc_cite": [
     484
   ]
@@ -7439,8 +7488,9 @@
   "pub_id": 1983,
   "doi": "doi:10.2337/dc11-0876",
   "title": "Influence of familial risk on diabetes risk-reducing behaviors among U.S. adults without diabetes",
-  "publisher": "American Diabetes Association",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC3198289",
+  "pdf": "http://europepmc.org/articles/PMC3198289?pdf=render",
   "rcc_cite": [
     484,
     542
@@ -7568,6 +7618,7 @@
   "title": "Associations of serum 25-hydroxyvitamin D, parathyroid hormone and calcium with cardiovascular risk factors: Analysis of 3 NHANES cycles (2001-2006)",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC2976699",
+  "pdf": "http://europepmc.org/articles/PMC2976699?pdf=render",
   "rcc_cite": [
     482,
     483,
@@ -7620,6 +7671,7 @@
   "title": "Association between HSV1 seropositivity and obesity: Data from the National Health and Nutritional Examination Survey, 2007-2008",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3092767",
+  "pdf": "http://europepmc.org/articles/PMC3092767?pdf=render",
   "rcc_cite": [
     542
   ]
@@ -7655,8 +7707,9 @@
   "pub_id": 2015,
   "doi": "doi:10.1186/1471-2458-11-387",
   "title": "Assessing physical activity and its relationship to cardiovascular risk factors: NHANES 2003-2006",
-  "publisher": "Springer Nature",
+  "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC3123595",
+  "pdf": "http://europepmc.org/articles/PMC3123595?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7678,8 +7731,9 @@
   "pub_id": 2021,
   "doi": "doi:10.1007/s11695-010-0335-4",
   "title": "Relationship between obesity and diabetes in a US adult population: Findings from the National Health and Nutrition Examination Survey, 1999-2006",
-  "publisher": "eScholarship, University of California",
+  "publisher": "Obesity Surgery",
   "url": "http://www.escholarship.org/uc/item/8tx9g85b",
+  "pdf": "https://escholarship.org/content/qt8tx9g85b/qt8tx9g85b.pdf?t=owvy08",
   "rcc_cite": [
     481,
     482,
@@ -7728,8 +7782,9 @@
   "pub_id": 2030,
   "doi": "doi:10.1186/1477-7827-9-61",
   "title": "Menarche delay and menstrual irregularities persist in adolescents with type 1 diabetes",
-  "publisher": "Springer Nature",
+  "publisher": "Reproductive Biology and Endocrinology",
   "url": "http://www.rbej.com/content/9/1/61",
+  "pdf": "https://rbej.biomedcentral.com/track/pdf/10.1186/1477-7827-9-61",
   "rcc_cite": [
     482,
     483,
@@ -7769,6 +7824,7 @@
   "title": "Urinary bisphenol A and type-2 diabetes in U.S. adults: Data from NHANES 2003-2008",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3202589",
+  "pdf": "http://europepmc.org/articles/PMC3202589?pdf=render",
   "rcc_cite": [
     483,
     484,
@@ -7802,8 +7858,9 @@
   "pub_id": 2036,
   "doi": "doi:10.1186/1475-2891-10-126",
   "title": "Monounsaturated fatty acid, carbohydrate intake, and diabetes status are associated with arterial pulse pressure",
-  "publisher": "BioMed Central",
+  "publisher": "Nutrition Journal",
   "url": "http://www.nutritionj.com/content/10/1/126",
+  "pdf": "https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-10-126",
   "rcc_cite": [
     542
   ]
@@ -7866,6 +7923,7 @@
   "title": "Sharing data for public health research by members of an international online diabetes social network",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3083415",
+  "pdf": "http://europepmc.org/articles/PMC3083415?pdf=render",
   "rcc_cite": [
     542
   ]
@@ -7877,6 +7935,7 @@
   "title": "Milk intake and total dairy consumption: Associations with early menarche in NHANES 1999-2004",
   "publisher": "PLoS ONE",
   "url": "http://europepmc.org/articles/PMC3038976",
+  "pdf": "http://europepmc.org/articles/PMC3038976?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -8087,6 +8146,7 @@
   "title": "Cadmium exposure and neurodevelopmental outcomes in U.S. children",
   "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC3346779",
+  "pdf": "http://europepmc.org/articles/PMC3346779?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -8209,8 +8269,9 @@
   "pub_id": 2106,
   "doi": "doi:10.1186/1476-069X-11-10",
   "title": "Social disparities in exposures to bisphenol A and polyfluoroalkyl chemicals: A cross-sectional study within NHANES 2003-2006",
-  "publisher": "BioMed Central",
+  "publisher": "Environ Health",
   "url": "http://europepmc.org/articles/PMC3312862",
+  "pdf": "http://europepmc.org/articles/PMC3312862?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -8232,8 +8293,9 @@
   "pub_id": 2108,
   "doi": "doi:10.1186/1471-2458-12-185",
   "title": "Medical advice and diabetes self-management reported by Mexican-American, Black- and White-non-Hispanic adults across the United States",
-  "publisher": "BMC",
+  "publisher": "BMC Public Health",
   "url": "http://europepmc.org/articles/PMC3362774",
+  "pdf": "http://europepmc.org/articles/PMC3362774?pdf=render",
   "rcc_cite": [
     542
   ]
@@ -8266,8 +8328,9 @@
   "pub_id": 2116,
   "doi": "doi:10.1002/ajh.23171",
   "title": "Population-based screening for anemia using first-time blood donors",
-  "publisher": "eScholarship, University of California",
+  "publisher": "American Journal of Hematology",
   "url": "http://www.escholarship.org/uc/item/0dx2374c",
+  "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525330/pdf/nihms386381.pdf",
   "rcc_cite": [
     484,
     542
@@ -8305,8 +8368,9 @@
   "pub_id": 2128,
   "doi": "doi:10.1155/2012/253497",
   "title": "Blood pressure over height ratios: Simple and accurate method of detecting elevated blood pressure in children",
-  "publisher": "Hindawi Publishing Corporation",
-  "url": "http://dx.doi.org/10.1155/2012/253497",
+  "publisher": "International Journal of Pediatrics",
+  "url": "https://www.hindawi.com/journals/ijpedi/2012/253497/",
+  "pdf": "http://downloads.hindawi.com/journals/ijpedi/2012/253497.pdf",
   "rcc_cite": [
     484,
     542
@@ -8406,8 +8470,9 @@
   "pub_id": 2146,
   "doi": "doi:10.1186/1471-2466-12-26",
   "title": "The prevalence of clinically-relevant comorbid conditions in patients with COPD: a cross-sectional study using data from NHANES 1999-2008",
-  "publisher": "BMC",
-  "url": "https://doaj.org/toc/1471-2466",
+  "publisher": "BMC Pulmonary Medicine",
+  "url": "https://www.ncbi.nlm.nih.gov/pubmed/22695054",
+  "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3461433/pdf/1471-2466-12-26.pdf",
   "rcc_cite": [
     481,
     482,
@@ -12029,8 +12094,9 @@
   "pub_id": 2711,
   "doi": "doi:10.1038/tp.2015.105",
   "title": "Epigenetic and genetic variation at SKA2 predict suicidal behavior and post-traumatic stress disorder",
-  "publisher": "Nature Publishing Group",
+  "publisher": "Translational Psychiatry",
   "url": "http://europepmc.org/articles/PMC4564560",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4564560&blobtype=pdf",
   "rcc_cite": [
     1207
   ]
@@ -12328,8 +12394,9 @@
   "pub_id": 2759,
   "doi": "doi:10.1038/sdata.2018.11",
   "title": "A large, open source dataset of stroke anatomical brain images and manual lesion segmentations",
-  "publisher": "Nature Publishing Group",
-  "url": "http://dx.doi.org/10.1038/sdata.2018.11",
+  "publisher": "Scientific Data",
+  "url": "https://www.nature.com/articles/sdata201811",
+  "pdf": "https://www.nature.com/articles/sdata201811.pdf",
   "rcc_cite": [
     1217
   ]
@@ -13101,7 +13168,7 @@
   "title": "The role of interbank relationships and liquidity needs",
   "publisher": "Journal of Banking and Finance",
   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2023843",
-  "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2640935_code536749.pdf?abstractid=2023843&mirid=1&type=2",
+  "pdf": "https://www.clevelandfed.org/~/media/content/newsroom%20and%20events/publications/working%20papers/2014/wp%201421%20the%20role%20of%20relationships%20and%20liquidity%20needs%20pdf.pdf",
   "rcc_cite": [
     306,
     320
@@ -13135,7 +13202,7 @@
   "pub_id": 2876,
   "doi": "doi:10.2139/ssrn.1687615",
   "title": "Sector concentration in loan portfolios and economic capital",
-  "publisher": " National Bank of Belgium",
+  "publisher": "National Bank of Belgium",
   "url": "http://hdl.handle.net/10419/144318",
   "pdf": "https://www.econstor.eu/bitstream/10419/144318/1/wp105.pdf",
   "rcc_cite": [
@@ -13544,7 +13611,7 @@
   "title": "Banks' regulatory buffers, liquidity networks and monetary policy transmission",
   "publisher": "Applied Economics",
   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793911",
-  "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/3871.pdf?abstractid=2793911&mirid=1&type=2",
+  "pdf": "https://www.econstor.eu/bitstream/10419/3871/1/200606dkp_b.pdf",
   "rcc_cite": [
     305
   ]
@@ -13939,6 +14006,7 @@
   "title": "Association between perchlorate and indirect indicators of thyroid dysfunction in NHANES 2001-2002, a cross-sectional, hypothesis-generating study",
   "publisher": "Biomark Insights",
   "url": "http://europepmc.org/articles/PMC3235992",
+  "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3235992&blobtype=pdf",
   "rcc_cite": [
     482
   ]
@@ -31974,10 +32042,14 @@
 ,
 {
   "pub_id": 5668,
-  "doi": "doi:10.1177/2158244012455179",
-  "title": "\u201cThe Missing Link\u201d",
-  "publisher": "Nature Publishing Group",
-  "url": "http://hdl.handle.net/10419/138415"
+  "doi": "doi:10.1007/BF02926183",
+  "title": "The Missing Link",
+  "publisher": "Intereconomics",
+  "url": "http://hdl.handle.net/10419/138415",
+  "pdf": "https://www.econstor.eu/bitstream/10419/138415/1/v05-i12-a01-BF02926183.pdf",
+  "rcc_cite": [
+  "482"
+]
 }
 ,
 {

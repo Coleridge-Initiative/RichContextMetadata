@@ -10,16 +10,6 @@
         ]
     },
     {
-        "doi": "doi:10.1136/jech.46.3.191",
-        "publisher": "J Epidemiol Community Health",
-        "title": "Gender and race differences in the correlation between body mass and education in the 1971-1975 NHANES I",
-        "url": "https://europepmc.org/articles/PMC1059548/",
-        "pdf": "https://europepmc.org/articles/PMC1059548?pdf=render",
-        "datasets": [
-            "dataset-3c575fa6e18c6d130c4f"
-        ]
-    },
-    {
         "doi": "doi:10.1093/geronb/59.1.S34",
         "publisher": "The Journals of Gerontology: Series B",
         "title": "The Black/White Disability Gap: Persistent Inequality in Later Life?",
@@ -355,27 +345,6 @@
         ]
     },
     {
-        "doi": "doi:10.2139/ssrn.2023843",
-        "publisher": "Journal of Banking and Finance",
-        "title": "The role of interbank relationships and liquidity needs",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2023843",
-        "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2640935_code536749.pdf?abstractid=2023843&mirid=1&type=2",
-        "datasets": [
-            "dataset-1c4bd6e13d3c15e578fa",
-            "dataset-2cea7e830ce94a923473"
-        ]
-    },
-    {
-        "doi": "doi:10.2139/ssrn.1687615",
-        "publisher": " National Bank of Belgium",
-        "title": "Sector concentration in loan portfolios and economic capital",
-        "url": "http://hdl.handle.net/10419/144318",
-        "pdf": "https://www.econstor.eu/bitstream/10419/144318/1/wp105.pdf",
-        "datasets": [
-            "dataset-2cea7e830ce94a923473"
-        ]
-    },
-    {
         "doi": "isbn:978-3-86558-388-8",
         "publisher": "Frankfurt a. M.: Deutsche Bundesbank",
         "title": "Analyzing the interest rate risk of banks using time series of accounting-based data: evidence from Germany",
@@ -643,16 +612,6 @@
             "dataset-515a08e38c69762ff789",
             "dataset-1c4bd6e13d3c15e578fa",
             "dataset-3fe843e490beb7a18b26"
-        ]
-    },
-    {
-        "doi": "doi:10.1080/00036840802360245",
-        "publisher": "Applied Economics",
-        "title": "Banks' regulatory buffers, liquidity networks and monetary policy transmission",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793911",
-        "pdf": "https://papers.ssrn.com/sol3/Delivery.cfm/3871.pdf?abstractid=2793911&mirid=1&type=2",
-        "datasets": [
-            "dataset-515a08e38c69762ff789"
         ]
     },
     {
