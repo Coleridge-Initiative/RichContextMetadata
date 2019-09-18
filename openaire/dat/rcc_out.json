@@ -956,7 +956,7 @@
   "pub_id": 454,
   "doi": "doi:10.1186/1479-5868-8-20",
   "title": "Does perception equal reality? Weight misperception in relation to weight-related attitudes and behaviors among overweight and obese US adults",
-  "publisher": "Springer Nature",
+  "publisher": "Int J Behav Nutr Phys Act",
   "url": "http://europepmc.org/articles/PMC3073863",
   "pdf": "http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3073863&blobtype=pdf",
   "rcc_cite": [
@@ -1006,7 +1006,7 @@
   "pub_id": 458,
   "doi": "doi:10.1186/1475-2891-10-17",
   "title": "Diet quality is positively associated with 100% fruit juice consumption in children and adults in the United States: NHANES 2003-2006",
-  "publisher": "Springer Nature",
+  "publisher": "Nutrition Journal",
   "url": "http://www.nutritionj.com/content/10/1/17",
   "pdf": "https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-10-17",
   "rcc_cite": [
@@ -13720,10 +13720,11 @@
 ,
 {
   "pub_id": 2953,
-  "doi": "bbk-203",
+  "doi": "10.1007/s00181-013-0708-3",
   "title": "Choosing and using payment instruments: evidence from German microdata",
-  "publisher": "Frankfurt a. M.: European Central Bank (ECB)",
-  "url": "http://hdl.handle.net/10419/153578",
+  "publisher": "Empirical Economics",
+  "url": "https://www.researchgate.net/publication/46454968_Choosing_and_Using_Payment_Instruments_Evidence_From_German_Microdata",
+  "pdf": "https://www.econstor.eu/bitstream/10419/30032/1/61738505X.pdf",
   "rcc_cite": [
     1287
   ]
