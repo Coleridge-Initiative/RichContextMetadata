@@ -6,7 +6,7 @@
         "url": "https://ideas.repec.org/p/zbw/bubdp1/200917.html",
         "pdf": "http://www.cesifo-group.de/DocDL/cesifo1_wp2810.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -16,7 +16,7 @@
         "url": "https://www.nber.org/papers/w16861",
         "pdf": "https://www.nber.org/papers/w16861.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -26,8 +26,8 @@
         "url": "http://www.escholarship.org/uc/item/6b2236xm",
         "pdf": "https://escholarship.org/content/qt6b2236xm/qt6b2236xm.pdf?t=li5b08",
         "datasets": [
-            "dataset-0b739bd83bc73c8ea4e1",
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-008",
+            "dataset-003"
         ]
     },
     {
@@ -37,7 +37,7 @@
         "url": "http://hdl.handle.net/10419/19580",
         "pdf": "https://www.econstor.eu/bitstream/10419/19580/1/200223dkp.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -47,7 +47,7 @@
         "url": "http://hdl.handle.net/10419/19592",
         "pdf": "https://www.econstor.eu/bitstream/10419/19592/1/200306dkp.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -57,7 +57,7 @@
         "url": "http://hdl.handle.net/10419/19724",
         "pdf": "https://www.econstor.eu/bitstream/10419/19724/1/200813dkp.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -67,7 +67,7 @@
         "url": "https://www.tandfonline.com/doi/abs/10.1080/00036840802360120",
         "pdf": "https://www.econstor.eu/bitstream/10419/19658/1/200629dkp.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     },
     {
@@ -77,8 +77,8 @@
         "url": "http://hdl.handle.net/10419/107657",
         "pdf": "https://www.econstor.eu/bitstream/10419/107657/1/776411764.pdf",
         "datasets": [
-            "dataset-2cea7e830ce94a923473",
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-005",
+            "dataset-003"
         ]
     },
     {
@@ -88,8 +88,8 @@
         "url": "http://hdl.handle.net/10419/19631",
         "pdf": "https://www.econstor.eu/bitstream/10419/19631/1/200603dkp.pdf",
         "datasets": [
-            "dataset-0b739bd83bc73c8ea4e1",
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-008",
+            "dataset-003"
         ]
     },
     {
@@ -99,9 +99,9 @@
         "url": "http://hdl.handle.net/10419/45281",
         "pdf": "https://www.econstor.eu/bitstream/10419/45281/1/65664401X.pdf",
         "datasets": [
-            "dataset-515a08e38c69762ff789",
-            "dataset-2cea7e830ce94a923473",
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-006",
+            "dataset-005",
+            "dataset-003"
         ]
     },
     {
@@ -111,9 +111,9 @@
         "url": "http://hdl.handle.net/10419/19774",
         "pdf": "https://www.econstor.eu/bitstream/10419/19774/1/200715dkp_b_.pdf",
         "datasets": [
-            "dataset-515a08e38c69762ff789",
-            "dataset-2cea7e830ce94a923473",
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-006",
+            "dataset-005",
+            "dataset-003"
         ]
     },
     {
@@ -123,7 +123,7 @@
         "url": "http://hdl.handle.net/10419/107169",
         "pdf": "https://www.econstor.eu/bitstream/10419/107169/1/816593701.pdf",
         "datasets": [
-            "dataset-52a86e661f7fc50f82b0"
+            "dataset-003"
         ]
     }
 ]

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+import configparser
 import corpus
 import csv
 import glob
@@ -9,18 +10,24 @@ import sys
 import traceback
 
 
+CONFIG = configparser.ConfigParser()
+CONFIG.read("rc.cfg")
+
+
 def format_entity (elem):
     """
     format one publication as JSON
     """
     try:
+        dat_set = set([ known_dat[str(d)] for d in elem["rcc_cite"] ])
+
         entity = {
             "doi": elem["doi"],
             "publisher": elem["publisher"],
             "title": elem["title"],
             "url": elem["url"],
             "pdf": elem["pdf"],
-            "datasets": [ known_dat[str(d)] for d in elem["rcc_cite"] ]
+            "datasets": list(dat_set)
             }
 
         print(json.dumps(entity, indent=2))
@@ -63,13 +70,13 @@ if __name__ == "__main__":
 
 
     ## load the datasets
-    filename = "corpus/dataset.json"
+    filename = "corpus/refs.json"
 
-    with open(filename) as f:
+    with open(filename, "r") as f:
         try:
             for elem in json.load(f):
                 for dat_id in elem["rcc_cite"]:
-                    known_dat[str(dat_id)] = elem["uuid"]
+                    known_dat[str(dat_id)] = elem["id"]
         except:
             print(traceback.format_exc())
             print(filename)

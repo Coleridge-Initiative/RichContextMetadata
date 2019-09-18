@@ -1,0 +1,186 @@
+[
+{
+  "id": "dataset-003",
+  "old_uuid": "dataset-52a86e661f7fc50f82b0",
+  "rcc_cite": [
+    "312",
+    "1286"
+  ],
+  "title": "Corporate balance sheets"
+},
+{
+  "id": "dataset-004",
+  "old_uuid": "dataset-44063629e96b00629efa",
+  "rcc_cite": [
+    "1287"
+  ],
+  "title": "Payment behaviour in Germany"
+},
+{
+  "id": "dataset-005",
+  "old_uuid": "dataset-2cea7e830ce94a923473",
+  "rcc_cite": [
+    "320"
+  ],
+  "title": "Credit register of loans of \u20ac1.5 million or more"
+},
+{
+  "id": "dataset-006",
+  "old_uuid": "dataset-515a08e38c69762ff789",
+  "rcc_cite": [
+    "305"
+  ],
+  "title": "Prudential information system"
+},
+{
+  "id": "dataset-007",
+  "old_uuid": "dataset-fde9bad4eebfaf01b9a2",
+  "rcc_cite": [
+    "306a"
+  ],
+  "title": "Interest rates and yields"
+},
+{
+  "id": "dataset-016",
+  "old_uuid": "dataset-a755ac27b9721267c39b",
+  "rcc_cite": [
+    "377"
+  ],
+  "title": "Health and Retirement Study"
+},
+{
+  "id": "dataset-008",
+  "old_uuid": "dataset-0b739bd83bc73c8ea4e1",
+  "rcc_cite": [
+    "339"
+  ],
+  "title": "Microdatabase Direct investment"
+},
+{
+  "id": "dataset-009",
+  "old_uuid": "dataset-564259cedfd998549ae9",
+  "rcc_cite": [
+    "1282"
+  ],
+  "title": "External position report"
+},
+{
+  "id": "dataset-010",
+  "old_uuid": "dataset-3fe843e490beb7a18b26",
+  "rcc_cite": [
+    "1283"
+  ],
+  "title": "Banks' profit and loss accounts"
+},
+{
+  "id": "dataset-011",
+  "old_uuid": "dataset-f0cbc5bf6734ac24dde6",
+  "rcc_cite": [],
+  "title": "Securities holdings statistics"
+},
+{
+  "id": "dataset-012",
+  "old_uuid": "dataset-448ac11e0b84f73e9d52",
+  "rcc_cite": [
+    "304",
+    "319",
+    "328",
+    "333",
+    "334",
+    "342",
+    "363"
+  ],
+  "title": "Interest rates on deposits and loans"
+},
+{
+  "id": "dataset-013",
+  "old_uuid": "dataset-1c4bd6e13d3c15e578fa",
+  "rcc_cite": [
+    "306",
+    "340",
+    "345"
+  ],
+  "title": "Monthly balance sheet statistics"
+},
+{
+  "id": "dataset-014",
+  "old_uuid": "dataset-65f1bd30090f004fb1ba",
+  "rcc_cite": [],
+  "title": "Balance of payments"
+},
+{
+  "id": "dataset-015",
+  "old_uuid": "dataset-2b4bcbd0e00931b60b49",
+  "rcc_cite": [
+    "311"
+  ],
+  "title": "Statistics on International Trade in Services"
+},
+{
+  "id": "dataset-002",
+  "old_uuid": "dataset-a58edecf666ec74fdbaf",
+  "rcc_cite": [],
+  "title": "IRI Consumer Network"
+},
+{
+  "id": "dataset-001",
+  "old_uuid": "dataset-11a95bfc951f7d23206a",
+  "rcc_cite": [],
+  "title": "IRI Infoscan"
+},
+{
+  "id": "dataset-017",
+  "old_uuid": "dataset-0a7b604ab2e52411d45a",
+  "rcc_cite": [
+    "261",
+    "379",
+    "481",
+    "482",
+    "483",
+    "484",
+    "542"
+  ],
+  "title": "National Health and Nutrition Examination Survey"
+},
+{
+  "id": "dataset-018",
+  "old_uuid": "dataset-555eb8a443bf5f1d1a4a",
+  "rcc_cite": [
+    "380"
+  ],
+  "title": "NHANES 1 Epidemiologic Follow-up Study"
+},
+{
+  "id": "dataset-019",
+  "old_uuid": "dataset-3c87692e90a2461f83a5",
+  "rcc_cite": [
+    "381",
+    "829"
+  ],
+  "title": "Established Populations for Epidemiologic Studies of the Elderly"
+},
+{
+  "id": "dataset-020",
+  "old_uuid": "dataset-af96c479278ffcab091f",
+  "rcc_cite": [
+    "717"
+  ],
+  "title": "Elections to the United States House of Representatives"
+},
+{
+  "id": "dataset-021",
+  "old_uuid": "dataset-8b19c7c2ef65f00bd51a",
+  "rcc_cite": [
+    "1217"
+  ],
+  "title": "The Anatomical Tracings of Lesions after Stroke"
+},
+{
+  "id": "dataset-022",
+  "old_uuid": "dataset-d623648d0332068886e3",
+  "rcc_cite": [
+    "1207"
+  ],
+  "title": "Johns Hopkins University Prevention Research Center - Risks for Transitions in Drug Use Among Urban Adults, Baltimore City, 2008-2011"
+}
+]

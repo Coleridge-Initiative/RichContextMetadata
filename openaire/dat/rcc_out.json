@@ -413,8 +413,9 @@
   "pub_id": 340,
   "doi": "doi:10.1093/gerona/glp177",
   "title": "Metabolic syndrome and weight gain in adulthood",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2796886/",
+  "publisher": "J Gerontol A Biol Sci Med Sci",
+  "url": "https://europepmc.org/articles/PMC2796886",
+  "pdf": "https://europepmc.org/articles/PMC2796886?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -553,8 +554,9 @@
   "pub_id": 368,
   "doi": "doi:10.1289/ehp.0800376",
   "title": "Bisphenol A data in NHANES suggest longer than expected half-life, substantial nonfood exposure, or both",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2685842",
+  "pdf": "http://europepmc.org/articles/PMC2685842?pdf=render",
   "rcc_cite": [
     483
   ]

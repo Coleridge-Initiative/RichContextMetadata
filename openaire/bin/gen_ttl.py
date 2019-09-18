@@ -2,12 +2,17 @@
 # encoding: utf-8
 
 from rdflib.serializer import Serializer
+import configparser
 import corpus
 import csv
 import glob
 import json
 import rdflib
 import sys
+
+
+CONFIG = configparser.ConfigParser()
+CONFIG.read("rc.cfg")
 
 
 PREAMBLE = """
@@ -43,19 +48,25 @@ if __name__ == "__main__":
     out_buf = [ PREAMBLE.lstrip() ]
 
     ## load the datasets
-    filename = "corpus/dataset.json"
-    known_datasets = set([])
+    dataset_path = CONFIG["DEFAULT"]["dataset_path"]
+    known_datasets = {}
 
-    with open(filename) as f:
+    with open(dataset_path, "r") as f:
         for elem in json.load(f):
-            dat_id = elem["uuid"]
-            known_datasets.add(dat_id)
+            dat_id = elem["id"]
+            id_list = [elem["provider"], elem["title"]]
+            known_datasets[dat_id] = corpus.get_hash(id_list, prefix="dataset-")
+
+            if "url" in elem:
+                url = elem["url"]
+            else:
+                url = "http://example.com"
 
             out_buf.append(
                 TEMPLATE_DATASET.format(
-                    dat_id,
-                    elem["url"],
-                    elem["publisher"],
+                    known_datasets[dat_id],
+                    url,
+                    elem["provider"],
                     elem["title"]
                     ).strip()
                 )
@@ -87,7 +98,7 @@ if __name__ == "__main__":
                             ).strip()
                         )
 
-                    dat_list = [ ":{}".format(dat_id) for dat_id in link_map ]
+                    dat_list = [ ":{}".format(known_datasets[dat_id]) for dat_id in link_map ]
                     out_buf.append("  cito:citesAsDataSource {} ;".format(", ".join(dat_list)))
                     out_buf.append(".\n")
 
