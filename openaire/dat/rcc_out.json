@@ -263,8 +263,9 @@
   "pub_id": 282,
   "doi": "10.1289/ehp.11079",
   "title": "Computational toxicology of chloroform: Reverse dosimetry using Bayesian inference, Markov chain Monte Carlo simulation, and human biomonitoring data",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC3944983",
+  "pdf": "https://pdfs.semanticscholar.org/96fc/57e51a276a5195cdd53b14efb9ddc4b7b8bd.pdf",
   "rcc_cite": [
     382
   ]
@@ -996,8 +997,9 @@
   "pub_id": 456,
   "doi": "10.1681/ASN.2010111181",
   "title": "Estimated GFR, albuminuria, and complications of chronic kidney disease",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3279937/",
+  "publisher": "J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC3279937",
+  "pdf": "https://jasn.asnjournals.org/content/jnephrol/22/12/2322.full.pdf",
   "rcc_cite": [
     382,
     481,
@@ -3854,8 +3856,9 @@
   "pub_id": 1215,
   "doi": "10.1046/j.1523-1755.2001.00001.x",
   "title": "Association between renal insufficiency and malnutrition in older adults: Results from the NHANES III",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1046/j.1523-1755.2001.00001.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)48068-8/pdf",
   "rcc_cite": [
     382
   ]
@@ -3865,8 +3868,9 @@
   "pub_id": 1216,
   "doi": "10.1111/j.1523-1755.2005.67128.x",
   "title": "Decreased renal function among adults with a history of nephrolithiasis: A study of NHANES III",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1111/j.1523-1755.2005.67128.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)50504-8/pdf",
   "rcc_cite": [
     382
   ]
@@ -3876,8 +3880,9 @@
   "pub_id": 1220,
   "doi": "10.1111/j.1523-1755.2005.00080.x",
   "title": "Relationship between hepatitis C and microalbuminuria: Results from the NHANES III",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1111/j.1523-1755.2005.00080.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)50452-3/pdf",
   "rcc_cite": [
     382
   ]
@@ -3899,8 +3904,9 @@
   "pub_id": 1224,
   "doi": "10.1046/j.1523-1755.2002.00356.x",
   "title": "Albuminuria and renal insufficiency prevalence guides population screening: Results from the NHANES III",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1046/j.1523-1755.2002.00356.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)48466-2/pdf",
   "rcc_cite": [
     382
   ]
@@ -3910,8 +3916,9 @@
   "pub_id": 1225,
   "doi": "10.1046/j.1523-1755.2003.00812.x",
   "title": "Blood lead and chronic kidney disease in the general United States population: Results from NHANES III",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1046/j.1523-1755.2003.00812.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)48973-2/pdf",
   "rcc_cite": [
     382
   ]
@@ -4096,8 +4103,9 @@
   "pub_id": 1297,
   "doi": "10.1371/journal.pmed.0020160",
   "title": "Smoking cessation and cardiovascular disease risk factors: Results from the Third National Health and Nutrition Examination Survey",
-  "publisher": "???",
-  "url": "http://europepmc.org/articles/PMC1160573?pdf=render",
+  "publisher": "PLoS Med",
+  "url": "http://europepmc.org/articles/PMC1160573",
+  "pdf": "http://europepmc.org/articles/PMC1160573?pdf=render",
   "rcc_cite": [
     382
   ]
@@ -4229,8 +4237,9 @@
   "pub_id": 1339,
   "doi": "10.1111/j.1523-1755.2004.00732.x",
   "title": "Association between serum homocysteine and markers of impaired kidney function in adults in the United States",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1111/j.1523-1755.2004.00732.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)50032-X/pdf",
   "rcc_cite": [
     382
   ]
@@ -4240,8 +4249,9 @@
   "pub_id": 1342,
   "doi": "10.1111/j.1523-1755.2004.00481.x",
   "title": "Prevalence of acidosis and inflammation and their association with low serum albumin in chronic kidney disease",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1111/j.1523-1755.2004.00481.x",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)49797-2/pdf",
   "rcc_cite": [
     382
   ]
@@ -4384,8 +4394,9 @@
   "pub_id": 1396,
   "doi": "10.1038/sj.jhh.1001452",
   "title": "The relationship between blood pressure and blood lead in NHANES III",
-  "publisher": "???",
+  "publisher": "J Hum Hypertens",
   "url": "https://lirias.kuleuven.be/handle/123456789/26329",
+  "pdf": "https://www.ahajournals.org/doi/pdf/10.1161/HYPERTENSIONAHA.114.04023",
   "rcc_cite": [
     382
   ]
@@ -4414,8 +4425,9 @@
   "pub_id": 1412,
   "doi": "10.1046/j.1523-1755.2002.00306.x",
   "title": "Bone mineral density is not diminished by mild to moderate chronic renal insufficiency",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1046/j.1523-1755.2002.00306.x",
+  "pdf": "https://core.ac.uk/download/pdf/82045763.pdf",
   "rcc_cite": [
     382
   ]
@@ -4676,8 +4688,9 @@
   "pub_id": 1477,
   "doi": "10.2215/CJN.01900309",
   "title": "CRP polymorphisms and progression of chronic kidney disease in African Americans",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2801650/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC2801650",
+  "pdf": "https://pdfs.semanticscholar.org/2d8a/277c6bf236ae7c8476adc0c636f4de34a7d9.pdf",
   "rcc_cite": [
     382
   ]
@@ -5417,7 +5430,7 @@
   "doi": "10.1371/journal.pmed.0030260",
   "title": "Eight Americas: Investigating mortality disparities across races, counties, and race-counties in the United States",
   "publisher": "PLoS ONE",
-  "url": "http://europepmc.org/articles/PMC1564165?pdf=render",
+  "url": "http://europepmc.org/articles/PMC1564165",
   "rcc_cite": [
     491,
     497,
@@ -6225,8 +6238,9 @@
   "pub_id": 1720,
   "doi": "10.2215/CJN.00840208",
   "title": "Age, gender, and race effects on cystatin C levels in US adolescents",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2572279/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC2572279",
+  "pdf": "https://pdfs.semanticscholar.org/05e2/124e948e49d2a4bb621deacc993d355123a1.pdf",
   "rcc_cite": [
     382
   ]
@@ -6539,8 +6553,9 @@
   "pub_id": 1767,
   "doi": "10.1002/cncr.25647",
   "title": "Racial disparity in death from colorectal cancer: Does vitamin D deficiency contribute?",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3004771/",
+  "publisher": "Med Lab Sci",
+  "url": "https://europepmc.org/articles/PMC3004771",
+  "pdf": "https://europepmc.org/articles/PMC3004771?pdf=render",
   "rcc_cite": [
     382
   ]
@@ -6670,8 +6685,9 @@
   "pub_id": 1788,
   "doi": "10.1681/ASN.2007070747",
   "title": "Racial differences in mortality among those with CKD",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2440295/",
+  "publisher": "J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC2440295",
+  "pdf": "https://cjasn.asnjournals.org/content/clinjasn/6/8/1858.full.pdf",
   "rcc_cite": [
     382
   ]
@@ -6877,8 +6893,9 @@
   "pub_id": 1852,
   "doi": "10.1038/sj.ki.5002002",
   "title": "25-Hydroxyvitamin D, insulin resistance, and kidney function in the Third National Health and Nutrition Examination Survey",
-  "publisher": "???",
+  "publisher": "Kidney International",
   "url": "http://dx.doi.org/10.1038/sj.ki.5002002",
+  "pdf": "https://www.kidney-international.org/article/S0085-2538(15)52324-7/pdf",
   "rcc_cite": [
     382
   ]
@@ -7511,8 +7528,9 @@
   "pub_id": 1978,
   "doi": "10.2215/CJN.04160511",
   "title": "Living kidney donors ages 70 and older: Recipient and donor outcomes",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3255359/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC3255359",
+  "pdf": "https://pdfs.semanticscholar.org/97c6/6abcb97cbd795cc3ac0d7dcffaa64db03355.pdf?_ga=2.179775462.350438171.1568849670-1243611954.1559012100",
   "rcc_cite": [
     382
   ]
@@ -7534,8 +7552,9 @@
   "pub_id": 1981,
   "doi": "10.2215/CJN.06770711",
   "title": "Age-specific associations of reduced estimated glomerular filtration rate with concurrent chronic kidney disease complications",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3255373/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC3255373",
+  "pdf": "https://cjasn.asnjournals.org/content/clinjasn/6/12/2822.full.pdf",
   "rcc_cite": [
     382,
     481,
@@ -7761,8 +7780,9 @@
   "pub_id": 2013,
   "doi": "10.1136/bmj.d6891",
   "title": "Non-alcoholic fatty liver disease and mortality among US adults: prospective cohort study",
-  "publisher": "???",
+  "publisher": "BMJ",
   "url": "http://europepmc.org/articles/PMC3220620",
+  "pdf": "https://pdfs.semanticscholar.org/1d14/a4c126e33a4e0018bfec70d850aa87698bd4.pdf?_ga=2.48033765.350438171.1568849670-1243611954.1559012100",
   "rcc_cite": [
     382,
     481,
