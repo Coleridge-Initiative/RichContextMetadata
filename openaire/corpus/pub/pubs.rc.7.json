@@ -1,0 +1,122 @@
+[
+    {
+        "doi": "10.1370/afm.79",
+        "publisher": "J Family Med Prim Care",
+        "title": "Subclinical hypothyroidism and the risk of hypercholesterolemia",
+        "url": "http://europepmc.org/articles/PMC5353819",
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1466694/pdf/0020351.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1093/jnci/djm204",
+        "publisher": "J Natl Cancer Inst",
+        "title": "Prospective study of serum vitamin D and cancer mortality in the United States",
+        "url": "https://academic.oup.com/jnci/article/99/21/1594/933627",
+        "pdf": "https://pdfs.semanticscholar.org/408b/89db05438a53797bcf9128a3d9a43103065b.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1186/1475-2891-4-27",
+        "publisher": "Nutrition Journal",
+        "title": "Ethnic variation in validity of classification of overweight and obesity using self-reported weight and height in American women and men: The Third National Health and Nutrition Examination Survey",
+        "url": "http://www.nutritionj.com/content/4/1/27",
+        "pdf": "https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-4-27",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1186/1471-2474-12-182",
+        "publisher": "BMC Musculoskeletal Disorders",
+        "title": "Reference ranges for bone mineral density and prevalence of osteoporosis in Vietnamese men and women",
+        "url": "http://www.biomedcentral.com/1471-2474/12/182",
+        "pdf": "https://bmcmusculoskeletdisord.biomedcentral.com/track/pdf/10.1186/1471-2474-12-182",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1186/1471-2350-11-6",
+        "publisher": "BMC Med Genet",
+        "title": "Gene polymorphisms in association with emerging cardiovascular risk markers in adult women",
+        "url": "https://doaj.org/toc/1471-2350",
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2826307/pdf/1471-2350-11-6.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.2337/dc09-0574",
+        "publisher": "Diabetes Care",
+        "title": "Are metabolically normal but obese individuals at lower risk for all-cause mortality?",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782994/",
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782994/pdf/zdc2297.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1038/ki.2009.288",
+        "publisher": "Kidney International",
+        "title": "Chronic kidney disease, hypovitaminosis D, and mortality in the United States",
+        "url": "http://dx.doi.org/10.1038/ki.2009.288",
+        "pdf": "https://www.kidney-international.org/article/S0085-2538(15)54099-4/pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1038/ki.2010.291",
+        "publisher": "Kidney International",
+        "title": "Kidney function and risk triage in adults: Threshold values and hierarchical importance",
+        "url": "http://dx.doi.org/10.1038/ki.2010.291",
+        "pdf": "https://www.kidney-international.org/article/S0085-2538(15)54671-1/pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1186/1471-2350-11-155",
+        "publisher": "BMC Med Genet",
+        "title": "Inflammation gene variants and susceptibility to albuminuria in the U.S. population: Analysis in the Third National Health and Nutrition Examination Survey (NHANES III), 1991-1994",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991302/",
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991302/pdf/1471-2350-11-155.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1186/1475-2891-6-30",
+        "publisher": "Nutrition Journal",
+        "title": "Usage patterns, health, and nutritional status of long-term multiple dietary supplement users: A cross-sectional study",
+        "url": "http://www.nutritionj.com/content/6/1/30",
+        "pdf": "https://nutritionj.biomedcentral.com/track/pdf/10.1186/1475-2891-6-30",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1155/2012/320482",
+        "publisher": "International Journal of Endocrinology",
+        "title": "Pancreatic function, type 2 diabetes, and metabolism in aging",
+        "url": "http://dx.doi.org/10.1155/2012/320482",
+        "pdf": "http://downloads.hindawi.com/journals/ije/2012/320482.pdf",
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1111/apt.12432",
+        "publisher": "Aliment Pharmacol Ther",
+        "title": "Mortality associated with alcohol-related liver disease",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.12432",
+        "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/apt.12432",
+        "datasets": [
+            "dataset-017"
+        ]
+    }
+]

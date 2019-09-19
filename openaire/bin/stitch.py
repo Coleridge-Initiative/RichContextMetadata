@@ -51,7 +51,8 @@ def suggest_work (todo, criteria, descript):
         print(descript)
 
         for elem in suggested:
-            print(elem)
+            elem["flags"] = list(elem["flags"])
+            print(json.dumps(elem))
 
         sys.exit(0)
 
@@ -139,11 +140,12 @@ if __name__ == "__main__":
         print("[")
 
         for elem in complete:
-            if count > 0:
-                print(",")
+            if elem["pdf"]:
+                if count > 0:
+                    print(",")
 
-            format_entity(elem)
-            count += 1
+                format_entity(elem)
+                count += 1
 
         print("]")
         sys.exit(0)
@@ -156,5 +158,7 @@ if __name__ == "__main__":
     suggest_work(todo, set([MISSING_PDF, MISSING_PUB]), "missing PDF and publisher")
 
     for elem in todo:
-        if len(elem["flags"]) <= 1:
-            print(elem)
+        if NO_DAT not in elem["flags"]:
+            if len(elem["flags"]) <= 2:
+                elem["flags"] = list(elem["flags"])
+                print(json.dumps(elem))

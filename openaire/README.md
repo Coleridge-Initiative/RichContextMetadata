@@ -70,7 +70,19 @@ Delete entries from `corpus/pub/*.json` to cause them to be regenerated.
 ```
 
 
-## 5. Generate a corpus to publish
+## 5. Parse known sites
+
+We know the regular format of some sites, such as _Europe PMC_, and
+can parse the HTML from a publication's web page to extract the needed
+metadata:
+
+```
+./bin/stitch.py > todo
+./bin/europmc.py todo
+```
+
+
+## 6. Generate a corpus to publish
 
 This final step uses the dataset list plus the following files as
 input:
