@@ -106,6 +106,6 @@ print(bb_usda_datasets)
 api_client = metadata_funs.create_api_client()
 usda_bb_pubs = gen_dyad_list(bb_usda_datasets,api_client)
 final_list = metadata_funs.flatten(usda_bb_pubs)
-stringsearch_pubs_path = os.path.join(os.getcwd(),'repec/{}stringsearch_pubs.json'.format(metadata_funs.get_hash(str(datetime.datetime.now()))))
+stringsearch_pubs_path = os.path.join(os.getcwd(),'repec/string_searches/{}stringsearch_pubs.json'.format(metadata_funs.get_hash(str(datetime.datetime.now()))))
 
 json.dump(final_list, open(stringsearch_pubs_path, 'w'), indent=2)
