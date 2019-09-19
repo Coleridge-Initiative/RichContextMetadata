@@ -7,13 +7,9 @@ Datasets are one of the "givens" in this system: they represent the
 known _labels_ (aka "classes") in the ground truth for this corpus.
 In contrast, the set of publications gets expanded later in our
 workflow, but the set of known datasets does not.
+
 We consider dataset names to be known and invariant -- 
 nonetheless, edits may be required.
-The following script regenerates `uuid` values for each dataset:
-
-```
-./bin/gen_dat_id.py
-```
 
 
 ## 2. RCC publications
@@ -76,10 +72,10 @@ Delete entries from `corpus/pub/*.json` to cause them to be regenerated.
 
 ## 5. Generate a corpus to publish
 
-This final step uses the following as input:
+This final step uses the dataset list plus the following files as
+input:
 
  - `corpus/vocab.json`
- - `corpus/dataset.json`
  - `corpus/pub/*.json`
 
 Then it generates the `uuid` values (late binding) for publications,

@@ -921,8 +921,9 @@
   "pub_id": 443,
   "doi": "doi:10.1093/eurpub/ckr056",
   "title": "What role does socio-economic position play in the link between functional limitations and self-rated health: France vs. USA?",
-  "publisher": "???",
+  "publisher": "The European Journal of Public Health",
   "url": "https://hal.archives-ouvertes.fr/hal-01919564",
+  "pdf": "https://pdfs.semanticscholar.org/00c7/9fd0b3e6fbf07329ad12d721c8170f17d82a.pdf",
   "rcc_cite": [
     482,
     483
@@ -1005,8 +1006,9 @@
   "pub_id": 457,
   "doi": "doi:10.1002/ajh.22082",
   "title": "IRon Overload screeNing tool (IRON): development of a tool to guide screening in primary care",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3779368/",
+  "publisher": "Am J Hematol",
+  "url": "https://europepmc.org/articles/PMC3779368",
+  "pdf": "https://europepmc.org/articles/PMC3779368?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -1041,8 +1043,9 @@
   "pub_id": 461,
   "doi": "doi:10.1017/S0950268811000732",
   "title": "Determinants of anti-hepatitis A antibody seroprevalence in 2- to 19-year-olds in the USA using NHANES 2007-2008",
-  "publisher": "???",
+  "publisher": "Epidemiol Infect",
   "url": "http://europepmc.org/articles/PMC3267099",
+  "pdf": "http://europepmc.org/articles/PMC3267099?pdf=render",
   "rcc_cite": [
     542
   ]
@@ -1239,8 +1242,9 @@
   "pub_id": 477,
   "doi": "doi:10.1038/oby.2012.20",
   "title": "The impact of insulin resistance and inflammation on the association between sarcopenic obesity and physical functioning",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3527629/",
+  "publisher": "Obesity (Silver Spring)",
+  "url": "https://europepmc.org/articles/PMC3527629",
+  "pdf": "https://europepmc.org/articles/PMC3527629?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4425,8 +4429,9 @@
   "pub_id": 1443,
   "doi": "doi:10.1038/ajh.2010.40",
   "title": "The impact of differences in methodology and population characteristics on the prevalence of hypertension in US Adults in 1976-1980 and 1999-2002",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC5774853/",
+  "publisher": "Am J Hypertens",
+  "url": "https://europepmc.org/articles/PMC5774853",
+  "pdf": "https://europepmc.org/articles/PMC5774853?pdf=render",
   "rcc_cite": [
     379,
     481,
@@ -4438,8 +4443,9 @@
   "pub_id": 1444,
   "doi": "doi:10.1007/s11606-010-1322-0",
   "title": "Erratum to: The dietary quality of persons with heart failure in NHANES 1999-2006",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2955475/",
+  "publisher": "J Gen Intern Med",
+  "url": "https://europepmc.org/articles/PMC2955475",
+  "pdf": "https://europepmc.org/articles/PMC2955475?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4479,8 +4485,9 @@
   "pub_id": 1447,
   "doi": "doi:10.1038/jes.2010.9",
   "title": "Daily intake of bisphenol A and potential sources of exposure: 2005-2006 National Health and Nutrition Examination Survey",
-  "publisher": "???",
+  "publisher": "J Expo Sci Environ Epidemiol",
   "url": "http://europepmc.org/articles/PMC3079892",
+  "pdf": "http://europepmc.org/articles/PMC3079892?pdf=render",
   "rcc_cite": [
     484
   ]
@@ -4541,8 +4548,9 @@
   "pub_id": 1455,
   "doi": "doi:10.1038/ajh.2010.28",
   "title": "Race/Ethnicity and hypertension: The role of social support",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3102008/",
+  "publisher": "Am J Hypertens",
+  "url": "https://europepmc.org/articles/PMC3102008",
+  "pdf": "https://europepmc.org/articles/PMC3102008?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4592,8 +4600,9 @@
   "pub_id": 1468,
   "doi": "doi:10.3346/jkms.2010.25.1.75",
   "title": "Prevalence of metabolic syndrome and obesity in adolescents aged 12 to 19 years: Comparison between the United States and Korea",
-  "publisher": "???",
+  "publisher": "J Korean Med Sci",
   "url": "http://europepmc.org/articles/PMC2800028",
+  "pdf": "http://europepmc.org/articles/PMC2800028?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -4618,8 +4627,9 @@
   "pub_id": 1473,
   "doi": "doi:10.1161/CIRCOUTCOMES.108.831552",
   "title": "Serum selenium concentrations and hypertension in the US Population",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2773506/",
+  "publisher": "Circ Cardiovasc Qual Outcomes",
+  "url": "https://europepmc.org/articles/PMC2773506",
+  "pdf": "https://europepmc.org/articles/PMC2773506?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -4629,8 +4639,9 @@
   "pub_id": 1475,
   "doi": "doi:10.1503/cmaj.090329",
   "title": "Serum anion gap, bicarbonate and biomarkers of inflammation in healthy individuals in a national survey",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2817320/",
+  "publisher": "CMAJ",
+  "url": "https://europepmc.org/articles/PMC2817320",
+  "pdf": "https://europepmc.org/articles/PMC2817320?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -4751,8 +4762,9 @@
   "pub_id": 1497,
   "doi": "doi:10.2337/dc09-0924",
   "title": "Associations of serum concentrations of 25-hydroxyvitamin D and parathyroid hormone with surrogate markers of insulin resistance among U.S. adults without physician-diagnosed diabetes: NHANES, 2003-2006",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2809279",
+  "pdf": "http://europepmc.org/articles/PMC2809279?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -5118,8 +5130,9 @@
   "pub_id": 1539,
   "doi": "doi:10.1038/ijo.2010.94",
   "title": "Long-term weight loss maintenance in the United States",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3671378/",
+  "publisher": "Int J Obes (Lond)",
+  "url": "https://europepmc.org/articles/PMC3671378",
+  "pdf": "https://europepmc.org/articles/PMC3671378?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5132,8 +5145,9 @@
   "pub_id": 1541,
   "doi": "doi:10.2337/dc09-0309",
   "title": "Association among acrylamide, blood insulin, and insulin resistance in adults",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2782978",
+  "pdf": "http://europepmc.org/articles/PMC2782978?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -5538,8 +5552,9 @@
   "pub_id": 1606,
   "doi": "doi:10.1093/eurheartj/ehp195",
   "title": "Kidney function estimated from serum creatinine and cystatin C and peripheral arterial disease in NHANES 1999-2002",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2719699/",
+  "publisher": "Eur Heart J",
+  "url": "https://europepmc.org/articles/PMC2719699",
+  "pdf": "https://europepmc.org/articles/PMC2719699?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -5699,8 +5714,9 @@
   "pub_id": 1639,
   "doi": "doi:10.1093/eurpub/ckp039",
   "title": "By how much would limiting TV food advertising reduce childhood obesity?",
-  "publisher": "???",
+  "publisher": "Eur J Public Health",
   "url": "http://europepmc.org/articles/PMC2712920",
+  "pdf": "http://europepmc.org/articles/PMC2712920?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -5746,8 +5762,9 @@
   "pub_id": 1647,
   "doi": "doi:10.4162/nrp.2010.4.3.243",
   "title": "Noodle consumption patterns of American consumers: NHANES 2001-2002",
-  "publisher": "???",
+  "publisher": "Nutr Res Pract",
   "url": "http://europepmc.org/articles/PMC2895706",
+  "pdf": "http://europepmc.org/articles/PMC2895706?pdf=render",
   "rcc_cite": [
     482
   ]
@@ -5768,8 +5785,9 @@
   "pub_id": 1658,
   "doi": "doi:10.1093/aje/kwn414",
   "title": "Serum selenium and peripheral arterial disease: Results from the National Health and Nutrition Examination Survey, 2003-2004",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2727225/",
+  "publisher": "Am J Epidemiol",
+  "url": "https://europepmc.org/articles/PMC2727225",
+  "pdf": "https://europepmc.org/articles/PMC2727225?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -5779,8 +5797,9 @@
   "pub_id": 1659,
   "doi": "doi:10.1093/gerona/gln045",
   "title": "Total water intakes of community-living middle-old and oldest-old adults",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2657166/",
+  "publisher": "J Gerontol A Biol Sci Med Sci",
+  "url": "https://europepmc.org/articles/PMC2657166",
+  "pdf": "https://europepmc.org/articles/PMC2657166?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -5840,8 +5859,9 @@
   "pub_id": 1664,
   "doi": "doi:10.2337/dc08-1699",
   "title": "Elevated A1C in adults without a history of diabetes in the U.S",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2671106",
+  "pdf": "http://europepmc.org/articles/PMC2671106?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5854,8 +5874,9 @@
   "pub_id": 1666,
   "doi": "doi:10.1001/archpediatrics.2008.523",
   "title": "Vitamin and mineral supplement use by children and adolescents in the 1999-2004 National Health and Nutrition Examination Survey: Relationship with nutrition, food security, physical activity, and health care access",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2996491/",
+  "publisher": "Arch Pediatr Adolesc Med",
+  "url": "https://europepmc.org/articles/PMC2996491",
+  "pdf": "https://europepmc.org/articles/PMC2996491?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5867,8 +5888,9 @@
   "pub_id": 1667,
   "doi": "doi:10.1093/gerona/gln016",
   "title": "Prevalence, awareness, and management of hypertension, dyslipidemia, and diabetes among United States adults aged 65 and older",
-  "publisher": "???",
+  "publisher": "J Gerontol A Biol Sci Med Sci",
   "url": "http://europepmc.org/articles/PMC2655011",
+  "pdf": "http://europepmc.org/articles/PMC2655011?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -5984,8 +6006,9 @@
   "pub_id": 1683,
   "doi": "doi:10.1001/jama.2010.1111",
   "title": "Prevalence of diabetic retinopathy in the United States, 2005-2008",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2945293/",
+  "publisher": "JAMA",
+  "url": "https://europepmc.org/articles/PMC2945293",
+  "pdf": "https://europepmc.org/articles/PMC2945293?pdf=render",
   "rcc_cite": [
     484,
     542
@@ -6022,8 +6045,9 @@
   "pub_id": 1687,
   "doi": "doi:10.2215/CJN.02400310",
   "title": "Prevalence of CKD in Northeastern Italy: Results of the INCIPE Study and Comparison with NHANES",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3001778/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC3001778",
+  "pdf": "https://pdfs.semanticscholar.org/2890/dd240521807ea3fa7c6c3be5a45090c7dfb5.pdf",
   "rcc_cite": [
     481,
     482,
@@ -6082,8 +6106,9 @@
   "pub_id": 1693,
   "doi": "doi:10.1038/oby.2010.176",
   "title": "Association of prescription H1 antihistamine use with obesity: Results from the National Health and Nutrition Examination Survey",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3221329/",
+  "publisher": "Obesity (Silver Spring)",
+  "url": "https://europepmc.org/articles/PMC3221329",
+  "pdf": "https://europepmc.org/articles/PMC3221329?pdf=render",
   "rcc_cite": [
     484
   ]
@@ -6104,8 +6129,9 @@
   "pub_id": 1697,
   "doi": "doi:10.2337/dc08-1816",
   "title": "Association among serum perfluoroalkyl chemicals, glucose homeostasis, and metabolic syndrome in adolescents and adults",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC2660466",
+  "pdf": "http://europepmc.org/articles/PMC2660466?pdf=render",
   "rcc_cite": [
     481,
     483
@@ -6127,8 +6153,9 @@
   "pub_id": 1707,
   "doi": "doi:10.2215/CJN.03050608",
   "title": "Association of serum intact parathyroid hormone with lower estimated glomerular filtration rate",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2615703/",
+  "publisher": "Clin J Am Soc Nephrol",
+  "url": "https://europepmc.org/articles/PMC2615703",
+  "pdf": "https://pdfs.semanticscholar.org/93ec/b41aa60ffb98bfe267c40fb4fb3f933ef76e.pdf",
   "rcc_cite": [
     483
   ]
@@ -6231,8 +6258,9 @@
   "pub_id": 1727,
   "doi": "doi:10.1038/oby.2008.394",
   "title": "Obesity and the likelihood of sexual behavioral risk factors for HPV and cervical cancer",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2801345/",
+  "publisher": "Obesity (Silver Spring)",
+  "url": "https://europepmc.org/articles/PMC2801345",
+  "pdf": "https://europepmc.org/articles/PMC2801345?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6255,8 +6283,9 @@
   "pub_id": 1730,
   "doi": "doi:10.1289/ehp.11082",
   "title": "Diet and nondiet predictors of urinary 3-phenoxybenzoic acid in NHANES 1999-2002",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2516573",
+  "pdf": "http://europepmc.org/articles/PMC2516573?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6267,8 +6296,9 @@
   "pub_id": 1731,
   "doi": "doi:10.1001/archopht.126.8.1111",
   "title": "Prevalence of refractive error in the United States, 1999-2004",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2772054/",
+  "publisher": "Arch Ophthalmol",
+  "url": "https://europepmc.org/articles/PMC2772054",
+  "pdf": "https://europepmc.org/articles/PMC2772054?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6357,8 +6387,9 @@
   "pub_id": 1748,
   "doi": "doi:10.1289/ehp.11177",
   "title": "Association of environmental toxicants and conduct disorder in U.S. children: NHANES 2001-2004",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2453167",
+  "pdf": "http://europepmc.org/articles/PMC2453167?pdf=render",
   "rcc_cite": [
     482,
     483
@@ -6533,8 +6564,9 @@
   "pub_id": 1769,
   "doi": "doi:10.1136/jech.2010.108415",
   "title": "What explains the American disadvantage in health compared with the English? The case of diabetes",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3645372/",
+  "publisher": "J Epidemiol Community Health",
+  "url": "https://europepmc.org/articles/PMC3645372",
+  "pdf": "https://europepmc.org/articles/PMC3645372?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6558,8 +6590,9 @@
   "pub_id": 1773,
   "doi": "doi:10.1161/CIRCULATIONAHA.107.721878",
   "title": "Association of insulin resistance and inflammation with peripheral arterial disease: The National Health and Nutrition Examination Survey, 1999 to 2004",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2704240/",
+  "publisher": "Circulation",
+  "url": "https://europepmc.org/articles/PMC2704240",
+  "pdf": "https://europepmc.org/articles/PMC2704240?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6571,8 +6604,9 @@
   "pub_id": 1774,
   "doi": "doi:10.1038/oby.2008.288",
   "title": "Food insecurity is not associated with lower energy intakes",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3053124/",
+  "publisher": "Matern Child Nutr",
+  "url": "https://europepmc.org/articles/PMC3053124",
+  "pdf": "https://europepmc.org/articles/PMC3053124?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6622,8 +6656,9 @@
   "pub_id": 1786,
   "doi": "doi:10.1161/ATVBAHA.108.165886",
   "title": "Serum 25-hydroxyvitamin D levels and the prevalence of peripheral arterial disease: Results from NHANES 2001 to 2004",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2705139/",
+  "publisher": "Arterioscler Thromb Vasc Biol",
+  "url": "https://europepmc.org/articles/PMC2705139",
+  "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705139/pdf/nihms110645.pdf",
   "rcc_cite": [
     482,
     483
@@ -6645,8 +6680,9 @@
   "pub_id": 1791,
   "doi": "doi:10.1038/oby.2008.7",
   "title": "Obesity and C-reactive protein levels among White, Black, and Hispanic US adults",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2848449/",
+  "publisher": "Obesity (Silver Spring)",
+  "url": "https://europepmc.org/articles/PMC2848449",
+  "pdf": "https://europepmc.org/articles/PMC2848449?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6671,8 +6707,9 @@
   "pub_id": 1797,
   "doi": "doi:10.1289/ehp.10768",
   "title": "Urinary concentrations of triclosan in the U.S. population: 2003-2004",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2265044",
+  "pdf": "http://europepmc.org/articles/PMC2265044?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -6682,8 +6719,9 @@
   "pub_id": 1798,
   "doi": "doi:10.1370/afm.814",
   "title": "Acculturation and healthy lifestyle among Latinos with diabetes",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC2267424/",
+  "publisher": "Ann Fam Med",
+  "url": "https://europepmc.org/articles/PMC2267424",
+  "pdf": "https://europepmc.org/articles/PMC2267424?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6695,8 +6733,9 @@
   "pub_id": 1800,
   "doi": "doi:10.1093/aje/kwm390",
   "title": "Amount of time spent in sedentary behaviors in the United States, 2003-2004",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3527832/",
+  "publisher": "Am J Epidemiol",
+  "url": "https://europepmc.org/articles/PMC3527832",
+  "pdf": "https://europepmc.org/articles/PMC3527832?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -6721,8 +6760,9 @@
   "pub_id": 1804,
   "doi": "doi:10.1289/ehp.10764",
   "title": "Cadmium exposure and hypertension in the 1999-2004 National Health and Nutrition Examination Survey (NHANES)",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC2199293",
+  "pdf": "http://europepmc.org/articles/PMC2199293?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -6786,8 +6826,9 @@
   "pub_id": 1827,
   "doi": "doi:10.1289/ehp.10300",
   "title": "Impact of smoking and thiocyanate on perchlorate and thyroid hormone associations in the 2001-2002 National Health and Nutrition Examination Survey",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC1964908",
+  "pdf": "http://europepmc.org/articles/PMC1964908?pdf=render",
   "rcc_cite": [
     482
   ]
@@ -6869,8 +6910,9 @@
   "pub_id": 1881,
   "doi": "doi:10.1289/ehp.8464",
   "title": "Blood mercury reporting in NHANES: identifying Asian, Pacific Islander, Native American, and multiracial groups",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC1367827",
+  "pdf": "http://europepmc.org/articles/PMC1367827?pdf=render",
   "rcc_cite": [
     481,
     482
@@ -6890,10 +6932,11 @@
 ,
 {
   "pub_id": 1890,
-  "doi": "doi:10.2337/diacare.28.8.1981",
+  "doi": "10.2337/diacare.28.8.1981",
   "title": "Relationship between HbA1c level and peripheral arterial disease",
-  "publisher": "???",
-  "url": "http://dx.doi.org/10.1016/j.jvs.2006.02.014",
+  "publisher": "Diabetes Care",
+  "url": "https://care.diabetesjournals.org/content/28/8/1981",
+  "pdf": "https://www.jvascsurg.org/article/S0741-5214(06)00257-6/pdf",
   "rcc_cite": [
     481,
     482
@@ -6904,8 +6947,9 @@
   "pub_id": 1894,
   "doi": "doi:10.1136/oem.2004.016832",
   "title": "Urinary mercury concentrations associated with dental restorations in adult women aged 16-49 years: United States, 1999-2000",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC1741027/",
+  "publisher": "Occup Environ Med",
+  "url": "https://europepmc.org/articles/PMC1741027",
+  "pdf": "https://europepmc.org/articles/PMC1741027?pdf=render",
   "rcc_cite": [
     481
   ]
@@ -6915,8 +6959,9 @@
   "pub_id": 1901,
   "doi": "doi:10.1161/01.CIR.0000137913.26087.F0",
   "title": "Prevalence of and risk factors for peripheral arterial disease in the United States: Results from the National Health and Nutrition Examination Survey, 1999-2000",
-  "publisher": "???",
-  "url": "http://dx.doi.org/10.1016/j.jvs.2004.11.004",
+  "publisher": "Circulation",
+  "url": "https://www.ahajournals.org/doi/10.1161/01.CIR.0000137913.26087.F0",
+  "pdf": "https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.0000137913.26087.F0",
   "rcc_cite": [
     481
   ]
@@ -7425,8 +7470,9 @@
   "pub_id": 1974,
   "doi": "doi:10.2337/dc10-0987",
   "title": "Sedentary activity associated with metabolic syndrome independent of physical activity",
-  "publisher": "???",
+  "publisher": "Diabetes Care",
   "url": "http://europepmc.org/articles/PMC3024375",
+  "pdf": "http://europepmc.org/articles/PMC3024375?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7514,8 +7560,9 @@
   "pub_id": 1984,
   "doi": "doi:10.4021/jocmr425w",
   "title": "High total bilirubin as a protective factor for diabetes mellitus: An analysis of NHANES data from 1999 - 2006",
-  "publisher": "???",
+  "publisher": "J Clin Med Res",
   "url": "http://europepmc.org/articles/PMC3104666",
+  "pdf": "http://europepmc.org/articles/PMC3104666?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -7528,8 +7575,9 @@
   "pub_id": 1985,
   "doi": "doi:10.1136/oem.2011.064758",
   "title": "Occupational noise exposure assessment using O*NET and its application to a study of hearing loss in the US general population",
-  "publisher": "???",
+  "publisher": "Occup Environ Med",
   "url": "http://europepmc.org/articles/PMC3277688",
+  "pdf": "http://europepmc.org/articles/PMC3277688?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -7541,8 +7589,9 @@
   "pub_id": 1987,
   "doi": "doi:10.1093/jpepsy/jsq117",
   "title": "Obesity and related health behaviors among urban and rural children in the United States: data from the National Health And Nutrition Examination Survey 2003-2004 and 2005-2006",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3131698/",
+  "publisher": "J Pediatr Psychol",
+  "url": "https://europepmc.org/articles/PMC3131698",
+  "pdf": "https://europepmc.org/articles/PMC3131698?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7603,8 +7652,9 @@
   "pub_id": 1996,
   "doi": "doi:10.1038/ajh.2011.108",
   "title": "Vitamin D and racial disparity in albuminuria: NHANES 2001-2006",
-  "publisher": "???",
+  "publisher": "Am J Hypertens",
   "url": "http://europepmc.org/articles/PMC3176582",
+  "pdf": "http://europepmc.org/articles/PMC3176582?pdf=render",
   "rcc_cite": [
     482,
     483,
@@ -7616,8 +7666,9 @@
   "pub_id": 1997,
   "doi": "doi:10.4021/jocmr444w",
   "title": "Bilirubin as a protective factor for rheumatoid arthritis: An NHANES study of 2003 - 2006 data",
-  "publisher": "???",
+  "publisher": "J Clin Med Res",
   "url": "http://europepmc.org/articles/PMC3194029",
+  "pdf": "http://europepmc.org/articles/PMC3194029?pdf=render",
   "rcc_cite": [
     483,
     484,
@@ -7643,8 +7694,9 @@
   "pub_id": 1999,
   "doi": "doi:10.3945/jn.111.142257",
   "title": "Foods, fortificants, and supplements: Where do Americans get their nutrients?",
-  "publisher": "???",
+  "publisher": "J Nutr",
   "url": "http://europepmc.org/articles/PMC3174857",
+  "pdf": "http://europepmc.org/articles/PMC3174857?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7655,8 +7707,9 @@
   "pub_id": 2003,
   "doi": "doi:10.1093/eurheartj/ehq451",
   "title": "Sedentary time and cardio-metabolic biomarkers in US adults: NHANES 2003-06",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3634159/",
+  "publisher": "Eur Heart J",
+  "url": "https://europepmc.org/articles/PMC3634159",
+  "pdf": "https://europepmc.org/articles/PMC3634159?pdf=render",
   "rcc_cite": [
     483,
     484
@@ -7667,8 +7720,9 @@
   "pub_id": 2007,
   "doi": "doi:10.1158/1940-6207.CAPR-11-0322",
   "title": "Opportunities for the primary prevention of colorectal cancer in the United States",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3252472/",
+  "publisher": "Cancer Prev Res (Phila)",
+  "url": "https://europepmc.org/articles/PMC3252472",
+  "pdf": "https://europepmc.org/articles/PMC3252472?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -7809,8 +7863,9 @@
   "pub_id": 2031,
   "doi": "doi:10.4162/nrp.2011.5.3.253",
   "title": "Survey of American food trends and the growing obesity epidemic",
-  "publisher": "???",
+  "publisher": "Nutr Res Pract",
   "url": "http://europepmc.org/articles/PMC3133759",
+  "pdf": "http://europepmc.org/articles/PMC3133759?pdf=render",
   "rcc_cite": [
     481,
     482,
@@ -7823,8 +7878,9 @@
   "pub_id": 2032,
   "doi": "doi:10.3122/jabfm.2011.01.100121",
   "title": "Prevalence, treatment, and control of depressive symptoms in the United States: Results from the National Health and Nutrition Examination Survey (NHANES), 2005-2008",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3161724/",
+  "publisher": "J Am Board Fam Med",
+  "url": "https://europepmc.org/articles/PMC3161724",
+  "pdf": "https://europepmc.org/articles/PMC3161724?pdf=render",
   "rcc_cite": [
     484,
     542
@@ -7860,8 +7916,9 @@
   "pub_id": 2035,
   "doi": "doi:10.1093/humrep/der101",
   "title": "Evidence for increased cardiovascular events in the fathers but not mothers of women with polycystic ovary syndrome",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3137384/",
+  "publisher": "Hum Reprod",
+  "url": "https://europepmc.org/articles/PMC3137384",
+  "pdf": "https://europepmc.org/articles/PMC3137384?pdf=render",
   "rcc_cite": [
     482
   ]
@@ -8171,8 +8228,9 @@
   "pub_id": 2090,
   "doi": "doi:10.1093/gerona/glr121",
   "title": "Relations of a marker of endothelial activation (s-VCAM) to function and mortality in community-dwelling older adults",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3210955/",
+  "publisher": "J Gerontol A Biol Sci Med Sci",
+  "url": "https://europepmc.org/articles/PMC3210955",
+  "pdf": "https://europepmc.org/articles/PMC3210955?pdf=render",
   "rcc_cite": [
     381,
     829
@@ -8214,8 +8272,9 @@
   "pub_id": 2094,
   "doi": "doi:10.1038/oby.2012.23",
   "title": "The association between childhood obesity and tooth eruption",
-  "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3574556/",
+  "publisher": "Obesity (Silver Spring)",
+  "url": "https://europepmc.org/articles/PMC3574556",
+  "pdf": "https://europepmc.org/articles/PMC3574556?pdf=render",
   "rcc_cite": [
     482,
     483,
@@ -8439,8 +8498,9 @@
   "pub_id": 2139,
   "doi": "doi:10.1289/ehp.1104114",
   "title": "Bisphenol A and Peripheral Arterial Disease: Results from the NHANES",
-  "publisher": "???",
+  "publisher": "Environ Health Perspect",
   "url": "http://europepmc.org/articles/PMC3440106",
+  "pdf": "http://europepmc.org/articles/PMC3440106?pdf=render",
   "rcc_cite": [
     483
   ]
@@ -11212,7 +11272,8 @@
   "doi": "doi:10.1159/000324512",
   "title": "Middle-aged couples\u0092 exchanges of support with aging parents: Patterns and association with marital satisfaction",
   "publisher": "???",
-  "url": "https://europepmc.org/articles/PMC3254027/",
+  "url": "https://europepmc.org/articles/PMC3254027",
+  "pdf": "",
   "rcc_cite": [
     668
   ]
