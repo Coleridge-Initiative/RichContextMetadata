@@ -1,0 +1,33 @@
+[
+    {
+        "pub_id": 1562,
+        "doi": "10.1007/s00198-013-2281-1",
+        "title": "Vitamin D and the cardiovascular system",
+        "publisher": "Osteoporos Int",
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/23468072",
+        "pdf": null,
+        "datasets": [
+            "dataset-017"
+        ]
+    },
+    {
+        "doi": "10.1162/rest_a_00447",
+        "publisher": "Review of Economics and Statistics",
+        "title": "Variety Pass-Through: An Examination of the Ready-to-Eat Breakfast Cereal Market",
+        "url": "http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00447",
+        "pdf": null,
+        "datasets": [
+            "dataset-001"
+        ]
+    },
+    {
+        "doi": "10.1787/oecd_papers-v2-5-fr",
+        "publisher": "Documents de l OCDE",
+        "title": "Volume 2, Issue 5",
+        "url": "https://europepmc.org/articles/PMC3369753/",
+        "pdf": null,
+        "datasets": [
+            "dataset-001"
+        ]
+    }
+]
