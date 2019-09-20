@@ -1,5 +1,6 @@
 *~
 repec/repec.cfg
+dimensions/dimensions.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
