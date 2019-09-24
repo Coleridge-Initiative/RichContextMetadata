@@ -1,0 +1,86 @@
+[{'dataset_name':'Temporary Assistance for Needy Families'},'alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'OR', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Child welfare data', 'geography': 'WA','alias':['Child welfare']}
+,{'dataset_name':'TANF data', 'geography': 'WA', "alias":["TANF", "Temporary Assistance for Needy Families", "Temporary Assistance for Needy Families data"]}
+,{'dataset_name':'NY administrative data', 'geography':'NY'}
+,{'dataset_name':'Current population survey','geography':'NY', 'alias':['CPS data', 'CPS', 'Current population survey data']}
+,{'dataset_name':'Oregon Medicaid', 'geography':'OR', 'alias':['Oregon Medicaid data']}
+,{'dataset_name':'Program model information from NYC', 'geography':'NY','alias':['Program model information from New York City']}
+,{'dataset_name':'Program model information from Philadelphia', 'geography':'PA'}
+,{'dataset_name':'Program model information from Hennepin County', 'geography':'MN', 'alias':['Program model information from Minneapolis', 'Program model information from Twin Cities']}
+,{'dataset_name':'Program model information from Nebraska', 'geography':'NE'}
+,{'dataset_name':'Program model information from New Jersey', 'geography':'NJ'}
+,{'dataset_name':'Program model information from Rhode Island', 'geography':'RI'}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'PA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data', 'Philadelphia TANF data', 'Philadelphia TANF']}
+,{'dataset_name':'TWC', 'geography':'PA', 'alias': ['Transitional Work Corporation']}
+,{'dataset_name':'STEP', 'geography':'PA', 'alias':['Success Through Employment Preparation']}
+,{'dataset_name':'Pennsylvania's Department of Public Welfare', 'geography':'PA', 'alias':['Pennsylvania's DPW']}
+,{'dataset_name':'National Directory of New Hires', 'geography':'PA', 'alias':['NDNH']}
+,{'dataset_name':'Work First program data', 'geography':'MI', 'alias':['Work First program']}
+,{'dataset_name':'UI wage records', 'geography':'MI', 'alias':['UI wage record data']}
+,{'dataset_name':'State of Michigan', 'geography':'MI', 'alias':['State of Michigan data', 'Michigan data', 'Michigan']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'MD', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Family Transition Program', 'geography':'FL', 'alias':['Family Transition Program data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'OH', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Exit survey', 'geography':'OH', 'alias':['Exit survey data']}
+,{'dataset_name':'State of Michigan', 'geography':'MI', 'alias':['State of Michigan data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'MI', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'WI', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Food Stamp data', 'alias':['SNAP data', 'Supplemental Nutrition Assistance Program', 'Supplemental Nutrition Assistance Program data']}
+,{'dataset_name':'Women's Employment Study', 'alias':['Women's Employment Study data', 'WES', 'WEST data']}
+,{'dataset_name':'State of Wisconsin data', 'geography':'WI', alias:['State of Wisconsin Data', 'Wisconsin state data']}
+,{'dataset_name':'W-2 data', 'geography':'WI', 'add_state':'yes', 'alias':['W-2']}
+,{'dataset_name':'Child support data', 'geography':'WI', 'add_state':'yes', 'alias':['Child support']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'KY', 'add_state':'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Relocation Assistance Program', 'geography':'KY', 'add_state':'yes', 'alias':['RAP']}
+,{'dataset_name':'UI administrative data', 'geography':'KY', 'add_state':'yes'}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'WA', 'add_state':'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Child care subsidy administrative data', 'geography':'WA', 'add_state':'yes'}
+,{'dataset_name':'Milwaukee County, WI TANF data', 'geography':'WI', 'alias':['Milwaukee TANF', 'Milwaukee TANF data']}
+,{'dataset_name':'Child welfare data', 'geography':'WI', 'add_state':'yes', 'alias':['Child welfare']}
+,{'dataset_name':'Child support data', 'geography':'WI', 'add_state':'yes', 'alias':['Child support']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in CO from 2002', 'geography':'CO', 'alias':['Statewide surveys of single-parent TANF recipients in Colorado from 2002']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in DC from 2002', 'geography':'DC', 'alias':['Statewide surveys of single-parent TANF recipients in Washington D.C. from 2002']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in IL from 2002', 'geography':'IL', 'alias':['Statewide surveys of single-parent TANF recipients in Illinois from 2002']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in MD from 2002', 'geography':'MD', 'alias':['Statewide surveys of single-parent TANF recipients in Maryland from 2002']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in MO from 2002', 'geography':'MO', 'alias':['Statewide surveys of single-parent TANF recipients in Montana from 2002']}
+,{'dataset_name':'Statewide surveys of single-parent TANF recipients in SC from 2002', 'geography':'SC', 'alias':'Statewide surveys of single-parent TANF recipients in South Carolina from 2002'}
+,{'dataset_name':'Devolution and Urban Change', 'geography':'FL'}
+,{'dataset_name':'Cuyahoga TANF', 'geography':'FL', 'alias':['Cuyahoga TANF data']}
+,{'dataset_name':'Los Angeles TANF data', 'geography':'CA', 'alias':['Los Angeles TANF']}
+,{'dataset_name':'Miami-Dade TANF data', 'geography':'FL', 'alias':['Miami-Dade TANF']}
+,{'dataset_name':'Philadelphia TANF data', 'geography':'PA', 'alias':['Philadelphia TANF']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'FL', 'add_state':'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Substance abuse testing data', 'geography':'FL', 'alias':['Substance abuse testing']}
+,{'dataset_name':'Medicaid data', 'geography':'FL', 'add_state':'yes', 'alias':['Medicaid']}
+,{'dataset_name':'Food Stamp data', 'geography':'FL', 'add_state':'yes' 'alias':['SNAP data', 'Supplemental Nutrition Assistance Program', 'Supplemental Nutrition Assistance Program data']}
+,{'dataset_name':'UI data', 'geography':'FL', 'add_state':'yes', 'alias':['UI']}
+,{'dataset_name':'Earnings data', 'geography':'WI', 'add_state':'yes'}
+,{'dataset_name':'Employment data', 'geography':'WI', 'add_state':'yes'}
+,{'dataset_name':'Administrative data', 'geography':'WI', 'add_state':'yes'}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'GA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'DC', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'MO', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'SC', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'IA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Salt Lake County data', 'geography':'UT', 'alias':['Salt Lake County data']}
+,{'dataset_name':'Cuyahoga County data', 'geography':'OH', 'alias':['Cuyahoga County']}
+,{'dataset_name':'Cleveland data', 'geography':'OH', 'alias':['Cleveland']}
+,{'dataset_name':'Wages data', 'geography':'FL', 'add_state':'yes', 'alias':['Florida wages']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'IL', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Cuyahoga County TANF data', 'geography':'OH', 'alias':['Cuyahoga County TANF']}
+,{'dataset_name':'Cleveland TANF data', 'geography':'OH', 'alias':['Cleveland TANF']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'CA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'MA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'AZ', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'NY', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'NJ', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+,{'dataset_name':'Family Program Development data', 'geography':'NJ', 'add_state':'yes', 'alias':['Family Program Development']}
+,{'dataset_name':'Progress and Services Report', 'geography':'AL', 'add_state':'yes', 'alias':['Progress and Services Report data']}
+,{'dataset_name':'CalWORKS recipients earning report data', 'geography':'CA', 'alias':['California Work Opportunities and Responsibility to Kids earning report data', 'California Work Opportunities and Responsibility to Kids earning report', 'CalWORKs data']}
+,{'dataset_name':'DFCS', 'geography':'GA', 'add_state':'yes', 'alias':['Department of Family and Child Services', 'Department of Family and Child Services data', 'DFCS data']}
+,{'dataset_name':'Health and Human Services data', 'geography':'MI', 'add_state':'yes', 'alias':['Health and Human Services', 'DHHS', 'DHHS data']}
+,{'dataset_name':'SSRC', 'geography':'CO', 'add_state':'yes', 'alias':['Self-Sufficiency Research Clearinghouse', 'Self-Sufficiency Research Clearinghouse data', 'SSRC data']}
+,{'dataset_name':'Family Investment Program', 'geography':'MN', 'add_state':'yes', 'alias':['FIP data', 'FIP', 'Family Investment Program data']}
+,{'dataset_name':'Temporary Assistance for Needy Families'},'geography':'VA', 'add_state`:'yes','alias':['TANF','TANF data', 'Temporary Assistance for Needy Families data']}
+]
