@@ -1,0 +1,43 @@
+[
+  {
+    "id": "dataset-001",
+    "provider": "IRI",
+    "title": "IRI Infoscan",
+    "alt_title": [
+      "retail scanner data"
+    ],
+    "url": "https://www.iriworldwide.com/en-US/Solutions/Retail"
+  },
+  {
+    "id": "dataset-002",
+    "provider": "IRI",
+    "title": "IRI Consumer Network",
+    "alt_title": [
+      "Consumer Network",
+      "household scanner data"
+    ],
+    "url": "https://www.iriworldwide.com/en-US/Solutions/Media/Media-Solutions/Consumer"
+  },
+  {
+    "id": "dataset-025",
+    "provider": "U.S. Department of Agriculture",
+    "title": "FoodAPS National Household Food Acquisition and Purchase Survey",
+    "alt_title": [
+      "FoodAPS",
+      "Food Acquisition and Purchase Survey",
+      "National Household Food Acquisition and Purchase Survey"
+    ],
+    "url": "https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey/",
+    "description": "USDA's National Household Food Acquisition and Purchase Survey (FoodAPS) is the first nationally representative survey of American households to collect unique and comprehensive data about household food purchases and acquisitions."
+  },
+  {
+    "id": "dataset-026",
+    "provider": "U.S. Department of Agriculture",
+    "title": "Supplemental Nutrition Assistance Program",
+    "alt_title": [
+      "SNAP"
+    ],
+    "url": "https://data.nal.usda.gov/dataset/supplemental-nutrition-assistance-program-snap-data-system",
+    "description": "The Supplemental Nutrition Assistance Program (SNAP) Data System provides time-series data on State and county-level estimates of SNAP participation and benefit levels, combined with area estimates of total population and the number of persons in poverty."
+  }
+]
