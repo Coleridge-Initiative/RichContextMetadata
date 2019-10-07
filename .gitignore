@@ -1,8 +1,9 @@
-.DS_Store
 *~
 repec/repec.cfg
 dimensions/dimensions.cfg
 **/dimensions.cfg
+.DS_Store
+.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
