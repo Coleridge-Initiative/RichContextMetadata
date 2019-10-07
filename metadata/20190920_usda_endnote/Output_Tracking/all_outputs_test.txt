@@ -1,0 +1,34 @@
+﻿Reference Type:  Journal Article
+Record Number: 57
+Author: Hu, Mengyao, Kirlin, John A, West, Brady, He, Wenyi, Ong, Ai Rene, Zhang, Shiyu and Zhang, Xingyou
+Year: 2019
+Title: Estimation of Underreporting in Diary Surveys: An Application using the National Household Food Acquisition and Purchase Survey
+Journal: Journal of Survey Statistics and Methodology
+Short Title: Estimation of Underreporting in Diary Surveys: An Application using the National Household Food Acquisition and Purchase Survey
+Keywords: FoodAPS
+
+Abstract: Diary surveys are used to collect data on a variety of topics, including health, time use,
+nutrition and expenditures. The U.S. National Household Food Acquisition and Purchase Survey
+(FoodAPS) is a nationally representative diary survey, providing an important data source for
+decision makers to design policies and programs for promoting healthy lifestyles. Unfortunately,
+a multi-day diary survey like the FoodAPS can be subject to various survey errors, especially
+item nonresponse error occurring at the day level. The FoodAPS public-use data set provides
+survey weights that adjust only for unit nonresponse. Due to the lack of day-level weights (which
+could possibly adjust for the item nonresponse that arises from refusals on particular days), the
+adjustments for unit nonresponse are unlikely to correct any bias in estimates arising from
+households that initially agree to participate in FoodAPS, but then fail to report on particular
+days. This paper develops a general methodology for estimating the extent of underreporting due
+to this type of item nonresponse errors in diary surveys, using FoodAPS as a case study. We
+describe a methodology combining bootstrap replicate sampling for complex samples and
+imputation based on a Heckman selection model to predict food expenditures for person-days
+with missing expenditures. We estimated the item nonresponse error by comparing weighted
+estimates according to 1) only reported expenditures and 2) both reported expenditures and
+predictions for missing values. Results indicate that ignoring the missing data would lead to
+consistent over-estimation of the mean expenditures and events per person per day and underestimation
+of the total expenditures and events. Our study suggests that the household-level
+weights which generally account for unit nonresponse may not be entirely sufficient for
+addressing the nonresponse occurring at the day level in diary surveys, and proper imputation
+methods will be important for estimating the size of the underreporting.
+'File' Attachments: internal-pdf://0963461351/FoodAPS underreporting 2nd revision proof.pdf
+
+
