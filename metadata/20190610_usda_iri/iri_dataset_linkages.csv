@@ -1,4 +1,4 @@
-﻿dataset_name,doi,journal,title,url
+﻿dataset,doi,journal,title,url
 dataset-002,10.1371/journal.pone.0124351,PLoS One,"Relationships between Diet, Alcohol Preference, and Heart Disease and Type 2 Diabetes among Americans",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4427330/
 dataset-002,10.2105/AJPH.2016.303048,American Journal of Public Health,Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts.,https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2016.303048?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&
 dataset-001,10.3168/jds.2015-10410,Journal of Dairy Science,The effects of retail concentration on retail dairy product prices in the United States,https://www.sciencedirect.com/science/article/pii/S0022030216301369

@@ -1,4 +1,4 @@
-﻿dataset_name,doi,journal,title,url
+﻿dataset,doi,journal,title,url
 dataset-025,http://www.ers.usda.gov/publications/pub-details/?pubid=45536,"United States Department of Agriculture, Economic Research Service",WIC Households' Food Purchases Using WIC Benefits and Paying Out of Pocket: A Case Study of Cold Cereal Purchases,http://www.ers.usda.gov/publications/pub-details/?pubid=45536
 dataset-025,https://www.ers.usda.gov/publications/pub-details/?pubid=87012,"United States Department of Agriculture, Economic Research Service",USDA's National Household Food Acquisition and Purchase Survey: Methodology for Imputing Missing Quantities To Calculate Healthy Eating Index-2010 Scores and Sort Foods Into ERS Food Groups,https://ageconsearch.umn.edu/record/276252/files/TB-1947.pdf
 dataset-025,10.1016/j.foodpol.2018.03.007,Food Policy,Overview: Exploring ways to encourage healthier food purchases by low-income consumers‚ Lessons from behavioral economics and marketing,https://api.elsevier.com/content/article/PII:S0306919218301222?httpAccept=application/pdf&APIKey=7ff2a9eacaeec4ab00d57e3784c42a3f
