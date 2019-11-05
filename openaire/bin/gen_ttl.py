@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 from rdflib.serializer import Serializer
-import configparser
+# import configparser
 import corpus
 import csv
 import glob
@@ -11,8 +11,8 @@ import rdflib
 import sys
 
 
-CONFIG = configparser.ConfigParser()
-CONFIG.read("rc.cfg")
+# CONFIG = configparser.ConfigParser()
+# CONFIG.read("rc.cfg")
 
 
 PREAMBLE = """
@@ -48,7 +48,8 @@ if __name__ == "__main__":
     out_buf = [ PREAMBLE.lstrip() ]
 
     ## load the datasets
-    dataset_path = CONFIG["DEFAULT"]["dataset_path"]
+    # dataset_path = CONFIG["DEFAULT"]["dataset_path"]
+    dataset_path = "/Users/sophierand/RCDatasets/datasets.json"
     known_datasets = {}
 
     with open(dataset_path, "r") as f:
