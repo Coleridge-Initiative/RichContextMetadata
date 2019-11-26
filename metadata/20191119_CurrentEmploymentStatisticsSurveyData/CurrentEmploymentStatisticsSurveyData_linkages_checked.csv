@@ -1,9 +1,9 @@
 dataset,doi,journal,search_term,title,dataset used?,notes
 dataset-345,10.1111/sjos.12312,Scandinavian Journal of Statistics,Current Employment Statistics Survey Data,Scalable Bayes under Informative Sampling,Yes,
 dataset-345,10.1007/978-3-642-33395-8_12,Advances in Spatial Science,Current Employment Statistics Survey Data,"Input--Output Linkages, Proximity to Final Demand and the Location of Manufacturing Industries",Yes,This is a chapter in a book
-dataset-345,10.1007/978-3-642-33395-8,Advances in Spatial Science,Current Employment Statistics Survey Data,"Geography, Institutions and Regional Economic Performance",Technically Yes,This is a book
+dataset-345,10.1007/978-3-642-33395-8,Advances in Spatial Science,Current Employment Statistics Survey Data,"Geography, Institutions and Regional Economic Performance",Yes,This is a book
 dataset-345,10.1016/j.eneco.2012.03.004,Energy Economics,Current Employment Statistics Survey Data,Analysis of U.S. residential wood energy consumption: 1967–2009,Yes,
-dataset-345,10.4324/9781410614407,Meaning and Metrics,Current Employment Statistics Survey Data,Media Diversity and Localism,Technically Yes,This is a book
+dataset-345,10.4324/9781410614407,Meaning and Metrics,Current Employment Statistics Survey Data,Media Diversity and Localism,Yes,This is a book
 dataset-345,10.1377/hlthaff.w5.185,Health Affairs,Current Employment Statistics Survey Data,Health Spending Growth Slows In 2003,Yes,
 dataset-345,10.1377/hlthaff.24.1.185,Health Affairs,Current Employment Statistics Survey Data,Health Spending Growth Slows In 2003,Yes,
 dataset-345,10.2139/ssrn.883581,SSRN Electronic Journal,Current Employment Statistics Survey Data,"Input-Output Linkages, Proximity to Final Demand and the Location of Manufacturing Industries",Yes,This is a chapter in a book
