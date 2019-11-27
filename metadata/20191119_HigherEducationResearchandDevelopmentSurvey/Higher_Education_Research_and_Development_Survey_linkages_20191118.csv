@@ -1,4 +1,4 @@
-dataset_id,dataset_string,dataset_title,doi,journal,title,Used dataset?,
+dataset_id,dataset_string,dataset_title,doi,journal,title,Used dataset?,notes
 dataset-428,HERD,Higher Education Research and Development Survey,10.21608/ejvs.2019.13869.1087,Egyptian Journal of Veterinary Sciences,Some Udder Problems associated with productivity in Goats,No,Confused by sheep herds
 dataset-428,HERD,Higher Education Research and Development Survey,10.1016/j.copsyc.2019.07.015,Current Opinion in Psychology,Ease and Control: The Cognitive Benefits of Hierarchy,No,Herd invisibility
 dataset-428,HERD,Higher Education Research and Development Survey,10.1007/s11432-018-9618-2,Science China Information Sciences,Hybrid quantum particle swarm optimization algorithm and its application,No,Confused by krill herds
