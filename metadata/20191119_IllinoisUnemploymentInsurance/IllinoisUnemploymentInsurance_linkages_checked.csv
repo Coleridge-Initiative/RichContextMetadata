@@ -1,0 +1,21 @@
+dataset,doi,journal,search_term,title,dataset_used?,notes
+dataset-220,10.1111/biom.12952,Biometrics,Illinois Unemployment Insurance,Instrumental variable estimation in semi‐parametric additive hazards models,no,reference matches search_term
+dataset-220,10.1002/pam.22104,Journal of Policy Analysis and Management,Illinois Unemployment Insurance,Housing Voucher Take‐Up and Labor Market Impacts,yes,
+dataset-220,10.1016/j.jpubeco.2018.07.003,Journal of Public Economics,Illinois Unemployment Insurance,Assessing the effects of reemployment bonuses on job search: A regression discontinuity approach,no ,reference matches search_term
+dataset-220,10.1016/bs.hefe.2016.10.001,Handbook of Economic Field Experiments,Illinois Unemployment Insurance,Chapter 8 Social Experiments in the Labor Market,no,reference matches search_term
+dataset-220,10.1177/0891242412465109,Economic Development Quarterly,Illinois Unemployment Insurance,How Major Local Taxes Affect Private Employment,no,matched Illinois Unemployment Insurance Act
+dataset-220,10.2139/ssrn.1711192,SSRN Electronic Journal,Illinois Unemployment Insurance,Policies for Displaced Workers: An American Perspective,maybe,paywall
+dataset-220,10.3998/mpub.186351,,Illinois Unemployment Insurance,"The Cult of Statistical Significance, How the Standard Error Costs Us Jobs, Justice, and Lives",no,"book, reference matches search_term"
+dataset-220,10.1016/j.ssresearch.2005.06.007,Social Science Research,Illinois Unemployment Insurance,"Neighborhood resources, racial segregation, and economic mobility: Results from the Gautreaux program",yes,
+dataset-220,10.1007/s11292-005-5126-x,Journal of Experimental Criminology,Illinois Unemployment Insurance,"Instrumental variables methods in experimental criminological research: what, why and how",no,reference matches search_term
+dataset-220,10.1201/9780203504796,,Illinois Unemployment Insurance,Investigations in the Workplace,no,book
+dataset-220,10.1016/j.socec.2004.09.029,The Journal of Socio-Economics,Illinois Unemployment Insurance,Why is the standard error of regression so low using historical data? Comments on “size matters”,no,reference matches search_term
+dataset-220,10.1016/j.socec.2004.09.038,The Journal of Socio-Economics,Illinois Unemployment Insurance,Significance redux,no,referenced but not used
+dataset-220,10.1162/1542476041423368,Journal of the European Economic Association,Illinois Unemployment Insurance,EVALUATING THE EMPLOYMENT IMPACT OF A MANDATORY JOB SEARCH PROGRAM,no,reference matches search_term
+dataset-220,10.1002/jae.579,Journal of Applied Econometrics,Illinois Unemployment Insurance,Sequential testing of duration data: the case of the Pennsylvania ‘reemployment bonus’ experiment,no,reference matches search_term
+dataset-220,10.1177/0160323x9803000302,State and Local Government Review,Illinois Unemployment Insurance,Building State and Local Government Analytic Capacity: Using Regional Economic Models for Analysis of Public Policy,no,reference matches search_term
+dataset-220,10.1080/01900699708525267,International Journal of Public Administration,Illinois Unemployment Insurance,The performance of Illinois' unemployment insurance system over business cycles,yes,
+dataset-220,10.1080/01900699708525258,International Journal of Public Administration,Illinois Unemployment Insurance,Introduction,no,reference matches search_term
+dataset-220,10.2307/3325152,Journal of Policy Analysis and Management,Illinois Unemployment Insurance,Do bonus offers shorten unemployment insurance spells? results from the washington experiment,no,reference matches search_term
+dataset-220,10.1177/0193841x9301700104,Evaluation Review,Illinois Unemployment Insurance,The Effects of Displacement On Measures of Reemployment Bonus Impacts,no,reference matches search_term
+dataset-220,10.2307/3325511,Journal of Policy Analysis and Management,Illinois Unemployment Insurance,Applying for entitlements: Employers and the targeted jobs tax credit,no,reference matches search_term
