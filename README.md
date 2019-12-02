@@ -1,5 +1,5 @@
 # RichContextMetadata
-Extracting metadata on publications, datasets and persons, and drawing relationships between these three entity types.
+Extract or create metadata on publications and link to datasets. Results get exported to `RCPublications`.
 
 ## Generating Metadata
 Clone https://github.com/NYU-CI/RCDatasets.
