@@ -27,6 +27,8 @@ When adding records:
   - add to the bottom of the file
   - increment the `id` number manually
   - make sure not to introduce multiple names for the same provider
+  - make sure to remove any special characters or characters that will raise encoding errors
+  - all values should be string values (e.g if you see any dictionaries, those should be removed)
 
 Other fields that may be included:
 
