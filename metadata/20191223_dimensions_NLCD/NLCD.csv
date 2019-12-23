@@ -1,0 +1,21 @@
+datasets,doi,journal,search_term,title
+dataset-624,10.1016/j.jag.2019.101985,"{'id': 'jour.1045706', 'title': 'International Journal of Applied Earth Observation and Geoinformation'}",NLCD,Estimating tree canopy cover using harmonic regression coefficients derived from multitemporal Landsat data
+dataset-624,10.1016/j.jag.2019.102012,"{'id': 'jour.1045706', 'title': 'International Journal of Applied Earth Observation and Geoinformation'}",NLCD,Utility of image point cloud data towards generating enhanced multitemporal multisensor land cover maps
+dataset-624,10.1016/j.ecolind.2019.105901,"{'id': 'jour.1032186', 'title': 'Ecological Indicators'}",NLCD,Contemporary forest carbon dynamics in the northern U.S. associated with land cover changes
+dataset-624,10.1016/j.gecco.2019.e00869,"{'id': 'jour.1053048', 'title': 'Global Ecology and Conservation'}",NLCD,Planning for carnivore recolonization by mapping sex-specific landscape connectivity
+dataset-624,10.1016/j.catena.2019.104369,"{'id': 'jour.1137268', 'title': 'Catena'}",NLCD,"The role of physical properties in controlling soil nitrogen cycling across a tundra-forest ecotone of the Colorado Rocky Mountains, U.S.A"
+dataset-624,10.1016/j.dsp.2019.102613,"{'id': 'jour.1327482', 'title': 'Digital Signal Processing'}",NLCD,A novel KA-STAP method based on Mahalanobis distance metric learning
+dataset-624,10.1016/j.ecolind.2019.105802,"{'id': 'jour.1032186', 'title': 'Ecological Indicators'}",NLCD,Measuring continuous landscape patterns with Gray-Level Co-Occurrence Matrix (GLCM) indices: An alternative to patch metrics?
+dataset-624,10.1016/j.jag.2019.101955,"{'id': 'jour.1045706', 'title': 'International Journal of Applied Earth Observation and Geoinformation'}",NLCD,Accuracy assessment of NLCD 2011 percent impervious cover for selected USA metropolitan areas
+dataset-624,10.1080/01431161.2019.1648905,"{'id': 'jour.1122771', 'title': 'International Journal of Remote Sensing'}",NLCD,A change detection method using spatial-temporal-spectral information from Landsat images
+dataset-624,10.1080/2150704x.2019.1682709,"{'id': 'jour.1044554', 'title': 'Remote Sensing Letters'}",NLCD,Night-time lights are more strongly related to urban building volume than to urban area
+dataset-624,10.1016/j.scitotenv.2019.134234,"{'id': 'jour.1015499', 'title': 'The Science of The Total Environment'}",NLCD,"Land use regression models for ultrafine particles, fine particles, and black carbon in Southern California"
+dataset-624,10.1016/j.rse.2019.111514,"{'id': 'jour.1045931', 'title': 'Remote Sensing of Environment'}",NLCD,Landsat 8 TIRS-derived relative temperature and thermal heterogeneity predict winter bird species richness patterns across the conterminous United States
+dataset-624,10.1016/j.enpol.2019.111049,"{'id': 'jour.1120673', 'title': 'Energy Policy'}",NLCD,Urban form and transportation energy consumption
+dataset-624,10.1016/j.foreco.2019.117642,"{'id': 'jour.1030151', 'title': 'Forest Ecology and Management'}",NLCD,Land use and cover effects on an ecosystem engineer
+dataset-624,10.1016/j.jhydrol.2019.124358,"{'id': 'jour.1126746', 'title': 'Journal of Hydrology'}",NLCD,"Determining the impact of a severe dry to wet transition on watershed hydrodynamics in California, USA with an integratedhydrologic model"
+dataset-624,10.1016/j.isprsjprs.2019.11.001,"{'id': 'jour.1044622', 'title': 'ISPRS Journal of Photogrammetry and Remote Sensing'}",NLCD,Significant effects of ecological context on urban trees’ cooling efficiency
+dataset-624,10.1016/j.isprsjprs.2019.11.027,"{'id': 'jour.1044622', 'title': 'ISPRS Journal of Photogrammetry and Remote Sensing'}",NLCD,Investigation of wildfire impacts on land surface phenology from MODIS time series in the western US forests
+dataset-624,10.1007/978-3-319-95885-9,,NLCD,Climate Action
+dataset-624,10.1007/978-3-319-95885-9_300054,,NLCD,Land Use Planning
+dataset-624,10.1016/b978-0-12-815826-5.00014-3,,NLCD,Chapter 14 Aboveground biomass

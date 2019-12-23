@@ -1,0 +1,21 @@
+datasets,doi,journal,search_term,title
+dataset-624,10.1016/j.atmosres.2019.104800,"{'id': 'jour.1031343', 'title': 'Atmospheric Research'}",NEXRAD,Utility of Vertically Integrated Liquid Water Content for Radar-Rainfall Estimation: Quality Control and Precipitation Type Classification
+dataset-624,10.1016/j.atmosres.2019.104790,"{'id': 'jour.1031343', 'title': 'Atmospheric Research'}",NEXRAD,Improvement of aerosol activation/ice nucleation in a source-oriented WRF-Chem model to study a winter Storm in California
+dataset-624,10.1016/j.jhydrol.2019.124255,"{'id': 'jour.1126746', 'title': 'Journal of Hydrology'}",NEXRAD,Evaluation of Parametric Precipitation Models in Reproducing Tropical Cyclone Rainfall Patterns
+dataset-624,10.1016/j.envsoft.2019.104570,"{'id': 'jour.1134509', 'title': 'Environmental Modelling & Software'}",NEXRAD,“Demonstration of an online web services tool incorporating automatic retrieval and comparison of precipitation data”
+dataset-624,10.1111/jfr3.12573,"{'id': 'jour.1045084', 'title': 'Journal of Flood Risk Management'}",NEXRAD,Benefits of an advanced quantitative precipitation information system
+dataset-624,10.1016/j.envsoft.2019.104559,"{'id': 'jour.1134509', 'title': 'Environmental Modelling & Software'}",NEXRAD,Advanced cyberinfrastructure for intercomparison and validation of climate models
+dataset-624,10.1016/j.comcom.2019.11.022,"{'id': 'jour.1045779', 'title': 'Computer Communications'}",NEXRAD,"Detection of flood disaster system based on IoT, big data and convolutional deep neural network"
+dataset-624,10.1007/978-3-030-30465-2_47,,NEXRAD,Simulation of Dual Polarization Radar for Rainfall Parameter and Drop Size Distribution Estimation
+dataset-624,10.1007/978-3-030-30465-2,,NEXRAD,"Intelligent Computing, Information and Control Systems, ICICCS 2019"
+dataset-624,10.1007/978-981-15-2184-3_162,,NEXRAD,Early Warning Systems for Flash Floods and Debris Flows in Vietnam: A Review
+dataset-624,10.1007/978-981-13-6504-1_99,,NEXRAD,The Impact of Rotary Joint on Deviations of Amplitude and Phase and Its Calibration for Dual-Polarization Weather Radar
+dataset-624,10.1016/b978-0-12-815826-5.00016-7,,NEXRAD,Chapter 16 Precipitation
+dataset-624,10.1007/978-3-030-11084-0,,NEXRAD,"Anthropogenic Aquifer Recharge, WSP Methods in Water Resources Evaluation Series No. 5"
+dataset-624,10.1007/978-3-030-26432-1,,NEXRAD,"Resilience of Large Water Management Infrastructure, Solutions from Modern Atmospheric Science"
+dataset-624,10.1007/978-981-15-2184-3,,NEXRAD,Geotechnics for Sustainable Infrastructure Development
+dataset-624,10.1007/978-981-13-6504-1,,NEXRAD,"Communications, Signal Processing, and Systems, Proceedings of the 2018 CSPS Volume II: Signal Processing"
+dataset-624,10.1007/978-3-030-30632-8,,NEXRAD,"Global Aeronautical Distress and Safety Systems (GADSS), Theory and Applications"
+dataset-624,10.1007/s13143-019-00166-1,"{'id': 'jour.1136296', 'title': 'Asia-Pacific Journal of Atmospheric Sciences'}",NEXRAD,"Assessment of Real Time, Multi-Satellite Precipitation Products under Diverse Climatic and Topographic Conditions"
+dataset-624,10.1175/jtech-d-19-0107.1,"{'id': 'jour.1137215', 'title': 'Journal of Atmospheric and Oceanic Technology'}",NEXRAD,Dual-polarization radar retrievals of coastal Pacific Northwest rain drop size distribution parameters using random forest regression Dual-polarization radar retrievals of coastal Pacific Northwest rain drop size distribution parameters using random forest regression
+dataset-624,10.1175/waf-d-19-0166.1,"{'id': 'jour.1137684', 'title': 'Weather and Forecasting'}",NEXRAD,Nonclassic Evolution of a Cold-Frontal System across the Western United States during the Intermountain Precipitation Experiment (IPEX) Nonclassic Evolution of a Cold-Frontal System across the Western United States during the Intermountain Precipitation Experiment (IPEX)
