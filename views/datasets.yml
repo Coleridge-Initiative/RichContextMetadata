@@ -15,22 +15,22 @@ datasets:
   - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-049"
   - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-055"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-059"
-  label: Food Environment Data System
+  label: "Food Environment Data System"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-314"
-  label: Seattle Obesity Study
+  label: "Seattle Obesity Study"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-017"
-  label: National Health and Nutrition Examination Survey
+  label: "National Health and Nutrition Examination Survey"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-312"
-  label: National Health Expenditure Database
+  label: "National Health Expenditure Database"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-036"
-  label: Food Availability Data System - Loss-adjusted food availability
+  label: "Food Availability Data System - Loss-adjusted food availability"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-300"
-  label: Nielsen’s Retail Measurement Services
+  label: "Nielsen’s Retail Measurement Services"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-039"
-  label: Operational and Administrative System for Import Support
+  label: "Operational and Administrative System for Import Support"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-046"
-  label: American Community Survey
+  label: "American Community Survey"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-049"
-  label: Food Security Survey Module
+  label: "Food Security Survey Module"
 - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-055"
-  label: Quarterly Food-Away-From-Home Prices
+  label: "Quarterly Food-Away-From-Home Prices"
