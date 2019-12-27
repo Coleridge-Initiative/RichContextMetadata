@@ -1,0 +1,24 @@
+libraryDependencies += "org.allenai" %% "science-parse" % "3.0.0";
+
+java -Xmx10g -jar "/Users/sophierand/RichContextMetadata/RCpdf_scraping/sp.jar"
+
+java -Xmx10g -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar
+
+java -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar --help
+
+
+java -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar -o /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar /Users/sophierand/RichContextMetadata/RCpdf_scraping/output/ /Users/sophierand/RichContextMetadata/RCpdf_scraping/resources/pubs/pdf/c0dd348c36f849716f71.pdf 
+
+
+java -Xmx6g -jar tools/science-parse-cli-assembly-2.0.2-SNAPSHOT.jar -o ../data/input/files/json/ ../data/input/files/pdf/
+
+
+java -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar -f test.json /Users/sophierand/RichContextMetadata/RCpdf_scraping/resources/pubs/pdf/c0dd348c36f849716f71.pdf
+
+
+java -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar -o /Users/sophierand/RichContextMetadata/RCpdf_scraping/ /Users/sophierand/RichContextMetadata/RCpdf_scraping/resources/pubs/pdf/c0dd348c36f849716f71.pdf
+
+
+
+java -jar /Users/sophierand/science-parse/cli/target/scala-2.12/science-parse-cli-assembly-3.0.1.jar -o /Users/sophierand/rclc/resources/pubs/json /Users/sophierand/rclc/resources/pubs/pdf 
+

@@ -1,0 +1,423 @@
+{
+  "name" : "2a785e5d7c2e004e286e.pdf",
+  "metadata" : {
+    "source" : "META",
+    "title" : "FEAST: Empowering Community Residents to Use Technology to Assess and Advocate for Healthy Food Environments",
+    "authors" : [ "Jylana L. Sheats", "Sandra J. Winter", "Priscilla Padilla Romero", "Abby C. King" ],
+    "emails" : [ "jsheats@tulane.edu" ],
+    "sections" : [ {
+      "heading" : null,
+      "text" : "County, CA, were recruited to use the Discovery Tool to examine factors that facilitated or hindered their access to food as well as their food-related behaviors. Participants collectively reviewed data retrieved from the Discovery Tool and identified and prioritized important, yet feasible, issues to address. Access to affordable healthy food and transportation were identified as the major barriers to eating healthfully and navigating their neighborhood food environments. Subsequently, participants were trained in advocacy skills and shared their findings with relevant decision and policymakers, who in turn dispelled myths and discussed and shared resources to address relevant community needs. Proximal and distal effects of the community-engaged process at 3, 6, 12, and 24 months were documented and revealed individual-, community-, and policy-level impacts. Finally, FEAST contributes to the evidence on multi-level challenges that low-income, racially/ethnically diverse older adults experience when accessing, choosing and buying healthy foods.\nKeywords Food environment . Food access . Community-based participatory research .Mobile health . Urban health .Minority health . Advocacy. Food security . Aging"
+    }, {
+      "heading" : "Introduction",
+      "text" : "It has been well established that the consumption of nutrient-dense foods (e.g., vegetables and fruit, lean meats, whole grains, low-fat dairy) and beverages, as\nJ. L. Sheats (*) Department of Global Community Health and Behavioral Science, Tulane University School of Public Health & Tropical Medicine, 1440 Canal Street, Ste 2200, New Orleans, LA 70112, USA e-mail: jsheats@tulane.edu\nJ. L. Sheats : S. J. Winter :A. C. King Healthy Aging Research and Technology Solutions (HARTS) Lab, Stanford Prevention Research Center, Stanford University School of Medicine, 1070 Arastradero Road, Ste 100, Palo Alto, CA, USA\nP. P. Romero San Mateo Medical Center, 222 W. 39th Avenue, San Mateo, CA 94403, USA\nwell as lower intakes of saturated and trans fats, added sugars, sodium, and alcohol are key elements that impact health and well-being throughout the lifespan [1, 2]. Food choice is particularly important for the prevention of disease and disability among older adults given that with increased age comes the increased likelihood of chronic health conditions (e.g., heart disease and diabetes) [2–10]. Older adults are faced with a number of challenges that have the potential to impact their food-related behaviors [11]. Most older adults live independently, procure food, and prepare meals on their own [12]. Yet, they tend to have inadequate diets— particularly those who are also low-income [13, 14]. For example, although national, state, and local programs and strategies provide access to food and nutrition services, one study found that among urban adults aged 50 years and older, food insecurity was two to three times higher than the general population [15]. In recent years, researchers have begun to investigate associations between an individual and his/her food environment, which has been found to be both multifaceted and interdependent [16–18]. Interest in the food environment, which is the Bdistribution of food stores, food services, and any physical entity by which food may be obtained^ [18], in particular, has led to a growing body of research where factors within the food environment have been associated with poor diet [18, 19]. Yet, most US-based studies examining the relationship between individual health behaviors, health outcomes, and the food environment generally do not focus on older adults [20]. To facilitate the consumption of healthy foods among older adults there is a need to better understand determinants of food-related behaviors within the context of their environment. For example, structured face-to-face interviews with a sample of older adults revealed that healthiness, taste, price, and travel time influenced decisions around food choice [14]. Other research using traditional quantitative and qualitative methods (survey, focus groups, etc.) found that label, text size, bulk packaging, shopping equipment, internal store characteristics, personal characteristics, accessibility, and other factors present issues for this population when shopping for food [13, 20–24]. In light of the rapid expansion of aging populations, there is an urgent need to better understand how older adults navigate their food environment and factors that influence their ability to access, choose, and buy healthy foods. [2].\nThe Food Environment Assessment STudy (FEAST) is part of the Our Voice initiative [25], which utilizes a\ncombination of technology- and community-based methods that are implemented by community residents. Specifically, residents collect data about aspects of their physical and social environments and synthesize and discuss the data to use their findings to advocate for changes that support healthy communities [25]. To date, this process has been used by researchers who are part of the Our Voice Citizen Science for Health Equity Global Network to assess physical activity environments in urban and rural under-resourced communities in the US, Mexico, Colombia, Israel, and Chile [25–30].\nThe impending Bgraying of America^ combinedwith the fact that food is a basic human need warrants investigation into individual, social, and environmental factors that impact how older adults navigate their food environments. Among a sample of low-income, racially/ ethnically diverse older adults, the goal of FEAST was to adapt and test the multi-level, multi-sectoral, technology- and community-driven Our Voice approach to:\n– identify factors that influence older adults’ ability to access, choose, and buy healthy food; – document older adults’ experiences while navigating their food environment; and – facilitate a consensus and advocacy-building process to identify, prioritize, and communicate the most salient concerns of residents related to choosing and buying food."
+    }, {
+      "heading" : "Methods",
+      "text" : "The term Bcitizen scientists^ is referenced throughout and can be defined as non-researchers who are trained in research processes that are typically carried out by trained researchers. In keeping with previous research conducted bymembers of the Our Voice Citizen Science for Health Equity Global Network [25–30], study participants will be referred to as Bcitizen scientists^ throughout the paper. The FEAST Study was approved by the Stanford University School of Medicine Institutional Review Board.\nSetting\nFEAST took place from 2013 to 2014 in South San Francisco, Daly City, and San Bruno, California—three\nneighboring urban cities in North San Mateo County, California. Relative to San Mateo County as a whole, the study area is more racially and ethnically diverse, more residents have been diagnosed with diabetes and heart disease, and on average, residents die at an earlier age [31].\nRecruitment and Eligibility\nOlder adults were recruited to participate through announcements (verbal, flyers) at older adult service agencies located in North San Mateo County, including senior affordable housing sites, community centers, and aging-focused coalition meetings. Inclusion criteria were being an aged 60 years or older; a resident of Daly City, San Bruno, or South San Francisco; having the ability to move about unaided or by using an assistive device (e.g., wheelchair, walker); and willing to have researchers go with them on a Btag-a-long^ shopping trip to food stores that they visit most often (i.e., their primary food store). Interested and eligible individuals were screened and consented to participate. All project materials were available in English and Spanish.\nThe Healthy Neighborhood Discovery Tool and the Our Voice Approach\nThe Healthy Neighborhood Discovery Tool (Discovery Tool) is an electronic, tablet-based mobile application (app) that enables individuals to identify and capture environmental barriers to and facilitators of healthy living. Created using an iterative design process [25, 32], the app can be used by individuals of all ages, is simple, has large buttons and limited text, and has a built-in GPS that enables the automatic mapping of walking routes and geocoding of photos and audio recordings. To maximize the utility and potential impact of the app in creating healthy, equitable communities, the resident-driven Our Voice community-engaged, participatory approach was developed [25]. This approach begins with a community resident taking a Btypical^ walk through their neighborhood with the Discovery Tool. They are then guided by the in-app just-in-time audio tutorials and reminder prompts to take photos and record audio narratives about features of their environment that positively or negatively impact their ability to live healthily. Data collected during the walk are then discussed and prioritized at a community meeting with other local citizen scientists, who also learn how to communicate and advocate for change with local decision makers. At a subsequent meeting, data are\nshared by the citizen scientists with local decision and policy makers and the community-at-large to ignite change. A full description of the Discovery Tool and theOur Voice process is published elsewhere [25, 26, 28].\nApplication of the Our Voice Approach to Food Environments: FEAST Procedures and Measures\nThe research team met with existing community partners and collaborators (i.e., from senior housing sites, relevant coalitions and organizations, food banks, and the city and county government) as well as newly developed partnerships with representatives from city-run community centers, umbrella organizations, and the local health system. Representatives from this diverse network provided insights into the food-related needs of older adults residing in the geographic area of North San Mateo County, helped promote recruitment efforts (if appropriate), and were informed of study progress through each phase of the study. Building and nurturing these relationships helped facilitate the ease in which the Our Voice approach could be implemented. In FEAST, a Btag-a-long^ shopping trip for food with each citizen scientist was the mechanism though which the food environments of the older adults were explored. Researchers met consented citizen scientists at their homes (or other convenient location, such as a community or senior center) and briefly trained each citizen scientist to use the Discovery Tool (up to 10 minutes in duration). Due to liability issues, researchers only traveled to the primary food store with citizen scientists if they traveled there on-foot or used public transportation. Otherwise, their mode of travel was documented and they traveled separately. Participants were instructed not to use the Discovery Tool while in transit. At the food store, citizen scientists were advised to take photos and record narratives of environmental features that impacted their ability to choose and buy healthful foods. In-app reminder prompts to take photos and record audio narratives helped ensure that citizen scientists remained on task. Notes were taken by the researcher during the shopping trip to provide further context. After each shopping trip, a 20–30-minute researcher-administered survey was conducted at the original meeting location. Each citizen scientist received a $20 gift card Bthank you^ for participating in the tag-a-long food store visit and was invited to attend community meetings to review, discuss, prioritize, and share their data.\nThe first community meeting was held at a local community center and was attended by FEAST citizen scientists and researchers only. Members of the research team presented a bilingual summary of current FEAST activities along with aggregate citizen science data from their walks with the Discovery Tool. To help facilitate discussion, citizen scientists were trained in advocacy skills using the Community Advocacy Handbook developed by the research team [25]. Representative photos and bilingual transcripts of the audio narratives were organized by theme by research teammembers and displayed around the room as well. (Note that while the research team conducted the initial organization and categorization of the photo and aural data to prepare for discussion, citizen scientists had the opportunity to modify, add to, or remove thematic categories). Subsequently, citizen scientists worked together to discuss and prioritize issues related to choosing and buying healthy foods in North San Mateo County. During the final portion of the meeting, citizen scientists brainstormed about relevant stakeholders as well as local decision and policy makers who could help address the identified issues. They selected spokespersons among their group to receive training in presentation skills by the research team; and subsequently present the identified issues at a second community meeting with key stakeholders and local decision and policy makers.\nThe study survey included closed- and open-ended items informed by the relevant literature, previous research conducted by the research team in San Mateo County [26], and items from other validated surveys. For the current analysis, survey items developed by the research team included questions about basic demographics (i.e., age, race/ethnicity, use of an assistive device, employment, household size); food security (i.e., use of federal, state, and local food assistance programs); and food shopping habits and preferences (e.g., shopping frequency, number of different food stores visited per month, method of travel, food store location, type, and use of coupons. The remaining items (i.e., validated) included perceived health status from theNational Health Interview Survey [33] and food security items drawn from the USDA (United States Department of Agriculture) Food Security Supplement [34, 35]. Drafts of the survey items were reviewed by county-level community health planners, a health educator, representatives from the county transportation district, and relevant organizations and older adult-serving entities to ensure that items of interest to local decision and policy makers were included. The\nsurvey was pilot tested with members of the target population and revised as needed. Finally, previous Our Voice research resulted in unanticipated medium and longerterm impacts on both citizen scientists and their local environments [36]. To identify any subsequent impacts beyond the study period, the research team contacted citizen scientists who attended at least one community meeting 3 months post FEAST. They were asked BIn the last three months have you: 1) shared food and transportation resources that you obtained while participating in FEAST with friends, family members, or neighbors? 2) contacted a local decision or policy maker about food or transportation-related resources or issues; and/or 3) signed up for a service to help you obtain food such as CalFresh (i.e., California’s Supplemental Nutrition Assistance Program (SNAP)) or shuttle services for seniors.^\nData Analysis\nDescriptive statistics (frequencies, means, proportions) were calculated to assess the study survey. To assess citizen scientists’ photos and audio recordings, data were translated and transcribed into English. A content analysis of identified barriers, facilitators, and potential solutions was conducted using both inductive and deductive analytical coding strategies [37, 38]. The research team met six times for an average of 3 hours per session to conduct the content analysis. Photos and audio recordings were each coded as a Bbarrier^ or Bfacilitator^ based on language extracted from the citizen scientists’ descriptions in their audio narrative, along with observation notes taken by the researcher. The barriers and facilitators for photos and audio recordings, respectively, were categorized further into broader thematic categories. Recommended procedures were used as a guide to ensure analytical rigor of the content analysis [39]. The number of attendees (including citizen scientists, organizations, local decision and policy makers) at each community meeting was also tracked."
+    }, {
+      "heading" : "Results",
+      "text" : "Demographics, Health Status, Employment, Food Security, and Food Shopping Habits and Preferences\nThe study sample (N = 23, male 30%, female = 70%) was racially and ethnically diverse (Hispanic/\nLatino = 39%, Asian = 26%, White = 13%, Black = 9%, Hawaiian/Pacific Islander = 9%, Native American/ Alaskan Native = 4%), which is representative of the communities from which they resided (Daly City, n = 12; South San Francisco, n = 9, San Bruno, n = 2). FEAST citizen scientists were aged between 61 and 92 years (M = 70.8, SD = 7.7), with most (91%) being retired or unemployed. Their average household size was 2.6 persons (SD = 2.6). Nearly two-thirds (61%) perceived their health status to be Bgood^ or Bvery good.^ An assistive device, such as a cane or walker, was used by 17% of citizen scientists. In relation to food security, data obtained from the USDA Food Security Supplement survey revealed that for more than half (52%), it was often or sometimes true that Bin the last 30 days the food that (I/we) bought just did not last, and (I/we) did not have money to get more.^ Data also revealed that for 52%, it was often or sometimes true that Bin the last 30 days the food that (I/we) could not afford to eat balanced meals.^ Only 26% reported that they received federal food assistance through SNAP.\nFor most citizen scientist (94%), there was a supermarket or grocery store (e.g., national chain) located in their neighborhood. On the day of their FEASTshopping trip, 44% visited supermarkets or grocery stores (e.g., national chain), 43% visited ethnic stores (i.e., Mexican, Asian), and the remaining 13% visited general stores (e.g., drug store). When shopping for groceries, the most important features reported by citizen scientists were quality of food items (96%), cost (91%), pricing and promotions (65%), variety (14%), offering foods for special diets (39%), and offering pre-prepared items (30%). Three quarters (74%) of the study sample used coupons or looked for sales when shopping for groceries.\nIn terms of accessing food, approximately 43% reported that they usually traveled outside of their neighborhood to shop for groceries, and 87% indicated that they usually visit up to four different stores (M = 2.6, SD= 0.090) per month to buy food. Sample statements from the openended survey items about why they visited multiple stores each month included BBecause I need to compare prices,^ BThere are cheaper prices at stores outside of my neighborhood,^ and BThere are lower prices at stores with foods frommy country.^ Travel by car (n = 10,Mmiles = 2.73, SD = 4.21) and on-foot (n = 10, M miles = 0.73, SD =0 .66) were the most frequently mentioned methods of travel to food stores. Public transit users (i.e., bus) (n = 3) traveled the furthest with an average of 6 miles (SD= 4.27) per one-way trip. Sample responses to the open-\nended survey question BWhat is one thing that you would change to make it easier to obtain food?^ related to both food and transportation and included BA shuttle to pickme up and take me back,^ BI’d like to make sure that the food/ produce is of good quality, good price, and isn’t expired…,^ BMake it affordable for older adults,^ BHave closer grocery stores aside from one market close by,^ BI can only buy the amount of groceries that I can fit in my backpack,^ and BShuttles don’t want to take you to the grocery store.^\nPhotos and Audio Narratives\nThe content analysis of photos captured by FEAST citizen scientists (N = 252) revealed that the top three categories of facilitators that made it easier for them to access, choose, and buy healthful foods were the lower pricing of items, access and availability of healthy food in the store, and freshness and quality of produce. In contrast, the top three categories of barriers that made it harder for them to caccess, choose, and buy healthful food were the price promotions for unhealthy food, the presence of unhealthy food, and the price of items not being displayed within view or at all. The content analysis of audio narratives (N = 356) recorded by FEAST citizen scientists revealed that the top facilitators that made it easier for them to access, choose, and buy healthful foods were the lower pricing of items, access and availability of healthy food in the store, and quality of food. In contrast, barriers that made it harder for them to access, choose, and buy healthful food were higher prices, having to visit multiple stores for cheaper prices, and personal health (e.g., poor vision, mobility, ailments). Exemplary quotes of the audio narratives recorded by citizen scientists are displayed in Table 1.\nCommunity Meetings\nNearly half (48%, n = 11) of the citizen scientists who participated in the tag-a-long food shopping trips attended the FEAST community meeting. Over the course of 3 hours, citizen scientists across the three cities (Daly City, San Bruno, and South San Francisco) viewed their collective photos and accompanying quotes around the room highlighting barriers and facilitators to their choosing and buying healthy food. During the group discussion, they agreed with the researchers’ categorization of photos and audio narratives into themes and made no modifications. After much discussion, there was\nconsensus to focus on the availability of affordable healthy food and transportation to food stores.\nAt the second community meeting, FEAST citizen scientist leaders described their food shopping trip, the first community meeting, and each of the priority issues that they decided to focus on. In addition to the citizen scientists and members of the community, representatives from the San Mateo County Board of Supervisors, San Mateo County Health System, Second Harvest Food Bank of Santa Clara and San Mateo Counties, the United Way of the Bay Area, San Mateo Transportation District, SanMateoMobility Ambassadors, Daly City Partnership, Get Up and Go Transportation Service, and local community and senior centers were present (N = 28) at the 2- hour meeting. Due to the diversity of attendees, the meeting was conducted simultaneously in three languages (English, Spanish, and Cantonese) using one translator from the research team and one staff member from one of the partnering senior centers. It was revealed that there was a lack of awareness about food assistance and transportation services available to older adult residents of North San Mateo County—especially programs with age and income requirements. Each representative spoke about how their organization could improve access to affordable healthy food and transportation to food stores. The network of local decision and policy makers in\nattendance dispelled myths about available services by providing correct and appropriate information regarding food programs (e.g., bi-weekly food distribution programs, mobile vegetable markets, local food pantries and congregate meal programs, SNAP eligibility, existing and planned bus routes, shuttle services, help lines that provide information about food, shelter, financial assistance, and other forms of community assistance). These local decision makers and policy makers and organizations also shared resources that were available in multiple languages along with contact information (name, email address, and phone numbers) for individuals who could address attendees’ specific concerns. At the close of the meeting, all attendees were provided with a copy of the North San Mateo County Senior Community Food Resource Guide developed by the research team. The comprehensive reference document was also made available to the San Mateo County Health System to post on their website.\nShort-Term Individual Level Effects at 3 Months Post FEAST\nOf the citizen scientists who attended the first community meeting (N = 11), 84% shared information and resources obtained through FEAST with family, friends, or neighbors, contacted a local decision or\npolicy maker, and/or signed up for a new service (e.g., SNAP, shuttle service).\nUnanticipated Medium-Term Social-Environmental Level Effects at 6, 12, and 24 Months Post FEAST\nAt 6 months post FEAST, a subgroup of citizen scientists (n = 2) residing in an American Baptist Homes of the West (ABHOW)/Beacon Communities affordable housing site contacted the research team and reported that they shared their FEAST experience with neighbors. With the support of their housing site’s Services Coordinator, they requested additional advocacy training from the research team and organized a group of seniors from the housing siteto participate. The research team agreed and provided four sessions on advocating for healthy communities, forming a community advocacy team, the policy process, and communicating with public and policymakers. With further support from the housing site’s Service Coordinator, a senior advocacy team (SAT) was formed. The SAT met regularly to discuss issues relevant to the needs of seniors in the housing site. An important early success of the SAT concerned hosting an open forum where they invited city and county policymakers from San Mateo County (N = 5). The SAT and their neighbors presented concerns to these policy makers. This meeting resulted in tangible environmental changes; for example, within 4 days of the meeting, safety changes were made to street signage and a curb was painted red to prevent cars from parking there, making it easier for the seniors to view traffic and cross the street. An article about the SAT’s participation in FEAST and their successful efforts to improve the safety of residents was written about and disseminated in the ABHOW/Beacon Communities newsletter.\nUnanticipated Long-Term Built Environment and Policy Level Effects\nGiven the unanticipated effects at 6 months post FEAST, the research team decided to follow-up with the SAT at 12 and 24 months. At 12 months, the SAT reported attending the State Capital’s Fifth Annual Affordable Senior Housing Resident Advocacy Day in Sacramento, CA. The SAT representatives met with legislators to advocate for increased funding for affordable senior housing. At 24-months follow-up, the SAT attended the annual Affordable Senior Housing\nResident Advocacy Day at the state capital again. They also partnered with an elementary school located next door to the housing site to address pedestrian and bicycle safety concerns due to the dangerous speeds of drivers on their street. After a meeting with the city’s Transportation and Planning Department, the latter department installed a device to measure traffic and speed on the street of concern. This resulted in the installation of pedestrian flashing light signals and modifications to an existing crosswalk. The SAT members remain empowered and are seeking additional members and advocacy trainings to support their continued efforts to positively impact their community."
+    }, {
+      "heading" : "Discussion",
+      "text" : "While previous research has identified similar findings in relation to challenges older adults experience in navigating their food environment [20], FEAST demonstrates both the feasibility of using a technology-driven and community-engaged approach to support and advocate for healthy communities—as well as the sustainability of such an approach in the longer term. With the Healthy Neighborhood Discovery Tool, citizen scientists captured photos and recorded audio narratives of barriers and facilitators to accessing and buying healthy foods. They reviewed the data and were trained in advocacy skills to assist them in discussing and prioritizing the most important and relevant issues in their community. Citizen scientists engaged in a dialogue with key stakeholders, local decision and policy makers, which resulted in information sharing and actions being taken to address barriers to accessing affordable healthy food and transportation to food stores by those residing in the community (i.e., citizen scientists, the Senior Advocacy Team) and local decision and policy makers.\nMultiple factors contributed to the initial success of FEAST, including building and nurturing relationships with community and organizational partners that facilitated recruitment and implementation efforts; ensuring that all study materials and meetings were in multiple languages; and ensuring that the Discovery Tool was easy to use for all residents and readily adaptable for use in food environments. Factors contributing to the reported unanticipated, longer-term successes of FEAST also included building and nurturing relationships with\ncommunity and organizational partners, as well as engagement with SATmembers and housing site staff (i.e., Services Coordinator) through the additional advocacy trainings. Success can also be attributed to engagement with local decision and policy makers before, during, and after the project commenced. This resulted in the ability to make additional contributions above and beyond the initial project scope and timeframe.\nFEAST also demonstrated the necessity of identifying and working with a community champion. For example, the research team had champions (e.g., community center staff, housing site staff, representatives from organizations as well as the city and county, etc.) in South San Francisco and Daly City who were involved in each phase of the project. They were kept informed of project timelines, challenges, opportunities, and outcomes. This was reflected in the number of participants that were recruited from these cities (n = 21), relative to the few participants recruited in San Bruno (n = 2) where no champion was identified. The longerterm results provide evidence of the Bspillover effect^ in which citizen scientists who originally focused on access to healthy food, partnered with other groups in the neighborhood to address pedestrian safety, which also has implications for those who utilize public transportation and walk on-foot to food stores. Threats to long-term sustainability include inadequate funding for follow-up, turnover of non-profit staff, death or disability of older adult residents, the transitory nature of research endeavors (e.g., funding runs out and researchers move on), and the length of time that it takes to enact change at the policy level. This work requires the continued commitment on the part of the residents, researchers, local decision or policy makers, and funders.\nStrengths and Limitations\nStrengths of the project include using diverse quantitative-, qualitative-, and technology-based methods to obtain a deeper understanding of factors that influence how and in what ways older adults navigate their local food environments. Limitations to this first-generation, hypothesis-generating research include a small number of participants—with one community that was underrepresented (i.e., San Bruno represented less than 10% of the study sample). So while the findings may not be generalizable to all\nof North San Mateo County, previous studies evaluating the Our Voice approach in the US and abroad (e.g., Mexico, Israel) have found a Bsaturation^ of ideas with 8–10 residents participating from a specific locale [24–28]."
+    }, {
+      "heading" : "Conclusions",
+      "text" : "FEAST demonstrated that the Our Voice approach is a feasible, acceptable, sustainable, and potentially lowcost solution for engaging community residents and local decision and policy makers. The findings contribute to the literature regarding the individual, social, and environmental barriers that low-income, racially and ethnically diverse older adults experience when trying to access, choose, and buy healthy foods. Multi-sector and multi-level solutions are needed to address these challenges.\nAcknowledgements We greatly acknowledge and thank the FEAST citizen scientists, as well as the assistance and support of the following individuals and organizations in FEAST activities: Marigold Vu, Leah Mamaril, Martell Hesketh, Nkeiruka Umeh, AngelaWaters, Angelo Ignacio, Beverly Karnatz, Linda Coleman, Doris Estremera, Jennifer Gross, Jasneet Sharma, Cristina Ugaitafa, Arlene Aquino, Susan Takalo, Pat Bohm, as well as San Mateo County Board of Supervisors, San Mateo County Health System, Second Harvest Food Bank of Santa Clara and San Mateo Counties, the United Way of the Bay Area, San Mateo Transportation District, San Mateo Mobility Ambassadors, Daly City Partnership, Get Up and Go Transportation Service, and local community and senior centers in North San Mateo County, California."
+    }, {
+      "heading" : "Compliance with Ethical Standards",
+      "text" : "Funding FEAST was supported in part by the National Center for Research Resources and the National Center for Advancing Translational Sciences, National Institutes of Health (NIH) (UL1RR025774) through two Clinical Translational Science Seed Grants awarded through the Stanford Office of Community Health (King, and Winter), and Get Healthy San Mateo County Implementation Funding (King and Sheats). Sheats was funded in part by the US Public Health Service Grant 5T32HL007034 from the National Heart, Blood, and Lung Institute and by Award K12HD043451 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development’s Building Interdisciplinary Research Careers in Women’s Health (BIRCWH) Scholar Program (Krousel-Wood-PI). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. Dr. Winter was funded in part by the US Public Health Service Grant 5T32HL007034 from the National Heart, Blood, and Lung Institute for this research. As the Director of the Wellness Living Laboratory (WELL) at Stanford\nSchool of Medicine she was also funded through an unrestricted gift for WELL from Amway to Stanford University from the Nutrilite Health Institute Wellness Fund."
+    } ],
+    "references" : [ {
+      "title" : "An aging nation: the older population in the United States",
+      "author" : [ "JM Ortman", "VA Velkoff", "H. Hogan" ],
+      "venue" : "US Census Bureau",
+      "citeRegEx" : "1",
+      "shortCiteRegEx" : "1",
+      "year" : 2014
+    }, {
+      "title" : "Nutrition interventions for aging populations",
+      "author" : [ "JL Sheats", "SJ Winter", "AC. King" ],
+      "venue" : "Handbook of clinical nutrition and aging. 3rd ed. NewYork,",
+      "citeRegEx" : "2",
+      "shortCiteRegEx" : "2",
+      "year" : 2015
+    }, {
+      "title" : "Position of the academy of nutrition and dietetics: total diet approach to healthy eating",
+      "author" : [ "JH Freeland-Graves", "S. Nitzke" ],
+      "venue" : "J Acad Nutr Diet",
+      "citeRegEx" : "3",
+      "shortCiteRegEx" : "3",
+      "year" : 2013
+    }, {
+      "title" : "Social influences and eating behavior in later life: a review",
+      "author" : [ "Vesnaver E", "Keller HH" ],
+      "venue" : "J Nutr Gerontol Geriat",
+      "citeRegEx" : "5",
+      "shortCiteRegEx" : "5",
+      "year" : 2011
+    }, {
+      "title" : "Baseline determinants of global diet quality in older men andwomen from the NuAge cohort",
+      "author" : [ "B Shatenstein", "L Gauvin", "H Keller" ],
+      "venue" : "J Nutr Health Aging",
+      "citeRegEx" : "6",
+      "shortCiteRegEx" : "6",
+      "year" : 2013
+    }, {
+      "title" : "Factors influencing eating a varied diet in old age",
+      "author" : [ "M Dean", "MM Raats", "KG Grunert", "M. Lumbers" ],
+      "venue" : "Public Health Nutr",
+      "citeRegEx" : "7",
+      "shortCiteRegEx" : "7",
+      "year" : 2009
+    }, {
+      "title" : "Nutrition and health-related quality of life in frail older adults",
+      "author" : [ "Keller HH" ],
+      "venue" : "J Nutr Health Aging",
+      "citeRegEx" : "8",
+      "shortCiteRegEx" : "8",
+      "year" : 2003
+    }, {
+      "title" : "Prevention of weight loss in dementia with comprehensive nutritional treatment",
+      "author" : [ "HH Keller", "AJ Gibbs", "LD Boudreau" ],
+      "venue" : "J Am Geriat Soc",
+      "citeRegEx" : "9",
+      "shortCiteRegEx" : "9",
+      "year" : 2003
+    }, {
+      "title" : "Chronic care: making the case for ongoing care",
+      "author" : [ "Anderson GF" ],
+      "venue" : "Robert Wood Johnson Foundation",
+      "citeRegEx" : "10",
+      "shortCiteRegEx" : "10",
+      "year" : 2010
+    }, {
+      "title" : "Factors influencing food choice for independently living older people—a systematic literature review",
+      "author" : [ "A Host", "AT McMahon", "K Walton", "K. Charlton" ],
+      "venue" : "J Nutr Gerontol Geriat",
+      "citeRegEx" : "11",
+      "shortCiteRegEx" : "11",
+      "year" : 2016
+    }, {
+      "title" : "The utilization of local food environments by urban seniors",
+      "author" : [ "K Morland", "S. Filomena" ],
+      "venue" : "Prev Med",
+      "citeRegEx" : "12",
+      "shortCiteRegEx" : "12",
+      "year" : 2008
+    }, {
+      "title" : "Position of the academy of nutrition and dietetics: food and nutrition for older adults: Promoting health andwellness",
+      "author" : [ "M Bernstein", "N. Munoz" ],
+      "venue" : "J AcadNutrDiet",
+      "citeRegEx" : "13",
+      "shortCiteRegEx" : "13",
+      "year" : 2012
+    }, {
+      "title" : "Factors affecting food choices of older adults from high and low socioeconomic groups: a discrete choice experiment",
+      "author" : [ "CB Kamphuis", "EW de Bekker-Grob", "FJ. van Lenthe" ],
+      "venue" : "Am J Clin Nutr",
+      "citeRegEx" : "14",
+      "shortCiteRegEx" : "14",
+      "year" : 2015
+    }, {
+      "title" : "Food insecurity among older adults: A report submitted to AARP Foundation. AARP",
+      "author" : [ "JP Ziliak", "C. Gundersen" ],
+      "venue" : null,
+      "citeRegEx" : "15",
+      "shortCiteRegEx" : "15",
+      "year" : 2011
+    }, {
+      "title" : "The importance of a multi-dimensional approach for studying the links between food access and consumption",
+      "author" : [ "RoseD", "Bodor JN", "Hutchinson PL", "SwalmCM" ],
+      "venue" : "J Nutr",
+      "citeRegEx" : "16",
+      "shortCiteRegEx" : "16",
+      "year" : 2010
+    }, {
+      "title" : "Perceived environmental determinants of physical activity and fruit and vegetable consumption among high and low socioeconomic groups in the Netherlands",
+      "author" : [ "CB Kamphuis", "FJ van Lenthe", "K Giskes", "J Brug", "JP. Mackenbach" ],
+      "venue" : "Health Place",
+      "citeRegEx" : "17",
+      "shortCiteRegEx" : "17",
+      "year" : 2007
+    }, {
+      "title" : "The social dynamics of healthy food shopping and store choice in an urban environment",
+      "author" : [ "CC Cannuscio", "A Hillier", "A Karpyn", "K. Glanz" ],
+      "venue" : "Soc Sci Med",
+      "citeRegEx" : "18",
+      "shortCiteRegEx" : "18",
+      "year" : 2014
+    }, {
+      "title" : "Navigating the urban food environment: challenges and resilience of community-dwelling older adults",
+      "author" : [ "CE Munoz-Plaza", "KB Morland", "JA Pierre" ],
+      "venue" : "J Nutr Educ Behav",
+      "citeRegEx" : "20",
+      "shortCiteRegEx" : "20",
+      "year" : 2013
+    }, {
+      "title" : "Navigating the urban food environment: challenges and resilience of community-dwelling older adults",
+      "author" : [ "CE Munoz-Plaza", "KB Morland", "JA Pierre", "A Spark", "SE Filomena", "P. Noyes" ],
+      "venue" : "J Nutr Educ Behav",
+      "citeRegEx" : "21",
+      "shortCiteRegEx" : "21",
+      "year" : 2013
+    }, {
+      "title" : "The food shopping experience of older consumers in Scotland: critical incidents",
+      "author" : [ "C Hare", "D Kirk", "T. Lang" ],
+      "venue" : "Int J Retail Distrib Manag",
+      "citeRegEx" : "22",
+      "shortCiteRegEx" : "22",
+      "year" : 2001
+    }, {
+      "title" : "Age and disability affect dietary intake",
+      "author" : [ "B Bartali", "S Salvini", "A Turrini" ],
+      "venue" : "J Nutr",
+      "citeRegEx" : "23",
+      "shortCiteRegEx" : "23",
+      "year" : 2003
+    }, {
+      "title" : "The food-shopping experience: a satisfaction survey of older Scottish consumers",
+      "author" : [ "C. Hare" ],
+      "venue" : "Int J Retail Distrib Manag",
+      "citeRegEx" : "24",
+      "shortCiteRegEx" : "24",
+      "year" : 2003
+    }, {
+      "title" : "Leveraging citizen science and information technology for population physical activity promotion",
+      "author" : [ "AC King", "SJ Winter", "JL Sheats" ],
+      "venue" : "Transl J Am Coll Sports Med",
+      "citeRegEx" : "25",
+      "shortCiteRegEx" : "25",
+      "year" : 2016
+    }, {
+      "title" : "The Stanford healthy neighborhood discovery tool",
+      "author" : [ "BumanMP", "SJ Winter", "JL Sheats" ],
+      "venue" : "Am J Prev Med",
+      "citeRegEx" : "26",
+      "shortCiteRegEx" : "26",
+      "year" : 2013
+    }, {
+      "title" : "Using citizen scientists to gather, analyze, and disseminate information about neighborhood features that affect active living",
+      "author" : [ "SJ Winter", "RL Goldman", "PP Romero" ],
+      "venue" : "J ImmigrMinor Health",
+      "citeRegEx" : "27",
+      "shortCiteRegEx" : "27",
+      "year" : 2015
+    }, {
+      "title" : "Harnessing technology and citizen science to support neighborhoods that promote active living in Mexico",
+      "author" : [ "LG Rosas", "D Salvo", "SJ Winter", "D Cortes", "J Rivera", "NM Rodriguez", "AC. King" ],
+      "venue" : "J Urban Health",
+      "citeRegEx" : "28",
+      "shortCiteRegEx" : "28",
+      "year" : 2016
+    }, {
+      "title" : "Exploring the objective and perceived environmental attributes of older adults’ neighborhood walking routes: a mixed methods analysis",
+      "author" : [ "P Moran MR Werner", "I Doron", "N HaGani", "Y Benvenisti", "AC King", "SJ Winter", "JL Sheats", "R Garber", "H Motro", "Egron S" ],
+      "venue" : "J Aging Phys Activity",
+      "citeRegEx" : "29",
+      "shortCiteRegEx" : "29",
+      "year" : 2016
+    }, {
+      "title" : "Comparison of passive versus active photo capture of built environment features by technology naïve Latinos using the SenseCam and Stanford healthy neighborhood discovery",
+      "author" : [ "JL Sheats", "SJ Winter", "PP Romero" ],
+      "venue" : null,
+      "citeRegEx" : "30",
+      "shortCiteRegEx" : "30",
+      "year" : 2013
+    }, {
+      "title" : "A case study of BSUED: behavioral scienceinformed user experience design",
+      "author" : [ "EB Hekler", "AC King", "B Banerjee", "T Robinson", "M Alonso", "J. Cirimele" ],
+      "venue" : null,
+      "citeRegEx" : "32",
+      "shortCiteRegEx" : "32",
+      "year" : 2011
+    }, {
+      "title" : "of the Census",
+      "author" : [ "US Burea" ],
+      "venue" : "National health interview survey. Washington DC: U.S. Dept. of Commerce;",
+      "citeRegEx" : "33",
+      "shortCiteRegEx" : null,
+      "year" : 1988
+    }, {
+      "title" : "of Agriculture",
+      "author" : [ "US Departmen" ],
+      "venue" : "Economic Research Service – Food Security Supplement Questionnaire. https://www. ers.usda.gov/data-products/food-security-in-the-unitedstates/. Accessed January 12,",
+      "citeRegEx" : "34",
+      "shortCiteRegEx" : null,
+      "year" : 2013
+    }, {
+      "title" : "The effectiveness of a short form of the household food security scale",
+      "author" : [ "Blumberg SJ", "BialostoskyK", "HamiltonWL", "Briefel RR" ],
+      "venue" : "Am J Public Health",
+      "citeRegEx" : "35",
+      "shortCiteRegEx" : "35",
+      "year" : 1999
+    }, {
+      "title" : "Harnessing the potential of older adults to measure and modify their environments: long-term successes of the Neighborhood Eating and Activity Advocacy Team (NEAAT) Study",
+      "author" : [ "SJ Winter", "MP Buman", "JL Sheats", "EB Hekler", "JJ Otten", "C Baker", "D Cohen", "BA Butler", "AC. King" ],
+      "venue" : "Translat Behav Med",
+      "citeRegEx" : "36",
+      "shortCiteRegEx" : "36",
+      "year" : 2014
+    }, {
+      "title" : "Grounded theory: objectivist and constructivist methods",
+      "author" : [ "K. Charmaz" ],
+      "venue" : "Denzin NK, Lincoln YS, eds. Handbook of qualitative methods. Thousand",
+      "citeRegEx" : "37",
+      "shortCiteRegEx" : "37",
+      "year" : 2000
+    }, {
+      "title" : "Basics of qualitative research: techniques and procedures for developing grounded theory",
+      "author" : [ "A Strauss", "J. Corbin" ],
+      "venue" : null,
+      "citeRegEx" : "38",
+      "shortCiteRegEx" : "38",
+      "year" : 1998
+    }, {
+      "title" : "Research design: qualitative and quantitate approaches",
+      "author" : [ "Cresswell JW" ],
+      "venue" : "Thousand Oaks, CA: Sage Publications;",
+      "citeRegEx" : "39",
+      "shortCiteRegEx" : "39",
+      "year" : 1998
+    } ],
+    "referenceMentions" : [ {
+      "referenceID" : 0,
+      "context" : "well as lower intakes of saturated and trans fats, added sugars, sodium, and alcohol are key elements that impact health and well-being throughout the lifespan [1, 2].",
+      "startOffset" : 160,
+      "endOffset" : 166
+    }, {
+      "referenceID" : 1,
+      "context" : "well as lower intakes of saturated and trans fats, added sugars, sodium, and alcohol are key elements that impact health and well-being throughout the lifespan [1, 2].",
+      "startOffset" : 160,
+      "endOffset" : 166
+    }, {
+      "referenceID" : 9,
+      "context" : "Older adults are faced with a number of challenges that have the potential to impact their food-related behaviors [11].",
+      "startOffset" : 114,
+      "endOffset" : 118
+    }, {
+      "referenceID" : 10,
+      "context" : "dependently, procure food, and prepare meals on their own [12].",
+      "startOffset" : 58,
+      "endOffset" : 62
+    }, {
+      "referenceID" : 11,
+      "context" : "Yet, they tend to have inadequate diets— particularly those who are also low-income [13, 14].",
+      "startOffset" : 84,
+      "endOffset" : 92
+    }, {
+      "referenceID" : 12,
+      "context" : "Yet, they tend to have inadequate diets— particularly those who are also low-income [13, 14].",
+      "startOffset" : 84,
+      "endOffset" : 92
+    }, {
+      "referenceID" : 13,
+      "context" : "For example, although national, state, and local programs and strategies provide access to food and nutrition services, one study found that among urban adults aged 50 years and older, food insecurity was two to three times higher than the general population [15].",
+      "startOffset" : 259,
+      "endOffset" : 263
+    }, {
+      "referenceID" : 16,
+      "context" : "Interest in the food environment, which is the Bdistribution of food stores, food services, and any physical entity by which food may be obtained^ [18], in particular, has led to a growing body of research where factors within the food environment have been associated with poor diet [18, 19].",
+      "startOffset" : 147,
+      "endOffset" : 151
+    }, {
+      "referenceID" : 16,
+      "context" : "Interest in the food environment, which is the Bdistribution of food stores, food services, and any physical entity by which food may be obtained^ [18], in particular, has led to a growing body of research where factors within the food environment have been associated with poor diet [18, 19].",
+      "startOffset" : 284,
+      "endOffset" : 292
+    }, {
+      "referenceID" : 17,
+      "context" : "Yet, most US-based studies examining the relationship between individual health behaviors, health outcomes, and the food environment generally do not focus on older adults [20].",
+      "startOffset" : 172,
+      "endOffset" : 176
+    }, {
+      "referenceID" : 12,
+      "context" : "For example, structured face-to-face interviews with a sample of older adults revealed that healthiness, taste, price, and travel time influenced decisions around food choice [14].",
+      "startOffset" : 175,
+      "endOffset" : 179
+    }, {
+      "referenceID" : 22,
+      "context" : "The Food Environment Assessment STudy (FEAST) is part of the Our Voice initiative [25], which utilizes a combination of technology- and community-based",
+      "startOffset" : 82,
+      "endOffset" : 86
+    }, {
+      "referenceID" : 22,
+      "context" : "discuss the data to use their findings to advocate for changes that support healthy communities [25].",
+      "startOffset" : 96,
+      "endOffset" : 100
+    }, {
+      "referenceID" : 22,
+      "context" : "Created using an iterative design process [25, 32], the app can be used by individuals of all ages, is simple, has large buttons and limited text, and has a built-in GPS that enables the automatic mapping of walking routes and geocoding of photos and audio recordings.",
+      "startOffset" : 42,
+      "endOffset" : 50
+    }, {
+      "referenceID" : 28,
+      "context" : "Created using an iterative design process [25, 32], the app can be used by individuals of all ages, is simple, has large buttons and limited text, and has a built-in GPS that enables the automatic mapping of walking routes and geocoding of photos and audio recordings.",
+      "startOffset" : 42,
+      "endOffset" : 50
+    }, {
+      "referenceID" : 22,
+      "context" : "To maximize the utility and potential impact of the app in creating healthy, equitable communities, the resident-driven Our Voice community-engaged, participatory approach was developed [25].",
+      "startOffset" : 186,
+      "endOffset" : 190
+    }, {
+      "referenceID" : 22,
+      "context" : "A full description of the Discovery Tool and theOur Voice process is published elsewhere [25, 26, 28].",
+      "startOffset" : 89,
+      "endOffset" : 101
+    }, {
+      "referenceID" : 23,
+      "context" : "A full description of the Discovery Tool and theOur Voice process is published elsewhere [25, 26, 28].",
+      "startOffset" : 89,
+      "endOffset" : 101
+    }, {
+      "referenceID" : 25,
+      "context" : "A full description of the Discovery Tool and theOur Voice process is published elsewhere [25, 26, 28].",
+      "startOffset" : 89,
+      "endOffset" : 101
+    }, {
+      "referenceID" : 22,
+      "context" : "skills using the Community Advocacy Handbook developed by the research team [25].",
+      "startOffset" : 76,
+      "endOffset" : 80
+    }, {
+      "referenceID" : 23,
+      "context" : "The study survey included closed- and open-ended items informed by the relevant literature, previous research conducted by the research team in San Mateo County [26], and items from other validated surveys.",
+      "startOffset" : 161,
+      "endOffset" : 165
+    }, {
+      "referenceID" : 29,
+      "context" : ", validated) included perceived health status from theNational Health Interview Survey [33] and food security items drawn from the USDA (United States Department of Agriculture) Food Security Supplement [34, 35].",
+      "startOffset" : 87,
+      "endOffset" : 91
+    }, {
+      "referenceID" : 30,
+      "context" : ", validated) included perceived health status from theNational Health Interview Survey [33] and food security items drawn from the USDA (United States Department of Agriculture) Food Security Supplement [34, 35].",
+      "startOffset" : 203,
+      "endOffset" : 211
+    }, {
+      "referenceID" : 31,
+      "context" : ", validated) included perceived health status from theNational Health Interview Survey [33] and food security items drawn from the USDA (United States Department of Agriculture) Food Security Supplement [34, 35].",
+      "startOffset" : 203,
+      "endOffset" : 211
+    }, {
+      "referenceID" : 33,
+      "context" : "A content analysis of identified barriers, facilitators, and potential solutions was conducted using both inductive and deductive analytical coding strategies [37, 38].",
+      "startOffset" : 159,
+      "endOffset" : 167
+    }, {
+      "referenceID" : 34,
+      "context" : "A content analysis of identified barriers, facilitators, and potential solutions was conducted using both inductive and deductive analytical coding strategies [37, 38].",
+      "startOffset" : 159,
+      "endOffset" : 167
+    }, {
+      "referenceID" : 17,
+      "context" : "While previous research has identified similar findings in relation to challenges older adults experience in navigating their food environment [20], FEAST demonstrates both the feasibility of using a technology-driven and community-engaged approach to support and advocate for healthy communities—as well as the sustainability of such an approach in the longer term.",
+      "startOffset" : 143,
+      "endOffset" : 147
+    } ],
+    "year" : 2017,
+    "abstractText" : "Creating environments that support healthy eating is important for successful aging, particularly in light of the growing population of older adults in the United States. There is an urgent need to identify innovative upstream solutions to barriers experienced by older adults in accessing and buying healthy food. FEAST (Food Environment Assessment STudy) is an effort that is part of the global Our Voice initiative, which utilizes a combination of technology and community-engaged methods to empower citizen scientists (i.e., community residents) to: (1) use the Healthy Neighborhood Discovery Tool (Discovery Tool) mobile application to collect data (geocoded photos, audio narratives) about aspects of their environment that facilitate or hinder healthy living; and (2) use findings to advocate for change in partnership with local decision and policy makers. In FEAST, 23 racially/ethnically diverse, low-income, and foodinsecure older adults residing in urban, North San Mateo County, CA, were recruited to use the Discovery Tool to examine factors that facilitated or hindered their access to food as well as their food-related behaviors. Participants collectively reviewed data retrieved from the Discovery Tool and identified and prioritized important, yet feasible, issues to address. Access to affordable healthy food and transportation were identified as the major barriers to eating healthfully and navigating their neighborhood food environments. Subsequently, participants were trained in advocacy skills and shared their findings with relevant decision and policymakers, who in turn dispelled myths and discussed and shared resources to address relevant community needs. Proximal and distal effects of the community-engaged process at 3, 6, 12, and 24 months were documented and revealed individual-, community-, and policy-level impacts. Finally, FEAST contributes to the evidence on multi-level challenges that low-income, racially/ethnically diverse older adults experience when accessing, choosing and buying healthy foods.",
+    "creator" : "Arbortext Advanced Print Publisher 9.1.440/W Unicode"
+  }
+}

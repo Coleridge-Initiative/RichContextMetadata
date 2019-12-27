@@ -1,0 +1,294 @@
+{
+  "name" : "a818ff02f30301d3efb9.pdf",
+  "metadata" : {
+    "source" : "CRF",
+    "title" : "Objectively measured physical activity of USA adults by sex, age, and racial/ethnic groups: a cross-sectional study",
+    "authors" : [ "Marquis S Hawkins", "Kristi L Storti", "Caroline R Richardson", "Wendy C King", "Scott J Strath", "Robert G Holleman", "Andrea M Kriska" ],
+    "emails" : [ "msh19@pitt.edu;", "klsst75@pitt.edu;", "caroli@med.umich.edu;", "kingw@edc.pitt.edu;", "sstrath@uwm.edu;", "Rob.Holleman@va.gov;", "aky@pitt.edu" ],
+    "sections" : [ {
+      "heading" : null,
+      "text" : "Methods: Data were obtained from the 2003–2004 NHANES, a cross-sectional study of a complex, multistage probability sample of the U.S. population. Physical activity was assessed with the Actigraph AM-7164 accelerometer for seven days following an examination. 2,688 U.S. adults with valid accelerometer data (i.e. at least four days with at least 10 hours of wear-time) were included in the analysis. Mean daily total physical activity counts, as well as counts accumulated in minutes of light, and moderatevigorous intensity physical activity are presented by sex across age and racial/ethnic groups. Generalized linear modeling using the log link function was performed to compare physical activity in sex and racial/ethnic groups adjusting for age.\nResults: Physical activity decreases with age for both men and women across all racial/ethnic groups with men being more active than women, with the exception of Hispanic women. Hispanic women are more active at middle age (40–59 years) compared to younger or older age and not significantly less active than men in middle or older age groups (i.e. age 40–59 or age 60 and older). Hispanic men accumulate more total and light intensity physical activity counts than their white and black counterparts for all age groups.\nConclusion: Physical activity levels measured objectively by accelerometer demonstrated that Hispanic men are, in general, more active than their white and black counterparts. This appears to be in contrast to self-reported physical activity previously reported in the literature and identifies the need to use objective measures in situations where the contribution of light intensity and/or unstructured physical activity cannot be assumed homogenous across the populations of interest.\nPage 1 of 7 (page number not for citation purposes)\nBackground Physical activity can prevent and delay the onset of chronic diseases, such as diabetes and heart disease [1,2]. Despite this, inactivity is common in the United States. National surveillance systems have included measures of physical activity allowing researchers to measure trends in physical activity as well as identify groups that are physically inactive. Historically, national reports, such as the Behavior Risk Factor Surveillance System (BRFSS) and National Health and Nutrition Examination Survey (NHANES), have incorporated subjective measures (e.g. questionnaires) because of their low cost and ease of use, which makes them ideal for large population studies. However, objective measures, such as pedometers, which count steps, and accelerometers, which measure movement intensity, are starting to be utilized to assess physical activity levels in population studies [3-6].\nBoth subjective and objective assessment tools have advantages and disadvantages depending on the population being studied and the research question being investigated [7]. Subjective measures often provide detailed information regarding type of activity. However, because they rely on self-report of activity they are subject to response bias and recall bias. In particular, they have limited accuracy at capturing activities that are unstructured, and of light intensity [8], both of which tend to be performed in greater frequency in women and in older populations [9-11]. Thus, using a subjective measure of physical activity may not provide an accurate description of activity in these groups. It is important to measure total physical activity (which includes light intensity and unstructured activities) because it may have a greater impact on several health outcomes, such as diabetes, compared to moderate-to-vigorous physical activity alone [12- 14]. Objective measures, such as accelerometers, do not provide detailed information on the type of activities being performed. However, they do record physical activity across all intensities and are not subject to the biases of self-report. In addition, accelerometers can be used to estimate the time spent in light, moderate, and high intensity physical activity and the contribution of each to total physical activity [15].\nAccelerometers were incorporated in the 2003–2004 NHANES study cycle for objective assessment of physical activity. This is the first time that objective physical activity data are available on a nationally representative sample of U.S. residents. A previous effort by Troiano et al focuses on physical activity at moderate-to-vigorous levels of intensity describing, on a population level, who's meeting the Surgeon General's recommendations of physical activity using this accelerometry data from NHANES [6]. In contrast, given the potential importance of total physical activity, the current effort includes assessments of light\nintensity activity and moderate-vigorous intensity activity to examine differences in physical activity by sex, age and racial/ethnic groups in a national sample of adults.\nMethods Study Population and Procedures NHANES is a cross-sectional observational study conducted by the National Center for Health Statistics of the Centers for Disease Control that uses a stratified, multistage probability design to obtain a nationally representative sample of the U.S. household population [16]. The survey population includes randomly selected neighborhoods in the United States. From these neighborhoods, random households are selected to incorporate individuals in this study. During the 2003–2004 NHANES study cycle, 12,761 individuals were selected for recruitment. Of those selected, 10,122 individuals (79%) agreed to participate in the study.\nNHANES 2003–2004 consisted of an interview, physical examination, and laboratory tests conducted in mobile examination centers (MEC) by trained staff. Physical activity assessment was restricted to NHANES participants who were not prevented by impairments from walking or wearing an accelerometer. Our analysis was further restricted to individuals who were at least 18 years of age, not pregnant, and never reported having had a stroke, congestive heart failure, angina, emphysema, chronic bronchitis, or renal dialysis to exclude individuals whose physical activity was limited because of illness or health status (N = 3840). Fewer than 5% of the remaining participants reported a race other than non-Hispanic white, non-Hispanic black or Hispanic so they were subsequently excluded from this analysis due to insufficient sample size (N = 149). Participants who had at least four days of valid accelerometer data with relevant covariates were used in the analysis (N = 2688) (Figure 1)."
+    }, {
+      "heading" : "Measures",
+      "text" : ""
+    }, {
+      "heading" : "Physical Activity",
+      "text" : "Physical activity was assessed with the Actigraph AM-7164 accelerometer (formerly the CSA/MTI AM-7164, manufactured by ActiGraph of Ft. Walton Beach, Florida, USA), which is a pager size device powered by a small lithium battery. The accelerometers were attached to an elasticized belt and worn on the right hip. The accelerometer measures the duration and intensity of physical activity by capturing the magnitude of acceleration (intensity) and summing up the magnitudes (intensity counts) within a specified time interval (epoch). A one-minute epoch was used by NHANES.\nParticipants were asked to wear the device for seven days while they were awake, and to take it off for swimming or bathing. Monitors were returned by express mail to\nPage 2 of 7 (page number not for citation purposes)\nNHANES, where data were downloaded from the device, and the device was checked to determine whether it was still within the manufacturer's calibration specifications using an Actigraph calibrator.\nNHANES used standardized data quality procedures to assess the validity and reliability of the accelerometry data, which are described in more detail elsewhere [17]. In brief, participants with at least four days in which the accelerometer was worn for at least 600 minutes are included in analysis. Any block of time greater than or equal to 60 minutes where the activity count was equal to zero was considered time when the monitor was not worn. Based on a previous calibration study by Freedson and colleagues, a minute of accelerometer data was coded as sedentary if it contained less than 260 activity counts. A minute was coded as light physical activity if it recorded an accelerometer count between 260–1951. A minute was coded as moderate-vigorous intensity if activity counts were greater than or equal to 1952 [18]. Counts derived during minutes of light and moderate-vigorous activity\nrespectively, were individually summed and divided by the number of days worn to calculate daily averages for those specific intensities. Total physical activity was the sum of the counts derived during minutes of light and moderate-vigorous activity."
+    }, {
+      "heading" : "Demographics and Anthropometrics",
+      "text" : "Participants were categorized as non-Hispanic white, nonHispanic black, and Hispanic (including Mexican American and other Hispanic) based on self-report. Age in years was calculated from self-report. Participants over the age of 85 were assigned the age of 85 to protect confidentiality. For descriptive purposes, activity was tabulated by age groups: 18–39, 40–59 and 60 or more years. Body Mass Index (BMI) was calculated (BMI) (kg/m2) from height and weight, which were measured at MEC using standardized protocol and equipment. General health status was self-reported as excellent, very good, good, fair, or poor."
+    }, {
+      "heading" : "Data Analyses",
+      "text" : "Statistical analyses were performed using STATA 10.0 (StataCorp Stata Statistical Software: Release 10.1. StataCorp LP: College Station, TX, 2007). For all analyses, significance was set at an alpha level of <0.05. Unadjusted values were calculated stratified by sex, race/ethnicity and age groups. Generalized linear modeling using the log link function was performed to compare total, light, and moderate-vigorous activity counts by sex and race/ethnic groups adjusting for age and age-squared because it's nonlinear relationship with physical activity. To determine whether there were interactions between age and race in either males or females interaction terms were added to the models. All analysis took into account the complex survey design of NHANES, which includes weighting, stratification and clustering.\nResults Demographic characteristics of the 2,688 participants are presented in Table 1. Participants were stratified by sex and race/ethnicity to form six groups that consisted of white men, black men, Hispanic men and white women, black women and Hispanic women. As a group, Hispanic men and women on average appeared to be younger than their white and black counterparts. The majority of the participants in the study were in good or very good health which is reflective of inclusion criteria because we whose physical activity may possibly be limited by underlying conditions.\nAge-adjusted physical activity counts by race/ethnicity and gender are presented in Table 2. Hispanic men appeared to have both higher age-adjusted total and light activity counts compared to white and black men (p < 0.01). Moderate-vigorous physical activity followed a similar pattern of higher counts in Hispanic men but the dif-\nStudy inclusion flow chartFigure 1 Study inclusion flow chart.\nWhite, Black, or Hispanic Race N= 3691\nAt least 18 yrs of age N= 5620\nAccelerometer data met NHANES validity and reliability criteria and was\nworn for at least 4 days N= 2720\nNot pregnant and free from disease N= 3840\nIncluded information on relevant covariates (BMI)\nN= 2688\nPopulation N=10,122\nPage 3 of 7 (page number not for citation purposes)\nference was not statistically significant (p = 0.13). Likewise, Hispanic women appeared to have significantly higher counts of light intensity physical activity compared to their white and black counterparts (p = 0.02). Total activity followed a similar pattern of higher counts in Hispanic women but the difference did not reach statistical significance (p = 0.14). Moderate -vigorous physical activity counts appeared to be similar in women (p = 0.50). There was a statistically significant interaction with regard to age for Hispanic men, which suggests that Hispanic men experience a faster decline in moderate-vigorous physical activity with increasing age (p = 0.03). No other significant interactions were noted (data not shown).\nPhysical activity counts per day for total, light, and moderate-to-vigorous intensity stratified by age, sex, and race/ ethnicity are presented in Table 3. When stratifying by age\ngroup, the pattern of higher activity counts in Hispanic men remained, however, significance was only reached in total and light activity in the youngest age groups (p = 0.001 and p = 0.002 respectively). There was also a pattern for higher activity counts in Hispanic women in the middle age groups, reaching significance for total and light activity (p = 0.006 and p = 0.003 respectively). Women appeared to have similar activity counts across race/ethnicity groups in the younger and older age groups.\nDiscussion The current study examined objectively measured physical activity data collected on a nationally representative sample of U.S. adults and thus provided a unique opportunity to investigate total physical activity and various levels of physical activity intensity across racial/ethnic and sex groups. The most striking findings were the relatively\nhigher amounts of physical activity among Hispanic men and women compared to their male and female counterparts.\nThis current effort indentified a pattern of higher physical activity levels in Hispanic men compared to white and black men. The results also indicate that Hispanic women engage in more light physical activity compared to their white and black counterparts. This is in contrast to previous results from national surveys, which have indicated that Hispanic men and women are less active compared to their white and black counterparts. Results from the 1994–2004 BRFSS showed that Hispanic men and women reported greater amounts of inactivity than white men and women [19]. However, the pattern of higher objectively measured physical activity in Hispanic men was also shown in a study by Bennett et al which showed higher pedometer step counts for Hispanic men compared to their white and black counterparts, though not reaching significance [20]. A previous paper by Troiano et al using NHANES accelerometry data also showed that Hispanic men and women were more active than white and black men and women at moderate-to-vigorous levels of intensity [6]. This effort expands on the work by Troiano by including total activity encompassing all levels of intensity and comes to the same conclusion. Another effort using the NHANES population was conducted by Matthews et al which looked at time spent in sedentary activity using the accelerometer [21]. The results of the study indicated that Hispanic men and women spent less\ntime in sedentary activity than their white and black counterparts.\nAdditionally, physical activity was found to be inversely associated with age at all levels of intensity in all racial/ ethnic groups with the exception of Hispanic women. This finding is consistent with results of previous studies using subjective data [22,23] suggesting a general pattern of decreasing physical activity levels with increasing age. This finding is also in line with the National Health Interview Survey (NHIS) which showed that adults in the 65+ years age group were about five times more likely than adults in the 18–24 years age group to report never being physical active [24]. Likewise, results from the Behavioral Risk Factor Surveillance System (BRFSS) indicated that 35% of men and 54% of women aged 75+ years reported engaging in no physical activity compared to 15% of men and 20% women aged 18–29 years who reported engaging in no physical activity [19]. A national representative study of Swedish adults by Hagstromer et al, using accelerometery, also noted that physical activity levels decreased with age [4].\nThe 2003–2004 NHANES accelerometer effort found men to be more physically active than women across all age groups with the exception of Hispanic women in the middle age group. There were no significant differences in total, light, or moderate-vigorous activity when comparing men to Hispanic women (p = 0.36, p = 0.34, and p = 0.61 respectively) in the middle age group. These findings\nPage 5 of 7 (page number not for citation purposes)\nneed further investigation into what factors cause higher levels of activity in Hispanic women in the middle age group.\nThere are important limitations worth noting when interpreting accelerometry data. Accelerometers do not provide qualitative information on what types of physical activities are being performed (household, transportation, leisure, etc.). Future studies will be needed to identify the specific areas in which Hispanic male and females accumulate more activity than their white and black counterparts. Accelerometers are also unable to capture upper arm movement. Thus, a portion of activity can be missed (e.g. weight lifting). Walking gait must also be taken into consideration because it can affect the validity of accelerometer counts, especially in older adults. For example, some accelerometers are more likely to undercount activity in adults with a non-standard gait [25]. This bias should be minimal because we excluded individuals whose physical activity would likely be affected by illness or health status.\nConclusion The current study is one of only a few studies utilizing an objective assessment of physical activity in a large representative sample of U.S. adults. Findings from this study will serve as a basis for comparison of objectively measured physical activity across sex and racial/ethnic groups in future efforts. It is important to be able to identify pockets of the population that are currently inactive to be able to focus future intervention efforts. The reasons that certain groups may be inactive may be are likely multi-factorial and may be related to many factors including socioeconomic factors and the built environment which are not identified in this study. Furthermore, this study identifies the need to use objective measures of physical activity in situations where the contribution of light intensity and/or unstructured physical activity cannot be assumed homogenous within the population of interest.\nCompeting interests The authors declare that they have no competing interests.\nAuthors' contributions MH contributed to the design of the manuscript as well as the analysis and interpretation of data. MSH also contributed to the revisions of the manuscript content and gave approval of the final version to be published.\nKS contributed to the design of the manuscript as well as the analysis and interpretation of data. KLS also contributed to the revisions of the manuscript content and gave approval of the final version to be published.\nCR contributed to the design of manuscript as well as the interpretation of the data. CRR also contributed to the revision of manuscript content and gave approval of the final version to be published.\nWK contributed to the design of the manuscript as well as the analysis and interpretation of data. WCK also contributed to the revision of the manuscript content and gave approval of the final version to be published.\nSS contributed to design of the manuscript as well as the interpretation of the data and was also involved in the revising manuscript content. SJS also gave approval for the final version to be published.\nRH contributed to the design of the manuscript as well as the acquisition and analysis of data. RGH also contributed to the revision of manuscript content and gave final approval of the version to be published.\nAK contributed to the design of the manuscript as well as the analysis and interpretation of data. AMK also contributed to the revision of the manuscript content and gave approval of the final version to be published.\nReferences 1. Blair SN: C.H. McCloy Research Lecture: physical activity,\nphysical fitness, and health. Res Q Exerc Sport 1993, 64(4):365-76. 2. Pate RR, et al.: Physical activity and public health. A recommendation from the Centers for Disease Control and Prevention and the American College of Sports Medicine. Jama 1995, 273(5):402-7. 3. De Cocker K, Cardon G, De Bourdeaudhuij I: Pedometer-determined physical activity and its comparison with the International Physical Activity Questionnaire in a sample of Belgian adults. Res Q Exerc Sport 2007, 78(5):429-37. 4. Hagstromer M, Oja P, Sjostrom M: Physical activity and inactivity in an adult population assessed by accelerometry. Med Sci Sports Exerc 2007, 39(9):1502-8. 5. Troiano RP: Large-scale applications of accelerometers: new frontiers and new questions. Med Sci Sports Exerc 2007, 39(9):1501. 6. Troiano RP, et al.: Physical activity in the United States measured by accelerometer. Med Sci Sports Exerc 2008, 40(1):181-8. 7. Kriska A, Caspersen CJ: Introduction to a Collection of Physical Activity Questionnaires. Med Sci Sports Exerc 1997, 29(6):5-9. 8. Leenders NY, et al.: Evaluation of methods to assess physical activity in free-living conditions. Med Sci Sports Exerc 2001, 33(7):1233-40. 9. Ainsworth BE, et al.: Evaluation of the kaiserphysical activity survey in women. Med Sci Sports Exerc 2000, 32(7):1327-38. 10. King AC: Interventions to promote physical activity by older adults. J Gerontol A Biol Sci Med Sci 2001, 56(Spec No 2):36-46. 11. King AC, Rejeski WJ, Buchner DM: Physical activity interventions targeting older adults. A critical review and recommendations. Am J Prev Med 1998, 15(4):316-33. 12. Ham SA, et al.: Physical activity patterns among Latinos in the United States: putting the pieces together. Prev Chronic Dis 2007, 4(4):A92. 13. Healy GN, et al.: Objectively measured light-intensity physical activity is independently associated with 2-h plasma glucose. Diabetes Care 2007, 30(6):1384-9. 14. Sesso HD: Invited commentary: a challenge for physical activity epidemiology. Am J Epidemiol 2007, 165(12):1351-1353.\nPage 6 of 7 (page number not for citation purposes)\nPublish with BioMed Central and every scientist can read your work free of charge\n\"BioMed Central will be the most significant development for disseminating the results of biomedical research in our lifetime.\"\nSir Paul Nurse, Cancer Research UK\nYour research papers will be:\navailable free of charge to the entire biomedical community\npeer reviewed and published immediately upon acceptance\ncited in PubMed and archived on PubMed Central\nyours — you keep the copyright\nSubmit your manuscript here: http://www.biomedcentral.com/info/publishing_adv.asp\nBioMedcentral\n15. Mathie MJ, et al.: Accelerometry: providing an integrated, practical method for long-term, ambulatory monitoring of human movement. Physiol Meas 2004, 25(2):R1-20. 16. Centers for Disease Control and Prevention, N.C.f.H.S: NHANES 2003–2004 Public Data General Release File Documentation. 2003 [http://www.cdc.gov/nchs/data/nhanes/nhanes_03_04/ general_data_release_doc_03-04.pdf]. 17. Centers for Disease Control and Prevention, N.C.f.H.S: Laboratory Procedures Manual. U.S. Department of Health and Human Services: Hyattsville, MD; 2004:1-984. 18. Freedson PS, Melanson E, Sirard J: Calibration of the Computer Science and Applications, Inc. accelerometer. Med Sci Sports Exerc 1998, 30(5):777-81. 19. Trends in leisure-time physical inactivity by age, sex, and race/ethnicity – United States, 1994–2004. MMWR Morb Mortal Wkly Rep 2005, 54(39):991-4. 20. Bennett GG, et al.: Pedometer-determined physical activity among multiethnic low-income housing residents. Med Sci Sports Exerc 2006, 38(4):768-73. 21. Matthews CE, et al.: Amount of time spent in sedentary behaviors in the United States, 2003–2004. Am J Epidemiol 2006, 167(7):875-81. 22. Jones DA, et al.: Moderate leisure-time physical activity: who is meeting the public health recommendations? A national cross-sectional study. Arch Fam Med 1998, 7(3):285-9. 23. Marshall SJ, et al.: Race/ethnicity, social class, and leisure-time physical inactivity. Med Sci Sports Exerc 2007, 39(1):44-51. 24. Barnes PM, Schoenborn CA: Physical activity among adults: United States, 2000. National Center for Health Statistics; 2003. 25. Storti KL, et al.: Gait speed and step-count monitor accuracy in community-dwelling older adults. Med Sci Sports Exerc 2008, 40(1):59-64.\nPage 7 of 7 (page number not for citation purposes)"
+    } ],
+    "references" : [ {
+      "title" : "McCloy Research Lecture: physical activity, physical fitness, and health",
+      "author" : [ "C.H. Blair SN" ],
+      "venue" : "Res Q Exerc Sport",
+      "citeRegEx" : "1",
+      "shortCiteRegEx" : "1",
+      "year" : 1993
+    }, {
+      "title" : "Physical activity and public health. A recommendation from the Centers for Disease Control and Prevention and the American College of Sports Medicine",
+      "author" : [ "RR Pate" ],
+      "venue" : null,
+      "citeRegEx" : "2",
+      "shortCiteRegEx" : "2",
+      "year" : 1995
+    }, {
+      "title" : "Pedometer-determined physical activity and its comparison with the International Physical Activity Questionnaire in a sample of Belgian adults",
+      "author" : [ "K De Cocker", "G Cardon", "I De Bourdeaudhuij" ],
+      "venue" : "Res Q Exerc Sport",
+      "citeRegEx" : "3",
+      "shortCiteRegEx" : "3",
+      "year" : 2007
+    }, {
+      "title" : "Physical activity and inactivity in an adult population assessed by accelerometry",
+      "author" : [ "M Hagstromer", "P Oja", "M Sjostrom" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "4",
+      "shortCiteRegEx" : "4",
+      "year" : 2007
+    }, {
+      "title" : "Large-scale applications of accelerometers: new frontiers and new questions",
+      "author" : [ "RP Troiano" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "5",
+      "shortCiteRegEx" : "5",
+      "year" : 2007
+    }, {
+      "title" : "Physical activity in the United States measured by accelerometer",
+      "author" : [ "RP Troiano" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "6",
+      "shortCiteRegEx" : "6",
+      "year" : 2008
+    }, {
+      "title" : "Introduction to a Collection of Physical Activity Questionnaires",
+      "author" : [ "A Kriska", "CJ Caspersen" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "7",
+      "shortCiteRegEx" : "7",
+      "year" : 1997
+    }, {
+      "title" : "Evaluation of methods to assess physical activity in free-living conditions",
+      "author" : [ "NY Leenders" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "8",
+      "shortCiteRegEx" : "8",
+      "year" : 2001
+    }, {
+      "title" : "Evaluation of the kaiserphysical activity survey in women",
+      "author" : [ "BE Ainsworth" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "9",
+      "shortCiteRegEx" : "9",
+      "year" : 2000
+    }, {
+      "title" : "Interventions to promote physical activity by older adults",
+      "author" : [ "AC King" ],
+      "venue" : "J Gerontol A Biol Sci Med Sci 2001,",
+      "citeRegEx" : "10",
+      "shortCiteRegEx" : "10",
+      "year" : 2001
+    }, {
+      "title" : "Physical activity interventions targeting older adults. A critical review and recommendations",
+      "author" : [ "AC King", "WJ Rejeski", "DM Buchner" ],
+      "venue" : "Am J Prev Med",
+      "citeRegEx" : "11",
+      "shortCiteRegEx" : "11",
+      "year" : 1998
+    }, {
+      "title" : "Physical activity patterns among Latinos in the United States: putting the pieces together",
+      "author" : [ "SA Ham" ],
+      "venue" : "Prev Chronic Dis 2007,",
+      "citeRegEx" : "12",
+      "shortCiteRegEx" : "12",
+      "year" : 2007
+    }, {
+      "title" : "Objectively measured light-intensity physical activity is independently associated with 2-h plasma glucose",
+      "author" : [ "GN Healy" ],
+      "venue" : "Diabetes Care",
+      "citeRegEx" : "13",
+      "shortCiteRegEx" : "13",
+      "year" : 2007
+    }, {
+      "title" : "Invited commentary: a challenge for physical activity epidemiology",
+      "author" : [ "HD Sesso" ],
+      "venue" : "Am J Epidemiol",
+      "citeRegEx" : "14",
+      "shortCiteRegEx" : "14",
+      "year" : 2007
+    }, {
+      "title" : "Accelerometry: providing an integrated, practical method for long-term, ambulatory monitoring of human movement",
+      "author" : [ "MJ Mathie" ],
+      "venue" : "Physiol Meas 2004,",
+      "citeRegEx" : "15",
+      "shortCiteRegEx" : "15",
+      "year" : 2004
+    }, {
+      "title" : "Calibration of the Computer Science and Applications, Inc. accelerometer",
+      "author" : [ "PS Freedson", "E Melanson", "J Sirard" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "18",
+      "shortCiteRegEx" : "18",
+      "year" : 1998
+    }, {
+      "title" : "Pedometer-determined physical activity among multiethnic low-income housing residents",
+      "author" : [ "GG Bennett" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "20",
+      "shortCiteRegEx" : "20",
+      "year" : 2006
+    }, {
+      "title" : "Amount of time spent in sedentary behaviors in the United States, 2003–2004",
+      "author" : [ "CE Matthews" ],
+      "venue" : "Am J Epidemiol",
+      "citeRegEx" : "21",
+      "shortCiteRegEx" : "21",
+      "year" : 2006
+    }, {
+      "title" : "Moderate leisure-time physical activity: who is meeting the public health recommendations? A national cross-sectional study",
+      "author" : [ "DA Jones" ],
+      "venue" : "Arch Fam Med",
+      "citeRegEx" : "22",
+      "shortCiteRegEx" : "22",
+      "year" : 1998
+    }, {
+      "title" : "Race/ethnicity, social class, and leisure-time physical inactivity",
+      "author" : [ "SJ Marshall" ],
+      "venue" : "Med Sci Sports Exerc",
+      "citeRegEx" : "23",
+      "shortCiteRegEx" : "23",
+      "year" : 2007
+    }, {
+      "title" : "Physical activity among adults: United States, 2000",
+      "author" : [ "PM Barnes", "CA Schoenborn" ],
+      "venue" : "National Center for Health Statistics;",
+      "citeRegEx" : "24",
+      "shortCiteRegEx" : "24",
+      "year" : 2003
+    }, {
+      "title" : "Gait speed and step-count monitor accuracy in community-dwelling older adults",
+      "author" : [ "KL Storti" ],
+      "venue" : "Med Sci Sports Exerc 2008,",
+      "citeRegEx" : "25",
+      "shortCiteRegEx" : "25",
+      "year" : 2008
+    } ],
+    "referenceMentions" : [ {
+      "referenceID" : 0,
+      "context" : "Background Physical activity can prevent and delay the onset of chronic diseases, such as diabetes and heart disease [1,2].",
+      "startOffset" : 117,
+      "endOffset" : 122
+    }, {
+      "referenceID" : 1,
+      "context" : "Background Physical activity can prevent and delay the onset of chronic diseases, such as diabetes and heart disease [1,2].",
+      "startOffset" : 117,
+      "endOffset" : 122
+    }, {
+      "referenceID" : 2,
+      "context" : "However, objective measures, such as pedometers, which count steps, and accelerometers, which measure movement intensity, are starting to be utilized to assess physical activity levels in population studies [3-6].",
+      "startOffset" : 207,
+      "endOffset" : 212
+    }, {
+      "referenceID" : 3,
+      "context" : "However, objective measures, such as pedometers, which count steps, and accelerometers, which measure movement intensity, are starting to be utilized to assess physical activity levels in population studies [3-6].",
+      "startOffset" : 207,
+      "endOffset" : 212
+    }, {
+      "referenceID" : 4,
+      "context" : "However, objective measures, such as pedometers, which count steps, and accelerometers, which measure movement intensity, are starting to be utilized to assess physical activity levels in population studies [3-6].",
+      "startOffset" : 207,
+      "endOffset" : 212
+    }, {
+      "referenceID" : 5,
+      "context" : "However, objective measures, such as pedometers, which count steps, and accelerometers, which measure movement intensity, are starting to be utilized to assess physical activity levels in population studies [3-6].",
+      "startOffset" : 207,
+      "endOffset" : 212
+    }, {
+      "referenceID" : 6,
+      "context" : "Both subjective and objective assessment tools have advantages and disadvantages depending on the population being studied and the research question being investigated [7].",
+      "startOffset" : 168,
+      "endOffset" : 171
+    }, {
+      "referenceID" : 7,
+      "context" : "In particular, they have limited accuracy at capturing activities that are unstructured, and of light intensity [8], both of which tend to be performed in greater frequency in women and in older populations [9-11].",
+      "startOffset" : 112,
+      "endOffset" : 115
+    }, {
+      "referenceID" : 8,
+      "context" : "In particular, they have limited accuracy at capturing activities that are unstructured, and of light intensity [8], both of which tend to be performed in greater frequency in women and in older populations [9-11].",
+      "startOffset" : 207,
+      "endOffset" : 213
+    }, {
+      "referenceID" : 9,
+      "context" : "In particular, they have limited accuracy at capturing activities that are unstructured, and of light intensity [8], both of which tend to be performed in greater frequency in women and in older populations [9-11].",
+      "startOffset" : 207,
+      "endOffset" : 213
+    }, {
+      "referenceID" : 10,
+      "context" : "In particular, they have limited accuracy at capturing activities that are unstructured, and of light intensity [8], both of which tend to be performed in greater frequency in women and in older populations [9-11].",
+      "startOffset" : 207,
+      "endOffset" : 213
+    }, {
+      "referenceID" : 14,
+      "context" : "In addition, accelerometers can be used to estimate the time spent in light, moderate, and high intensity physical activity and the contribution of each to total physical activity [15].",
+      "startOffset" : 180,
+      "endOffset" : 184
+    }, {
+      "referenceID" : 5,
+      "context" : "A previous effort by Troiano et al focuses on physical activity at moderate-to-vigorous levels of intensity describing, on a population level, who's meeting the Surgeon General's recommendations of physical activity using this accelerometry data from NHANES [6].",
+      "startOffset" : 258,
+      "endOffset" : 261
+    }, {
+      "referenceID" : 15,
+      "context" : "A minute was coded as moderate-vigorous intensity if activity counts were greater than or equal to 1952 [18].",
+      "startOffset" : 104,
+      "endOffset" : 108
+    }, {
+      "referenceID" : 16,
+      "context" : "However, the pattern of higher objectively measured physical activity in Hispanic men was also shown in a study by Bennett et al which showed higher pedometer step counts for Hispanic men compared to their white and black counterparts, though not reaching significance [20].",
+      "startOffset" : 269,
+      "endOffset" : 273
+    }, {
+      "referenceID" : 5,
+      "context" : "A previous paper by Troiano et al using NHANES accelerometry data also showed that Hispanic men and women were more active than white and black men and women at moderate-to-vigorous levels of intensity [6].",
+      "startOffset" : 202,
+      "endOffset" : 205
+    }, {
+      "referenceID" : 17,
+      "context" : "Another effort using the NHANES population was conducted by Matthews et al which looked at time spent in sedentary activity using the accelerometer [21].",
+      "startOffset" : 148,
+      "endOffset" : 152
+    }, {
+      "referenceID" : 18,
+      "context" : "This finding is consistent with results of previous studies using subjective data [22,23] suggesting a general pattern of decreasing physical activity levels with increasing age.",
+      "startOffset" : 82,
+      "endOffset" : 89
+    }, {
+      "referenceID" : 19,
+      "context" : "This finding is consistent with results of previous studies using subjective data [22,23] suggesting a general pattern of decreasing physical activity levels with increasing age.",
+      "startOffset" : 82,
+      "endOffset" : 89
+    }, {
+      "referenceID" : 20,
+      "context" : "This finding is also in line with the National Health Interview Survey (NHIS) which showed that adults in the 65+ years age group were about five times more likely than adults in the 18–24 years age group to report never being physical active [24].",
+      "startOffset" : 243,
+      "endOffset" : 247
+    }, {
+      "referenceID" : 3,
+      "context" : "A national representative study of Swedish adults by Hagstromer et al, using accelerometery, also noted that physical activity levels decreased with age [4].",
+      "startOffset" : 153,
+      "endOffset" : 156
+    }, {
+      "referenceID" : 21,
+      "context" : "For example, some accelerometers are more likely to undercount activity in adults with a non-standard gait [25].",
+      "startOffset" : 107,
+      "endOffset" : 111
+    } ],
+    "year" : 2009,
+    "abstractText" : "Background: Accelerometers were incorporated in the 2003–2004 National Health and Nutritional Examination Survey (NHANES) study cycle for objective assessment of physical activity. This is the first time that objective physical activity data are available on a nationally representative sample of U.S. residents. The use of accelerometers allows researchers to measure total physical activity, including light intensity and unstructured activities, which may be a better predictor of health outcomes than structured activity alone. The aim of this study was to examine objectively determined physical activity levels by sex, age and racial/ethnic groups in a national sample of U.S. adults. Methods: Data were obtained from the 2003–2004 NHANES, a cross-sectional study of a complex, multistage probability sample of the U.S. population. Physical activity was assessed with the Actigraph AM-7164 accelerometer for seven days following an examination. 2,688 U.S. adults with valid accelerometer data (i.e. at least four days with at least 10 hours of wear-time) were included in the analysis. Mean daily total physical activity counts, as well as counts accumulated in minutes of light, and moderatevigorous intensity physical activity are presented by sex across age and racial/ethnic groups. Generalized linear modeling using the log link function was performed to compare physical activity in sex and racial/ethnic groups adjusting for age. Results: Physical activity decreases with age for both men and women across all racial/ethnic groups with men being more active than women, with the exception of Hispanic women. Hispanic women are more active at middle age (40–59 years) compared to younger or older age and not significantly less active than men in middle or older age groups (i.e. age 40–59 or age 60 and older). Hispanic men accumulate more total and light intensity physical activity counts than their white and black counterparts for all age groups. Conclusion: Physical activity levels measured objectively by accelerometer demonstrated that Hispanic men are, in general, more active than their white and black counterparts. This appears to be in contrast to self-reported physical activity previously reported in the literature and identifies the need to use objective measures in situations where the contribution of light intensity and/or unstructured physical activity cannot be assumed homogenous across the populations of interest. Published: 3 June 2009 International Journal of Behavioral Nutrition and Physical Activity 2009, 6:31 doi:10.1186/1479-5868-6-31 Received: 26 August 2008 Accepted: 3 June 2009 This article is available from: http://www.ijbnpa.org/content/6/1/31 © 2009 Hawkins et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "creator" : "FrameMaker 8.0"
+  }
+}

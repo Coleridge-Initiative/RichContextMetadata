@@ -1,0 +1,491 @@
+{
+  "name" : "4b37071b926c012ba068.pdf",
+  "metadata" : {
+    "source" : "CRF",
+    "title" : "Polygenic Risk Predicts Obesity in Both White and Black Young Adults",
+    "authors" : [ "Benjamin W. Domingue", "Daniel W. Belsky", "Kathleen Mullan Harris", "Andrew Smolen", "Matthew B. McQueen", "Jason D. Boardman" ],
+    "emails" : [ ],
+    "sections" : [ {
+      "heading" : null,
+      "text" : "Objective: To test transethnic replication of a genetic risk score for obesity in white and black young adults using a national sample with longitudinal data.\nDesign and Methods: A prospective longitudinal study using the National Longitudinal Study of Adolescent Health Sibling Pairs (n = 1,303). Obesity phenotypes were measured from anthropometric assessments when study members were aged 18–26 and again when they were 24–32. Genetic risk scores were computed based on published genome-wide association study discoveries for obesity. Analyses tested genetic associations with body-mass index (BMI), waist-height ratio, obesity, and change in BMI over time.\nResults: White and black young adults with higher genetic risk scores had higher BMI and waist-height ratio and were more likely to be obese compared to lower genetic risk age-peers. Sibling analyses revealed that the genetic risk score was predictive of BMI net of risk factors shared by siblings. In white young adults only, higher genetic risk predicted increased risk of becoming obese during the study period. In black young adults, genetic risk scores constructed using loci identified in European and African American samples had similar predictive power.\nConclusion: Cumulative information across the human genome can be used to characterize individual level risk for obesity. Measured genetic risk accounts for only a small amount of total variation in BMI among white and black young adults. Future research is needed to identify modifiable environmental exposures that amplify or mitigate genetic risk for elevated BMI.\nCitation: Domingue BW, Belsky DW, Harris KM, Smolen A, McQueen MB, et al. (2014) Polygenic Risk Predicts Obesity in Both White and Black Young Adults. PLoS ONE 9(7): e101596. doi:10.1371/journal.pone.0101596\nEditor: Monica Uddin, Wayne State University, United States of America\nReceived November 22, 2013; Accepted May 13, 2014; Published July 3, 2014\nCopyright: 2014 Domingue et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\nFunding: Add Health is funded by grant P01-HD31921 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development, with cooperative funding from 23 other federal agencies and foundations. Genotyping of the Sibling Pairs data was funded by the NIH/NICHD (R01HD060726). Additional research funds were provided by the NIH/NICHD funded CU Population Center (R24HD066613). DWB is supported in part by T32-AG000029. JDB had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.\nCompeting Interests: The authors have declared that no competing interests exist.\n* Email: boardman@colorado.edu"
+    }, {
+      "heading" : "Introduction",
+      "text" : "Genome-wide association studies (GWAS) have discovered genetic loci that associate with obesity risk [1]. Genetic risks manifest early in life; children at higher genetic risk gain weight more rapidly during infancy and early childhood and reach adiposity rebound earlier in life and at higher body-mass-index (BMI) [2–4]. In turn, this rapid growth early in life functions as a mediator of genetic risk for adult obesity [4]. These observations suggest the possibility that genetic information can inform research to understand pathogenesis of obesity in childhood, with the goal of improving prevention and treatment [5,6].\nSingle-nucleotide polymorphisms (SNPs) discovered in GWAS of obesity phenotypes have small effects; the most penetrant SNP predicts an increase of less than one half of one BMI point in adult\nsamples [7]. As a result, many samples designed to investigate obesity etiology are underpowered to study individual GWAS discoveries. Combining information on multiple GWAS discovered SNPs to compute a ‘‘genetic risk score’’ can provide a tool for investigating genetic contributions to obesity etiology in samples far smaller than are needed for GWAS [8,9].\nTo date, most genetic risk score research on obesity has focused on European-descent samples [2–4,10,11]. Expanding the scope of genetic research to consider other populations is a public health priority [12]. A challenge is that GWAS-discovered SNPs may not cause disease themselves, but may instead serve as proxy measures of causal variants elsewhere in the DNA sequence. Allele frequencies and patterns of linkage disequilibrium vary across racial and ethnic groups [13]. One implication of these differences is that a SNP measured in a GWAS may serve as a proxy for a\nPLOS ONE | www.plosone.org 1 July 2014 | Volume 9 | Issue 7 | e101596\ngiven causal variant in the GWAS discovery population, but not in a new sample drawn from a different ethnic group. This problem is compounded when GWAS discoveries are followed up in existing databases that may not contain the original GWASdiscovered SNP and proxies must be selected [14].\nAn increasing number of large and representative samples of adults from diverse populations are available with genome wide data from respondents. Genetic risk scores are a promising tool for population health research using such datasets but relatively small differences in allele frequency and LD patterns across groups may complicate the interpretation of genetic risk associations [15,16]. A necessary first step is to test scores in different ethnic populations and establish whether a genetic risk score based on discoveries made in one population will translate to another.\nThis study tests transethnic replication of a genetic risk score for obesity in white and black young adults in the National Longitudinal Study of Adolescent Health (Add Health) Sibling Pairs Study. We tested genetic associations with obesity at two waves (when respondents were roughly 18–26 and 24–32 years old, respectively). We next tested genetic associations with change in obesity over the 7-year interval between waves. We conducted tests separately in the white and black samples and then tested for differences in genetic associations between the two groups. We also compared the performance of the GRSs computed from SNPs identified in samples of European ancestry to additional GRSs that incorporate SNPs discovered in a recent GWAS of African Americans."
+    }, {
+      "heading" : "Materials and Methods",
+      "text" : "Sample Add Health is a nationally representative cohort (n = 20,745, aged 12–20 years at Wave 1 in 1994–95) drawn from a probability sample of 80 US high schools and 52 US middle schools, representative of US schools in 1994–95 with respect to region, urban setting, school size, school type and race or ethnic background. The Wave 3 (2001–2002) and 4 (2008–2009) data collection originally contained n = 15,197 individuals (then aged 18–26 years, mean age 22.3 years) and n = 15,701 individuals (then aged 24–32 years, mean age 28.9 years) respectively. The Add Health Sibling Pairs [17] data used here consists of 1,595 individuals (58% white, 42% black) from 965 families (564 sibling pairs, 30 sibling trios, 2 sibling quads, and 369 singletons) who were genotyped from samples collected during Wave 4 of the Add Health study (this phase of the Add Health study genotyped only the Sibling Pairs). The Sibling Pairs cohort oversampled black respondents (42.1% of Sibling Pairs as compared to 28.4% of all Add Health are black). The Sibling Pairs cohort did not differ from the full Add Health sample in terms of gender, age, maternal education, or health of the respondents (detailed results available upon request). The Siblings Pairs cohort was roughly 0.25 BMI units above the full Add Health sample at both Waves 3 and 4 but the waist to height ratios were identical in both groups. Missing data for phenotypic information reduced the number of respondents that could be used in the below analyses. The exact reduction in sample varied by phenotype, but the minimum white sample used in analysis was 773 respondents and the minimum black sample was 530 respondents (n = 1,303).\nGenetic Risk Score Genotyping was conducted with the Illumina HumanOmni1Quad v1 platform using DNA extracted (via Oragene saliva collection) from 1,946 individuals at Wave 4. After quality controls (see http://ibs.colorado.edu/jb/pairsgwasqc.pdf), the genetic da-\ntabase included 1,886 individuals with valid data on 940,862 single nucleotide polymorphisms. Our analysis focused on non-Hispanic white and black individuals as indicated by self-report (n = 1,303) and SNPs with missing call rates below 5% (this criteria resulted in the removal of 18,665 SNPs from the original set of 959,862 SNPs). Principal components, which are commonly used to adjust for population stratification in GWAS [13], were computed with 231, 649 SNPs (selected from the full set of SNPs to be in linkage equilibria) from chromosomes 1–22.\nWe constructed three multi-locus indicators of genetic risk for obesity. The genetic risk score for European-descent populations (GRS-E) included 31 SNPs discovered in GWAS of adult BMI in European-descent individuals [7] (this risk score is available through the restricted use mechanism of Add Health). The genetic risk score for African-Americans (GRS-A) included 8 SNPs discovered in GWAS of adult BMI in African American and African individuals [18]. Genetic risk scores were created from sets of SNPs identified as genome-wide significant in their respective studies. We constructed a third genetic risk score (GRS-Omni) from the complete set of loci discovered in either GWAS. For loci in or near the genes FTO, SEC16B, and GNPDA2, the two GWAS identified loci in high linkage disequilibrium (r.0.9) and a single tag SNP was selected. The method used to compute the risk scores was the same for each set of SNPs. We summed the BMIincreasing alleles (as identified in each GWAS) for each SNP and then summed these counts of BMI-increasing alleles across the SNPs. Due to the lack of a comparable effect size metric between the Speliotes et al. [7] and Monda et al. [18], we use unweighted risk scores in most analyses although we also report weighted risk scores for GRS-E (using weights from [7]) to examine sensitivity to the weighting. For individuals with missing information on SNPs to be included in a risk score (8% of individuals were missing information on at least one SNP in GRS-Omni but no individual was missing information on more than four SNPs), we calculated pro-rated genetic risk scores by dividing the calculated genetic risk score by the number of SNPs with available calls and multiplying by the total number of SNPs in the score.\nThe SNPs included in the genetic risk scores are reported in Tables 1 and 2. Since base rates of the risk alleles varied between the white and black samples, we standardized the weighted sums of risk alleles to have a mean of 0 and a SD of 1 separately in each of the white and black samples for each genetic risk score. (For analyses conducted using both white and black samples, results were consistent if risk scores are instead standardized across race). In the black sample, GRS-E and GRS-Omni were highly correlated (r = 0.91); GRS-A was less correlated with both (with GRS-E, r = 0.23; with GRS-Omni, r = 0.54). Effect-sizes reported from genetic risk score analyses reflect the effect of a one standarddeviation increase in genetic risk on obesity outcomes.\nAnthropometry Anthropometric assessments of the Sibling Pairs were conducted at Add Health waves 3 and 4. Weight and height were measured during in-person interviews [19]. Participants were weighed without shoes on a digital bathroom scale (to the nearest halfpound in Wave 3 and tenth of a kilogram in Wave 4). The scales had a maximum of 330 pounds (200 kg); individuals above these thresholds were coded as being at the maximum scale weights (9 and 19 individuals were coded at this maximum weight for Waves 3 and 4 respectively). Heights were measured to the nearest 1/8th of an inch. BMI was computed as kilograms per height in meters squared. Obesity was defined as BMI$30. Anthropometric characteristics of the white and black samples are described in Table 3.\nPLOS ONE | www.plosone.org 2 July 2014 | Volume 9 | Issue 7 | e101596\nT a\nb le\n1 .\nSi n\ng le\n-n u\ncl e\no ti\nd e\np o\nly m\no rp\nh is\nm s\nin cl\nu d\ne d\nin th\ne g\ne n\ne ti\nc ri\nsk sc\no re\nfo r\nEu ro\np e\nan s\n(G R\nSE)\n.\nC h\nr N\ne a\nre st\nG e\nn e\nS p\ne li\no te\ns e\nt a\nl. [7\n] S\nN P\nA d\nd H\ne a\nlt h\nS N\nP R\n2 w\nit h\nG W\nA S\nS N\nP *\nR is\nk A\nll e\nle O\nth e\nr W\nh it\ne M\nA F\nB la\nck M\nA F\nW e\nig h\nt [7\n]\n1 P\nTB P\n2 rs\n1 5\n5 5\n5 4\n3 rs\n1 0\n4 8\n9 7\n4 1\n1 a\ng 0\n.4 6\n0 .4\n1 0\n.0 6\nTN N\nI3 K\nrs 1\n5 1\n4 1\n7 5\nrs 1\n5 1\n4 1\n7 5\n1 a\ng 0\n.4 3\n0 .3\n5 0\n.0 7\nN EG\nR 1\nrs 2\n8 1\n5 7\n5 2\nrs 2\n8 1\n5 7\n5 2\n1 a\ng 0\n.3 7\n0 .4\n6 0\n.1 3\nSE C\n16 B\nrs 5\n4 3\n8 7\n4 rs\n5 4\n3 8\n7 4\n1 g\na 0\n.2 0\n0 .2\n6 0\n.2 2\n2 LR\nP 1B\nrs 2\n8 9\n0 6\n5 2\nrs 1\n5 2\n3 7\n0 2\n0 .7\n0 2\nc t\n0 .1\n3 0\n.0 6\n0 .0\n9\nFA N\nC L\nrs 8\n8 7\n9 1\n2 rs\n2 1\n9 2\n4 9\n7 1\nc t\n0 .2\n6 0\n.0 9\n0 .1\n0\nTM EM\n18 rs\n2 8\n6 7\n1 2\n5 rs\n2 8\n6 7\n1 2\n5 1\nc t\n0 .1\n6 0\n.1 1\n0 .3\n1\nR B\nJ rs\n7 1\n3 5\n8 6\nrs 7\n1 3\n5 8\n7 0\n.9 6\n7 t\nc 0\n.4 7\n0 .1\n6 0\n.1 4\n3 ET\nV 5\nrs 9\n8 1\n6 2\n2 6\nrs 7\n6 3\n5 1\n0 3\n0 .6\n1 8\na c\n0 .2\n7 0\n.4 7\n0 .1\n4\nC A\nD M\n2 rs\n1 3\n0 7\n8 8\n0 7\nrs 9\n8 5\n2 1\n2 7\n1 a\ng 0\n.2 5\n0 .0\n6 0\n.1 0\n4 G\nN P\nD A\n2 rs\n1 0\n9 3\n8 3\n9 7\nrs 1\n0 9\n3 8\n3 9\n7 1\ng a\n0 .4\n3 0\n.2 0\n0 .1\n8\nSL C\n39 A\n8 rs\n1 3\n1 0\n7 3\n2 5\nrs 1\n3 1\n0 7\n3 2\n5 1\nt c\n0 .1\n3 0\n.0 2\n0 .1\n9\n5 FL\nJ3 57\n79 rs\n2 1\n1 2\n3 4\n7 rs\n1 0\n0 5\n7 9\n6 7\n1 t\nc 0\n.3 9\n0 .4\n8 0\n.1 0\nZ N\nF6 08\nrs 4\n8 3\n6 1\n3 3\nrs 4\n8 3\n6 1\n3 3\n1 a\nc 0\n.4 8\n0 .2\n2 0\n.0 7\n6 N\nU D\nT3 rs\n2 0\n6 9\n3 6\nrs 2\n0 6\n9 3\n6 1\ng a\n0 .2\n1 0\n.4 8\n0 .0\n6\nTF A\nP 2B\nrs 9\n8 7\n2 3\n7 rs\n9 8\n7 2\n3 7\n1 g\na 0\n.1 6\n0 .0\n9 0\n.1 3\n9 LR\nR N\n6C rs\n1 0\n9 6\n8 5\n7 6\nrs 1\n0 9\n6 8\n5 7\n6 1\ng a\n0 .3\n0 0\n.1 7\n0 .1\n1\n1 1\nR P\nL2 7A\nrs 4\n9 2\n9 9\n4 9\nrs 1\n1 0\n4 1\n9 9\n4 0\n.9 6\n6 c\na 0\n.4 6\n0 .4\n7 0\n.0 6\nB D\nN F\nrs 1\n0 7\n6 7\n6 6\n4 rs\n7 1\n0 3\n4 1\n1 1\nt c\n0 .1\n5 0\n.0 7\n0 .1\n9\nM TC\nH 2\nrs 3\n8 1\n7 3\n3 4\nrs 7\n1 2\n4 6\n8 1\n1 a\nc 0\n.3 9\n0 .2\n6 0\n.0 6\n1 2\nFA IM\n2 rs\n7 1\n3 8\n8 0\n3 rs\n7 1\n3 8\n8 0\n3 1\na g\n0 .3\n6 0\n.1 6\n0 .1\n2\n1 3\nM TI\nF3 rs\n4 7\n7 1\n1 2\n2 rs\n9 5\n1 2\n6 9\n9 0\n.8 7\n4 g\na 0\n.1 9\n0 .1\n3 0\n.0 9\n1 4\nN R\nX N\n3 rs\n1 0\n1 5\n0 3\n3 2\nrs 1\n7 1\n0 9\n2 5\n6 1\na g\n0 .1\n9 0\n.2 3\n0 .1\n3\n1 5\nM A\nP 2K\n5 rs\n2 2\n4 1\n4 2\n3 rs\n2 2\n4 1\n4 2\n3 1\ng a\n0 .2\n7 0\n.3 8\n0 .1\n3\n1 6\nG P\nR C\n5B rs\n1 2\n4 4\n4 9\n7 9\nrs 1\n2 4\n4 4\n9 7\n9 1\nc t\n0 .1\n4 0\n.0 8\n0 .1\n7\nFT O\nrs 1\n5 5\n8 9\n0 2\nrs 1\n4 2\n1 0\n8 5\n1 c\nt 0\n.4 2\n0 .0\n8 0\n.3 9\nSH 2B\n1 rs\n7 3\n5 9\n3 9\n7 rs\n3 8\n8 8\n1 9\n0 0\n.9 6\n5 a\nc 0\n.4 4\n0 .2\n7 0\n.1 5\n1 8\nM C\n4R rs\n5 7\n1 3\n1 2\nrs 5\n7 1\n3 1\n2 1\na c\n0 .1\n6 0\n.3 7\n0 .2\n3\n1 9\nQ P\nC TL\nrs 2\n2 8\n7 0\n1 9\nrs 2\n2 8\n7 0\n1 9\n1 c\nt 0\n.2 1\n0 .1\n0 0\n.1 5\nK C\nTD 15\nrs 2\n9 9\n4 1\nrs 2\n9 9\n4 2\n1 g\na 0\n.2 9\n0 .1\n5 0\n.0 6\nTM EM\n16 0\nrs 3\n8 1\n0 2\n9 1\nrs 3\n8 1\n0 2\n9 1\n1 a\ng 0\n.3 5\n0 .1\n8 0\n.0 9\nN o\nte :\nSN P\ns ar\ne th\ne se\nt o\nf g\ne n\no m\ne -w\nid e\nsi g\nn if\nic an\nt SN\nP s\nd is\nco ve\nre d\nin th\ne G\nW A\nS m\ne ta\n-a n\nal ys\nis b\ny th\ne G\nIA N\nT C\no n\nso rt\niu m\n[7 ].\nW e\nig h\nts ar\ne th\ne e\nff e\nct -s\niz e\ns e\nst im\nat e\nd in\nth at\nan al\nys is\n. In\nca se\ns w\nh e\nre th\ne o\nri g\nin al\nG W\nA S\nSN P\nw as\nn o t av ai la b le in th e A d d H e al th g e n o ty p e d at ab as e ,l in ka g e p ro xi e s w e re id e n ti fi e d u si n g th e B ro ad In st it u te ’s SN A P to o l [3 5 ] (1 0 0 0 G e n o m e s (P ilo t 1 ) C EU re fe re n ce sa m p le ). N o p ro xy w as av ai la b le fo r rs 1 1 8 4 7 6 9 7 n e ar P R K D 1 .A lle le s ar e re p o rt e d ac co rd in g to d b SN P . Fr e q u e n ci e s o f B M Iin cr e as in g al le le s ar e re p o rt e d se p ar at e ly fo r w h it e an d b la ck A d d H e al th st u d y m e m b e rs m e e ti n g g e n o ty p e q u al it y co n tr o l cr it e ri a. d o i:1 0 .1 3 7 1 /j o u rn al .p o n e .0 1 0 1 5 9 6 .t 0 0 1\nPLOS ONE | www.plosone.org 3 July 2014 | Volume 9 | Issue 7 | e101596\nStatistical Analysis We tested genetic associations with BMI and obesity using linear and logistic regression models, respectively. Analyses were conducted separately in whites and blacks. We analyzed change in BMI and obesity from Wave 3 to Wave 4 by including the level of Wave 3 BMI (or obesity) as a predictor in multivariate regression models predicting Wave 4 BMI (or obesity). All regressions were estimated using multilevel models (random intercept) to account for the non-independence of observations within families [20] and were adjusted for age and sex. All continuous outcomes were standardized within race. There was greater variability in the BMI of black respondents, see Table 3. Effect sizes reflect the effect in SDs of a 1 SD increase in genetic risk score on BMI or BMI change or on the log odds of obesity or in log odds of change in obesity (reported as odds ratios).\nWe conducted two additional sets of analyses. First, because a previous study reported that the predictive performance of an obesity genetic risk score differed in black and white populations [4], we tested for differences in genetic associations with obesity phenotypes between blacks and whites. These analyses combined black and white respondents were into a single dataset. The models included a main effect term for race, a main effect term for genetic risk, and an interaction term testing race differences in the magnitude of the genetic effect.\nSecond, to rule out confounding by unmeasured population stratification [21], we conducted a sibling difference analysis using family fixed effects. The sibling difference analysis tested whether, within a pair of siblings who grew up in the same household, the sibling with the higher genetic risk score had the higher BMI. Sibling difference analyses provide a control for any unmeasured population stratification [22]. To maximize statistical power for these models, we analyzed all available data from waves 3 and 4 and introduced an individual-level random intercept to account for the non-independence of observations within individuals."
+    }, {
+      "heading" : "Results",
+      "text" : "White and black young adults at higher genetic risk as measured by GRS-E had higher BMIs compared to their lower genetic risk age-peers (Table 4). For whites, genetic associations with BMI were 0.16 at Wave 3 and 0.17 at Wave 4 (p,0.001 for both; results with unweighted risk scores are reported unless indicated otherwise). For blacks, genetic associations with BMI were r = 0.14 at Wave 3 and r = 0.13 at Wave 4 (p,0.01 for both). Genetic associations with BMI did not differ between the white and black samples at either Wave (p.0.75 for both tests). White and black young adults at higher genetic risk as measured by GRS-E were also more likely to be obese compared to those at lower genetic risk. For whites, genetic associations with obesity were OR = 1.42 [1.14–1.78] at Wave 3 and OR = 1.54 [1.30– 1.83] at Wave 4. For blacks, genetic associations with obesity were OR = 1.19 [0.96–1.48] at Wave 3 and OR = 1.19 [0.98–1.45] at Wave 4. Genetic associations with obesity were similar in blacks and whites at Wave 3 (p = 0.38). At Wave 4, the effect magnitude was larger among whites as compared to blacks (p = 0.06). Over the 7-year interval between waves 3 and 4, white young adults at higher genetic risk gained more weight and were more likely to become obese as compared to their lower genetic risk age-peers (for BMI, r = 0.06, p,0.05; for obesity status, OR = 1.43 [1.14– 1.79]). Genetic risk was not associated with change in BMI and obesity among blacks. Insufficient statistical power is a possible, but unlikely, explanation for the failure to detect an association between the GRS and BMI change in the black Sibling Pairs; based on the effect observed in the white Sibling Pairs, we have T a b le 2 . Si n g le n u cl e o ti d e p o ly m o rp h is m s (S N P s) in cl u d e d in th e A fr ic\nan A\nm e\nri ca\nn g\ne n\ne ti\nc ri\nsk sc\no re\n(G R\nSA\n).\nC h\nr N\ne a\nre st\nG e\nn e\nM o\nn d\na e\nt a\nl. [1\n8 ]\nS N\nP A\nd d\nH e\na lt\nh S\nN P\nR 2\nw it\nh G\nW A\nS S\nN P\n* R\nis k\nA ll\ne le\nO th\ne r\nW h\nit e\nM A\nF B\nla ck\nM A\nF\n1 SE\nC 16\nB rs\n5 4\n3 8\n7 4\nrs 5\n4 3\n8 7\n4 1\nG A\n0 .2\n0 1\n9 0\n.0 5\n7 1\n2 A\nD C\nY 3\nrs 7\n5 8\n6 8\n7 9\nrs 6\n7 5\n2 4\n8 3\n0 .8\n4 9\nT C\n0 .4\n9 0\n3 0\n.0 4\n2\n4 G\nN P\nD A\n2 rs\n3 4\n8 4\n9 5\nrs 1\n0 9\n3 8\n3 9\n7 0\n.6 9\n8 G\nA 0\n.4 3\n0 7\n0 .0\n4 8\n5 G\nA LN\nT1 0\nrs 7\n7 0\n8 5\n8 4\nrs 7\n7 1\n9 0\n6 7\n0 .8\n3 6\nA G\n0 .4\n4 7\n1 0\n.0 5\n6 K\nLH L3\n2 rs\n9 7\n4 4\n1 7\nrs 9\n7 4\n4 1\n7 1\nG T\n0 .1\n1 5\n4 0\n.0 4\n7 M\nIR 14\n8A -N\nFE 2L\n3 rs\n1 0\n2 6\n1 8\n7 8\nrs 1\n9 6\n6 8\n4 1\n0 .9\n6 1\nG A\n0 .3\n9 9\n0 .0\n3\n1 6\nFT O\nrs 1\n7 8\n1 7\n9 6\n4 rs\n3 7\n5 1\n8 1\n2 0\n.7 0\n7 T\nC 0\n.3 9\n9 0\n.0 7\n4\n1 8\nM C\n4R rs\n6 5\n6 7\n1 6\n0 rs\n6 5\n6 7\n1 6\n0 1\nC T\n0 .1\n6 3\n5 0\n.0 6\n2\nN o\nte :S\nN P\ns ar\ne th\ne se\nt o\nf g\ne n\no m\ne -w\nid e\nsi g\nn if\nic an\nt SN\nP s\nd is\nco ve\nre d\nin th\ne G\nW A\nS m\ne ta\n-a n\nal ys\nis b\ny M\no n\nd a\nan d\nco lle\nag u\ne s\n[1 7\n]. In\nca se\ns w\nh e\nre th\ne o\nri g\nin al\nG W\nA S\nSN P\nw as\nn o\nt av\nai la\nb le\nin th\ne A\nd d\nH e\nal th\ng e\nn o\nty p\ne d\nat ab\nas e\n,l in\nka g e p ro xi e s w e re id e n ti fi e d u si n g th e B ro ad In st it u te ’s SN A P to o l [3 5 ] (1 0 0 0 G e n o m e s (P ilo t 1 ) Y R I re fe re n ce sa m p le ). Fr e q u e n ci e s o f B M Iin cr e as in g al le le s ar e re p o rt e d se p ar at e ly fo r w h it e an d b la ck A d d H e al th st u d y m e m b e rs m e e ti n g g e n o ty p e q u al it y co n tr o l cr it e ri a. d o i:1 0 .1 3 7 1 /j o u rn al .p o n e .0 1 0 1 5 9 6 .t 0 0 2\nPLOS ONE | www.plosone.org 4 July 2014 | Volume 9 | Issue 7 | e101596\n73% power in the black Sibling Pairs sample. However, the Add Health Sibling Pairs is slightly underpowered as a dataset to test black-white differences in genetic risk score associations with BMI change; power for these analyses was below 50%.\nWeighting GRS SNPs by the effect-sizes estimated in GWAS had a modest effect on genetic risk score performance. Because weights customize the contribution of each SNP to the GRS according to its effect on BMI, the expectation is that a weighted GRS will provide superior prediction as compared to a GRS in which all SNPs are weighted equally. For most of the phenotypes analyzed, test-statistics and effect sizes were similar for weighted and un-weighted scores (Table 4).\nWe also analyzed genetic associations with a more direct measure of adiposity: the ratio of waist-circumference to height [23–25]. Similar to results for BMI, white and black young adults\nat higher genetic risk as measured by GRS-E had higher waistheight ratios as compared to their lower genetic risk peers (for whites r = 0.16, for blacks r = 0.13; p,0.001 for whites and p, 0.01 for blacks; as with BMI, the waist-height ratio was standardized in each racial group). Genetic associations did not differ between white and black samples (p = 0.86).\nAs a final test of the performance of GRS-E, we examined sibling differences in BMI using fixed effects regression techniques. Because previous race-stratified analyses yielded parallel results for whites and blacks with BMI, we pooled samples for the sibling differences analysis (for added stringency, we also included the first four principal components). Results were little changed from our original analyses. Across the Wave 3 and 4 assessments, the sibling with the higher genetic risk score had higher BMI (b = 0.62, p = 0.06; BMI was unstandardized in this analysis).\nPLOS ONE | www.plosone.org 5 July 2014 | Volume 9 | Issue 7 | e101596\nTo test whether incorporating SNPs discovered in GWAS of African-descent individuals would improve GRS performance in African Americans, we compared the performance of GRS-E to that of GRS-A and GRS-Omni in the black Add Health Sibling Pairs (n = 667). Table 5 reports results for the analyses described above using the alternate genetic risk scores. For BMI, results were similar for all genetic risk scores (see also Figure 1). Inclusion of SNPs discovered in the Monda et al. [18] GWAS of BMI in African Americans and Africans modestly improved the performance of the genetic risk score (GRS-A and GRS-Omni scores performed better than GRS-E in the black Sibling Pairs)."
+    }, {
+      "heading" : "Discussion",
+      "text" : "We used data from a prospective longitudinal study to examine the effects of cumulative genetic risk on body-mass phenotypes in white and black young adults. Consistent with findings from previous studies using samples of white adults [4,14,26], individuals at higher genetic risk had higher BMI, were more likely to be obese, and had higher levels of body fat (as measured by waistheight ratio) compared to their lower genetic risk peers. A novel finding of our study is that magnitudes of genetic associations, especially with BMI, were similar in white and black samples. Results for white and black samples differed in analyses of change over time. In the white sample, young adults at higher genetic risk gained more weight and were more likely to become obese as compared to those at lower genetic risk. In the black sample, these associations were in the same direction, but were smaller in magnitude and not statistically significant. We further showed that alternate genetic risk scores derived from GWAS of Europeans and from GWAS of African Americans and Africans performed similarly in predicting BMI and obesity in African American young adults. We also note that although the risk score created from the GWAS on African Americans utilized a small number of SNPs, the association is unlikely to be driven by a single SNP given\nthe fact that the weights cited in the GWAS [18] are relatively consistent with the least predictive SNP being only half as predictive as the most predictive SNP. In contrast, the most predictive SNP in the Speliotes et al. [7] GWAS is ten times predictive as many of the other SNPs.\nThe magnitudes of genetic associations with obesity phenotypes were small; e.g. a one SD increase in GRS-E predicted a 0.14 SD increase in BMI at Wave 3 for those in the black sample. These translate to roughly a 0.9 point increase in BMI. Using the genetic risk score as an individual-level risk assessment would produce too many false positive and false negative results to recommend immediate clinical translation [27]. Nevertheless, the small effects we report are consistent with effect sizes for many other biomarkers routinely assessed in clinical settings [28]. Moreover, sibling comparison analyses showed that genetic associations with BMI were detectable within sibling pairs, indicating that genetic effects, although small, are apparent even in individuals who share those risk factors for obesity defined by the family environment. More research is needed to understand how GWAS-discovered genetic risks combine with other risk factors in order to understand complex traits [16].\nOur findings have important implications for the use of genetic risk scores in obesity research. Our study provides evidence of transethnic replication of a genetic risk score for obesity based on GWAS discoveries in European-descent samples in a populationbased black cohort. Some of the SNPs discovered in GWAS of obesity in European-descent samples have been replicated in black samples [18,29], but transethnic replication a GWAS-based genetic risk score for obesity was uncertain. A recent analysis of data from the Atherosclerosis Risk in Communities (ARIC) study found that associations between the genetic risk score and obesity were weaker in blacks as compared to whites [14]. In that study, the genetic association with body-mass-index was r = 0.13 in whites, a little less than what we report from Add Health, but\nPLOS ONE | www.plosone.org 6 July 2014 | Volume 9 | Issue 7 | e101596\namong blacks the magnitude of this association was reduced by two thirds. Research is needed to determine the cause of the discrepancy between results from the ARIC and Add Health cohorts. Three obvious differences in the cohorts are their age– ARIC participants are in their 50s and 60s whereas Add Health participants are in their 20s; the timing of assessments–the ARIC cohort was assessed in the late 1980s and 1990s whereas the Add Health cohort was assessed in the 2000s; and the geographic locations where individuals in the samples lived–black ARIC participants lived in North Carolina and Mississippi whereas Add Health participants were representatively drawn from across the United States. Thus, age, period, and cohort factors as well as factors related to place all represent candidate explanations [4,26,30].\nDevelopmental processes, gene-environment correlations, and gene-environment interactions are promising targets for future inquiry into variation in the effects of obesity genetic risk scores [31–33]. Research in European-descent samples has identified rapid childhood growth, partly arising from decreased satiety response, as a mediator of genetic risk for obesity and points to sedentary lifestyle and poor diet as important moderators of genetic risk for obesity [10,11,14,34]. These factors and others may differ between Add Health black respondents and the older African Americans examined in other studies, contributing to the small differences in genetic associations with obesity that we observe at Wave 4. Now that this study has provided evidence for\ntransethnic replication of the genetic risk score in black young adults, future research can investigate the role of gene-environment interactions in determining genetic associations with obesity in blacks.\nWe acknowledge limitations. First, we provide evidence for transethic replication of genetic risk score associations with obesity phenotypes in white and black young adults, but results may not generalize to other ethnic groups. Additional studies focusing on other populations are needed. Second, the obesity phenotypes we examined were derived from anthropometric assessments that may capture body-size variation due to muscle mass as well as adiposity. We did replicate genetic associations with body-mass index using waist-circumference-to-height ratio, a superior measure of adiposity (that was available only for Wave 4). Finally, Add Health is a nationally representative sample, but the Sibling Pairs Study subsample that we analyzed is smaller and may not represent children who do not have siblings. As with all genetic research, replication of findings in additional samples is a priority."
+    }, {
+      "heading" : "Author Contributions",
+      "text" : "Conceived and designed the experiments: BWD DWB MBM JDB. Analyzed the data: BWD JDB. Contributed reagents/materials/analysis tools: AS KMH MBM. Wrote the paper: BWD DWB KMH AS MBM JDB."
+    } ],
+    "references" : [ {
+      "title" : "From obesity genetics to the future of personalized obesity therapy",
+      "author" : [ "JS El-Sayed Moustafa", "P Froguel" ],
+      "venue" : "Nat Rev Endocrinol",
+      "citeRegEx" : "1",
+      "shortCiteRegEx" : "1",
+      "year" : 2013
+    }, {
+      "title" : "Genetic markers of adult obesity risk are associated with greater early infancy weight gain and growth",
+      "author" : [ "CE Elks", "RJF Loos", "SJ Sharp", "C Langenberg", "SM Ring" ],
+      "venue" : "PLoS Med",
+      "citeRegEx" : "2",
+      "shortCiteRegEx" : "2",
+      "year" : 2010
+    }, {
+      "title" : "Adult obesity susceptibility variants are associated with greater childhood weight gain and a faster tempo of growth: the 1946 British Birth Cohort Study",
+      "author" : [ "C Elks", "R Loos", "R Hardy" ],
+      "venue" : "Am J Clin Nutr",
+      "citeRegEx" : "3",
+      "shortCiteRegEx" : "3",
+      "year" : 2012
+    }, {
+      "title" : "Polygenic Risk, Rapid Childhood Growth, and the Development of Obesity: Evidence from a 4-Decade Longitudinal Study",
+      "author" : [ "DW Belsky", "TE Moffitt", "R Houts", "GG Bennett", "AK Biddle" ],
+      "venue" : "Arch Pediatr Adolesc Med 166/",
+      "citeRegEx" : "4",
+      "shortCiteRegEx" : "4",
+      "year" : 2012
+    }, {
+      "title" : "Genetic approaches to understanding human obesity",
+      "author" : [ "S Ramachandrappa", "I Farooqi" ],
+      "venue" : "J Clin",
+      "citeRegEx" : "5",
+      "shortCiteRegEx" : "5",
+      "year" : 2011
+    }, {
+      "title" : "Genomics, type 2 diabetes, and obesity",
+      "author" : [ "MI McCarthy" ],
+      "venue" : "N Engl J Med",
+      "citeRegEx" : "6",
+      "shortCiteRegEx" : "6",
+      "year" : 2010
+    }, {
+      "title" : "Association analyses of 249,796 individuals reveal 18 new loci associated with body mass",
+      "author" : [ "EK Speliotes", "CJ Willer", "SI Berndt", "KL Monda", "G Thorleifsson" ],
+      "venue" : "index. Nat",
+      "citeRegEx" : "7",
+      "shortCiteRegEx" : "7",
+      "year" : 2010
+    }, {
+      "title" : "Power and predictive accuracy of polygenic risk scores",
+      "author" : [ "F Dudbridge" ],
+      "venue" : "PLoS Genet",
+      "citeRegEx" : "9",
+      "shortCiteRegEx" : "9",
+      "year" : 2013
+    }, {
+      "title" : "Physical activity attenuates the genetic predisposition to obesity in 20,000 men and women from EPIC-Norfolk prospective population study",
+      "author" : [ "S Li", "JH Zhao", "J Luan", "U Ekelund", "RN Luben" ],
+      "venue" : "PLoS Med",
+      "citeRegEx" : "10",
+      "shortCiteRegEx" : "10",
+      "year" : 2010
+    }, {
+      "title" : "Sugarsweetened beverages and genetic risk of obesity",
+      "author" : [ "Q Qi", "AY Chu", "JH Kang", "MK Jensen", "GC Curhan" ],
+      "venue" : "N Engl J Med",
+      "citeRegEx" : "11",
+      "shortCiteRegEx" : "11",
+      "year" : 2012
+    }, {
+      "title" : "Beyond base pairs to bedside: a population perspective on how genomics can improve health",
+      "author" : [ "MJ Khoury", "M Gwinn", "MS Bowen", "WD Dotson" ],
+      "venue" : "Am J Public Health",
+      "citeRegEx" : "12",
+      "shortCiteRegEx" : "12",
+      "year" : 2012
+    }, {
+      "title" : "Principal components analysis corrects for stratification in genome-wide association studies",
+      "author" : [ "AL Price", "NJ Patterson", "RM Plenge", "ME Weinblatt", "NA Shadick" ],
+      "venue" : "Nat Gen",
+      "citeRegEx" : "13",
+      "shortCiteRegEx" : "13",
+      "year" : 2006
+    }, {
+      "title" : "Development and evaluation of a genetic risk score for obesity",
+      "author" : [ "DW Belsky", "TE Moffitt", "K Sugden", "B Williams", "R Houts" ],
+      "venue" : "Biodemography Soc Biol",
+      "citeRegEx" : "14",
+      "shortCiteRegEx" : "14",
+      "year" : 2013
+    }, {
+      "title" : "Finescaled human genetic structure revealed by SNP microarrays",
+      "author" : [ "J Xing", "WS Watkins", "DJ Witherspoon", "Y Zhang", "SL Guthery" ],
+      "venue" : "Genome Res",
+      "citeRegEx" : "15",
+      "shortCiteRegEx" : "15",
+      "year" : 2009
+    }, {
+      "title" : "Genetics in Population Health Science: Strategies and Opportunities",
+      "author" : [ "DW Belsky", "TE Moffitt", "A Caspi" ],
+      "venue" : "Am J Public Health doi:",
+      "citeRegEx" : "16",
+      "shortCiteRegEx" : "16",
+      "year" : 2013
+    }, {
+      "title" : "The National Longitudinal Study of Adolescent Health (Add Health) Sibling Pairs Data",
+      "author" : [ "KH Harris", "CT Halpern", "A Haberstick BC Smolen" ],
+      "venue" : "Twin Res Hum Genet",
+      "citeRegEx" : "17",
+      "shortCiteRegEx" : "17",
+      "year" : 2013
+    }, {
+      "title" : "A meta-analysis identifies new loci associated with body mass index in individuals of African ancestry",
+      "author" : [ "KL Monda", "GK Chen", "KC Taylor", "C Palmer", "TL Edwards" ],
+      "venue" : "Nat Gen",
+      "citeRegEx" : "18",
+      "shortCiteRegEx" : "18",
+      "year" : 2013
+    }, {
+      "title" : "Add Health Wave IV Documentation Report: Cardiovascular and Anthropometric Measures. [WWW Document",
+      "author" : [ "P Entzel", "EA Whitsel", "A Richardson", "J Tabor", "S Hallquist" ],
+      "venue" : null,
+      "citeRegEx" : "19",
+      "shortCiteRegEx" : "19",
+      "year" : 2009
+    }, {
+      "title" : "Hierarchical Linear Models: Applications and Data Analysis Methods",
+      "author" : [ "Raudenbush SW", "Bryk AS" ],
+      "venue" : "2nd ed. Sage Publications: Thousand Oaks, CA,",
+      "citeRegEx" : "20",
+      "shortCiteRegEx" : "20",
+      "year" : 2002
+    }, {
+      "title" : "Population stratification and spurious allelic association",
+      "author" : [ "LR Cardon", "LJ Palmer" ],
+      "venue" : null,
+      "citeRegEx" : "21",
+      "shortCiteRegEx" : "21",
+      "year" : 2003
+    }, {
+      "title" : "New approaches to population stratification in genome-wide association studies",
+      "author" : [ "AL Price", "NA Zaitlen", "D Reich", "N Patterson" ],
+      "venue" : "Nat Rev Gen",
+      "citeRegEx" : "22",
+      "shortCiteRegEx" : "22",
+      "year" : 2010
+    }, {
+      "title" : "Waist-to-height ratio: a simple option for determining excess central adiposity in young people",
+      "author" : [ "SP Garnett", "LA Baur", "CT Cowell" ],
+      "venue" : "Int J Obes",
+      "citeRegEx" : "23",
+      "shortCiteRegEx" : "23",
+      "year" : 2008
+    }, {
+      "title" : "The predictive value of different measures of obesity for incident cardiovascular events and mortality",
+      "author" : [ "HJ Schneider", "N Friedrich", "J Klotsche", "L Pieper", "M Nauck" ],
+      "venue" : "J Clin Endocrinol Metab",
+      "citeRegEx" : "24",
+      "shortCiteRegEx" : "24",
+      "year" : 2010
+    }, {
+      "title" : "Waist-to-height ratio is a better screening tool than waist circumference and BMI for adult cardiometabolic risk factors: Systematic review and meta-analysis",
+      "author" : [ "M Ashwell", "P Gunn", "S Gibson" ],
+      "venue" : "Obes Rev",
+      "citeRegEx" : "25",
+      "shortCiteRegEx" : "25",
+      "year" : 2012
+    }, {
+      "title" : "The Positive Association of Obesity Variants with Adulthood Adiposity Strengthens over an 80-Year Period: A Gene-by-Birth Year Interaction",
+      "author" : [ "EW Demerath", "AC Choh", "W Johnson", "JE Curran", "M Lee" ],
+      "venue" : "Hum Hered",
+      "citeRegEx" : "26",
+      "shortCiteRegEx" : "26",
+      "year" : 2013
+    }, {
+      "title" : "Genetic determinants of common obesity and their value in prediction",
+      "author" : [ "RJF Loos" ],
+      "venue" : "Best Pract Res Clin Endocrinol Metab",
+      "citeRegEx" : "27",
+      "shortCiteRegEx" : "27",
+      "year" : 2012
+    }, {
+      "title" : "Comparison of Effect Sizes Associated With Biomarkers Reported in Highly Cited Individual Articles and in Subsequent Meta-analyses",
+      "author" : [ "J Ioannidis", "O Panagiotou" ],
+      "venue" : null,
+      "citeRegEx" : "28",
+      "shortCiteRegEx" : "28",
+      "year" : 2011
+    }, {
+      "title" : "Implication of European-derived adiposity loci in African Americans",
+      "author" : [ "JM Hester", "MR Wing", "J Li", "ND Palmer", "J Xu" ],
+      "venue" : "Int J Obes",
+      "citeRegEx" : "29",
+      "shortCiteRegEx" : "29",
+      "year" : 2012
+    }, {
+      "title" : "Population composition, public policy, and the genetics of smoking",
+      "author" : [ "JD Boardman", "CL Blalock", "FC Pampel", "PK Hatemi", "AC Heath" ],
+      "venue" : "Demography",
+      "citeRegEx" : "30",
+      "shortCiteRegEx" : "30",
+      "year" : 2011
+    }, {
+      "title" : "Genetic influences in childhood obesity: Recent progress and recommendations for experimental designs",
+      "author" : [ "JR Fernandez", "YC Klimentidis", "A Dulin-Keita", "K Casazza" ],
+      "venue" : "Int J Obes",
+      "citeRegEx" : "31",
+      "shortCiteRegEx" : "31",
+      "year" : 2012
+    }, {
+      "title" : "Defining the Environment in Gene– Environment Research: Lessons From Social Epidemiology",
+      "author" : [ "JD Boardman", "J Daw", "J Freese" ],
+      "venue" : "Am J Public Health 103/S1: S64–S72",
+      "citeRegEx" : "32",
+      "shortCiteRegEx" : "32",
+      "year" : 2013
+    }, {
+      "title" : "Is the gene-environment interaction paradigm relevant to genome-wide studies? The case of education and body mass index. Demography, doi 10.1007/ s13524-013-0259-4",
+      "author" : [ "JD Boardman", "BW Domingue", "CL Blalock", "BC Haberstick", "KM Harris" ],
+      "venue" : null,
+      "citeRegEx" : "33",
+      "shortCiteRegEx" : "33",
+      "year" : 2013
+    }, {
+      "title" : "Satiety mechanisms in genetic risk of obesity",
+      "author" : [ "CH Llewellyn", "M Trzaskowski", "C Hendrika", "M van Jaarsveld", "R Plomin" ],
+      "venue" : "JAMA Pediatrics (In press)",
+      "citeRegEx" : "34",
+      "shortCiteRegEx" : "34",
+      "year" : 2013
+    }, {
+      "title" : "SNAP: A web-based tool for identification and annotation of proxy SNPs using HapMap. Bioinformatics 24: 2938–2939",
+      "author" : [ "AD Johnson", "RE Handsaker", "S Pulit", "MM Nizzari", "CJ O’Donnell" ],
+      "venue" : "Polygenic Risk for Obesity PLOS ONE | www.plosone.org",
+      "citeRegEx" : "35",
+      "shortCiteRegEx" : "35",
+      "year" : 2008
+    } ],
+    "referenceMentions" : [ {
+      "referenceID" : 0,
+      "context" : "Genome-wide association studies (GWAS) have discovered genetic loci that associate with obesity risk [1].",
+      "startOffset" : 101,
+      "endOffset" : 104
+    }, {
+      "referenceID" : 3,
+      "context" : "In turn, this rapid growth early in life functions as a mediator of genetic risk for adult obesity [4].",
+      "startOffset" : 99,
+      "endOffset" : 102
+    }, {
+      "referenceID" : 4,
+      "context" : "These observations suggest the possibility that genetic information can inform research to understand pathogenesis of obesity in childhood, with the goal of improving prevention and treatment [5,6].",
+      "startOffset" : 192,
+      "endOffset" : 197
+    }, {
+      "referenceID" : 5,
+      "context" : "These observations suggest the possibility that genetic information can inform research to understand pathogenesis of obesity in childhood, with the goal of improving prevention and treatment [5,6].",
+      "startOffset" : 192,
+      "endOffset" : 197
+    }, {
+      "referenceID" : 6,
+      "context" : "Single-nucleotide polymorphisms (SNPs) discovered in GWAS of obesity phenotypes have small effects; the most penetrant SNP predicts an increase of less than one half of one BMI point in adult samples [7].",
+      "startOffset" : 200,
+      "endOffset" : 203
+    }, {
+      "referenceID" : 7,
+      "context" : "Combining information on multiple GWAS discovered SNPs to compute a ‘‘genetic risk score’’ can provide a tool for investigating genetic contributions to obesity etiology in samples far smaller than are needed for GWAS [8,9].",
+      "startOffset" : 218,
+      "endOffset" : 223
+    }, {
+      "referenceID" : 10,
+      "context" : "Expanding the scope of genetic research to consider other populations is a public health priority [12].",
+      "startOffset" : 98,
+      "endOffset" : 102
+    }, {
+      "referenceID" : 11,
+      "context" : "Allele frequencies and patterns of linkage disequilibrium vary across racial and ethnic groups [13].",
+      "startOffset" : 95,
+      "endOffset" : 99
+    }, {
+      "referenceID" : 12,
+      "context" : "This problem is compounded when GWAS discoveries are followed up in existing databases that may not contain the original GWASdiscovered SNP and proxies must be selected [14].",
+      "startOffset" : 169,
+      "endOffset" : 173
+    }, {
+      "referenceID" : 13,
+      "context" : "Genetic risk scores are a promising tool for population health research using such datasets but relatively small differences in allele frequency and LD patterns across groups may complicate the interpretation of genetic risk associations [15,16].",
+      "startOffset" : 238,
+      "endOffset" : 245
+    }, {
+      "referenceID" : 14,
+      "context" : "Genetic risk scores are a promising tool for population health research using such datasets but relatively small differences in allele frequency and LD patterns across groups may complicate the interpretation of genetic risk associations [15,16].",
+      "startOffset" : 238,
+      "endOffset" : 245
+    }, {
+      "referenceID" : 15,
+      "context" : "The Add Health Sibling Pairs [17] data used here consists of 1,595 individuals (58% white, 42% black) from 965 families (564 sibling pairs, 30 sibling trios, 2 sibling quads, and 369 singletons) who were genotyped from samples collected during Wave 4 of the Add Health study (this phase of the Add Health study genotyped only the Sibling Pairs).",
+      "startOffset" : 29,
+      "endOffset" : 33
+    }, {
+      "referenceID" : 11,
+      "context" : "Principal components, which are commonly used to adjust for population stratification in GWAS [13], were computed with 231, 649 SNPs (selected from the full set of SNPs to be in linkage equilibria) from chromosomes 1–22.",
+      "startOffset" : 94,
+      "endOffset" : 98
+    }, {
+      "referenceID" : 6,
+      "context" : "The genetic risk score for European-descent populations (GRS-E) included 31 SNPs discovered in GWAS of adult BMI in European-descent individuals [7] (this risk score is available through the restricted use mechanism of Add Health).",
+      "startOffset" : 145,
+      "endOffset" : 148
+    }, {
+      "referenceID" : 16,
+      "context" : "The genetic risk score for African-Americans (GRS-A) included 8 SNPs discovered in GWAS of adult BMI in African American and African individuals [18].",
+      "startOffset" : 145,
+      "endOffset" : 149
+    }, {
+      "referenceID" : 16,
+      "context" : "[18], we use unweighted risk scores in most analyses although we also report weighted risk scores for GRS-E (using weights from [7]) to examine sensitivity to the weighting.",
+      "startOffset" : 0,
+      "endOffset" : 4
+    }, {
+      "referenceID" : 6,
+      "context" : "[18], we use unweighted risk scores in most analyses although we also report weighted risk scores for GRS-E (using weights from [7]) to examine sensitivity to the weighting.",
+      "startOffset" : 128,
+      "endOffset" : 131
+    }, {
+      "referenceID" : 17,
+      "context" : "Weight and height were measured during in-person interviews [19].",
+      "startOffset" : 60,
+      "endOffset" : 64
+    }, {
+      "referenceID" : 18,
+      "context" : "All regressions were estimated using multilevel models (random intercept) to account for the non-independence of observations within families [20] and were adjusted for age and sex.",
+      "startOffset" : 142,
+      "endOffset" : 146
+    }, {
+      "referenceID" : 3,
+      "context" : "First, because a previous study reported that the predictive performance of an obesity genetic risk score differed in black and white populations [4], we tested for differences in genetic associations with obesity phenotypes between blacks and whites.",
+      "startOffset" : 146,
+      "endOffset" : 149
+    }, {
+      "referenceID" : 19,
+      "context" : "Second, to rule out confounding by unmeasured population stratification [21], we conducted a sibling difference analysis using family fixed effects.",
+      "startOffset" : 72,
+      "endOffset" : 76
+    }, {
+      "referenceID" : 20,
+      "context" : "Sibling difference analyses provide a control for any unmeasured population stratification [22].",
+      "startOffset" : 91,
+      "endOffset" : 95
+    }, {
+      "referenceID" : 15,
+      "context" : "Note: Data are for the Sibling Pairs of the National Longitudinal Study of Adolescent Health [17].",
+      "startOffset" : 93,
+      "endOffset" : 97
+    }, {
+      "referenceID" : 15,
+      "context" : "Note: All data come from the National Longitudinal Study of Adolescent Health Sibling Pairs [17].",
+      "startOffset" : 92,
+      "endOffset" : 96
+    }, {
+      "referenceID" : 18,
+      "context" : "Regressions were estimated using multi-level models [20] to account for the clustering of observations within families and adjusted for age and sex.",
+      "startOffset" : 52,
+      "endOffset" : 56
+    }, {
+      "referenceID" : 16,
+      "context" : "[18] GWAS of BMI in African Americans and Africans modestly improved the performance of the genetic risk score (GRS-A and GRS-Omni scores performed better than GRS-E in the black Sibling Pairs).",
+      "startOffset" : 0,
+      "endOffset" : 4
+    }, {
+      "referenceID" : 3,
+      "context" : "Consistent with findings from previous studies using samples of white adults [4,14,26], individuals at higher genetic risk had higher BMI, were more likely to be obese, and had higher levels of body fat (as measured by waistheight ratio) compared to their lower genetic risk peers.",
+      "startOffset" : 77,
+      "endOffset" : 86
+    }, {
+      "referenceID" : 12,
+      "context" : "Consistent with findings from previous studies using samples of white adults [4,14,26], individuals at higher genetic risk had higher BMI, were more likely to be obese, and had higher levels of body fat (as measured by waistheight ratio) compared to their lower genetic risk peers.",
+      "startOffset" : 77,
+      "endOffset" : 86
+    }, {
+      "referenceID" : 24,
+      "context" : "Consistent with findings from previous studies using samples of white adults [4,14,26], individuals at higher genetic risk had higher BMI, were more likely to be obese, and had higher levels of body fat (as measured by waistheight ratio) compared to their lower genetic risk peers.",
+      "startOffset" : 77,
+      "endOffset" : 86
+    }, {
+      "referenceID" : 16,
+      "context" : "We also note that although the risk score created from the GWAS on African Americans utilized a small number of SNPs, the association is unlikely to be driven by a single SNP given the fact that the weights cited in the GWAS [18] are relatively consistent with the least predictive SNP being only half as predictive as the most predictive SNP.",
+      "startOffset" : 225,
+      "endOffset" : 229
+    }, {
+      "referenceID" : 6,
+      "context" : "[7] GWAS is ten times predictive as many of the other SNPs.",
+      "startOffset" : 0,
+      "endOffset" : 3
+    }, {
+      "referenceID" : 25,
+      "context" : "Using the genetic risk score as an individual-level risk assessment would produce too many false positive and false negative results to recommend immediate clinical translation [27].",
+      "startOffset" : 177,
+      "endOffset" : 181
+    }, {
+      "referenceID" : 26,
+      "context" : "Nevertheless, the small effects we report are consistent with effect sizes for many other biomarkers routinely assessed in clinical settings [28].",
+      "startOffset" : 141,
+      "endOffset" : 145
+    }, {
+      "referenceID" : 14,
+      "context" : "More research is needed to understand how GWAS-discovered genetic risks combine with other risk factors in order to understand complex traits [16].",
+      "startOffset" : 142,
+      "endOffset" : 146
+    }, {
+      "referenceID" : 16,
+      "context" : "Some of the SNPs discovered in GWAS of obesity in European-descent samples have been replicated in black samples [18,29], but transethnic replication a GWAS-based genetic risk score for obesity was uncertain.",
+      "startOffset" : 113,
+      "endOffset" : 120
+    }, {
+      "referenceID" : 27,
+      "context" : "Some of the SNPs discovered in GWAS of obesity in European-descent samples have been replicated in black samples [18,29], but transethnic replication a GWAS-based genetic risk score for obesity was uncertain.",
+      "startOffset" : 113,
+      "endOffset" : 120
+    }, {
+      "referenceID" : 12,
+      "context" : "A recent analysis of data from the Atherosclerosis Risk in Communities (ARIC) study found that associations between the genetic risk score and obesity were weaker in blacks as compared to whites [14].",
+      "startOffset" : 195,
+      "endOffset" : 199
+    }, {
+      "referenceID" : 3,
+      "context" : "Thus, age, period, and cohort factors as well as factors related to place all represent candidate explanations [4,26,30].",
+      "startOffset" : 111,
+      "endOffset" : 120
+    }, {
+      "referenceID" : 24,
+      "context" : "Thus, age, period, and cohort factors as well as factors related to place all represent candidate explanations [4,26,30].",
+      "startOffset" : 111,
+      "endOffset" : 120
+    }, {
+      "referenceID" : 28,
+      "context" : "Thus, age, period, and cohort factors as well as factors related to place all represent candidate explanations [4,26,30].",
+      "startOffset" : 111,
+      "endOffset" : 120
+    }, {
+      "referenceID" : 8,
+      "context" : "Research in European-descent samples has identified rapid childhood growth, partly arising from decreased satiety response, as a mediator of genetic risk for obesity and points to sedentary lifestyle and poor diet as important moderators of genetic risk for obesity [10,11,14,34].",
+      "startOffset" : 266,
+      "endOffset" : 279
+    }, {
+      "referenceID" : 9,
+      "context" : "Research in European-descent samples has identified rapid childhood growth, partly arising from decreased satiety response, as a mediator of genetic risk for obesity and points to sedentary lifestyle and poor diet as important moderators of genetic risk for obesity [10,11,14,34].",
+      "startOffset" : 266,
+      "endOffset" : 279
+    }, {
+      "referenceID" : 12,
+      "context" : "Research in European-descent samples has identified rapid childhood growth, partly arising from decreased satiety response, as a mediator of genetic risk for obesity and points to sedentary lifestyle and poor diet as important moderators of genetic risk for obesity [10,11,14,34].",
+      "startOffset" : 266,
+      "endOffset" : 279
+    }, {
+      "referenceID" : 32,
+      "context" : "Research in European-descent samples has identified rapid childhood growth, partly arising from decreased satiety response, as a mediator of genetic risk for obesity and points to sedentary lifestyle and poor diet as important moderators of genetic risk for obesity [10,11,14,34].",
+      "startOffset" : 266,
+      "endOffset" : 279
+    } ],
+    "year" : 2014,
+    "abstractText" : "Objective: To test transethnic replication of a genetic risk score for obesity in white and black young adults using a national sample with longitudinal data. Design and Methods: A prospective longitudinal study using the National Longitudinal Study of Adolescent Health Sibling Pairs (n = 1,303). Obesity phenotypes were measured from anthropometric assessments when study members were aged 18–26 and again when they were 24–32. Genetic risk scores were computed based on published genome-wide association study discoveries for obesity. Analyses tested genetic associations with body-mass index (BMI), waist-height ratio, obesity, and change in BMI over time. Results: White and black young adults with higher genetic risk scores had higher BMI and waist-height ratio and were more likely to be obese compared to lower genetic risk age-peers. Sibling analyses revealed that the genetic risk score was predictive of BMI net of risk factors shared by siblings. In white young adults only, higher genetic risk predicted increased risk of becoming obese during the study period. In black young adults, genetic risk scores constructed using loci identified in European and African American samples had similar predictive power. Conclusion: Cumulative information across the human genome can be used to characterize individual level risk for obesity. Measured genetic risk accounts for only a small amount of total variation in BMI among white and black young adults. Future research is needed to identify modifiable environmental exposures that amplify or mitigate genetic risk for elevated BMI. Citation: Domingue BW, Belsky DW, Harris KM, Smolen A, McQueen MB, et al. (2014) Polygenic Risk Predicts Obesity in Both White and Black Young Adults. PLoS ONE 9(7): e101596. doi:10.1371/journal.pone.0101596 Editor: Monica Uddin, Wayne State University, United States of America Received November 22, 2013; Accepted May 13, 2014; Published July 3, 2014 Copyright: 2014 Domingue et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Funding: Add Health is funded by grant P01-HD31921 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development, with cooperative funding from 23 other federal agencies and foundations. Genotyping of the Sibling Pairs data was funded by the NIH/NICHD (R01HD060726). Additional research funds were provided by the NIH/NICHD funded CU Population Center (R24HD066613). DWB is supported in part by T32-AG000029. JDB had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Competing Interests: The authors have declared that no competing interests exist. * Email: boardman@colorado.edu",
+    "creator" : "3B2 Total Publishing System 7.51n/W"
+  }
+}

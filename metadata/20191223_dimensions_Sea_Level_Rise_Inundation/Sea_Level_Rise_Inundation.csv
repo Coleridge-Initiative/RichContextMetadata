@@ -1,21 +1,17 @@
-datasets,doi,journal,search_term,title
-dataset-624,10.1080/09613218.2019.1642731,"{'id': 'jour.1137999', 'title': 'Building Research & Information'}",Sea Level Rise Inundation,Assessing voluntary resilience standards and impacts of flood risk information
-dataset-624,10.1016/j.ecss.2019.106512,"{'id': 'jour.1120689', 'title': 'Estuarine Coastal and Shelf Science'}",Sea Level Rise Inundation,Effect of tidal flooding on ecosystem CO2 and CH4 fluxes in a salt marsh in the Yellow River Delta
-dataset-624,10.1007/978-981-15-0291-0,,Sea Level Rise Inundation,"APAC 2019, Proceedings of the 10th International Conference on Asian and Pacific Coasts, 2019, Hanoi, Vietnam"
-dataset-624,10.1007/978-981-13-6822-6,,Sea Level Rise Inundation,Smart Environment for Smart Cities
-dataset-624,10.1007/978-3-030-14294-0,,Sea Level Rise Inundation,"Australian Coastal Systems, Beaches, Barriers and Sediment Compartments"
-dataset-624,10.1007/978-3-030-30938-1,,Sea Level Rise Inundation,"INCREaSE 2019, Proceedings of the 2nd International Congress on Engineering and Sustainability in the XXI Century"
-dataset-624,10.1007/978-981-13-7067-0,,Sea Level Rise Inundation,"Applications of Geomatics in Civil Engineering, Select Proceedings of ICGCE 2018"
-dataset-624,10.1007/978-981-13-9749-3,,Sea Level Rise Inundation,"ICSBE 2018, Proceedings of the 9th International Conference on Sustainable Built Environment"
-dataset-624,10.1007/978-3-319-93336-8,,Sea Level Rise Inundation,Handbook of Climate Change Resilience
-dataset-624,10.1007/978-981-15-0802-8,,Sea Level Rise Inundation,"CIGOS 2019, Innovation for Sustainable Infrastructure, Proceedings of the 5th International Conference on Geotechnics, Civil Engineering Works and Structures"
-dataset-624,10.1007/978-981-15-1971-0,,Sea Level Rise Inundation,"ICDSME 2019, Proceedings of the 1st International Conference on Dam Safety Management and Engineering"
-dataset-624,10.1007/978-3-030-30938-1_5,,Sea Level Rise Inundation,"Projections of Maximum Tidal Inundation Limits of Estuaries and Lagoons of the South Algarve, Forced by Mean Sea Level Rise: RCP8.5 Scenario"
-dataset-624,10.1007/978-981-13-9061-6,,Sea Level Rise Inundation,"Framing in Sustainability Science, Theoretical and Practical Approaches"
-dataset-624,10.1007/978-3-030-16848-3,,Sea Level Rise Inundation,"Techno-Societal 2018, Proceedings of the 2nd International Conference on Advanced Technologies for Societal Applications - Volume 1"
-dataset-624,10.1007/978-981-15-2184-3,,Sea Level Rise Inundation,Geotechnics for Sustainable Infrastructure Development
-dataset-624,10.1007/978-981-15-0802-8_164,,Sea Level Rise Inundation,"Climate Change Impact on Urban Flooding in Quynhon City, Vietnam"
-dataset-624,10.1525/9780520957329-011,,Sea Level Rise Inundation,8. Suisun Marsh Today: Agents of Change
-dataset-624,10.1093/aob/mcz204,"{'id': 'jour.1017220', 'title': 'Annals of Botany'}",Sea Level Rise Inundation,The gathering storm: optimizing management of coastal ecosystems in the face of a climate-driven threat
-dataset-624,10.1038/s43017-019-0002-9,"{'id': 'jour.1363507', 'title': 'Nature Reviews Earth & Environment'}",Sea Level Rise Inundation,Sea-level rise and human migration
-dataset-624,10.2478/quageo-2018-0029,"{'id': 'jour.1144581', 'title': 'Quaestiones Geographicae'}",Sea Level Rise Inundation,"The Socioeconomic Vulnerability of Coastal Communities to Abrasion In Samas, Bantul Regency, Indonesia"
+datasets,doi,journal,search_term,title,url
+dataset-622,10.1016/j.trd.2019.09.008,"{'id': 'jour.1050834', 'title': 'Transportation Research Part D Transport and Environment'}",Sea Level Rise Inundation,Tsunami-induced traffic evacuation strategy optimization,
+dataset-622,10.2139/ssrn.3441444,"{'id': 'jour.1276748', 'title': 'SSRN Electronic Journal'}",Sea Level Rise Inundation,Legal Issues When Managing Public Roads Affected by Sea Level Rise: North Carolina,
+dataset-622,10.2139/ssrn.3441447,"{'id': 'jour.1276748', 'title': 'SSRN Electronic Journal'}",Sea Level Rise Inundation,"Road Vulnerabilities to Projected Sea-Level Rise by County: North Carolina, South Carolina, and Georgia",
+dataset-622,10.1016/j.crm.2018.03.005,Climate Risk Management,Sea Level Rise Inundation,American archives and climate change: risks and adaptation,https://doi.org/10.1016/j.crm.2018.03.005
+dataset-622,10.1145/3232755.3232775,,Sea Level Rise Inundation,Lights Out: Climate Change Risk to Internet Infrastructure,http://dl.acm.org/ft_gateway.cfm?id=3232775&type=pdf
+dataset-622,10.4236/ajcc.2017.62020,American Journal of Climate Change,Sea Level Rise Inundation,"Mechanisms for Cross-Scaling, Flexibility and Social Learning in Building Resilience to Sea Level Rise: Case Study of Hampton Roads, Virginia",http://www.scirp.org/journal/PaperDownload.aspx?paperID=77253
+dataset-622,10.2112/jcoastres-d-15-00100.1,"{'id': 'jour.1137383', 'title': 'Journal of Coastal Research'}",Sea Level Rise Inundation,"The Impacts of Sea-Level Rise on Tidal Flooding in Boston, Massachusetts",
+dataset-622,10.1680/cm.61149.639,,Sea Level Rise Inundation,US North Atlantic Coast Comprehensive Study: Resilient Adaptation to Increasing Risk,
+dataset-622,10.5194/nhess-15-2331-2015,Natural Hazards and Earth System Science,Sea Level Rise Inundation,Coupling scenarios of urban growth and flood hazards along the Emilia-Romagna coast (Italy),https://www.nat-hazards-earth-syst-sci.net/15/2331/2015/nhess-15-2331-2015.pdf
+dataset-622,10.1134/s0097807815040089,"{'id': 'jour.1136162', 'title': 'Water Resources'}",Sea Level Rise Inundation,Effect of long-term changes of marine factors on river mouths,
+dataset-622,10.1007/978-3-319-07926-4_19,,Sea Level Rise Inundation,The Competitive Analysis Method for Evaluating Water Level Visualization Tools,
+dataset-622,10.1007/978-3-319-07926-4,,Sea Level Rise Inundation,"Modern Trends in Cartography, Selected Papers of CARTOCON 2014",
+dataset-622,10.7851/ksrp.2014.20.4.145,Journal of Korean Society of Rural Planning,Sea Level Rise Inundation,Climate Change Vulnerability Assessment in Rural Areas - Case study in Seocheon -,http://www.ndsl.kr/soc_img/society/ksrp/NCGHBW/2014/v20n4/NCGHBW_2014_v20n4_145.pdf
+dataset-622,10.1080/01490419.2014.902884,"{'id': 'jour.1138511', 'title': 'Marine Geodesy'}",Sea Level Rise Inundation,Delineating Sea Level Rise Inundation Using a Graph Traversal Algorithm,
+dataset-622,10.1007/978-94-007-6985-4_8,,Sea Level Rise Inundation,Migration and Climate Change in Oceania,
+dataset-622,10.1007/978-94-007-6985-4,,Sea Level Rise Inundation,"People on the Move in a Changing Climate, The Regional Impact of Environmental Change on Migration",
