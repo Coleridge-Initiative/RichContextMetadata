@@ -1,4 +1,4 @@
-datasets,doi,journal,search_term,title,url,pdf
+dataset,doi,journal,search_term,title,url,pdf
 dataset-623,10.3390/rs11212493,Remote Sensing,C-CAP data,Quantifying Spatiotemporal Patterns and Major Explanatory Factors of Urban Expansion in Miami Metropolitan Area During 1992-2016,http://dx.doi.org/10.3390/rs11212493,https://www.mdpi.com/2072-4292/11/21/2493/pdf
 dataset-623,10.3389/fmars.2019.00511,Frontiers in Marine Science,C-CAP data,Voluntary Restoration: Mitigation's Silent Partner in the Quest to Reverse Coastal Wetland Loss in the USA,http://dx.doi.org/10.3389/fmars.2019.00511,https://www.frontiersin.org/articles/10.3389/fmars.2019.00511/pdf
 dataset-623,10.1016/j.jag.2019.03.013,International Journal of Applied Earth Observation and Geoinformation,C-CAP data,High-resolution mapping of biomass and distribution of marsh and forested wetlands in southeastern coastal Louisiana,https://www.sciencedirect.com/science/article/pii/S0303243418312285?via%3Dihub,https://www.sciencedirect.com/science/article/pii/S0303243418312285/pdfft?md5=634d1f10cfe1ca6af5ad21e830cf3063&pid=1-s2.0-S0303243418312285-main.pdf
