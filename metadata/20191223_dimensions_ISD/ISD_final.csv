@@ -1,2 +1,2 @@
-dataset,doi,journal,search_term,title,url,valid?,notes,pdf
-dataset-621,10.1016/j.atmosres.2019.104801,Atmospheric Research,ISD,Aircraft observed diurnal variations of the planetary boundary layer under heat waves,,Yes,,https://www.sciencedirect.com/science/article/pii/S0169809519311305/pdfft?md5=6649a4e660c51f2b408aed3288ff1d23&pid=1-s2.0-S0169809519311305-main.pdf
+dataset,doi,journal,search_term,title,url,pdf
+dataset-621,10.1016/j.atmosres.2019.104801,Atmospheric Research,ISD,Aircraft observed diurnal variations of the planetary boundary layer under heat waves,,https://www.sciencedirect.com/science/article/pii/S0169809519311305/pdfft?md5=6649a4e660c51f2b408aed3288ff1d23&pid=1-s2.0-S0169809519311305-main.pdf
