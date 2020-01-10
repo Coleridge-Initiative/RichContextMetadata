@@ -4,6 +4,11 @@ dimensions/dimensions.cfg
 **/dimensions.cfg
 .DS_Store
 .Rhistory
+sophie
+__pycache__
+test
+publications
+RCpdf_scraping
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
