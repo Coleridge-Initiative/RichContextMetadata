@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 dataset,doi,journal,search_term,title,url
 dataset-097,10.1111/ecoj.12415,The Economic Journal,California Unemployment Insurance,Good Jobs and Recidivism,https://doi.org/10.1111/ecoj.12415
 dataset-097,10.2139/ssrn.1736644,SSRN Electronic Journal,California Unemployment Insurance,"Age Differences in Job Displacement, Job Search, and Reemployment",https://doi.org/10.2139/ssrn.1736644
-=======
-dataset,doi,journal,search_term,title,url,Validation,If appears as a reference,Reference,Punctuation Error
-dataset-097,10.1111/ecoj.12415,The Economic Journal,California Unemployment Insurance,Good Jobs and Recidivism,https://www.doi.org/10.1111/ecoj.12415,Yes,,,
-dataset-097,10.2139/ssrn.1736644,"{'id': 'jour.1276748', 'title': 'SSRN Electronic Journal'}",California Unemployment Insurance,"Age Differences in Job Displacement, Job Search, and Reemployment",https://www.doi.org/10.2139/ssrn.1736644,Yes,,,
->>>>>>> 91dec536334e47ff807b34b27e6dafc7ae79f76e
