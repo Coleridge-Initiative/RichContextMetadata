@@ -1,6 +1,11 @@
 # RichContextMetadata
 Extract or create metadata on publications and link to datasets. Results get exported to `RCPublications`.
 
+### Current focus
+We are currently prioritizing research publications that describe use cases for datasets, since that's what our intended recommendations need to focus on. 
+For example, a use case for NOAA datasets is about coastal flooding and what the results mean for municipalities/states/etc. 
+The publications that we're adding should be tending closer to how data are used for policy/decision making.
+
 ## Generating Metadata
 Clone https://github.com/NYU-CI/RCDatasets.
 
@@ -27,6 +32,8 @@ When adding records:
   - add to the bottom of the file
   - increment the `id` number manually
   - make sure not to introduce multiple names for the same provider
+  - make sure to remove any special characters or characters that will raise encoding errors
+  - all values should be string values (e.g if you see any dictionaries, those should be removed)
 
 Other fields that may be included:
 
