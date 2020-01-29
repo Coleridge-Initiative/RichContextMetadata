@@ -1,3 +1,3 @@
-﻿title,journal,doi,authors,search_term,dataset_id
-The propagation of fluvial flood waves through a backwater‐estuarine environment,Water Resources Research,10.1029/2019wr025743,"Dykstra, S.L., Dzwonkowski, B.",Coastal Flood Frequency,dataset-622
-A Coherent Statistical Model for Coastal Flood Frequency Analysis Under Nonstationary Sea Level Conditions,Earth's Future,10.1029/2018ef001089,"Ghanbari, Mahshid, Arabi, Mazdak, Obeysekera, Jayantha, Sweet, William",Coastal Flood Frequency,dataset-622
+﻿title,journal,doi,authors,search_term,dataset_id,valid?,notes,pdf
+The propagation of fluvial flood waves through a backwater‐estuarine environment,Water Resources Research,10.1029/2019wr025743,"Dykstra, S.L., Dzwonkowski, B.",Coastal Flood Frequency,dataset-614,yes,valid for different dataset,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019WR025743
+A Coherent Statistical Model for Coastal Flood Frequency Analysis Under Nonstationary Sea Level Conditions,Earth's Future,10.1029/2018ef001089,"Ghanbari, Mahshid, Arabi, Mazdak, Obeysekera, Jayantha, Sweet, William",Coastal Flood Frequency,dataset-614,yes,valid for different dataset,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018EF001089
