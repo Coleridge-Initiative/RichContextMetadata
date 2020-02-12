@@ -1,0 +1,352 @@
+[
+  {
+    "model": "ds.datasetprovider",
+    "pk": 1,
+    "fields": {
+      "name": "Illinois Department of Human Services (IDHS), Chapin Hall at the University of Chicago"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 2,
+    "fields": {
+      "name": "City of Chicago"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 3,
+    "fields": {
+      "name": "Illinois Department of Corrections"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 4,
+    "fields": {
+      "name": "Illinois Department of Labor (IDOL)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 5,
+    "fields": {
+      "name": "Indiana Commission for Higher Education (CHE)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 6,
+    "fields": {
+      "name": "United States Office of Management and Budget (OMB)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 7,
+    "fields": {
+      "name": "Mecklenburg County, NC Criminal Justice Services"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 8,
+    "fields": {
+      "name": "United States Department of Agriculture (USDA)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 9,
+    "fields": {
+      "name": "Chicago Police Department"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 10,
+    "fields": {
+      "name": "Illinois Department of Employment Security"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 11,
+    "fields": {
+      "name": "Bureau of Labor Statistics (BLS)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 12,
+    "fields": {
+      "name": "DC Public Schools"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 13,
+    "fields": {
+      "name": "US Census Bureau"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 14,
+    "fields": {
+      "name": "New York Police Department (NYPD)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 15,
+    "fields": {
+      "name": "Re-Entry Illinois"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 16,
+    "fields": {
+      "name": "Chicago Public Schools"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 17,
+    "fields": {
+      "name": "Department of Insurance, Securities, and Banking (DISB)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 18,
+    "fields": {
+      "name": "The Kansas City Star"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 19,
+    "fields": {
+      "name": "Cook County Recorder of Deeds"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 20,
+    "fields": {
+      "name": "US Department of Housing and Urban Development"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 21,
+    "fields": {
+      "name": "New York State Department of Labor"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 22,
+    "fields": {
+      "name": "DC Public Charter School Board"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 23,
+    "fields": {
+      "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 24,
+    "fields": {
+      "name": "Illinois Department of Employment Security, US Census Bureau"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 25,
+    "fields": {
+      "name": "Indiana Department of Workforce Development (DWD)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 26,
+    "fields": {
+      "name": "Answers Please, InterFaith Conference of Metropolitan Washington, Metropolitan Washington Council of Governments, United Way of The National Capital Area"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 27,
+    "fields": {
+      "name": "Department of City Planning (DCP)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 28,
+    "fields": {
+      "name": "Board of Police Commissioners of Kansas City, Missouri"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 29,
+    "fields": {
+      "name": "Chapin Hall, University of Chicago"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 30,
+    "fields": {
+      "name": "Missouri Office of Administration"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 31,
+    "fields": {
+      "name": "Mapping Police Violence"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 32,
+    "fields": {
+      "name": "NYC Center for Innovation through Data Intelligence, NYC Human Resources Administration, New York State Department of Labor, NYC Department of Corrections, NYC Department of Homeless Services, NYC Department of Social Services"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 33,
+    "fields": {
+      "name": "New York City Housing Authority (NYCHA)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 34,
+    "fields": {
+      "name": "DC Department of Human Services (DHS)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 35,
+    "fields": {
+      "name": "City of Kansas City"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 36,
+    "fields": {
+      "name": "U.S. Department of Housing and Urban Development, US Census Bureau"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 37,
+    "fields": {
+      "name": "The City of Kansas City"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 38,
+    "fields": {
+      "name": "Illinois Department of Human Services"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 39,
+    "fields": {
+      "name": "NYC Department of Health and Mental Hygiene's (DOHMH), NYC Mayor's Office to Combat Domestic Violence (OCDV)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 40,
+    "fields": {
+      "name": "Chicago Department of Public Health Office of Substance Abuse"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 41,
+    "fields": {
+      "name": "Illinois Correctional Industries"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 42,
+    "fields": {
+      "name": "Indiana Family and Social Services Administration (FSSA)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 43,
+    "fields": {
+      "name": "DCGIS Open Data: Health and Human Services"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 44,
+    "fields": {
+      "name": "King County Department of Community and Human Services Behavioral Health and Recovery Division"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 45,
+    "fields": {
+      "name": "Department of Education (DOE)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 46,
+    "fields": {
+      "name": "Illinois Department of Commerce and Economic Opportunity"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 47,
+    "fields": {
+      "name": "Institute for Research on Innovation and Science (IRIS)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 48,
+    "fields": {
+      "name": "National Center for Science and Engineering Statistics (NCSES)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 49,
+    "fields": {
+      "name": "National Science Foundation (NSF)"
+    }
+  },
+  {
+    "model": "ds.datasetprovider",
+    "pk": 50,
+    "fields": {
+      "name": "United States Patent and Trademark Office (USPTO); National Institute of Health"
+    }
+  }
+]
