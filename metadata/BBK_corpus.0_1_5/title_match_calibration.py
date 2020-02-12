@@ -70,10 +70,13 @@ def main(title1, title2):
         for term in set1:
             m1.update(term.encode("utf8"))
 
-        print("query for",adrf_dataset["fields"]["title"],"yields datasets")
+        print("\nquery for",adrf_dataset["fields"]["title"],"yields datasets")
+        matches=False
         for key in lshensemble.query(m1, len(set1)):
             print(key,rc_corpus[key])
-        break
+            matches = True
+        if not matches:
+            print("no matches")
 
 
 def test_LSH_ensemble(title1, title2):
