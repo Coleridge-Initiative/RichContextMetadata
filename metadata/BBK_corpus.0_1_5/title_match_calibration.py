@@ -6,12 +6,64 @@ from collections import defaultdict
 from difflib import SequenceMatcher
 from fuzzywuzzy import fuzz
 from datasketch import MinHashLSHEnsemble, MinHash
+from sklearn.metrics import confusion_matrix
+
+KNOWN = 1
+UNKNOWN = 0
 
 def title_match(title1, title2):
     pass
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
+
+def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, debug=False):
+
+    print("creating MinHashLSHEnsemble with threshold=%s, num_perm=128, num_part=16..." % lsh_threshold)
+    # Create an LSH Ensemble index with threshold and number of partition settings.
+    lshensemble = MinHashLSHEnsemble(threshold=lsh_threshold, num_perm=128, num_part=16)
+
+    print("indexing all RC dataset's MinHash...")
+    # Index takes an iterable of (key, minhash, size)
+    lshensemble.index([(key, values["min_hash"], len(values["words"])) for key, values in rc_corpus.items()])
+
+    # test by querying the LSH Ensemble with each ADRF dataset title to explore potential matches
+    results = list()
+    for adrf_dataset in adrf_dataset_list:
+
+        set1 = get_set_of_words(adrf_dataset["fields"]["title"])
+        m1 = MinHash(num_perm=128)
+        for term in set1:
+            m1.update(term.encode("utf8"))
+
+        #print("\nquery for '%s' yields datasets" % adrf_dataset["fields"]["title"])
+        matches = False
+        for key in lshensemble.query(m1, len(set1)):
+            #print(key, rc_corpus[key]["title"])
+            matches = True
+        if matches:
+            results.append(KNOWN)
+        else:
+            results.append(UNKNOWN)
+            #print("no matches")
+
+    return results
+
+
+def load_test_vector(adrf_dataset_list): ## TODO: this is a dummy method!
+    vector = list()
+    i=0
+    for adrf_dataset in adrf_dataset_list:
+        if i == 0:
+            vector.append(KNOWN)
+            i = 1
+        else:
+            vector.append(UNKNOWN)
+            i = 0
+
+    return vector
+
+
 
 
 def main(corpus_path, search_for_matches_path):
@@ -57,31 +109,18 @@ def main(corpus_path, search_for_matches_path):
             mh.update(term.encode("utf8"))
         rc_corpus[key]["min_hash"] = mh
 
+    test_data = load_test_vector(adrf_dataset_list)
 
-    lsh_threshold = 0.85
-    print("creating MinHashLSHEnsemble with threshold=%s, num_perm=128, num_part=16..." % lsh_threshold)
-    # Create an LSH Ensemble index with threshold and number of partition settings.
-    lshensemble = MinHashLSHEnsemble(threshold=lsh_threshold, num_perm=128, num_part=16)
+    for step in range(50, 95, 5):
 
-    print("indexing all RC dataset's MinHash...")
-    # Index takes an iterable of (key, minhash, size)
-    lshensemble.index([(key,values["min_hash"],len(values["words"])) for key, values in rc_corpus.items()])
+        lsh_threshold = step/ 100
+        print(lsh_threshold)
 
-    # test by querying the LSH Ensemble with each ADRF dataset title to explore potential matches
-    for adrf_dataset in adrf_dataset_list:
+        result = run_model(adrf_dataset_list, rc_corpus, lsh_threshold)
+        print('confusion matrix for'+str(lsh_threshold)+"\n", confusion_matrix(test_data, result) )
 
-        set1=get_set_of_words(adrf_dataset["fields"]["title"])
-        m1 = MinHash(num_perm=128)
-        for term in set1:
-            m1.update(term.encode("utf8"))
 
-        print("\nquery for '%s' yields datasets" % adrf_dataset["fields"]["title"])
-        matches=False
-        for key in lshensemble.query(m1, len(set1)):
-            print(key,rc_corpus[key]["title"])
-            matches = True
-        if not matches:
-            print("no matches")
+
 
 
 if __name__ == '__main__':
