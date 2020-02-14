@@ -6,7 +6,7 @@ from collections import defaultdict
 from difflib import SequenceMatcher
 from fuzzywuzzy import fuzz
 from datasketch import MinHashLSHEnsemble, MinHash
-from sklearn.metrics import confusion_matrix
+from sklearn import metrics
 
 KNOWN = 1
 UNKNOWN = 0
@@ -17,7 +17,7 @@ def title_match(title1, title2):
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
 
-def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, debug=False):
+def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, classified_ids,debug=False):
 
     print("creating MinHashLSHEnsemble with threshold=%s, num_perm=128, num_part=16..." % lsh_threshold)
     # Create an LSH Ensemble index with threshold and number of partition settings.
@@ -30,7 +30,8 @@ def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, debug=False):
     # test by querying the LSH Ensemble with each ADRF dataset title to explore potential matches
     results = list()
     for adrf_dataset in adrf_dataset_list:
-
+        if adrf_dataset["fields"]["dataset_id"] not in classified_ids:
+            continue
         set1 = get_set_of_words(adrf_dataset["fields"]["title"])
         m1 = MinHash(num_perm=128)
         for term in set1:
@@ -50,32 +51,71 @@ def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, debug=False):
     return results
 
 
-def load_test_vector(adrf_dataset_list): ## TODO: this is a dummy method!
+def load_test_vector(adrf_dataset_list,true_links, true_not_links): ## TODO: this is partially built
+
     vector = list()
-    i=0
+    classified = list()
     for adrf_dataset in adrf_dataset_list:
-        if i == 0:
+        if adrf_dataset["fields"]["dataset_id"] in true_links:
             vector.append(KNOWN)
-            i = 1
-        else:
+            classified.append(adrf_dataset["fields"]["dataset_id"])
+        elif adrf_dataset["fields"]["dataset_id"] in true_not_links:
             vector.append(UNKNOWN)
-            i = 0
+            classified.append(adrf_dataset["fields"]["dataset_id"])
 
-    return vector
+    return vector,classified
 
+
+def create_test_vector(rc_dataset_list,adrf_dataset_list):
+
+    true_links = set()
+    true_not_links = set()
+
+    for adrf_dataset in adrf_dataset_list:
+        title = adrf_dataset["fields"]["title"]
+        url = adrf_dataset["fields"]["source_url"]
+        adrf_id = adrf_dataset["fields"]["dataset_id"]
+
+        # Excluding by provider (manual search) ## TODO: subject to change!
+        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48]:
+            true_not_links.add(adrf_id)
+            continue
+
+        # TODO: check manually from https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
+        if title in [
+            "Information Resources, Inc. (IRI) Consumer Network household-based scanner data",
+            "Information Resources, Inc. (IRI) InfoScan retail-based scanner data",
+            "FoodAPS National Household Food Acquisition and Purchase Survey",
+            "Supplemental Nutrition Assistance Program (SNAP) Administrative Data"
+                    ]:
+            true_links.add(adrf_id)
+            continue
+
+        for rc_dataset in rc_dataset_list:
+            if "adrf_id" in rc_dataset and adrf_id == rc_dataset["adrf_id"]:
+                true_links.add(adrf_id)
+                continue
+
+            if "title" in rc_dataset and title == rc_dataset["title"]:
+                true_links.add(adrf_id)
+                continue
+
+            if "url" in rc_dataset and url == rc_dataset["url"]:
+                true_links.add(adrf_id)
+                continue
+
+            #if rc_dataset["id"] in ["dataset-002","dataset-001"]
+
+
+    return true_links, true_not_links
 
 
 
 def main(corpus_path, search_for_matches_path):
 
-    ## TODO: Load all dataset ids and titles from dataset.json
-
-    ## TODO: Load all dataset adrf_ids and titles from ADRF dump
-
     ## TODO: Create known true matches and known false matches lists
         # TODO: for 4 true links see https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
 
-    ## TODO: Create 1 set and 1 MinHash per dataset title
 
     ## TODO: Loop changing threshold from 0.1 to 0.9
         ## TODO: for each threshold, calculate 'confusion matrix'
@@ -109,16 +149,21 @@ def main(corpus_path, search_for_matches_path):
             mh.update(term.encode("utf8"))
         rc_corpus[key]["min_hash"] = mh
 
-    test_data = load_test_vector(adrf_dataset_list)
+    true_links, true_not_links = create_test_vector(rc_dataset_list, adrf_dataset_list)
 
-    for step in range(50, 95, 5):
+    test_vector,classified_ids = load_test_vector(adrf_dataset_list,true_links, true_not_links)
+
+    for step in range(85, 100, 1):
 
         lsh_threshold = step/ 100
         print(lsh_threshold)
 
-        result = run_model(adrf_dataset_list, rc_corpus, lsh_threshold)
-        print('confusion matrix for'+str(lsh_threshold)+"\n", confusion_matrix(test_data, result) )
-
+        result = run_model(adrf_dataset_list, rc_corpus, lsh_threshold,classified_ids)
+        print('confusion matrix for '+str(lsh_threshold)+":\n", metrics.confusion_matrix(test_vector, result) )
+        print('accuracy', metrics.accuracy_score(test_vector, result) )
+        print('recall', metrics.recall_score(test_vector, result) )
+        print('precision', metrics.precision_score(test_vector, result) ) #when you want to minimize false positives use precision.
+        print('F-Measure', metrics.f1_score(test_vector, result) )
 
 
 
