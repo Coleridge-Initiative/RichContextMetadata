@@ -4,6 +4,7 @@ import codecs
 import json
 from collections import defaultdict
 from difflib import SequenceMatcher
+from pprint import pprint
 from fuzzywuzzy import fuzz
 from datasketch import MinHashLSHEnsemble, MinHash
 from sklearn import metrics
@@ -42,6 +43,7 @@ def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, classified_ids,debug=
         for key in lshensemble.query(m1, len(set1)):
             #print(key, rc_corpus[key]["title"])
             matches = True
+            break
         if matches:
             results.append(KNOWN)
         else:
@@ -109,16 +111,30 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
 
     return true_links, true_not_links
 
+def get_confusion_matrix_scores(test_vector, result):
+    tn, fp, fn, tp = metrics.confusion_matrix(test_vector, result).ravel()
+
+    scores = dict()
+    confusion_matrix = dict()
+    confusion_matrix["TN"] = tn
+    confusion_matrix["FP"] = fp
+    confusion_matrix["FN"] = fn
+    confusion_matrix["TP"] = tp
+    scores["confusion_matrix"] = confusion_matrix
+    scores["accuracy_score"] = metrics.accuracy_score(test_vector, result)
+    scores["recall_score"] = metrics.recall_score(test_vector, result)
+    scores["precision_score"] = metrics.precision_score(test_vector,result)
+    scores["f1_score"] = metrics.f1_score(test_vector, result) # harmonic mean of Precision and Recall
+    scores["specificity_score"] = tn / (tn + fp)
+    scores["False Positive Rate or Type I Error"] = fp / (fp + tn)
+    scores["False Negative Rate or Type II Error"] = fn / (fn + tp)
+    return scores
 
 
 def main(corpus_path, search_for_matches_path):
 
     ## TODO: Create known true matches and known false matches lists
         # TODO: for 4 true links see https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
-
-
-    ## TODO: Loop changing threshold from 0.1 to 0.9
-        ## TODO: for each threshold, calculate 'confusion matrix'
 
     #Load all dataset adrf_ids and titles from ADRF dump
     with codecs.open(search_for_matches_path, "r", encoding="utf8") as f:
@@ -153,17 +169,35 @@ def main(corpus_path, search_for_matches_path):
 
     test_vector,classified_ids = load_test_vector(adrf_dataset_list,true_links, true_not_links)
 
-    for step in range(85, 100, 1):
+
+    calibration_metrics = dict()
+    max_f1_score = 0
+    selected_lsh_threshold = 0
+    for step in range(80, 100, 1):
 
         lsh_threshold = step/ 100
         print(lsh_threshold)
 
         result = run_model(adrf_dataset_list, rc_corpus, lsh_threshold,classified_ids)
-        print('confusion matrix for '+str(lsh_threshold)+":\n", metrics.confusion_matrix(test_vector, result) )
-        print('accuracy', metrics.accuracy_score(test_vector, result) )
-        print('recall', metrics.recall_score(test_vector, result) )
-        print('precision', metrics.precision_score(test_vector, result) ) #when you want to minimize false positives use precision.
-        print('F-Measure', metrics.f1_score(test_vector, result) )
+
+        scores = get_confusion_matrix_scores(test_vector, result)
+
+        print('confusion matrix for ' + str(lsh_threshold))
+        # print("\tTP: " + str(tp) + "\tFP: " + str(fp))
+        # print("\tFN: " + str(fn) + "\tTN: " + str(tn))
+        pprint(scores["confusion_matrix"])
+
+        calibration_metrics[lsh_threshold] = scores
+
+        if scores["f1_score"] > max_f1_score:
+            selected_lsh_threshold = lsh_threshold
+            max_f1_score = scores["f1_score"]
+
+    print("\nshowing all metrics...")
+    pprint(calibration_metrics)
+    print("Selected threshold:",selected_lsh_threshold)
+    pprint(calibration_metrics[selected_lsh_threshold])
+
 
 
 
