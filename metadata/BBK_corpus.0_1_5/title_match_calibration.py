@@ -18,26 +18,26 @@ def title_match(title1, title2):
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
 
-def run_model(adrf_dataset_list, rc_corpus, lsh_threshold, classified_ids,debug=False):
 
+def create_lsh_ensemble(lsh_threshold, rc_corpus):
     print("creating MinHashLSHEnsemble with threshold=%s, num_perm=128, num_part=16..." % lsh_threshold)
     # Create an LSH Ensemble index with threshold and number of partition settings.
     lshensemble = MinHashLSHEnsemble(threshold=lsh_threshold, num_perm=128, num_part=16)
-
     print("indexing all RC dataset's MinHash...")
     # Index takes an iterable of (key, minhash, size)
     lshensemble.index([(key, values["min_hash"], len(values["words"])) for key, values in rc_corpus.items()])
+    return lshensemble
+
+
+def run_model(adrf_classified_minhash, rc_corpus, lsh_threshold,debug=False):
+
+    lshensemble = create_lsh_ensemble(lsh_threshold, rc_corpus)
 
     # test by querying the LSH Ensemble with each ADRF dataset title to explore potential matches
     results = list()
-    for adrf_dataset in adrf_dataset_list:
-        if adrf_dataset["fields"]["dataset_id"] not in classified_ids:
-            continue
-        set1 = get_set_of_words(adrf_dataset["fields"]["title"])
-        m1 = MinHash(num_perm=128)
-        for term in set1:
-            m1.update(term.encode("utf8"))
-
+    for adrf_id, values in adrf_classified_minhash.items():
+        m1 = values["min_hash"]
+        set1 = values["words"]
         #print("\nquery for '%s' yields datasets" % adrf_dataset["fields"]["title"])
         matches = False
         for key in lshensemble.query(m1, len(set1)):
@@ -106,10 +106,8 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
                 true_links.add(adrf_id)
                 continue
 
-            #if rc_dataset["id"] in ["dataset-002","dataset-001"]
-
-
     return true_links, true_not_links
+
 
 def get_confusion_matrix_scores(test_vector, result):
     tn, fp, fn, tp = metrics.confusion_matrix(test_vector, result).ravel()
@@ -131,6 +129,67 @@ def get_confusion_matrix_scores(test_vector, result):
     return scores
 
 
+def calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector):
+    calibration_metrics = dict()
+    max_f1_score = 0
+    selected_lsh_threshold = 0
+    for step in range(80, 100, 1):
+
+        lsh_threshold = step / 100
+        print(lsh_threshold)
+
+        result = run_model(adrf_classified_minhash, rc_corpus, lsh_threshold)
+
+        scores = get_confusion_matrix_scores(test_vector, result)
+
+        print('confusion matrix for ' + str(lsh_threshold))
+        # print("\tTP: " + str(tp) + "\tFP: " + str(fp))
+        # print("\tFN: " + str(fn) + "\tTN: " + str(tn))
+        pprint(scores["confusion_matrix"])
+
+        calibration_metrics[lsh_threshold] = scores
+
+        if scores["f1_score"] > max_f1_score:
+            selected_lsh_threshold = lsh_threshold
+            max_f1_score = scores["f1_score"]
+
+    print("\nshowing all metrics...")
+    pprint(calibration_metrics)
+    print("Selected threshold:", selected_lsh_threshold)
+    pprint(calibration_metrics[selected_lsh_threshold])
+
+    return selected_lsh_threshold
+
+
+def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector):
+    score = 0
+
+#TODO: create the grid search for SequenceMatcher˚
+
+    # iterate the adrf_dataset_list, but only test the text matcher with the cases present on the test_vector
+    results = list()
+    for key, values in adrf_classified_minhash.items():
+
+        m1 = values["min_hash"]
+        set1 = values["words"]
+        matches = False
+        ## TODO: implement the text matcvhing using SequenceMatcher
+        # for key in lsh_ensemble.query(m1, len(set1)):
+        #     # print(key, rc_corpus[key]["title"])
+        #     matches = True
+        #     break
+        # if matches:
+        #     results.append(KNOWN)
+        # else:
+        #     results.append(UNKNOWN)
+        #     # print("no matches")
+
+    return results
+    # s = SequenceMatcher(None, rc_dataset_title, adrf_dataset_title)
+
+    return score
+
+
 def main(corpus_path, search_for_matches_path):
 
     ## TODO: Create known true matches and known false matches lists
@@ -149,56 +208,52 @@ def main(corpus_path, search_for_matches_path):
 
     print("loading RC dataset corpus...",type(rc_dataset_list),len(rc_dataset_list))
 
-    # create a structure to access title and its set of unique words
-    rc_corpus = defaultdict()
+
+    print("creating MinHash for each RC dataset...")
+
+    # create a MinHash for each dataset title and a structure to access title and its set of unique words
+    rc_corpus = dict()
     for dataset in rc_dataset_list:
         d = dict()
-        d["words"] = get_set_of_words(dataset["title"])
         d["title"] = dataset["title"]
+        d["words"] = get_set_of_words(dataset["title"])
+
+        mh = MinHash(num_perm=128)
+        for term in d["words"]:
+            mh.update(term.encode("utf8"))
+        d["min_hash"] = mh
         rc_corpus[dataset["id"]] = d
 
-    # create a MinHash for each dataset title
-    print("creating MinHash for each RC dataset...")
-    for key,values in rc_corpus.items():
-        mh = MinHash(num_perm=128)
-        for term in values["words"]:
-            mh.update(term.encode("utf8"))
-        rc_corpus[key]["min_hash"] = mh
 
+    # TODO: true links were made programatically and true not-links were made manually. A better quality test_vector is needed for end version
     true_links, true_not_links = create_test_vector(rc_dataset_list, adrf_dataset_list)
 
+    #classified_ids is used to run the model only with the adrf_dataset subset that are classified (i.e. exists in test_vector)
     test_vector,classified_ids = load_test_vector(adrf_dataset_list,true_links, true_not_links)
 
+    # create a MinHash for each classified adrf dataset title
+    adrf_classified_minhash = dict()
+    for adrf_dataset in adrf_dataset_list:
 
-    calibration_metrics = dict()
-    max_f1_score = 0
-    selected_lsh_threshold = 0
-    for step in range(80, 100, 1):
+        adrf_id = adrf_dataset["fields"]["dataset_id"]
+        if adrf_id not in classified_ids:
+            continue #skip the datasets not used in the test_vector
+        d = dict()
+        d["title"] = adrf_dataset["fields"]["title"]
+        d["words"] = get_set_of_words(adrf_dataset["fields"]["title"])
 
-        lsh_threshold = step/ 100
-        print(lsh_threshold)
+        mh = MinHash(num_perm=128)
+        for term in d["words"]:
+            mh.update(term.encode("utf8"))
 
-        result = run_model(adrf_dataset_list, rc_corpus, lsh_threshold,classified_ids)
+        d["min_hash"] = mh
+        adrf_classified_minhash[adrf_id] = d
 
-        scores = get_confusion_matrix_scores(test_vector, result)
+    lsh_threshoild = calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector)
 
-        print('confusion matrix for ' + str(lsh_threshold))
-        # print("\tTP: " + str(tp) + "\tFP: " + str(fp))
-        # print("\tFN: " + str(fn) + "\tTN: " + str(tn))
-        pprint(scores["confusion_matrix"])
+    lsh_ensemble = create_lsh_ensemble(lsh_threshoild,rc_corpus)
 
-        calibration_metrics[lsh_threshold] = scores
-
-        if scores["f1_score"] > max_f1_score:
-            selected_lsh_threshold = lsh_threshold
-            max_f1_score = scores["f1_score"]
-
-    print("\nshowing all metrics...")
-    pprint(calibration_metrics)
-    print("Selected threshold:",selected_lsh_threshold)
-    pprint(calibration_metrics[selected_lsh_threshold])
-
-
+    sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
 
 
 
