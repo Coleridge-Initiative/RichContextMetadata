@@ -77,7 +77,7 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
         adrf_id = adrf_dataset["fields"]["dataset_id"]
 
         # Excluding by provider (manual search) ## TODO: subject to change!
-        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48]:
+        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40]: #other providers ID would be 30, 29, 26, 23,22,19,18,17,15
             true_not_links.add(adrf_id)
             continue
 
