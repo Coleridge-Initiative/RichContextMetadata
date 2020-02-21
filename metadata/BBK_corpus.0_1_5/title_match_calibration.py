@@ -2,7 +2,6 @@ import re
 import sys
 import codecs
 import json
-from collections import defaultdict
 from difflib import SequenceMatcher
 from pprint import pprint
 from fuzzywuzzy import fuzz
@@ -11,9 +10,9 @@ from sklearn import metrics
 
 KNOWN = 1
 UNKNOWN = 0
-
-def title_match(title1, title2):
-    pass
+DEBUG = False
+CALIBRATE_LSH = False
+LSH_THRESHOLD = 0.88
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
@@ -29,7 +28,7 @@ def create_lsh_ensemble(lsh_threshold, rc_corpus):
     return lshensemble
 
 
-def run_model(adrf_classified_minhash, rc_corpus, lsh_threshold,debug=False):
+def test_lsh_threshold(adrf_classified_minhash, rc_corpus, lsh_threshold):
 
     lshensemble = create_lsh_ensemble(lsh_threshold, rc_corpus)
 
@@ -57,7 +56,9 @@ def load_test_vector(adrf_dataset_list,true_links, true_not_links): ## TODO: thi
 
     vector = list()
     classified = list()
+    if DEBUG: print("creating classified_ids_list...using the list below to compare adrf walk through order to future walk throughs")
     for adrf_dataset in adrf_dataset_list:
+        if DEBUG: print(adrf_dataset["fields"]["dataset_id"])
         if adrf_dataset["fields"]["dataset_id"] in true_links:
             vector.append(KNOWN)
             classified.append(adrf_dataset["fields"]["dataset_id"])
@@ -104,6 +105,10 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
 
             if "url" in rc_dataset and url == rc_dataset["url"]:
                 true_links.add(adrf_id)
+                if DEBUG:
+                    print("matched by url", "\n\tADRF",title , "\n\tRC" ,rc_dataset["title"])
+                    print("\tADRF",url,"\n\tRC" ,rc_dataset["url"])
+                    print("\tADRF",adrf_id,"\n\tRC" ,rc_dataset["id"])
                 continue
 
     return true_links, true_not_links
@@ -138,7 +143,7 @@ def calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector):
         lsh_threshold = step / 100
         print(lsh_threshold)
 
-        result = run_model(adrf_classified_minhash, rc_corpus, lsh_threshold)
+        result = test_lsh_threshold(adrf_classified_minhash, rc_corpus, lsh_threshold)
 
         scores = get_confusion_matrix_scores(test_vector, result)
 
@@ -152,20 +157,16 @@ def calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector):
         if scores["f1_score"] > max_f1_score:
             selected_lsh_threshold = lsh_threshold
             max_f1_score = scores["f1_score"]
-
-    print("\nshowing all metrics...")
-    pprint(calibration_metrics)
+    if DEBUG:
+        print("\nshowing all metrics...")
+        pprint(calibration_metrics)
     print("Selected threshold:", selected_lsh_threshold)
     pprint(calibration_metrics[selected_lsh_threshold])
 
     return selected_lsh_threshold
 
-
-def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector):
-    score = 0
-
-#TODO: create the grid search for SequenceMatcher˚
-
+def test_sm_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, sequenceMatcher_threshold):
+    print("******** SequenceMatcher threshold", sequenceMatcher_threshold, "*******")
     # iterate the adrf_dataset_list, but only test the text matcher with the cases present on the test_vector
     results = list()
     for key, values in adrf_classified_minhash.items():
@@ -173,21 +174,64 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
         m1 = values["min_hash"]
         set1 = values["words"]
         matches = False
-        ## TODO: implement the text matcvhing using SequenceMatcher
-        # for key in lsh_ensemble.query(m1, len(set1)):
-        #     # print(key, rc_corpus[key]["title"])
-        #     matches = True
-        #     break
-        # if matches:
-        #     results.append(KNOWN)
-        # else:
-        #     results.append(UNKNOWN)
-        #     # print("no matches")
+        # this forces that any match will have at least the SM_threshold
+        max_score = sequenceMatcher_threshold
 
+        # search the adrf dataset title in the LSH index and for potential hits
+        for rc_dataset_id in lsh_ensemble.query(m1, len(set1)):
+            # print(rc_dataset_id, rc_corpus[rc_dataset_id]["title"])
+            s = SequenceMatcher(None, rc_corpus[rc_dataset_id]["title"], values["title"])
+            # select the best match
+            if (s.ratio() >= max_score):
+                best_match = rc_dataset_id
+                max_score = s.ratio()
+                matches = True
+
+        if matches:
+            if DEBUG:
+                print("Searching for", values["title"])
+                print("matches with", best_match, rc_corpus[best_match]["title"])
+                print("with a SequenceMatcher ratio", max_score)
+            results.append(KNOWN)
+        else:
+            results.append(UNKNOWN)
+            # print("no matches")
     return results
-    # s = SequenceMatcher(None, rc_dataset_title, adrf_dataset_title)
 
-    return score
+
+def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector):
+
+    max_precision_score = 0
+    calibration_metrics = dict()
+    selected_sm_threshold = 0
+
+    for step in range(80, 100, 1):
+
+        sequenceMatcher_threshold = step / 100
+
+        results = test_sm_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, sequenceMatcher_threshold)
+
+        scores = get_confusion_matrix_scores(test_vector, results)
+
+        print('confusion matrix for ' + str(sequenceMatcher_threshold))
+        # print("\tTP: " + str(tp) + "\tFP: " + str(fp))
+        # print("\tFN: " + str(fn) + "\tTN: " + str(tn))
+        pprint(scores["confusion_matrix"])
+
+        calibration_metrics[sequenceMatcher_threshold] = scores
+
+        if scores["precision_score"] > max_precision_score:
+            selected_sm_threshold = sequenceMatcher_threshold
+            max_precision_score = scores["precision_score"]
+
+    #if DEBUG:
+    print("\nshowing all metrics...")
+    pprint(calibration_metrics)
+
+    print("Selected threshold:", selected_sm_threshold)
+    pprint(calibration_metrics[selected_sm_threshold])
+
+    return selected_sm_threshold
 
 
 def main(corpus_path, search_for_matches_path):
@@ -249,11 +293,16 @@ def main(corpus_path, search_for_matches_path):
         d["min_hash"] = mh
         adrf_classified_minhash[adrf_id] = d
 
-    lsh_threshoild = calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector)
+    if CALIBRATE_LSH:
+        lsh_threshoild = calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector)
+    else:
+        lsh_threshoild = LSH_THRESHOLD
 
     lsh_ensemble = create_lsh_ensemble(lsh_threshoild,rc_corpus)
 
     sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+
+    print("selected threshold for SequenceMatcher:",sm_min_score)
 
 
 
@@ -267,7 +316,7 @@ if __name__ == '__main__':
     # search_for_matches_path = sys.argv[2]
 
 
-    corpus_path= "copy_datasets.json"
+    corpus_path= "rc_data/copy_datasets.json"
     search_for_matches_path = "adrf_data/datasets-02-11-2020.json"
 
     main(corpus_path,search_for_matches_path)
