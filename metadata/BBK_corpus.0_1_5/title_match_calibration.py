@@ -7,12 +7,13 @@ from pprint import pprint
 from fuzzywuzzy import fuzz
 from datasketch import MinHashLSHEnsemble, MinHash
 from sklearn import metrics
+from pathlib import Path
 
 KNOWN = 1
 UNKNOWN = 0
 DEBUG = False
 CALIBRATE_LSH = False
-LSH_THRESHOLD = 0.88
+LSH_THRESHOLD = 0.88 #Required when CALIBRATE_LSH == False
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
@@ -56,9 +57,8 @@ def load_test_vector(adrf_dataset_list,true_links, true_not_links): ## TODO: thi
 
     vector = list()
     classified = list()
-    if DEBUG: print("creating classified_ids_list...using the list below to compare adrf walk through order to future walk throughs")
+    if DEBUG: print("creating classified_ids_list.")
     for adrf_dataset in adrf_dataset_list:
-        if DEBUG: print(adrf_dataset["fields"]["dataset_id"])
         if adrf_dataset["fields"]["dataset_id"] in true_links:
             vector.append(KNOWN)
             classified.append(adrf_dataset["fields"]["dataset_id"])
@@ -110,7 +110,9 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
                     print("\tADRF",url,"\n\tRC" ,rc_dataset["url"])
                     print("\tADRF",adrf_id,"\n\tRC" ,rc_dataset["id"])
                 continue
-
+    if DEBUG:
+        print("true links",sorted(true_links))
+        print("true not-links",sorted(true_not_links))
     return true_links, true_not_links
 
 
@@ -234,6 +236,66 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
     return selected_sm_threshold
 
 
+def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
+
+
+    # create a MinHash for each adrf dataset title
+    result_list = list()
+
+    for adrf_dataset in adrf_dataset_list:
+
+        matches = False
+
+        adrf_id = adrf_dataset["fields"]["dataset_id"]
+        title = adrf_dataset["fields"]["title"]
+        words = get_set_of_words(adrf_dataset["fields"]["title"])
+
+        mh = MinHash(num_perm=128)
+        for term in words:
+            mh.update(term.encode("utf8"))
+
+        max_score = sm_min_score
+        for rc_dataset_id in lsh_ensemble.query(mh, len(words)):
+            # print(rc_dataset_id, rc_corpus[rc_dataset_id]["title"])
+            s = SequenceMatcher(None, rc_corpus[rc_dataset_id]["title"], title)
+            # select the best match
+            if (s.ratio() >= max_score):
+                best_match = rc_dataset_id
+                max_score = s.ratio()
+                matches = True
+
+        if matches:
+            # if DEBUG:
+            #     print("Searching for", values["title"])
+            #     print("matches with", best_match, rc_corpus[best_match]["title"])
+            #     print("with a SequenceMatcher ratio", max_score)
+            adrf_match = dict()
+            adrf_match["adrf_id"] = adrf_id
+            adrf_match["title"] = title
+            adrf_match["url"] = adrf_dataset["fields"]["source_url"]
+            adrf_match["description"] = adrf_dataset["fields"]["description"]
+
+            rc_match = dict()
+            rc_match["dataset_id"] = best_match
+            rc_match["title"] = rc_corpus[best_match]["title"]
+
+            if "url" in rc_corpus[best_match]:
+                rc_match["url"] = rc_corpus[best_match]["url"]
+
+            if "description" in rc_corpus[best_match]:
+                rc_match["description"] = rc_corpus[best_match]["description"]
+
+            result_list.append(adrf_match)
+            result_list.append(rc_match)
+
+    # write json file
+    out_path = "matched_datasets.json"
+    with codecs.open(Path(out_path), "wb", encoding="utf8") as f:
+        json.dump(result_list, f, indent=4, sort_keys=True, ensure_ascii=False)
+
+    print(len(result_list)/2,"matched datasets")
+
+
 def main(corpus_path, search_for_matches_path):
 
     ## TODO: Create known true matches and known false matches lists
@@ -261,6 +323,10 @@ def main(corpus_path, search_for_matches_path):
         d = dict()
         d["title"] = dataset["title"]
         d["words"] = get_set_of_words(dataset["title"])
+        if "url" in dataset:
+            d["url"] = dataset["url"]
+        if "description" in dataset:
+            d["description"] = dataset["description"]
 
         mh = MinHash(num_perm=128)
         for term in d["words"]:
@@ -303,6 +369,8 @@ def main(corpus_path, search_for_matches_path):
     sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
 
     print("selected threshold for SequenceMatcher:",sm_min_score)
+
+    record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble , sm_min_score)
 
 
 
