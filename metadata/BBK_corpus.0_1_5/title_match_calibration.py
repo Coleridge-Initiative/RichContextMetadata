@@ -8,6 +8,7 @@ from fuzzywuzzy import fuzz
 from datasketch import MinHashLSHEnsemble, MinHash
 from sklearn import metrics
 from pathlib import Path
+import pandas as pd
 
 KNOWN = 1
 UNKNOWN = 0
@@ -73,16 +74,27 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
 
     true_links = set()
     true_not_links = set()
+    classification = list()
 
     for adrf_dataset in adrf_dataset_list:
+        link = dict()
+
         title = adrf_dataset["fields"]["title"]
         url = adrf_dataset["fields"]["source_url"]
         adrf_id = adrf_dataset["fields"]["dataset_id"]
 
+        link["adrf_id"] = adrf_id
+        link["link"] = "Unknown"
+        link["reason"] = ""
+
         # Excluding by provider (manual search) ## TODO: subject to change!
-        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40]: #other providers ID would be 30, 29, 26, 23,22,19,18,17,15
+        # if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40]: #other providers ID would be 30, 29, 26, 23,22,19,18,17,15
+        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40, 30, 29, 26, 23,22,19,18,17,15]:
             true_not_links.add(adrf_id)
-            continue
+            link["link"] = False
+            link["reason"] = "data_provider id "+str(adrf_dataset["fields"]["data_provider"])
+            #classification.append(link)
+            #continue
 
         # TODO: check manually from https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
         if title in [
@@ -92,27 +104,45 @@ def create_test_vector(rc_dataset_list,adrf_dataset_list):
             "Supplemental Nutrition Assistance Program (SNAP) Administrative Data"
                     ]:
             true_links.add(adrf_id)
+            link["link"] = True
+            link["reason"] = "inferred from usda_datadump.json"
+            classification.append(link)
             continue
 
         for rc_dataset in rc_dataset_list:
             if "adrf_id" in rc_dataset and adrf_id == rc_dataset["adrf_id"]:
                 true_links.add(adrf_id)
+                link["link"] = rc_dataset["id"]
+                link["reason"] = "linked in RC datasets.jsom"
+
                 continue
 
             if "title" in rc_dataset and title == rc_dataset["title"]:
                 true_links.add(adrf_id)
+                link["link"] = rc_dataset["id"]
+                link["reason"] = "title match"
+
                 continue
 
             if "url" in rc_dataset and url == rc_dataset["url"]:
                 true_links.add(adrf_id)
+                link["link"] = rc_dataset["id"]
+                link["reason"] = "url match"
+
                 if DEBUG:
                     print("matched by url", "\n\tADRF",title , "\n\tRC" ,rc_dataset["title"])
                     print("\tADRF",url,"\n\tRC" ,rc_dataset["url"])
                     print("\tADRF",adrf_id,"\n\tRC" ,rc_dataset["id"])
                 continue
+
+        classification.append(link)
     if DEBUG:
         print("true links",sorted(true_links))
         print("true not-links",sorted(true_not_links))
+
+    classificationDF = pd.DataFrame(classification)
+    classificationDF.to_csv("adrf_datasets_classified.csv", index=False, encoding="utf-8-sig")
+
     return true_links, true_not_links
 
 
