@@ -1,0 +1,44 @@
+﻿adrf_id,link,reason,manually reviewed
+adrf-000001,dataset-364,record linkage,yes
+adrf-000002,dataset-365,record linkage,yes
+adrf-000004,dataset-366,record linkage,yes
+adrf-000017,dataset-390,record linkage,yes
+adrf-000018,dataset-391,record linkage,yes
+adrf-000019,dataset-392,title match,yes
+adrf-000020,dataset-393,title match,yes
+adrf-000021,dataset-394,record linkage,yes
+adrf-000022,dataset-395,title match,yes
+adrf-000023,dataset-396,record linkage,yes
+adrf-000024,dataset-397,title match,yes
+adrf-000025,dataset-398,title match,yes
+adrf-000027,dataset-399,title match,yes
+adrf-000028,dataset-400,title match,yes
+adrf-000029,dataset-401,title match,yes
+adrf-000031,dataset-403,title match,yes
+adrf-000032,dataset-404,title match,yes
+adrf-000033,dataset-405,title match,yes
+adrf-000036,dataset-369,record linkage,yes
+adrf-000037,dataset-367,record linkage,yes
+adrf-000044,FALSE,data_provider id 14,yes
+adrf-000045,FALSE,data_provider id 14,yes
+adrf-000046,FALSE,data_provider id 14,yes
+adrf-000047,FALSE,data_provider id 7,yes
+adrf-000048,FALSE,data_provider id 7,yes
+adrf-000049,FALSE,data_provider id 7,yes
+adrf-000050,FALSE,data_provider id 7,yes
+adrf-000051,FALSE,data_provider id 7,yes
+adrf-000052,FALSE,data_provider id 7,yes
+adrf-000054,dataset-406,title match,yes
+adrf-000055,dataset-368,record linkage,yes
+adrf-000056,dataset-407,title match,yes
+adrf-000057,dataset-408,record linkage,yes
+adrf-000072,FALSE,data_provider id 15,yes
+adrf-000075,FALSE,data_provider id 29,yes
+adrf-000076,dataset-411,title match,yes
+adrf-000086,FALSE,data_provider id 44,yes
+adrf-000097,FALSE,data_provider id 30,yes
+adrf-000101,FALSE,data_provider id 18,yes
+adrf-000137,dataset-328,record linkage,yes
+adrf-000139,dataset-425,record linkage,yes
+adrf-000142,dataset-370,record linkage,yes
+adrf-000144,dataset-371,record linkage,yes
