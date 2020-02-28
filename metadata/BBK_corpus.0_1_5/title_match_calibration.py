@@ -13,8 +13,8 @@ import pandas as pd
 KNOWN = 1
 UNKNOWN = 0
 DEBUG = False
-CALIBRATE_LSH = False
-LSH_THRESHOLD = 0.88 #Required when CALIBRATE_LSH == False
+CALIBRATE_LSH = True
+LSH_THRESHOLD = 0.79 #Required when CALIBRATE_LSH == False
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
@@ -53,97 +53,29 @@ def test_lsh_threshold(adrf_classified_minhash, rc_corpus, lsh_threshold):
 
     return results
 
-
-def load_test_vector(adrf_dataset_list,true_links, true_not_links): ## TODO: this is partially built
-
+def load_classified_vector(vector_path,adrf_dataset_list):
     vector = list()
     classified = list()
-    if DEBUG: print("creating classified_ids_list.")
+
+    vectorDF = pd.read_csv(vector_path)
+
     for adrf_dataset in adrf_dataset_list:
-        if adrf_dataset["fields"]["dataset_id"] in true_links:
-            vector.append(KNOWN)
-            classified.append(adrf_dataset["fields"]["dataset_id"])
-        elif adrf_dataset["fields"]["dataset_id"] in true_not_links:
-            vector.append(UNKNOWN)
-            classified.append(adrf_dataset["fields"]["dataset_id"])
+        link = False
+
+        #search the adrf_dataset in the classified vector
+        for index, row in vectorDF.iterrows():
+            if adrf_dataset["fields"]["dataset_id"] == row["adrf_id"]:
+                if row['link'] != "FALSE":
+                    vector.append(KNOWN)
+                    classified.append(adrf_dataset["fields"]["dataset_id"])
+                    break
+                else:
+                    vector.append(UNKNOWN)
+                    classified.append(adrf_dataset["fields"]["dataset_id"])
+                    break
+
 
     return vector,classified
-
-
-def create_test_vector(rc_dataset_list,adrf_dataset_list):
-
-    true_links = set()
-    true_not_links = set()
-    classification = list()
-
-    for adrf_dataset in adrf_dataset_list:
-        link = dict()
-
-        title = adrf_dataset["fields"]["title"]
-        url = adrf_dataset["fields"]["source_url"]
-        adrf_id = adrf_dataset["fields"]["dataset_id"]
-
-        link["adrf_id"] = adrf_id
-        link["link"] = "Unknown"
-        link["reason"] = ""
-
-        # Excluding by provider (manual search) ## TODO: subject to change!
-        # if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40]: #other providers ID would be 30, 29, 26, 23,22,19,18,17,15
-        if adrf_dataset["fields"]["data_provider"] in [6,7,12,14,17,48,44,40, 30, 29, 26, 23,22,19,18,17,15]:
-            true_not_links.add(adrf_id)
-            link["link"] = False
-            link["reason"] = "data_provider id "+str(adrf_dataset["fields"]["data_provider"])
-            #classification.append(link)
-            #continue
-
-        # TODO: check manually from https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
-        if title in [
-            "Information Resources, Inc. (IRI) Consumer Network household-based scanner data",
-            "Information Resources, Inc. (IRI) InfoScan retail-based scanner data",
-            "FoodAPS National Household Food Acquisition and Purchase Survey",
-            "Supplemental Nutrition Assistance Program (SNAP) Administrative Data"
-                    ]:
-            true_links.add(adrf_id)
-            link["link"] = True
-            link["reason"] = "inferred from usda_datadump.json"
-            classification.append(link)
-            continue
-
-        for rc_dataset in rc_dataset_list:
-            if "adrf_id" in rc_dataset and adrf_id == rc_dataset["adrf_id"]:
-                true_links.add(adrf_id)
-                link["link"] = rc_dataset["id"]
-                link["reason"] = "linked in RC datasets.jsom"
-
-                continue
-
-            if "title" in rc_dataset and title == rc_dataset["title"]:
-                true_links.add(adrf_id)
-                link["link"] = rc_dataset["id"]
-                link["reason"] = "title match"
-
-                continue
-
-            if "url" in rc_dataset and url == rc_dataset["url"]:
-                true_links.add(adrf_id)
-                link["link"] = rc_dataset["id"]
-                link["reason"] = "url match"
-
-                if DEBUG:
-                    print("matched by url", "\n\tADRF",title , "\n\tRC" ,rc_dataset["title"])
-                    print("\tADRF",url,"\n\tRC" ,rc_dataset["url"])
-                    print("\tADRF",adrf_id,"\n\tRC" ,rc_dataset["id"])
-                continue
-
-        classification.append(link)
-    if DEBUG:
-        print("true links",sorted(true_links))
-        print("true not-links",sorted(true_not_links))
-
-    classificationDF = pd.DataFrame(classification)
-    classificationDF.to_csv("adrf_datasets_classified.csv", index=False, encoding="utf-8-sig")
-
-    return true_links, true_not_links
 
 
 def get_confusion_matrix_scores(test_vector, result):
@@ -170,7 +102,7 @@ def calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector):
     calibration_metrics = dict()
     max_f1_score = 0
     selected_lsh_threshold = 0
-    for step in range(80, 100, 1):
+    for step in range(60, 100, 1):
 
         lsh_threshold = step / 100
         print(lsh_threshold)
@@ -237,7 +169,7 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
     calibration_metrics = dict()
     selected_sm_threshold = 0
 
-    for step in range(80, 100, 1):
+    for step in range(50, 100, 1):
 
         sequenceMatcher_threshold = step / 100
 
@@ -326,7 +258,7 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
     print(len(result_list)/2,"matched datasets")
 
 
-def main(corpus_path, search_for_matches_path):
+def main(corpus_path, search_for_matches_path, classified_vector_path):
 
     ## TODO: Create known true matches and known false matches lists
         # TODO: for 4 true links see https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
@@ -335,15 +267,16 @@ def main(corpus_path, search_for_matches_path):
     with codecs.open(search_for_matches_path, "r", encoding="utf8") as f:
         adrf_dataset_list = json.load(f)
 
-    print("loading ADRF dataset corpus...", type(adrf_dataset_list), len(adrf_dataset_list))
+    print("loaded ADRF dataset corpus...", type(adrf_dataset_list), len(adrf_dataset_list))
 
     # Load all dataset ids and titles from dataset.json
-        #TODO using a temporal copy instead the most updated version˚
     with codecs.open(corpus_path, "r", encoding="utf8") as f:
         rc_dataset_list = json.load(f)
 
-    print("loading RC dataset corpus...",type(rc_dataset_list),len(rc_dataset_list))
+    print("loaded RC dataset corpus...",type(rc_dataset_list),len(rc_dataset_list))
 
+    test_vector,classified_ids = load_classified_vector(classified_vector_path, adrf_dataset_list)
+    print("loaded clasiffied data from",classified_vector_path,"|",len(test_vector),"data points")
 
     print("creating MinHash for each RC dataset...")
 
@@ -364,13 +297,6 @@ def main(corpus_path, search_for_matches_path):
         d["min_hash"] = mh
         rc_corpus[dataset["id"]] = d
 
-
-    # TODO: true links were made programatically and true not-links were made manually. A better quality test_vector is needed for end version
-    true_links, true_not_links = create_test_vector(rc_dataset_list, adrf_dataset_list)
-
-    #classified_ids is used to run the model only with the adrf_dataset subset that are classified (i.e. exists in test_vector)
-    test_vector,classified_ids = load_test_vector(adrf_dataset_list,true_links, true_not_links)
-
     # create a MinHash for each classified adrf dataset title
     adrf_classified_minhash = dict()
     for adrf_dataset in adrf_dataset_list:
@@ -390,12 +316,14 @@ def main(corpus_path, search_for_matches_path):
         adrf_classified_minhash[adrf_id] = d
 
     if CALIBRATE_LSH:
+        print("***starting LSH Ensemble threshold calibration***")
         lsh_threshoild = calibrate_lsh_threshold(adrf_classified_minhash, rc_corpus, test_vector)
     else:
         lsh_threshoild = LSH_THRESHOLD
 
     lsh_ensemble = create_lsh_ensemble(lsh_threshoild,rc_corpus)
 
+    print("***starting SequenceMatcher threshold calibration***")
     sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
 
     print("selected threshold for SequenceMatcher:",sm_min_score)
@@ -413,8 +341,11 @@ if __name__ == '__main__':
     # corpus_path = sys.argv[1]
     # search_for_matches_path = sys.argv[2]
 
-
+    # TODO using a temporal copy of datsets.json instead the most updated version˚
     corpus_path= "rc_data/copy_datasets.json"
     search_for_matches_path = "adrf_data/datasets-02-11-2020.json"
 
-    main(corpus_path,search_for_matches_path)
+    # TODO: classified vector is probably biased. It does not cover any edge case.
+    classified_vector_path = "training_vector_1.01.csv"
+
+    main(corpus_path,search_for_matches_path,classified_vector_path)
