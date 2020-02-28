@@ -4,6 +4,7 @@ dimensions/dimensions.cfg
 **/dimensions.cfg
 .DS_Store
 .Rhistory
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
