@@ -1,0 +1,21 @@
+dataset,doi,journal,search_term,title,dataset_used?,notes
+dataset-218,10.1016/j.jpsychires.2019.10.021,Journal of Psychiatric Research,Mental Health Initiative,"Correlates of nonmedical use of prescription opioids among a cohort of adolescents in Ontario, Canada",no,similar name to Canadian entity
+dataset-218,10.1007/978-3-030-18435-3_1,,Mental Health Initiative,Population-Based Behavioral Health,no,"book, matched similar substring"
+dataset-218,10.1007/978-3-030-11908-9_19,,Mental Health Initiative,"Stigma as a Mental Health Policy Controversy: Positions, Options, and Strategies for Change",no,"book, matched similar substring"
+dataset-218,10.1007/978-3-030-11908-9_5,,Mental Health Initiative,Balancing Access to Medications and Psychosocial Treatments,no,"book, matched similar substring"
+dataset-218,10.1016/b978-0-12-814309-4.00010-0,Foundamentals of Telemedicine and Telehealth,Mental Health Initiative,Chapter 10 Telecare within different specialties,no,"book, matched similar substring"
+dataset-218,10.1007/978-3-030-18435-3,,Mental Health Initiative,Foundations of Behavioral Health,no,"book, matched similar substring"
+dataset-218,10.1007/978-3-030-11908-9_15,,Mental Health Initiative,What Is the Role of Schools in the Treatment of Children’s Mental Illness?,no,"book, matched similar substring"
+dataset-218,10.1007/978-3-030-11908-9,,Mental Health Initiative,The Palgrave Handbook of American Mental Health Policy,no,book
+dataset-218,10.1108/jpmh-03-2019-0034,Journal of Public Mental Health,Mental Health Initiative,A spatial analysis of Los Angeles County’s burden of serious mental illness in relation to public mental health service providers,no,matched search_term
+dataset-218,10.1186/s12889-019-7007-7,BMC Public Health,Mental Health Initiative,The integrated role of multiple healthy weight behaviours on overweight and obesity among adolescents: a cross-sectional study,no,similar Ontario program
+dataset-218,10.1007/s10880-019-09614-6,Journal of Clinical Psychology in Medical Settings,Mental Health Initiative,Child–Parent Psychotherapy with Infants Hospitalized in the Neonatal Intensive Care Unit,no,
+dataset-218,10.1186/s12961-019-0423-4,Health Research Policy and Systems,Mental Health Initiative,Using narratives to impact health policy-making: a systematic review,no,
+dataset-218,10.1186/s13033-019-0268-9,International Journal of Mental Health Systems,Mental Health Initiative,Moving towards universal health coverage for mental disorders in Ethiopia,no,
+dataset-218,10.1007/s10995-019-02803-7,Maternal and Child Health Journal,Mental Health Initiative,Reports of Injury Risks and Reasons for Choice of Sleep Environments for Infants and Toddlers,no,
+dataset-218,10.1186/s12913-019-4360-2,BMC Health Services Research,Mental Health Initiative,Partners in Recovery: an early phase evaluation of an Australian mental health initiative using program logic and thematic analysis,no,
+dataset-218,10.1177/1354856517714168,Convergence The International Journal of Research into New Media Technologies,Mental Health Initiative,Celebrity enactments of addiction on Twitter,no,
+dataset-218,10.1007/s00737-019-00963-7,Archives of Women's Mental Health,Mental Health Initiative,Prenatal maternal personality as an early predictor of vulnerable parenting style,no,
+dataset-218,10.1111/ap.12393,Australian Psychologist,Mental Health Initiative,Challenges facing Australian counselling psychologists: A qualitative analysis,no,generic use of search_term
+dataset-218,10.1017/s2045796018000392,Epidemiology and Psychiatric Sciences,Mental Health Initiative,Changes in socioeconomic position among individuals with mental disorders during the economic recession in Portugal: a follow-up of the National Mental Health Survey,no,World Mental Health Initiative Portugal
+dataset-218,10.1186/s12888-019-2244-y,BMC Psychiatry,Mental Health Initiative,Clinical and cost-effectiveness of guided internet-based interventions in the indicated prevention of depression in green professions (PROD-A): study protocol of a 36-month follow-up pragmatic randomized controlled trial,no,generic use of search_term
