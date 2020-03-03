@@ -15,6 +15,8 @@ UNKNOWN = 0
 DEBUG = False
 CALIBRATE_LSH = True
 LSH_THRESHOLD = 0.79 #Required when CALIBRATE_LSH == False
+CALIBRATE_SEQUENCEMATCHER = True
+SEQUENCEMATCHER_THRESHOLD = 0.55 #Required when CALIBRATE_SEQUENCEMATCHER == False
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
@@ -251,7 +253,134 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
             result_list.append(rc_match)
 
     # write json file
-    out_path = "matched_datasets.json"
+    out_path = "matched_datasets_SequenceMatcher.json"
+    with codecs.open(Path(out_path), "wb", encoding="utf8") as f:
+        json.dump(result_list, f, indent=4, sort_keys=True, ensure_ascii=False)
+
+    print(len(result_list)/2,"matched datasets")
+
+## TODO: the main logic in this method is the same as test_sm_threshold. Try to generalize it and deduplicate code.
+def test_fuzzy_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, fuzzy_threshold):
+    print("******** Fuzzy matcher threshold", fuzzy_threshold, "*******")
+    # iterate the adrf_dataset_list, but only test the text matcher with the cases present on the test_vector
+    results = list()
+    for key, values in adrf_classified_minhash.items():
+
+        m1 = values["min_hash"]
+        set1 = values["words"]
+        matches = False
+        # this forces that any match will have at least the SM_threshold
+        max_score = fuzzy_threshold
+
+        # search the adrf dataset title in the LSH index and for potential hits
+        for rc_dataset_id in lsh_ensemble.query(m1, len(set1)):
+            # print(rc_dataset_id, rc_corpus[rc_dataset_id]["title"])
+            ratio = fuzz.token_sort_ratio(rc_corpus[rc_dataset_id]["title"], values["title"])
+            # select the best match
+            if ratio >= max_score:
+                best_match = rc_dataset_id
+                max_score = ratio
+                matches = True
+
+        if matches:
+            if DEBUG:
+                print("Searching for", values["title"])
+                print("matches with", best_match, rc_corpus[best_match]["title"])
+                print("with a Fuzzy matcher ratio", max_score)
+            results.append(KNOWN)
+        else:
+            results.append(UNKNOWN)
+            # print("no matches")
+    return results
+
+## TODO: the logic in this method is the same as calibrate_SequenceMatcher. Try to generalize it and deduplicate code.
+def calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector):
+
+    max_precision_score = 0
+    calibration_metrics = dict()
+    selected_fuzzy_threshold = 0
+
+    for step in range(50, 80, 1):
+
+        fuzzy_threshold = step #/ 100 #fuzzy ratio is 1 to 100
+
+        results = test_fuzzy_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, fuzzy_threshold)
+
+        scores = get_confusion_matrix_scores(test_vector, results)
+
+        print('confusion matrix for ' + str(fuzzy_threshold))
+
+        pprint(scores["confusion_matrix"])
+
+        calibration_metrics[fuzzy_threshold] = scores
+
+        if scores["precision_score"] > max_precision_score:
+            selected_fuzzy_threshold = fuzzy_threshold
+            max_precision_score = scores["precision_score"]
+
+    #if DEBUG:
+    print("\nshowing all metrics...")
+    pprint(calibration_metrics)
+
+    print("Selected threshold:", selected_fuzzy_threshold)
+    pprint(calibration_metrics[selected_fuzzy_threshold])
+
+    return selected_fuzzy_threshold
+
+def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score):
+
+
+    # create a MinHash for each adrf dataset title
+    result_list = list()
+
+    for adrf_dataset in adrf_dataset_list:
+
+        matches = False
+
+        adrf_id = adrf_dataset["fields"]["dataset_id"]
+        title = adrf_dataset["fields"]["title"]
+        words = get_set_of_words(adrf_dataset["fields"]["title"])
+
+        mh = MinHash(num_perm=128)
+        for term in words:
+            mh.update(term.encode("utf8"))
+
+        max_score = fuzzy_min_score
+        for rc_dataset_id in lsh_ensemble.query(mh, len(words)):
+            # print(rc_dataset_id, rc_corpus[rc_dataset_id]["title"])
+            ratio = fuzz.token_sort_ratio(rc_corpus[rc_dataset_id]["title"], title)
+            # select the best match
+            if ratio >= max_score:
+                best_match = rc_dataset_id
+                max_score = ratio
+                matches = True
+
+        if matches:
+            # if DEBUG:
+            #     print("Searching for", values["title"])
+            #     print("matches with", best_match, rc_corpus[best_match]["title"])
+            #     print("with a SequenceMatcher ratio", max_score)
+            adrf_match = dict()
+            adrf_match["adrf_id"] = adrf_id
+            adrf_match["title"] = title
+            adrf_match["url"] = adrf_dataset["fields"]["source_url"]
+            adrf_match["description"] = adrf_dataset["fields"]["description"]
+
+            rc_match = dict()
+            rc_match["dataset_id"] = best_match
+            rc_match["title"] = rc_corpus[best_match]["title"]
+
+            if "url" in rc_corpus[best_match]:
+                rc_match["url"] = rc_corpus[best_match]["url"]
+
+            if "description" in rc_corpus[best_match]:
+                rc_match["description"] = rc_corpus[best_match]["description"]
+
+            result_list.append(adrf_match)
+            result_list.append(rc_match)
+
+    # write json file
+    out_path = "matched_datasets_fuzzy.json"
     with codecs.open(Path(out_path), "wb", encoding="utf8") as f:
         json.dump(result_list, f, indent=4, sort_keys=True, ensure_ascii=False)
 
@@ -259,9 +388,6 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
 
 
 def main(corpus_path, search_for_matches_path, classified_vector_path):
-
-    ## TODO: Create known true matches and known false matches lists
-        # TODO: for 4 true links see https://github.com/NYU-CI/RCCustomers/blob/5e71284c893f39e670a474ec9b7110ec04593e09/customers/USDA/bin/usda_datadump.json
 
     #Load all dataset adrf_ids and titles from ADRF dump
     with codecs.open(search_for_matches_path, "r", encoding="utf8") as f:
@@ -323,13 +449,22 @@ def main(corpus_path, search_for_matches_path, classified_vector_path):
 
     lsh_ensemble = create_lsh_ensemble(lsh_threshoild,rc_corpus)
 
-    print("***starting SequenceMatcher threshold calibration***")
-    sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+    if CALIBRATE_SEQUENCEMATCHER:
+        print("***starting SequenceMatcher threshold calibration***")
+        sm_min_score = calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+    else:
+        sm_min_score = SEQUENCEMATCHER_THRESHOLD
 
     print("selected threshold for SequenceMatcher:",sm_min_score)
 
     record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble , sm_min_score)
+    #
+    # print("***starting FuzzyWuzzy threshold calibration***")
+    fuzzy_min_score = calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+    #
+    print("selected threshold for SequenceMatcher:", fuzzy_min_score)
 
+    record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score)
 
 
 if __name__ == '__main__':
