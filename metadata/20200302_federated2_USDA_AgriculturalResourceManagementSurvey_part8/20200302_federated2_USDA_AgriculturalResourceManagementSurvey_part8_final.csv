@@ -1,4 +1,4 @@
-﻿api,doi,title,url,search_term,dataset_id,valid,pdf
+﻿api,doi,title,url,search_term,dataset,valid,pdf
 openaire,10.22004/ag.econ.34814,Dairy Resource Management: A Comparison of Conventional and Pasture-Based Systems,http://dx.doi.org/10.22004/ag.econ.34814,Agricultural Resource Management Survey,dataset-870,yes,
 dimensions,10.2139/ssrn.2503453,"Debt Use by U.S Farm Businesses, 1992-2011",https://app.dimensions.ai/discover/publication?search_type=kws&search_field=full_search&search_text=Debt%20Use%20by%20U.S%20Farm%20Businesses%2C%201992-2011,Agricultural Resource Management Survey,dataset-870,yes,
 openaire,10.22004/ag.econ.20608,DECOMPOSITION OF VARIABILITY IN ASSETS AND DEBT OF FARM HOUSEHOLDS IN THE U.S.,http://dx.doi.org/10.22004/ag.econ.20608,Agricultural Resource Management Survey,dataset-870,yes,
