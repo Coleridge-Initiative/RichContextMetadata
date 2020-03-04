@@ -2,6 +2,7 @@ import re
 import sys
 import codecs
 import json
+import time
 from difflib import SequenceMatcher
 from pprint import pprint
 from fuzzywuzzy import fuzz
@@ -13,7 +14,7 @@ import pandas as pd
 KNOWN = 1
 UNKNOWN = 0
 DEBUG = False
-CALIBRATE_LSH = True
+CALIBRATE_LSH = False
 LSH_THRESHOLD = 0.79 #Required when CALIBRATE_LSH == False
 CALIBRATE_SEQUENCEMATCHER = True
 SEQUENCEMATCHER_THRESHOLD = 0.55 #Required when CALIBRATE_SEQUENCEMATCHER == False
@@ -190,9 +191,9 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
             selected_sm_threshold = sequenceMatcher_threshold
             max_precision_score = scores["precision_score"]
 
-    #if DEBUG:
-    print("\nshowing all metrics...")
-    pprint(calibration_metrics)
+    if DEBUG:
+        print("\nshowing all metrics...")
+        pprint(calibration_metrics)
 
     print("Selected threshold:", selected_sm_threshold)
     pprint(calibration_metrics[selected_sm_threshold])
@@ -201,11 +202,11 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
 
 
 def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
-
+    #this is for measuring the time this method takes to do the record linkage
+    t0 = time.time()
 
     # create a MinHash for each adrf dataset title
     result_list = list()
-
     for adrf_dataset in adrf_dataset_list:
 
         matches = False
@@ -252,12 +253,16 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
+    timing = (time.time() - t0) * 1000.0
+
     # write json file
     out_path = "matched_datasets_SequenceMatcher.json"
     with codecs.open(Path(out_path), "wb", encoding="utf8") as f:
         json.dump(result_list, f, indent=4, sort_keys=True, ensure_ascii=False)
 
     print(len(result_list)/2,"matched datasets")
+
+    return timing
 
 ## TODO: the main logic in this method is the same as test_sm_threshold. Try to generalize it and deduplicate code.
 def test_fuzzy_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, fuzzy_threshold):
@@ -318,9 +323,9 @@ def calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_
             selected_fuzzy_threshold = fuzzy_threshold
             max_precision_score = scores["precision_score"]
 
-    #if DEBUG:
-    print("\nshowing all metrics...")
-    pprint(calibration_metrics)
+    if DEBUG:
+        print("\nshowing all metrics...")
+        pprint(calibration_metrics)
 
     print("Selected threshold:", selected_fuzzy_threshold)
     pprint(calibration_metrics[selected_fuzzy_threshold])
@@ -328,7 +333,8 @@ def calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_
     return selected_fuzzy_threshold
 
 def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score):
-
+    # this is for measuring the time this method takes to do the record linkage
+    t0 = time.time()
 
     # create a MinHash for each adrf dataset title
     result_list = list()
@@ -379,6 +385,8 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
+    timing = (time.time() - t0) * 1000.0
+
     # write json file
     out_path = "matched_datasets_fuzzy.json"
     with codecs.open(Path(out_path), "wb", encoding="utf8") as f:
@@ -386,6 +394,7 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
 
     print(len(result_list)/2,"matched datasets")
 
+    return timing
 
 def main(corpus_path, search_for_matches_path, classified_vector_path):
 
@@ -457,15 +466,17 @@ def main(corpus_path, search_for_matches_path, classified_vector_path):
 
     print("selected threshold for SequenceMatcher:",sm_min_score)
 
-    record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble , sm_min_score)
+    timing_sm = record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble , sm_min_score)
     #
     # print("***starting FuzzyWuzzy threshold calibration***")
     fuzzy_min_score = calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
     #
-    print("selected threshold for SequenceMatcher:", fuzzy_min_score)
+    print("selected threshold for FuzzyWuzzy:", fuzzy_min_score)
 
-    record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score)
+    timing_fw = record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score)
 
+    print('SequenceMatcher timing:',timing_sm)
+    print('FuzzyWuzzy timing:',timing_fw)
 
 if __name__ == '__main__':
 
