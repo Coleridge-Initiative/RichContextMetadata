@@ -1,10 +1,9 @@
 ﻿title,url,dataset,pdf,valid
-Potential Farm-Level Effects of Eliminating Direct Payments,https://www.ers.usda.gov/publications/pub-details/?pubid=43688,dataset-870,,
-"Nitrogen Management on U.S. Corn Acres, 2001-10",https://www.ers.usda.gov/publications/pub-details/?pubid=42867,dataset-870,,
-Multi-Enterprising Farm Households: The Importance of Their Alternative Business Ventures in the Rural Economy,https://www.ers.usda.gov/publications/pub-details/?pubid=43674,dataset-870,,
-"Agricultural Resources and Environmental Indicators, 2012",https://www.ers.usda.gov/publications/pub-details/?pubid=44691,dataset-870,,
-Farm Activities Associated With Rural Development Initiatives,https://www.ers.usda.gov/publications/pub-details/?pubid=44977,dataset-870,,
-The Future of Environmental Compliance Incentives in U.S. Agriculture,https://www.ers.usda.gov/publications/pub-details/?pubid=44669,dataset-870,,
-The Potential Impact of Tax Reform on Farm Businesses and Rural Households,https://www.ers.usda.gov/publications/pub-details/?pubid=43714,dataset-870,,
-Trends in U.S. Farmland Values and Ownership,https://www.ers.usda.gov/publications/pub-details/?pubid=44660,dataset-870,,
-Changing Farm Structure and the Distribution of Farm Payments and Federal Crop Insurance,https://www.ers.usda.gov/publications/pub-details/?pubid=44653,dataset-870,,
+Potential Farm-Level Effects of Eliminating Direct Payments,https://www.ers.usda.gov/publications/pub-details/?pubid=43688,"dataset-870, dataset-898",https://www.ers.usda.gov/webdocs/publications/43686/33607_eib103.pdf?v=0,1
+"Nitrogen Management on U.S. Corn Acres, 2001-10",https://www.ers.usda.gov/publications/pub-details/?pubid=42867,dataset-870,https://www.ers.usda.gov/webdocs/publications/42865/33561_eb20.pdf?v=0,1
+Multi-Enterprising Farm Households: The Importance of Their Alternative Business Ventures in the Rural Economy,https://www.ers.usda.gov/publications/pub-details/?pubid=43674,"dataset-870, dataset-923",https://www.ers.usda.gov/webdocs/publications/43673/33259_eib101.pdf?v=0,1
+"Agricultural Resources and Environmental Indicators, 2012",https://www.ers.usda.gov/publications/pub-details/?pubid=44691,"dataset-870, dataset-903, dataset-872, dataset-912, dataset-913, dataset-914, dataset-924",https://www.ers.usda.gov/webdocs/publications/44690/30351_eib98.pdf?v=0,1
+Farm Activities Associated With Rural Development Initiatives,https://www.ers.usda.gov/publications/pub-details/?pubid=44977,"dataset-870, dataset-881",https://www.ers.usda.gov/webdocs/publications/44975/20009_err134_1_.pdf?v=0,1
+The Future of Environmental Compliance Incentives in U.S. Agriculture,https://www.ers.usda.gov/publications/pub-details/?pubid=44669,"dataset-870, dataset-925, dataset-898, dataset-926, dataset-912",https://www.ers.usda.gov/webdocs/publications/44666/16471_eib94_2_.pdf?v=0,1
+The Potential Impact of Tax Reform on Farm Businesses and Rural Households,https://www.ers.usda.gov/publications/pub-details/?pubid=43714,"dataset-870, dataset-573, dataset-861",https://www.ers.usda.gov/webdocs/publications/43711/34919_eib-107.pdf?v=0,1
+Changing Farm Structure and the Distribution of Farm Payments and Federal Crop Insurance,https://www.ers.usda.gov/publications/pub-details/?pubid=44653,"dataset-870, dataset-881, dataset-926",https://www.ers.usda.gov/webdocs/publications/44650/13729_eib91_1_.pdf?v=0,1
