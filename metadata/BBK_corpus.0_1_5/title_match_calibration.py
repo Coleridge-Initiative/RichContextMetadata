@@ -207,6 +207,10 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
 
     # create a MinHash for each adrf dataset title
     result_list = list()
+
+    # dataframe to export results to a CSV
+    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description'])
+
     for adrf_dataset in adrf_dataset_list:
 
         matches = False
@@ -253,7 +257,21 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
+            resultDF = resultDF.append(
+                {
+                    'RC_id': rc_match["dataset_id"],
+                    'RC_title': rc_match["title"],
+                    'ADRF_id': adrf_match["adrf_id"],
+                    'ADRF_title': adrf_match["title"],
+                    'RC_description': rc_match.get("description"),
+                    'ADRF_description': rc_match.get("description")
+                }, ignore_index=True)
+
+
     timing = (time.time() - t0) * 1000.0
+
+    # write csv file
+    resultDF.to_csv("matched_datasets_SequenceMatcher.csv", index=False, encoding="utf-8-sig")
 
     # write json file
     out_path = "matched_datasets_SequenceMatcher.json"
@@ -339,6 +357,9 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
     # create a MinHash for each adrf dataset title
     result_list = list()
 
+    # dataframe to export results to a CSV
+    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description'])
+
     for adrf_dataset in adrf_dataset_list:
 
         matches = False
@@ -385,7 +406,21 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
+            resultDF = resultDF.append(
+                {
+                    'RC_id': rc_match["dataset_id"],
+                    'RC_title': rc_match["title"],
+                    'ADRF_id': adrf_match["adrf_id"],
+                    'ADRF_title': adrf_match["title"],
+                    'RC_description': rc_match.get("description"),
+                    'ADRF_description': rc_match.get("description")
+                }, ignore_index=True)
+
+
     timing = (time.time() - t0) * 1000.0
+
+    # write csv file
+    resultDF.to_csv("matched_datasets_fuzzy.csv", index=False, encoding="utf-8-sig")
 
     # write json file
     out_path = "matched_datasets_fuzzy.json"
