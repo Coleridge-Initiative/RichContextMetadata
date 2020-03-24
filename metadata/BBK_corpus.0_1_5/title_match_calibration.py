@@ -72,7 +72,6 @@ def load_classified_vector(vector_path,adrf_dataset_list):
     vectorDF = pd.read_csv(vector_path)
 
     for adrf_dataset in adrf_dataset_list:
-        link = False
 
         #search the adrf_dataset in the classified vector
         for index, row in vectorDF.iterrows():
@@ -85,7 +84,6 @@ def load_classified_vector(vector_path,adrf_dataset_list):
                     vector.append(UNKNOWN)
                     classified.append(adrf_dataset["fields"]["dataset_id"])
                     break
-
 
     return vector,classified
 
@@ -232,6 +230,11 @@ def export_linkages_to_csv(resultDF, filename):
 
     # rename fields containing provider name
     resultDF = resultDF.rename(columns={"title": "RC_Provider", "fields.name": "ADRF_Provider"})
+
+    # reorder columns
+    resultDF = resultDF[['RC_id', 'ADRF_id', 'RC_title', 'ADRF_title', 'RC_Provider', 'ADRF_Provider', \
+                         'RC_description', 'ADRF_description', 'RC_provider_id', 'ADRF_provider_id']]
+
 
     # write csv file
     resultDF.to_csv(filename, index=False, encoding="utf-8-sig")
