@@ -14,10 +14,19 @@ import pandas as pd
 KNOWN = 1
 UNKNOWN = 0
 DEBUG = False
+
 CALIBRATE_LSH = False
 LSH_THRESHOLD = 0.79 #Required when CALIBRATE_LSH == False
-CALIBRATE_SEQUENCEMATCHER = True
+
+CALIBRATE_SEQUENCEMATCHER = False
 SEQUENCEMATCHER_THRESHOLD = 0.55 #Required when CALIBRATE_SEQUENCEMATCHER == False
+
+CALIBRATE_FUZZYWUZZY = False
+FUZZYWUZZY_THRESHOLD = 0.54 #Required when CALIBRATE_SEQUENCEMATCHER == False
+
+ADRF_PROVIDERS_JSON_PATH = "adrf_data/dataset_provider_02-11-2020.json"
+RC_PROVIDERS_JSON_PATH = "rc_data/copy_providers.json"
+
 
 def get_set_of_words(text):
     return re.sub("[\W+]", " ", text).lower().split()
@@ -201,6 +210,33 @@ def calibrate_SequenceMatcher(lsh_ensemble, adrf_classified_minhash, rc_corpus, 
     return selected_sm_threshold
 
 
+def export_linkages_to_csv(resultDF, filename):
+
+    # load rich context providers information
+    rc_providers_DF = pd.read_json(RC_PROVIDERS_JSON_PATH)
+
+    # load ADRF providers information
+    with codecs.open(ADRF_PROVIDERS_JSON_PATH, "r", encoding="utf8") as f:
+        adrf_providers_DF = pd.json_normalize(json.load(f))
+
+    # fields used to merge dataframes needs to be of the same type
+    adrf_providers_DF["pk"] = adrf_providers_DF["pk"].apply(str)
+    resultDF["ADRF_provider_id"] = resultDF["ADRF_provider_id"].apply(str)
+
+    # add provider's names from RC and ADRF
+    resultDF = resultDF.merge(rc_providers_DF, how="inner", left_on="RC_provider_id", right_on="id")
+    resultDF = resultDF.merge(adrf_providers_DF, how="inner", left_on="ADRF_provider_id", right_on="pk")
+
+    # remove useless columns
+    resultDF.drop(["id", "ror", "model","pk"], axis=1,inplace=True)
+
+    # rename fields containing provider name
+    resultDF = resultDF.rename(columns={"title": "RC_Provider", "fields.name": "ADRF_Provider"})
+
+    # write csv file
+    resultDF.to_csv(filename, index=False, encoding="utf-8-sig")
+
+
 def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
     #this is for measuring the time this method takes to do the record linkage
     t0 = time.time()
@@ -209,7 +245,7 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
     result_list = list()
 
     # dataframe to export results to a CSV
-    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description'])
+    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description',"RC_provider_id","ADRF_provider_id"])
 
     for adrf_dataset in adrf_dataset_list:
 
@@ -243,6 +279,7 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
             adrf_match["title"] = title
             adrf_match["url"] = adrf_dataset["fields"]["source_url"]
             adrf_match["description"] = adrf_dataset["fields"]["description"]
+            adrf_match["adrf_provider_id"] = adrf_dataset["fields"]["data_provider"]
 
             rc_match = dict()
             rc_match["dataset_id"] = best_match
@@ -254,6 +291,8 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
             if "description" in rc_corpus[best_match]:
                 rc_match["description"] = rc_corpus[best_match]["description"]
 
+            rc_match["rc_provider_id"] = rc_corpus[best_match]["provider_id"]
+
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
@@ -264,14 +303,17 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
                     'ADRF_id': adrf_match["adrf_id"],
                     'ADRF_title': adrf_match["title"],
                     'RC_description': rc_match.get("description"),
-                    'ADRF_description': rc_match.get("description")
+                    'ADRF_description': rc_match.get("description"),
+                    'RC_provider_id': rc_match.get("rc_provider_id"),
+                    'ADRF_provider_id': adrf_match.get("adrf_provider_id")
                 }, ignore_index=True)
 
 
     timing = (time.time() - t0) * 1000.0
+    # I left the export to files out of the time measurement on purpose
 
     # write csv file
-    resultDF.to_csv("matched_datasets_SequenceMatcher.csv", index=False, encoding="utf-8-sig")
+    export_linkages_to_csv(resultDF,"matched_datasets_SequenceMatcher.csv")
 
     # write json file
     out_path = "matched_datasets_SequenceMatcher.json"
@@ -281,6 +323,7 @@ def record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble, sm_min_score):
     print(len(result_list)/2,"matched datasets")
 
     return timing
+
 
 ## TODO: the main logic in this method is the same as test_sm_threshold. Try to generalize it and deduplicate code.
 def test_fuzzy_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, fuzzy_threshold):
@@ -316,6 +359,7 @@ def test_fuzzy_threshold(adrf_classified_minhash, lsh_ensemble, rc_corpus, fuzzy
             # print("no matches")
     return results
 
+
 ## TODO: the logic in this method is the same as calibrate_SequenceMatcher. Try to generalize it and deduplicate code.
 def calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector):
 
@@ -350,6 +394,7 @@ def calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_
 
     return selected_fuzzy_threshold
 
+
 def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_score):
     # this is for measuring the time this method takes to do the record linkage
     t0 = time.time()
@@ -358,7 +403,7 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
     result_list = list()
 
     # dataframe to export results to a CSV
-    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description'])
+    resultDF = pd.DataFrame(columns=['RC_id','RC_title','ADRF_id','ADRF_title','RC_description','ADRF_description',"RC_provider_id","ADRF_provider_id"])
 
     for adrf_dataset in adrf_dataset_list:
 
@@ -383,15 +428,13 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
                 matches = True
 
         if matches:
-            # if DEBUG:
-            #     print("Searching for", values["title"])
-            #     print("matches with", best_match, rc_corpus[best_match]["title"])
-            #     print("with a SequenceMatcher ratio", max_score)
+
             adrf_match = dict()
             adrf_match["adrf_id"] = adrf_id
             adrf_match["title"] = title
             adrf_match["url"] = adrf_dataset["fields"]["source_url"]
             adrf_match["description"] = adrf_dataset["fields"]["description"]
+            adrf_match["adrf_provider_id"] = adrf_dataset["fields"]["data_provider"]
 
             rc_match = dict()
             rc_match["dataset_id"] = best_match
@@ -403,6 +446,8 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
             if "description" in rc_corpus[best_match]:
                 rc_match["description"] = rc_corpus[best_match]["description"]
 
+            rc_match["rc_provider_id"] = rc_corpus[best_match]["provider_id"]
+
             result_list.append(adrf_match)
             result_list.append(rc_match)
 
@@ -413,14 +458,16 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
                     'ADRF_id': adrf_match["adrf_id"],
                     'ADRF_title': adrf_match["title"],
                     'RC_description': rc_match.get("description"),
-                    'ADRF_description': rc_match.get("description")
+                    'ADRF_description': rc_match.get("description"),
+                    'RC_provider_id': rc_match.get("rc_provider_id"),
+                    'ADRF_provider_id': adrf_match.get("adrf_provider_id")
                 }, ignore_index=True)
 
 
     timing = (time.time() - t0) * 1000.0
+    # I left the export to files out of the time measurement on purpose
 
-    # write csv file
-    resultDF.to_csv("matched_datasets_fuzzy.csv", index=False, encoding="utf-8-sig")
+    export_linkages_to_csv(resultDF,"matched_datasets_fuzzy.csv")
 
     # write json file
     out_path = "matched_datasets_fuzzy.json"
@@ -430,6 +477,7 @@ def record_linking_fuzzy(adrf_dataset_list, rc_corpus, lsh_ensemble, fuzzy_min_s
     print(len(result_list)/2,"matched datasets")
 
     return timing
+
 
 def main(corpus_path, search_for_matches_path, classified_vector_path):
 
@@ -460,6 +508,7 @@ def main(corpus_path, search_for_matches_path, classified_vector_path):
             d["url"] = dataset["url"]
         if "description" in dataset:
             d["description"] = dataset["description"]
+        d["provider_id"] = dataset["provider"]
 
         mh = MinHash(num_perm=128)
         for term in d["words"]:
@@ -503,8 +552,11 @@ def main(corpus_path, search_for_matches_path, classified_vector_path):
 
     timing_sm = record_linking_sm(adrf_dataset_list, rc_corpus, lsh_ensemble , sm_min_score)
     #
-    # print("***starting FuzzyWuzzy threshold calibration***")
-    fuzzy_min_score = calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+    if CALIBRATE_FUZZYWUZZY:
+        print("***starting FuzzyWuzzy threshold calibration***")
+        fuzzy_min_score = calibrate_FuzzyWuzzy(lsh_ensemble, adrf_classified_minhash, rc_corpus, test_vector)
+    else:
+        fuzzy_min_score = FUZZYWUZZY_THRESHOLD
     #
     print("selected threshold for FuzzyWuzzy:", fuzzy_min_score)
 
@@ -512,6 +564,7 @@ def main(corpus_path, search_for_matches_path, classified_vector_path):
 
     print('SequenceMatcher timing:',timing_sm)
     print('FuzzyWuzzy timing:',timing_fw)
+
 
 if __name__ == '__main__':
 
